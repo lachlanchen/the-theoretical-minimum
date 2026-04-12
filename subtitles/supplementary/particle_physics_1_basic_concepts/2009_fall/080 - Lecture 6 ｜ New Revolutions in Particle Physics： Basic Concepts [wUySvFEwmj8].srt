@@ -1,0 +1,9100 @@
+1
+00:00:00,000 --> 00:00:07,000
+Stanford University
+
+2
+00:00:09,000 --> 00:00:12,500
+Let's move on to the Dirac equation,
+
+3
+00:00:12,500 --> 00:00:16,000
+or let's move back to the Dirac equation.
+
+4
+00:00:17,000 --> 00:00:21,500
+I gave you the last time the simplest
+
+5
+00:00:21,500 --> 00:00:26,000
+example of the Dirac equation and how it's,
+
+6
+00:00:26,000 --> 00:00:29,000
+the Dirac equation is always an equation for fermions.
+
+7
+00:00:29,000 --> 00:00:32,000
+Bosons do not satisfy the Dirac equation.
+
+8
+00:00:32,000 --> 00:00:35,000
+They satisfy something else that we'll come
+
+9
+00:00:35,000 --> 00:00:38,000
+to called the Klein-Gordon equation, or Maxwell's equations.
+
+10
+00:00:40,000 --> 00:00:44,500
+This simple equation now describes particles which move on
+
+11
+00:00:44,500 --> 00:00:49,000
+a line always to the right, never to the left.
+
+12
+00:00:50,000 --> 00:00:52,500
+And in fact, when pushed,
+
+13
+00:00:52,500 --> 00:00:55,000
+we'll discover, or we had discovered,
+
+14
+00:00:55,000 --> 00:00:56,000
+that it describes a line,
+
+15
+00:00:56,000 --> 00:00:59,000
+it describes both particles and antiparticles.
+
+16
+00:00:59,000 --> 00:01:00,500
+We can think of them as
+
+17
+00:01:00,500 --> 00:01:02,000
+electrons, but only moving to the right.
+
+18
+00:01:02,000 --> 00:01:04,000
+So let me go over it again briefly.
+
+19
+00:01:04,000 --> 00:01:06,000
+Before I do, let's just
+
+20
+00:01:06,000 --> 00:01:08,000
+write a function on the blackboard.
+
+21
+00:01:08,000 --> 00:01:12,000
+Good old e to the i kx minus omega t.
+
+22
+00:01:15,000 --> 00:01:18,000
+If k and omega are positive,
+
+23
+00:01:19,000 --> 00:01:21,000
+well, let's not say they're positive,
+
+24
+00:01:21,000 --> 00:01:23,000
+let them be anything for the moment.
+
+25
+00:01:26,000 --> 00:01:29,000
+If you remember, the velocity of a wave,
+
+26
+00:01:29,000 --> 00:01:32,000
+strictly speaking, the phase velocity of a wave,
+
+27
+00:01:32,000 --> 00:01:34,500
+the phase velocity of a
+
+28
+00:01:34,500 --> 00:01:37,000
+wave is just k over omega.
+
+29
+00:01:38,000 --> 00:01:40,500
+If omega is a linear function of
+
+30
+00:01:40,500 --> 00:01:43,000
+k, then it's the same as the group,
+
+31
+00:01:43,000 --> 00:01:47,000
+if the ratio of k to omega is universal for
+
+32
+00:01:47,000 --> 00:01:51,000
+all k, then phase and group velocities are the same.
+
+33
+00:01:51,000 --> 00:01:53,000
+But in any case, this is the group velocity.
+
+34
+00:01:53,000 --> 00:01:55,000
+Let's just call it the group.
+
+35
+00:01:56,000 --> 00:01:59,000
+And when you write this, you may
+
+36
+00:01:59,000 --> 00:02:02,000
+think I mean the absolute value of k.
+
+37
+00:02:02,000 --> 00:02:05,000
+k can be positive, k can be negative,
+
+38
+00:02:05,000 --> 00:02:08,000
+omega can be positive, or omega can be negative.
+
+39
+00:02:08,000 --> 00:02:10,500
+But I really mean it. k
+
+40
+00:02:10,500 --> 00:02:13,000
+over omega with its appropriate sign.
+
+41
+00:02:13,000 --> 00:02:17,500
+If k is positive, if k, sorry,
+
+42
+00:02:17,500 --> 00:02:22,000
+if k is negative and omega is positive,
+
+43
+00:02:22,000 --> 00:02:25,000
+this describes an object whose velocity is to the left.
+
+44
+00:02:25,000 --> 00:02:27,000
+Negative.
+
+45
+00:02:27,000 --> 00:02:29,500
+If both are positive, then it's
+
+46
+00:02:29,500 --> 00:02:32,000
+a velocity moving to the right.
+
+47
+00:02:32,000 --> 00:02:34,000
+Okay?
+
+48
+00:02:34,000 --> 00:02:37,000
+Again, if k and omega have the same
+
+49
+00:02:37,000 --> 00:02:40,000
+sign, it's a wave moving to the right.
+
+50
+00:02:40,000 --> 00:02:42,000
+If k and omega have the
+
+51
+00:02:42,000 --> 00:02:44,000
+opposite sign, then this ratio is negative.
+
+52
+00:02:44,000 --> 00:02:46,000
+It's fine, no problem with it, it
+
+53
+00:02:46,000 --> 00:02:48,000
+just means the wave moves to the left.
+
+54
+00:02:48,000 --> 00:02:51,000
+Did I write it wrong? I'm sorry,
+
+55
+00:02:51,000 --> 00:02:54,000
+it's, you're right, it's omega over k.
+
+56
+00:02:55,000 --> 00:03:00,000
+It wouldn't matter for the sign of it.
+
+57
+00:03:00,000 --> 00:03:02,000
+The sign is the same whether it's
+
+58
+00:03:02,000 --> 00:03:04,000
+k over omega or omega over k.
+
+59
+00:03:04,000 --> 00:03:05,000
+Yeah.
+
+60
+00:03:05,000 --> 00:03:07,000
+Okay.
+
+61
+00:03:07,000 --> 00:03:11,500
+Now let's write down a very, very simple equation
+
+62
+00:03:11,500 --> 00:03:16,000
+for the motion of a particle on a line.
+
+63
+00:03:16,000 --> 00:03:18,000
+The line is x.
+
+64
+00:03:18,000 --> 00:03:20,000
+Again, we have time.
+
+65
+00:03:20,000 --> 00:03:23,000
+And it is d psi by ds.
+
+66
+00:03:23,000 --> 00:03:24,000
+Okay?
+
+67
+00:03:24,000 --> 00:03:34,000
+By dx plus d psi by dt equals zero.
+
+68
+00:03:36,000 --> 00:03:38,000
+This describes waves.
+
+69
+00:03:38,000 --> 00:03:41,000
+And in fact, it describes waves of this form here.
+
+70
+00:03:41,000 --> 00:03:42,500
+Can you tell whether they're going
+
+71
+00:03:42,500 --> 00:03:44,000
+to the left or the right?
+
+72
+00:03:44,000 --> 00:03:46,000
+You think they're going to the right, huh?
+
+73
+00:03:46,000 --> 00:03:48,000
+Okay, I think you're right.
+
+74
+00:03:48,000 --> 00:03:49,000
+You are right.
+
+75
+00:03:49,000 --> 00:03:52,000
+Okay, so let's check.
+
+76
+00:03:52,000 --> 00:03:55,000
+The psi by dx will just
+
+77
+00:03:55,000 --> 00:03:58,000
+pull down a factor of k.
+
+78
+00:03:58,000 --> 00:04:02,000
+If this were the form of, if this were the form of psi, we
+
+79
+00:04:02,000 --> 00:04:06,000
+can use this equation to tell us what the relation between k and omega is.
+
+80
+00:04:06,000 --> 00:04:09,500
+The psi by dx, taking a derivative
+
+81
+00:04:09,500 --> 00:04:13,000
+with respect to x, pulls down an ik.
+
+82
+00:04:13,000 --> 00:04:16,500
+Taking a derivative with respect to
+
+83
+00:04:16,500 --> 00:04:20,000
+t pulls down a minus i omega.
+
+84
+00:04:20,000 --> 00:04:22,500
+All of that just multiplies
+
+85
+00:04:22,500 --> 00:04:25,000
+what are the original function here.
+
+86
+00:04:25,000 --> 00:04:29,000
+And if we set it equal to zero, it just says that
+
+87
+00:04:29,000 --> 00:04:33,000
+ik is equal to i omega or that k is equal to omega.
+
+88
+00:04:33,000 --> 00:04:35,500
+And that's obviously a wave that
+
+89
+00:04:35,500 --> 00:04:38,000
+moves to the right, as was said.
+
+90
+00:04:38,000 --> 00:04:40,000
+Okay?
+
+91
+00:04:40,000 --> 00:04:42,000
+It moves to the right.
+
+92
+00:04:42,000 --> 00:04:45,000
+But now, in general, there are
+
+93
+00:04:45,000 --> 00:04:48,000
+two possibilities for a given, well,
+
+94
+00:04:48,000 --> 00:04:53,000
+there are two possibilities.
+
+95
+00:04:53,000 --> 00:04:58,000
+We can plot this relationship here, omega
+
+96
+00:04:58,000 --> 00:05:03,000
+versus k, and it's just a straight line.
+
+97
+00:05:03,000 --> 00:05:06,000
+I've actually left out the speed of light.
+
+98
+00:05:06,000 --> 00:05:09,000
+Where would the speed of light go in this equation?
+
+99
+00:05:09,000 --> 00:05:15,000
+Does it go here or does it go here?
+
+100
+00:05:18,000 --> 00:05:21,000
+Yeah.
+
+101
+00:05:21,000 --> 00:05:23,000
+Right.
+
+102
+00:05:23,000 --> 00:05:25,000
+One over c here, right?
+
+103
+00:05:25,000 --> 00:05:26,000
+Yeah.
+
+104
+00:05:26,000 --> 00:05:28,000
+ct is like x, so it'll be one
+
+105
+00:05:28,000 --> 00:05:30,000
+over c here, so it'll be a c here.
+
+106
+00:05:30,000 --> 00:05:31,000
+Yeah.
+
+107
+00:05:31,000 --> 00:05:34,000
+But we'll set c equal to one for convenience.
+
+108
+00:05:34,000 --> 00:05:38,000
+Then omega is proportional to k, and you can see, and
+
+109
+00:05:38,000 --> 00:05:42,000
+of course omega, if h bar is also equal to zero,
+
+110
+00:05:42,000 --> 00:05:44,500
+we have one, uh-oh, if h bar is equal
+
+111
+00:05:44,500 --> 00:05:47,000
+to one, then omega is also the energy of energy.
+
+112
+00:05:47,000 --> 00:05:50,000
+The energy of an individual quantum.
+
+113
+00:05:50,000 --> 00:05:51,000
+All right?
+
+114
+00:05:51,000 --> 00:05:53,500
+So, over here on this branch,
+
+115
+00:05:53,500 --> 00:05:56,000
+positive k, we have positive energy.
+
+116
+00:05:56,000 --> 00:05:59,000
+Over here on this branch, we have negative energy.
+
+117
+00:05:59,000 --> 00:06:00,000
+Negative energy electrons.
+
+118
+00:06:00,000 --> 00:06:04,000
+Not a good thing, because any electron which
+
+119
+00:06:04,000 --> 00:06:08,000
+has positive energy can proceed down this line here,
+
+120
+00:06:08,000 --> 00:06:11,500
+boom, boom, boom, boom, boom, fall down the
+
+121
+00:06:11,500 --> 00:06:15,000
+stairs by continuously emitting photons of positive energy.
+
+122
+00:06:15,000 --> 00:06:16,000
+Uh...
+
+123
+00:06:17,000 --> 00:06:21,000
+And, uh, no electron would be stable.
+
+124
+00:06:21,000 --> 00:06:23,000
+In fact, the world would not be stable.
+
+125
+00:06:23,000 --> 00:06:25,000
+It would just want to fill up with
+
+126
+00:06:25,000 --> 00:06:27,000
+more and more and more negative energy electrons.
+
+127
+00:06:27,000 --> 00:06:30,000
+Uh...
+
+128
+00:06:30,000 --> 00:06:33,000
+But certainly no electron would be stable.
+
+129
+00:06:33,000 --> 00:06:35,000
+All right, so what do we do?
+
+130
+00:06:35,000 --> 00:06:37,000
+We fill up the Dirac c.
+
+131
+00:06:37,000 --> 00:06:39,500
+The Dirac c, use the fact that you
+
+132
+00:06:39,500 --> 00:06:42,000
+can't put two electrons into the same state.
+
+133
+00:06:42,000 --> 00:06:44,500
+We can stabilize everything against this boom, boom,
+
+134
+00:06:44,500 --> 00:06:47,000
+boom, boom, boom, falling down the stairs process.
+
+135
+00:06:47,000 --> 00:06:49,500
+By just saying all negative
+
+136
+00:06:49,500 --> 00:06:52,000
+energy electron states are filled.
+
+137
+00:06:52,000 --> 00:06:54,000
+They're filled to begin with.
+
+138
+00:06:54,000 --> 00:06:56,000
+That is the lowest energy state.
+
+139
+00:06:56,000 --> 00:06:59,500
+If you want to lower the energy of the system maximally,
+
+140
+00:06:59,500 --> 00:07:03,000
+put as many negative energy objects into it as you can find.
+
+141
+00:07:03,000 --> 00:07:04,000
+All right?
+
+142
+00:07:04,000 --> 00:07:06,000
+Just keep piling in negative energy
+
+143
+00:07:06,000 --> 00:07:08,000
+objects, and that will lower the energy.
+
+144
+00:07:08,000 --> 00:07:12,000
+So filling this up here completely gives you the Dirac
+
+145
+00:07:12,000 --> 00:07:16,000
+c, and it gives you the, um, the ground state.
+
+146
+00:07:16,000 --> 00:07:19,000
+The ground state, which we'll call the vacuum.
+
+147
+00:07:19,000 --> 00:07:24,000
+Did you say that there's an infinite number of...
+
+148
+00:07:24,000 --> 00:07:27,000
+Yeah, it goes, just goes through, yeah.
+
+149
+00:07:27,000 --> 00:07:29,000
+If it, yeah, if the momentum were
+
+150
+00:07:29,000 --> 00:07:31,000
+discrete, it would be like a staircase.
+
+151
+00:07:31,000 --> 00:07:33,500
+If it's continuous, you just slide
+
+152
+00:07:33,500 --> 00:07:36,000
+down, continuously emitting photons as you go.
+
+153
+00:07:36,000 --> 00:07:40,500
+But once you fill up the Dirac c, the negative energy
+
+154
+00:07:40,500 --> 00:07:45,000
+c, then a positive energy electron has no place to go.
+
+155
+00:07:45,000 --> 00:07:47,000
+Well, it could fall down a
+
+156
+00:07:47,000 --> 00:07:49,000
+ways, but it can't go indefinitely.
+
+157
+00:07:49,000 --> 00:07:53,000
+It could fall down perhaps and emit some photons.
+
+158
+00:07:53,000 --> 00:07:59,000
+Uh, but it can't go very far.
+
+159
+00:07:59,000 --> 00:08:02,000
+Okay.
+
+160
+00:08:02,000 --> 00:08:07,500
+So, that's incidentally, you can see why it's important that if an
+
+161
+00:08:07,500 --> 00:08:13,000
+equation is like this, that it had better be an equation for fermions.
+
+162
+00:08:13,000 --> 00:08:15,000
+Okay.
+
+163
+00:08:15,000 --> 00:08:21,000
+Now, we remove a particle from the negative energy c.
+
+164
+00:08:21,000 --> 00:08:24,500
+Let's draw, let's put over here a,
+
+165
+00:08:24,500 --> 00:08:28,000
+uh, here are all the energy levels.
+
+166
+00:08:28,000 --> 00:08:31,000
+Omega equals zero, zero
+
+167
+00:08:31,000 --> 00:08:34,000
+energy, positive omega, negative omega.
+
+168
+00:08:34,000 --> 00:08:36,000
+We fill all of these up.
+
+169
+00:08:36,000 --> 00:08:39,000
+So these are all filled up.
+
+170
+00:08:39,000 --> 00:08:41,000
+Can't put any more in there.
+
+171
+00:08:41,000 --> 00:08:42,000
+These are empty.
+
+172
+00:08:42,000 --> 00:08:44,000
+That's the vacuum.
+
+173
+00:08:44,000 --> 00:08:46,000
+Now we want to put an electron in.
+
+174
+00:08:46,000 --> 00:08:48,000
+Well, we can put a positive energy electron in.
+
+175
+00:08:48,000 --> 00:08:49,000
+That's fine.
+
+176
+00:08:49,000 --> 00:08:51,000
+We can't put a negative energy electron in.
+
+177
+00:08:51,000 --> 00:08:55,000
+But what we can do is move an electron from the
+
+178
+00:08:55,000 --> 00:08:59,000
+negative energy c and move it into the positive energy c here.
+
+179
+00:08:59,000 --> 00:09:02,000
+It doesn't have to be symmetrically located.
+
+180
+00:09:02,000 --> 00:09:04,500
+We can take a electron from here
+
+181
+00:09:04,500 --> 00:09:07,000
+and put it anywhere as over here.
+
+182
+00:09:07,000 --> 00:09:09,000
+And that creates two objects.
+
+183
+00:09:09,000 --> 00:09:12,000
+One of them is a hole in the Dirac c.
+
+184
+00:09:14,000 --> 00:09:19,500
+A hole in the Dirac c has, now, the Dirac c
+
+185
+00:09:19,500 --> 00:09:25,000
+is always associated with these particles of negative k and negative omega.
+
+186
+00:09:25,000 --> 00:09:30,000
+What happens if I remove a particle of negative k?
+
+187
+00:09:30,000 --> 00:09:34,000
+In other words, negative momentum to create a hole.
+
+188
+00:09:34,000 --> 00:09:36,000
+What does a hole have?
+
+189
+00:09:36,000 --> 00:09:39,000
+Well, forget charge, yeah, positive charge
+
+190
+00:09:39,000 --> 00:09:42,000
+also, but in terms of momentum.
+
+191
+00:09:42,000 --> 00:09:47,000
+We've removed a particle of negative momentum.
+
+192
+00:09:47,000 --> 00:09:50,000
+So we have created an object with
+
+193
+00:09:50,000 --> 00:09:53,000
+an extra excess relative to the vacuum.
+
+194
+00:09:53,000 --> 00:09:56,000
+Relative to the vacuum, it
+
+195
+00:09:56,000 --> 00:09:59,000
+has one positive unit of momentum.
+
+196
+00:09:59,000 --> 00:10:04,000
+So relative to the vacuum, when we remove a particle from here
+
+197
+00:10:04,000 --> 00:10:09,000
+and put it here, we create something of positive energy and positive momentum.
+
+198
+00:10:09,000 --> 00:10:10,000
+In fact, when we take a particle of negative
+
+199
+00:10:10,000 --> 00:10:11,000
+momentum, we have a positive energy and a positive momentum.
+
+200
+00:10:11,000 --> 00:10:13,500
+In fact, when we take a particle
+
+201
+00:10:13,500 --> 00:10:16,000
+from here and here, we create two things.
+
+202
+00:10:16,000 --> 00:10:20,500
+We create a hole with positive momentum and positive
+
+203
+00:10:20,500 --> 00:10:25,000
+energy and an electron with positive momentum and positive energy.
+
+204
+00:10:25,000 --> 00:10:27,500
+So both the holes and
+
+205
+00:10:27,500 --> 00:10:30,000
+the particles move to the right.
+
+206
+00:10:30,000 --> 00:10:32,000
+They both move to the right.
+
+207
+00:10:32,000 --> 00:10:35,000
+They both have positive momentum and positive energy.
+
+208
+00:10:35,000 --> 00:10:40,000
+And that's, okay, that's the fact of this equation here.
+
+209
+00:10:40,000 --> 00:10:46,000
+Positive charges for the antiparticles, negative charges, this is just a definition
+
+210
+00:10:46,000 --> 00:10:52,000
+of course, negative charges for the particles, positive charges for the antiparticles.
+
+211
+00:10:52,000 --> 00:10:55,000
+Everybody has positive momentum
+
+212
+00:10:55,000 --> 00:10:58,000
+and everybody has positive energy.
+
+213
+00:10:58,000 --> 00:11:01,000
+All the real objects in the theory.
+
+214
+00:11:01,000 --> 00:11:04,000
+Okay, that's the simple Dirac equation.
+
+215
+00:11:04,000 --> 00:11:09,000
+Psi is built up out of creation and annihilation operators.
+
+216
+00:11:10,000 --> 00:11:35,000
+And the
+
+217
+00:11:35,000 --> 00:11:36,000
+Psi is built up out of creation and annihilation operators.
+
+218
+00:11:36,000 --> 00:11:38,000
+And the
+
+219
+00:11:38,000 --> 00:11:40,000
+Psi is built up out of creation and annihilation operators.
+
+220
+00:11:40,000 --> 00:12:02,000
+And the
+
+221
+00:12:02,000 --> 00:12:03,000
+Psi is built up out of creation and annihilation operators.
+
+222
+00:12:03,000 --> 00:12:04,000
+And the
+
+223
+00:12:04,000 --> 00:12:07,640
+and a curve. Okay, now this is a
+
+224
+00:12:07,640 --> 00:12:11,280
+little bit weird, huh? I mean particles which can
+
+225
+00:12:11,280 --> 00:12:13,360
+only go to the right. Perfectly
+
+226
+00:12:13,360 --> 00:12:15,440
+consistent, but it has another weirdness
+
+227
+00:12:15,440 --> 00:12:18,310
+also. The vacuum has an odd property
+
+228
+00:12:18,310 --> 00:12:21,180
+that it's full of momenta which are negative
+
+229
+00:12:21,180 --> 00:12:22,790
+momenta. The whole thing must have
+
+230
+00:12:22,790 --> 00:12:24,400
+an enormous momentum shooting off to the
+
+231
+00:12:24,400 --> 00:12:26,760
+left. Alright, who cares if that's what's
+
+232
+00:12:26,760 --> 00:12:29,120
+called the vacuum? Let's just define it
+
+233
+00:12:29,120 --> 00:12:31,550
+to have zero momentum, but still it is
+
+234
+00:12:31,550 --> 00:12:33,980
+a little bit odd. Particles can only go
+
+235
+00:12:33,980 --> 00:12:37,360
+to the right. Antiparticles can only go to
+
+236
+00:12:37,360 --> 00:12:40,740
+the right. Nobody goes to the left, but
+
+237
+00:12:40,740 --> 00:12:42,770
+nevertheless the vacuum is filled with
+
+238
+00:12:42,770 --> 00:12:44,800
+these negative momentum things. It's not
+
+239
+00:12:44,800 --> 00:12:48,200
+very symmetric between left and right for
+
+240
+00:12:48,200 --> 00:12:51,600
+one thing. You may ask, can you, what
+
+241
+00:12:51,600 --> 00:12:53,380
+can you do to straighten it out? In
+
+242
+00:12:53,380 --> 00:12:55,160
+other words, to make it more symmetric with
+
+243
+00:12:55,160 --> 00:12:57,920
+left and right? And the answer is
+
+244
+00:12:57,920 --> 00:13:00,680
+you have to introduce two kinds of electrons.
+
+245
+00:13:00,680 --> 00:13:03,580
+Right movers and left movers.
+
+246
+00:13:03,980 --> 00:13:07,440
+Alright, these are right movers, so let's indicate
+
+247
+00:13:07,440 --> 00:13:10,900
+it by putting R here, right. R for
+
+248
+00:13:10,900 --> 00:13:14,590
+right. And let's invent another
+
+249
+00:13:14,590 --> 00:13:18,280
+field describing the left moving particles.
+
+250
+00:13:18,280 --> 00:13:21,670
+Left moving particles will describe an
+
+251
+00:13:21,670 --> 00:13:25,060
+equation, or be described by an equation,
+
+252
+00:13:25,060 --> 00:13:29,210
+which is similar, except that we'll want omega to
+
+253
+00:13:29,210 --> 00:13:33,360
+be minus k. All we have to do is
+
+254
+00:13:33,360 --> 00:13:33,960
+change the
+
+255
+00:13:33,980 --> 00:13:37,850
+sign of one of these two terms. Doesn't matter
+
+256
+00:13:37,850 --> 00:13:41,720
+which one. So if we rewrite an equation, let's,
+
+257
+00:13:41,720 --> 00:13:46,610
+let me rewrite this here as d psi right, d
+
+258
+00:13:46,610 --> 00:13:51,500
+psi right by dt is equal to minus d psi right
+
+259
+00:13:51,500 --> 00:13:56,360
+by dx. That's a right moving wave, a
+
+260
+00:13:56,360 --> 00:14:01,220
+left moving wave of another field, a completely
+
+261
+00:14:01,220 --> 00:14:03,360
+separate field, different creation operators.
+
+262
+00:14:03,360 --> 00:14:06,300
+Different annihilation operators describes a different
+
+263
+00:14:06,300 --> 00:14:09,240
+kind of particle, namely a left
+
+264
+00:14:09,240 --> 00:14:14,530
+mover, is equal to plus d psi right by
+
+265
+00:14:14,530 --> 00:14:19,820
+dx. If we work out the relation between omega
+
+266
+00:14:19,820 --> 00:14:23,220
+and k in this case, it's omega over k
+
+267
+00:14:23,220 --> 00:14:26,620
+equals minus one. In this case, it was omega over
+
+268
+00:14:26,620 --> 00:14:28,720
+k equals plus one.
+
+269
+00:14:28,720 --> 00:14:29,720
+Left.
+
+270
+00:14:29,720 --> 00:14:30,720
+Left.
+
+271
+00:14:30,720 --> 00:14:31,720
+Right.
+
+272
+00:14:31,720 --> 00:14:32,720
+Right.
+
+273
+00:14:32,720 --> 00:14:33,200
+Right.
+
+274
+00:14:33,200 --> 00:14:33,320
+Right.
+
+275
+00:14:33,320 --> 00:14:33,360
+Right.
+
+276
+00:14:33,360 --> 00:14:37,640
+It's going to
+
+277
+00:14:37,640 --> 00:14:39,240
+be right over here.
+
+278
+00:14:39,240 --> 00:14:42,310
+Of course, the right mod emotions
+
+279
+00:14:42,310 --> 00:14:45,380
+are just stay in the right side.
+
+280
+00:14:45,380 --> 00:14:47,020
+But from here, this imagine is the same.
+
+281
+00:14:47,020 --> 00:14:48,190
+Let's just say we are
+
+282
+00:14:48,190 --> 00:14:49,360
+going to cares a positive energy.
+
+283
+00:14:49,360 --> 00:14:52,500
+Then d, and from here, then they will be
+
+284
+00:14:52,500 --> 00:14:55,640
+positive, in other words, it's going to be right over
+
+285
+00:14:55,640 --> 00:14:56,640
+here.
+
+286
+00:14:56,640 --> 00:14:57,980
+This means okay.
+
+287
+00:14:57,980 --> 00:14:59,620
+My creative function will come back.
+
+288
+00:14:59,620 --> 00:15:00,280
+OK.
+
+289
+00:15:00,280 --> 00:15:01,360
+Instead, we have my left masse.
+
+290
+00:15:01,360 --> 00:15:01,960
+This is ...
+
+291
+00:15:01,960 --> 00:15:02,740
+And here, there is ...
+
+292
+00:15:02,740 --> 00:15:03,300
+bailout.
+
+293
+00:15:03,300 --> 00:15:06,850
+There's another branch with positive energy,
+
+294
+00:15:06,850 --> 00:15:10,400
+but also another branch with negative energy.
+
+295
+00:15:10,400 --> 00:15:14,520
+What do we do to stabilize the left-moving
+
+296
+00:15:14,520 --> 00:15:18,640
+electrons so that they don't fall down the
+
+297
+00:15:18,640 --> 00:15:19,920
+stairs?
+
+298
+00:15:19,920 --> 00:15:23,939
+We fill the sea of left-moving electrons,
+
+299
+00:15:23,939 --> 00:15:27,959
+the negative energy sea of left-moving electrons.
+
+300
+00:15:27,960 --> 00:15:31,950
+Now we have as many left-moving as right-moving
+
+301
+00:15:31,950 --> 00:15:35,940
+particles in the sea, and so it's balanced.
+
+302
+00:15:35,940 --> 00:15:41,580
+It's symmetric with respect to left and right.
+
+303
+00:15:41,580 --> 00:15:44,410
+Vacuum or empty space, what we think of
+
+304
+00:15:44,410 --> 00:15:47,240
+as empty space, no longer has a huge momentum
+
+305
+00:15:47,240 --> 00:15:48,740
+in one direction.
+
+306
+00:15:48,740 --> 00:15:50,620
+It's been canceled out.
+
+307
+00:15:50,620 --> 00:15:53,690
+And we can now have left-moving
+
+308
+00:15:53,690 --> 00:15:56,760
+or right-moving particles, or left-moving and right-moving
+
+309
+00:15:56,760 --> 00:15:57,760
+holes.
+
+310
+00:15:57,760 --> 00:15:57,940
+Subtitles by the Amara.org community
+
+311
+00:15:57,960 --> 00:15:58,960
+Yeah.
+
+312
+00:15:58,960 --> 00:15:59,960
+Is this renormalization?
+
+313
+00:15:59,960 --> 00:16:00,960
+No, no.
+
+314
+00:16:00,960 --> 00:16:01,960
+Why do we have holes?
+
+315
+00:16:01,960 --> 00:16:02,960
+Isn't there some absolute value?
+
+316
+00:16:02,960 --> 00:16:03,960
+Do you mean absolute value or something?
+
+317
+00:16:03,960 --> 00:16:04,960
+Absolute value of what?
+
+318
+00:16:04,960 --> 00:16:05,960
+Why have a hole mechanism?
+
+319
+00:16:05,960 --> 00:16:06,460
+Is there some other mathematical
+
+320
+00:16:06,460 --> 00:16:06,960
+operation to achieve zero of that?
+
+321
+00:16:06,960 --> 00:16:07,960
+I don't know.
+
+322
+00:16:07,960 --> 00:16:08,960
+I don't know.
+
+323
+00:16:08,960 --> 00:16:09,960
+I don't know.
+
+324
+00:16:09,960 --> 00:16:10,960
+I don't know.
+
+325
+00:16:10,960 --> 00:16:11,960
+I don't know.
+
+326
+00:16:11,960 --> 00:16:12,960
+I don't know.
+
+327
+00:16:12,960 --> 00:16:13,960
+I don't know.
+
+328
+00:16:13,960 --> 00:16:14,960
+I don't know.
+
+329
+00:16:14,960 --> 00:16:15,960
+I don't know.
+
+330
+00:16:15,960 --> 00:16:16,960
+I don't know.
+
+331
+00:16:16,960 --> 00:16:17,960
+I don't know.
+
+332
+00:16:17,960 --> 00:16:18,960
+I don't know.
+
+333
+00:16:18,960 --> 00:16:19,960
+I don't know.
+
+334
+00:16:19,960 --> 00:16:20,960
+I don't know.
+
+335
+00:16:20,960 --> 00:16:21,960
+I don't know.
+
+336
+00:16:21,960 --> 00:16:22,960
+I don't know.
+
+337
+00:16:22,960 --> 00:16:23,960
+I don't know.
+
+338
+00:16:23,960 --> 00:16:24,960
+I don't know.
+
+339
+00:16:24,960 --> 00:16:25,960
+I don't know.
+
+340
+00:16:25,960 --> 00:16:26,960
+I don't know.
+
+341
+00:16:26,960 --> 00:16:27,960
+I don't know.
+
+342
+00:16:27,960 --> 00:16:28,960
+I don't know.
+
+343
+00:16:28,960 --> 00:16:33,690
+Yeah, is there some other way
+
+344
+00:16:33,690 --> 00:16:38,420
+of achieving the exclusion without having, postulating
+
+345
+00:16:38,420 --> 00:16:39,560
+filled states?
+
+346
+00:16:39,560 --> 00:16:40,700
+Sure.
+
+347
+00:16:40,700 --> 00:16:41,700
+Yes.
+
+348
+00:16:41,700 --> 00:16:45,860
+You just call filled states, you call
+
+349
+00:16:45,860 --> 00:16:50,020
+filled negative energy states, empty states of holes.
+
+350
+00:16:50,020 --> 00:16:53,270
+You say, a filled negative energy
+
+351
+00:16:53,270 --> 00:16:56,520
+state is an empty antiparticle state.
+
+352
+00:16:56,520 --> 00:16:57,520
+You just relabel.
+
+353
+00:16:57,520 --> 00:16:57,960
+Renormalize.
+
+354
+00:16:57,960 --> 00:16:59,960
+and now we say this is
+
+355
+00:16:59,960 --> 00:17:01,960
+a theory of particles and antiparticles,
+
+356
+00:17:01,960 --> 00:17:04,960
+both of which can move both left and right.
+
+357
+00:17:04,960 --> 00:17:07,960
+And we never talk about negative energies again.
+
+358
+00:17:07,960 --> 00:17:13,960
+But I find it...
+
+359
+00:17:13,960 --> 00:17:15,460
+Well, when I first learned this,
+
+360
+00:17:15,460 --> 00:17:16,960
+I no longer think this way.
+
+361
+00:17:16,960 --> 00:17:17,960
+I don't think this way anymore.
+
+362
+00:17:17,960 --> 00:17:19,960
+But when I first learned it, I
+
+363
+00:17:19,960 --> 00:17:21,960
+found it rather comforting to realize that,
+
+364
+00:17:21,960 --> 00:17:24,960
+yes, this whole thing did make sense,
+
+365
+00:17:24,960 --> 00:17:26,960
+and you could prove to yourself
+
+366
+00:17:26,960 --> 00:17:28,960
+that it makes sense just by saying,
+
+367
+00:17:28,960 --> 00:17:30,460
+well, this is kind of like a
+
+368
+00:17:30,460 --> 00:17:31,960
+metal where you fill up all the states,
+
+369
+00:17:31,960 --> 00:17:33,960
+and then you make holes and particles.
+
+370
+00:17:33,960 --> 00:17:35,960
+And if a metal is consistent,
+
+371
+00:17:35,960 --> 00:17:37,960
+well, this is as consistent as that.
+
+372
+00:17:37,960 --> 00:17:42,960
+So what's the mass of these particles?
+
+373
+00:17:49,960 --> 00:17:52,960
+They're massless. Why are they massless?
+
+374
+00:17:52,960 --> 00:17:54,960
+Because they move with the speed of light.
+
+375
+00:17:54,960 --> 00:17:56,960
+Okay?
+
+376
+00:17:56,960 --> 00:17:58,460
+We'll come back in a moment
+
+377
+00:17:58,460 --> 00:17:59,960
+and try to make them massive.
+
+378
+00:17:59,960 --> 00:18:02,960
+We'll try to make them massive in a moment.
+
+379
+00:18:02,960 --> 00:18:04,460
+But just as a matter of
+
+380
+00:18:04,460 --> 00:18:05,960
+notation, let me teach you a notation,
+
+381
+00:18:05,960 --> 00:18:08,960
+which is important in this subject.
+
+382
+00:18:08,960 --> 00:18:10,960
+Let's take psi right and
+
+383
+00:18:10,960 --> 00:18:12,960
+psi left and put them together
+
+384
+00:18:12,960 --> 00:18:15,960
+and make a column vector out of them.
+
+385
+00:18:15,960 --> 00:18:18,960
+Now, this is purely notation. There's no physics in it.
+
+386
+00:18:18,960 --> 00:18:21,460
+But it's a notational trick, which
+
+387
+00:18:21,460 --> 00:18:23,960
+we'll use over and over again.
+
+388
+00:18:23,960 --> 00:18:26,460
+Let's make a column vector out of
+
+389
+00:18:26,460 --> 00:18:28,960
+them, or a column out of them.
+
+390
+00:18:28,960 --> 00:18:33,960
+And then rewrite this equation in the following way.
+
+391
+00:18:33,960 --> 00:18:37,960
+I, well, okay.
+
+392
+00:18:41,960 --> 00:18:44,960
+Dot means time derivative.
+
+393
+00:18:44,960 --> 00:18:49,960
+Well, first of all, let's call this psi.
+
+394
+00:18:49,960 --> 00:18:51,960
+It's now just psi, but it's a column vector.
+
+395
+00:18:51,960 --> 00:18:53,960
+It's neither left nor right, but contains a column vector.
+
+396
+00:18:53,960 --> 00:18:55,960
+It contains both of them.
+
+397
+00:18:55,960 --> 00:18:57,960
+Now, let's take these two
+
+398
+00:18:57,960 --> 00:18:59,960
+equations and combine them together
+
+399
+00:18:59,960 --> 00:19:05,960
+into a single equation for psi.
+
+400
+00:19:05,960 --> 00:19:07,960
+For the column vector psi.
+
+401
+00:19:07,960 --> 00:19:09,960
+I'll write down what it is, and then we'll
+
+402
+00:19:09,960 --> 00:19:11,960
+just look at it and see what it says.
+
+403
+00:19:11,960 --> 00:19:16,960
+What it says is that d by dt of psi
+
+404
+00:19:16,960 --> 00:19:21,960
+is equal to something that I'm going to call alpha
+
+405
+00:19:21,960 --> 00:19:25,960
+times d psi by dx.
+
+406
+00:19:29,960 --> 00:19:32,960
+Let's put a minus sign in there.
+
+407
+00:19:32,960 --> 00:19:35,960
+By definition. It's a matter of definition.
+
+408
+00:19:35,960 --> 00:19:37,960
+What is alpha?
+
+409
+00:19:51,960 --> 00:19:58,960
+Good work.
+
+410
+00:19:58,960 --> 00:20:03,960
+Okay.
+
+411
+00:20:03,960 --> 00:20:07,960
+d psi by dt is alpha d psi by dx.
+
+412
+00:20:07,960 --> 00:20:10,960
+What is alpha? Alpha is a matrix.
+
+413
+00:20:10,960 --> 00:20:15,460
+Alpha is a matrix whose value is
+
+414
+00:20:15,460 --> 00:20:19,960
+one for right and minus one for left.
+
+415
+00:20:19,960 --> 00:20:20,960
+Okay.
+
+416
+00:20:20,960 --> 00:20:22,960
+So what matrix is it?
+
+417
+00:20:22,960 --> 00:20:25,960
+Alpha is the matrix one minus one.
+
+418
+00:20:25,960 --> 00:20:28,960
+Zero, zero.
+
+419
+00:20:28,960 --> 00:20:32,960
+In other words, to write it
+
+420
+00:20:32,960 --> 00:20:36,960
+in column vector notation and matrix notation,
+
+421
+00:20:36,960 --> 00:20:42,960
+it just says this is equal to alpha, which is
+
+422
+00:20:42,960 --> 00:20:48,960
+one minus one, zero, zero, d psi right by dx,
+
+423
+00:20:48,960 --> 00:20:56,960
+d psi left by dx.
+
+424
+00:20:56,960 --> 00:20:57,960
+Oops, there's a minus sign.
+
+425
+00:20:57,960 --> 00:21:03,960
+There should be a minus sign in here like that.
+
+426
+00:21:03,960 --> 00:21:04,960
+All right.
+
+427
+00:21:04,960 --> 00:21:06,960
+So this is just a fancy trick
+
+428
+00:21:06,960 --> 00:21:08,960
+for writing two separate linear equations like that
+
+429
+00:21:08,960 --> 00:21:12,960
+and putting them together into a matrix notation.
+
+430
+00:21:12,960 --> 00:21:14,960
+And it's very convenient.
+
+431
+00:21:14,960 --> 00:21:16,960
+But it hasn't done any new physics.
+
+432
+00:21:16,960 --> 00:21:17,960
+Now.
+
+433
+00:21:17,960 --> 00:21:20,460
+So far, the two particles are both the
+
+434
+00:21:20,460 --> 00:21:22,960
+left movers and the right movers are massless.
+
+435
+00:21:22,960 --> 00:21:25,960
+They move along the z-axis or
+
+436
+00:21:25,960 --> 00:21:28,960
+the x-axis with the speed of light.
+
+437
+00:21:28,960 --> 00:21:30,960
+Can we make them massive?
+
+438
+00:21:30,960 --> 00:21:33,960
+Can we add to these particles or to
+
+439
+00:21:33,960 --> 00:21:36,960
+these equations something which makes the particles have mass?
+
+440
+00:21:36,960 --> 00:21:38,960
+So that's an important thing.
+
+441
+00:21:38,960 --> 00:21:39,960
+After all, electrons do have mass.
+
+442
+00:21:39,960 --> 00:21:41,960
+They do move with the speed of light.
+
+443
+00:21:41,960 --> 00:21:44,960
+So for that, we have to remember
+
+444
+00:21:44,960 --> 00:21:47,960
+what the connection between energy and momentum is.
+
+445
+00:21:47,960 --> 00:21:49,960
+For a massive particle.
+
+446
+00:21:49,960 --> 00:21:51,460
+For a massless particle, energy
+
+447
+00:21:51,460 --> 00:21:52,960
+is just proportional to momentum.
+
+448
+00:21:52,960 --> 00:21:55,960
+Omega equals plus or minus k.
+
+449
+00:21:55,960 --> 00:21:58,960
+How about for a massive particle?
+
+450
+00:21:58,960 --> 00:22:00,960
+So let me write over here.
+
+451
+00:22:00,960 --> 00:22:02,960
+Yeah.
+
+452
+00:22:02,960 --> 00:22:06,460
+What's the relationship for a particle of finite
+
+453
+00:22:06,460 --> 00:22:09,960
+positive, you know, finite mass, omega versus k?
+
+454
+00:22:09,960 --> 00:22:15,960
+Omega squared equals, anybody remember?
+
+455
+00:22:15,960 --> 00:22:16,960
+Two over two.
+
+456
+00:22:16,960 --> 00:22:18,960
+k squared over two over two.
+
+457
+00:22:18,960 --> 00:22:19,960
+No, no, no, no, no.
+
+458
+00:22:19,960 --> 00:22:20,960
+That's done relativistic.
+
+459
+00:22:20,960 --> 00:22:22,960
+We want relativistic now.
+
+460
+00:22:22,960 --> 00:22:27,460
+Now we're really doing, it's obvious we must be doing relativistic
+
+461
+00:22:27,460 --> 00:22:31,960
+physics because we're doing something which is approaching the speed of light.
+
+462
+00:22:31,960 --> 00:22:34,960
+Nonrelativistic is a special case of
+
+463
+00:22:34,960 --> 00:22:37,960
+relativistic when things move very slowly.
+
+464
+00:22:37,960 --> 00:22:39,960
+But what's the formula for
+
+465
+00:22:39,960 --> 00:22:41,960
+a relativistic particle of mass m?
+
+466
+00:22:41,960 --> 00:22:43,960
+k squared plus m squared.
+
+467
+00:22:43,960 --> 00:22:45,960
+Square root of k squared plus m squared.
+
+468
+00:22:45,960 --> 00:22:53,960
+Right.
+
+469
+00:22:53,960 --> 00:22:58,960
+Omega equals square root of k squared plus m squared.
+
+470
+00:22:58,960 --> 00:23:04,960
+We need an equation if we want to describe massive electrons where
+
+471
+00:23:04,960 --> 00:23:10,960
+the relation between frequency and wave number is going to be this.
+
+472
+00:23:10,960 --> 00:23:12,960
+When m is equal to zero,
+
+473
+00:23:12,960 --> 00:23:14,960
+it just says omega is k.
+
+474
+00:23:14,960 --> 00:23:16,960
+Omega is minus k.
+
+475
+00:23:16,960 --> 00:23:18,960
+Omega is k or omega is
+
+476
+00:23:18,960 --> 00:23:20,960
+minus k if we have no mass.
+
+477
+00:23:20,960 --> 00:23:22,960
+That's the case we've done.
+
+478
+00:23:22,960 --> 00:23:24,960
+Now we want to do the case with a mass.
+
+479
+00:23:24,960 --> 00:23:27,960
+How do we do that?
+
+480
+00:23:27,960 --> 00:23:29,960
+Not obvious.
+
+481
+00:23:29,960 --> 00:23:32,960
+It's not obvious, but let's
+
+482
+00:23:32,960 --> 00:23:35,960
+play with it a little bit.
+
+483
+00:23:44,960 --> 00:23:48,460
+Let's rewrite this equation first in a
+
+484
+00:23:48,460 --> 00:23:51,960
+neat form which will be convenient for us.
+
+485
+00:23:51,960 --> 00:23:55,960
+When you take a wave and you hit it with d by
+
+486
+00:23:55,960 --> 00:23:59,960
+dt, what it does is it just gives you a minus i omega.
+
+487
+00:23:59,960 --> 00:24:04,460
+And then we can put psi over here if we like, but let's just remember
+
+488
+00:24:04,460 --> 00:24:08,960
+this just means d by dt on psi gives you a factor of minus i omega.
+
+489
+00:24:08,960 --> 00:24:12,960
+That, according to this equation, is minus alpha.
+
+490
+00:24:12,960 --> 00:24:14,960
+Now what does this give?
+
+491
+00:24:14,960 --> 00:24:19,960
+d by dx gives minus ik.
+
+492
+00:24:19,960 --> 00:24:25,460
+Well canceling out the i's and the minus signs, it
+
+493
+00:24:25,460 --> 00:24:30,960
+says this odd equation that omega is equal to alpha k.
+
+494
+00:24:30,960 --> 00:24:33,960
+Now this is just shorthand for this relationship here.
+
+495
+00:24:33,960 --> 00:24:36,960
+No, there is not.
+
+496
+00:24:36,960 --> 00:24:38,960
+And the reason is because d by dt
+
+497
+00:24:38,960 --> 00:24:40,960
+gives you minus i or plus i omega.
+
+498
+00:24:40,960 --> 00:24:41,960
+d by dx gives you minus i.
+
+499
+00:24:41,960 --> 00:24:43,960
+d by dx gives you minus ik.
+
+500
+00:24:43,960 --> 00:24:47,960
+So that cancels a minus sign.
+
+501
+00:24:47,960 --> 00:24:51,960
+This is just a shorthand trick for rewriting this.
+
+502
+00:24:51,960 --> 00:24:56,960
+It says when you apply these objects to a plane wave,
+
+503
+00:24:56,960 --> 00:25:01,960
+you'll get the relationship that omega is either k or minus k.
+
+504
+00:25:01,960 --> 00:25:02,960
+That's what this alpha is.
+
+505
+00:25:02,960 --> 00:25:04,960
+It's just an instruction.
+
+506
+00:25:04,960 --> 00:25:06,960
+For the upper components here, it's 1.
+
+507
+00:25:06,960 --> 00:25:09,960
+For the lower components, it's minus 1.
+
+508
+00:25:09,960 --> 00:25:16,960
+So that's a brief shorthand for these two equations that omega is equal
+
+509
+00:25:16,960 --> 00:25:23,960
+to k for right movers, omega is equal to minus k for left movers.
+
+510
+00:25:23,960 --> 00:25:24,960
+I have a question.
+
+511
+00:25:24,960 --> 00:25:25,960
+Yeah.
+
+512
+00:25:25,960 --> 00:25:26,960
+Do we assume c equals 1?
+
+513
+00:25:26,960 --> 00:25:27,960
+Yeah.
+
+514
+00:25:27,960 --> 00:25:31,460
+Do we have to make any corrections for a mass of
+
+515
+00:25:31,460 --> 00:25:34,960
+a particle as far as psi not moving at its speed?
+
+516
+00:25:34,960 --> 00:25:36,960
+The particle with mass...
+
+517
+00:25:36,960 --> 00:25:37,960
+This is all we need.
+
+518
+00:25:37,960 --> 00:25:38,960
+Yeah.
+
+519
+00:25:38,960 --> 00:25:42,960
+If we ask how fast a particle goes with this relationship
+
+520
+00:25:42,960 --> 00:25:46,960
+here, what we want to do is compute the omega dk.
+
+521
+00:25:46,960 --> 00:25:49,960
+That's the group velocity.
+
+522
+00:25:49,960 --> 00:25:52,460
+And that's something like k over square
+
+523
+00:25:52,460 --> 00:25:54,960
+root of k squared plus m squared.
+
+524
+00:25:54,960 --> 00:25:59,960
+And that tells us the velocity of a particle or a wave is
+
+525
+00:25:59,960 --> 00:26:04,960
+proportional to its momentum divided by square root of k squared plus m squared.
+
+526
+00:26:04,960 --> 00:26:06,960
+So that's built into here how fast the waves move.
+
+527
+00:26:08,960 --> 00:26:09,960
+Okay.
+
+528
+00:26:09,960 --> 00:26:10,960
+Let's try...
+
+529
+00:26:10,960 --> 00:26:15,460
+Let's just be a little clever
+
+530
+00:26:15,460 --> 00:26:19,960
+and try to correct this equation.
+
+531
+00:26:19,960 --> 00:26:26,960
+Omega is equal to alpha k.
+
+532
+00:26:26,960 --> 00:26:27,960
+And let's put...
+
+533
+00:26:27,960 --> 00:26:28,960
+Over here?
+
+534
+00:26:28,960 --> 00:26:29,960
+Yeah.
+
+535
+00:26:29,960 --> 00:26:31,960
+Then omega is really a vector.
+
+536
+00:26:31,960 --> 00:26:33,960
+It's omega left over here.
+
+537
+00:26:33,960 --> 00:26:34,960
+No.
+
+538
+00:26:34,960 --> 00:26:35,960
+Omega...
+
+539
+00:26:35,960 --> 00:26:36,960
+Omega is really a two by two.
+
+540
+00:26:36,960 --> 00:26:37,960
+Okay.
+
+541
+00:26:37,960 --> 00:26:39,460
+Omega is really a two
+
+542
+00:26:39,460 --> 00:26:40,960
+by two matrix, really strictly speaking.
+
+543
+00:26:40,960 --> 00:26:44,960
+It's really a two by two matrix and so...
+
+544
+00:26:44,960 --> 00:26:47,460
+And k is a two
+
+545
+00:26:47,460 --> 00:26:49,960
+by two matrix proportional to the...
+
+546
+00:26:49,960 --> 00:26:56,960
+But...
+
+547
+00:26:56,960 --> 00:26:58,460
+But as I said, what
+
+548
+00:26:58,460 --> 00:26:59,960
+it really stands for is this.
+
+549
+00:26:59,960 --> 00:27:02,960
+It's a trick for rewriting this in an efficient form.
+
+550
+00:27:02,960 --> 00:27:04,460
+I don't want to have to rewrite
+
+551
+00:27:04,460 --> 00:27:05,960
+these derivatives every time I work with them.
+
+552
+00:27:05,960 --> 00:27:06,960
+Just think of omega as i d by...
+
+553
+00:27:06,960 --> 00:27:07,960
+Omega as i d by dt.
+
+554
+00:27:07,960 --> 00:27:08,960
+And k is minus i d by dx.
+
+555
+00:27:08,960 --> 00:27:09,460
+And imagine the whole thing
+
+556
+00:27:09,460 --> 00:27:09,960
+is operating on a wave function.
+
+557
+00:27:09,960 --> 00:27:10,960
+Okay.
+
+558
+00:27:10,960 --> 00:27:11,960
+So this is shorthand.
+
+559
+00:27:11,960 --> 00:27:12,960
+Okay.
+
+560
+00:27:12,960 --> 00:27:13,960
+Let's add something to this now.
+
+561
+00:27:13,960 --> 00:27:14,960
+Something with a mass in it.
+
+562
+00:27:14,960 --> 00:27:15,960
+I'll write it down.
+
+563
+00:27:15,960 --> 00:27:16,960
+Mass times something.
+
+564
+00:27:16,960 --> 00:27:17,960
+Times what?
+
+565
+00:27:17,960 --> 00:27:18,960
+I don't know.
+
+566
+00:27:18,960 --> 00:27:19,960
+Maybe...
+
+567
+00:27:19,960 --> 00:27:20,960
+Beta.
+
+568
+00:27:20,960 --> 00:27:21,960
+Beta.
+
+569
+00:27:21,960 --> 00:27:22,960
+Okay.
+
+570
+00:27:22,960 --> 00:27:23,960
+Let's call it beta.
+
+571
+00:27:23,960 --> 00:27:24,960
+Okay.
+
+572
+00:27:24,960 --> 00:27:25,960
+So...
+
+573
+00:27:25,960 --> 00:27:26,960
+So...
+
+574
+00:27:26,960 --> 00:27:27,960
+So...
+
+575
+00:27:27,960 --> 00:27:28,960
+So...
+
+576
+00:27:28,960 --> 00:27:29,960
+So...
+
+577
+00:27:29,960 --> 00:27:30,960
+So...
+
+578
+00:27:30,960 --> 00:27:31,960
+So...
+
+579
+00:27:31,960 --> 00:27:32,960
+So...
+
+580
+00:27:32,960 --> 00:27:33,960
+So...
+
+581
+00:27:33,960 --> 00:27:34,960
+So...
+
+582
+00:27:34,960 --> 00:27:35,960
+So...
+
+583
+00:27:35,960 --> 00:27:36,960
+So...
+
+584
+00:27:36,960 --> 00:27:37,960
+So...
+
+585
+00:27:37,960 --> 00:27:38,960
+I don't even know what beta is at this point.
+
+586
+00:27:38,960 --> 00:27:41,800
+We don't even know what beta is at this point.
+
+587
+00:27:41,800 --> 00:27:43,940
+Presumably it's also a matrix.
+
+588
+00:27:43,940 --> 00:27:46,960
+Omega equals alpha k plus beta m plus m beta.
+
+589
+00:27:46,960 --> 00:27:51,960
+And let's require of whatever alpha and beta
+
+590
+00:27:51,960 --> 00:27:56,960
+are, let's require that omega, or omega squared,
+
+591
+00:27:56,960 --> 00:27:57,960
+is equal to k squared plus m squared.
+
+592
+00:27:57,960 --> 00:28:00,460
+Let's place that as a requirement
+
+593
+00:28:00,460 --> 00:28:02,960
+on the matrices alpha and beta.
+
+594
+00:28:02,960 --> 00:28:03,460
+Oh, I just gave away
+
+595
+00:28:03,460 --> 00:28:03,960
+what beta is, it's a matrix.
+
+596
+00:28:03,960 --> 00:28:04,960
+And there's a reason for that.
+
+597
+00:28:04,960 --> 00:28:05,960
+You don't have to?
+
+598
+00:28:05,960 --> 00:28:11,400
+Okay, so let's square this. Omega squared is equal.
+
+599
+00:28:12,360 --> 00:28:16,510
+Alright, so let's alpha k plus beta
+
+600
+00:28:16,510 --> 00:28:20,660
+m times alpha k plus beta m.
+
+601
+00:28:22,280 --> 00:28:26,800
+What do we get? We get alpha squared k squared.
+
+602
+00:28:27,160 --> 00:28:28,920
+That's good, we want a k squared there.
+
+603
+00:28:29,780 --> 00:28:32,380
+We want plus beta squared m squared.
+
+604
+00:28:32,380 --> 00:28:35,220
+That's good, we want an m squared
+
+605
+00:28:35,220 --> 00:28:38,060
+there, but now we get some garbage.
+
+606
+00:28:38,880 --> 00:28:42,160
+We get alpha times beta k times m.
+
+607
+00:28:47,220 --> 00:28:50,080
+Alpha beta k times m, and
+
+608
+00:28:50,080 --> 00:28:52,940
+then beta alpha k times m.
+
+609
+00:28:53,500 --> 00:28:55,040
+k and m are just numbers, of course.
+
+610
+00:28:55,120 --> 00:28:58,520
+They're just the momentum and the mass of a particle.
+
+611
+00:28:58,820 --> 00:29:00,270
+So what do we get? We
+
+612
+00:29:00,270 --> 00:29:01,720
+get alpha beta plus beta alpha.
+
+613
+00:29:02,380 --> 00:29:04,380
+times k m.
+
+614
+00:29:06,320 --> 00:29:08,320
+This is good, we want that.
+
+615
+00:29:08,320 --> 00:29:11,420
+And it tells us immediately whatever alpha is, whatever
+
+616
+00:29:11,420 --> 00:29:14,520
+alpha is, whatever kind of mathematical object it is,
+
+617
+00:29:14,520 --> 00:29:17,140
+alpha squared needs to be one.
+
+618
+00:29:18,280 --> 00:29:20,760
+We also want m squared there.
+
+619
+00:29:20,760 --> 00:29:23,010
+So beta squared, whatever beta squared
+
+620
+00:29:23,010 --> 00:29:25,260
+is, it needs to be one.
+
+621
+00:29:25,960 --> 00:29:27,960
+But we don't want this term.
+
+622
+00:29:27,960 --> 00:29:29,960
+This term has no place in this formula.
+
+623
+00:29:29,960 --> 00:29:31,960
+And so what do we want? We want whatever.
+
+624
+00:29:32,380 --> 00:29:35,880
+So alpha and beta are that they have the algebraic
+
+625
+00:29:35,880 --> 00:29:39,380
+property that alpha beta plus beta alpha is equal to zero.
+
+626
+00:29:41,060 --> 00:29:42,910
+This would be impossible with
+
+627
+00:29:42,910 --> 00:29:44,760
+alpha and betas just being numbers.
+
+628
+00:29:44,760 --> 00:29:46,200
+You can certainly satisfy this.
+
+629
+00:29:46,200 --> 00:29:48,200
+Alpha squared is equal to one, that's no problem.
+
+630
+00:29:49,120 --> 00:29:52,120
+Beta squared equal one, that you can also solve.
+
+631
+00:29:52,120 --> 00:29:54,620
+But how are you going
+
+632
+00:29:54,620 --> 00:29:57,120
+to solve this together with this?
+
+633
+00:29:58,400 --> 00:30:00,360
+If they were just numbers, it would
+
+634
+00:30:00,360 --> 00:30:02,320
+require either alpha or beta to be zero.
+
+635
+00:30:02,320 --> 00:30:03,320
+But this says that neither alpha
+
+636
+00:30:03,320 --> 00:30:04,320
+nor beta are equal to zero.
+
+637
+00:30:04,320 --> 00:30:06,320
+On the other hand, if they're matrices, it's quite possible.
+
+638
+00:30:06,320 --> 00:30:08,320
+So let's begin with alpha squared equals one.
+
+639
+00:30:08,320 --> 00:30:10,320
+We've already specified what alpha is.
+
+640
+00:30:10,320 --> 00:30:12,320
+The square of this matrix is indeed one.
+
+641
+00:30:12,320 --> 00:30:14,320
+The square of this matrix is just one one.
+
+642
+00:30:14,320 --> 00:30:15,320
+Whatever beta is, it also had better
+
+643
+00:30:15,320 --> 00:30:16,320
+be a matrix whose square is one.
+
+644
+00:30:16,320 --> 00:30:18,320
+But it's not.
+
+645
+00:30:18,320 --> 00:30:20,320
+It's just one one.
+
+646
+00:30:20,320 --> 00:30:22,320
+So we're going to solve this.
+
+647
+00:30:22,320 --> 00:30:24,320
+So we're going to solve this.
+
+648
+00:30:24,320 --> 00:30:26,320
+So we're going to solve this.
+
+649
+00:30:26,320 --> 00:30:28,320
+So we're going to solve this.
+
+650
+00:30:28,320 --> 00:30:30,320
+So we're going to solve this.
+
+651
+00:30:30,320 --> 00:30:32,320
+So we're going to solve this.
+
+652
+00:30:32,320 --> 00:30:34,320
+It can't be the same as alpha.
+
+653
+00:30:34,320 --> 00:30:36,320
+If it was the same as alpha,
+
+654
+00:30:36,320 --> 00:30:38,320
+then alpha beta plus beta alpha
+
+655
+00:30:38,320 --> 00:30:40,320
+would just be twice alpha squared,
+
+656
+00:30:40,320 --> 00:30:42,320
+and that would just be two.
+
+657
+00:30:42,320 --> 00:30:44,320
+So it can't be beta, can't be alpha.
+
+658
+00:30:44,320 --> 00:30:45,320
+It also has to have a
+
+659
+00:30:45,320 --> 00:30:46,320
+square which is equal to one.
+
+660
+00:30:46,320 --> 00:30:50,320
+But there are more matrices around.
+
+661
+00:30:50,320 --> 00:30:52,320
+Here's an example.
+
+662
+00:30:52,320 --> 00:30:54,320
+Here's an example.
+
+663
+00:30:54,320 --> 00:30:56,320
+Beta is equal, not beta squared, but beta.
+
+664
+00:30:56,320 --> 00:30:58,320
+Beta is equal to zero minus one.
+
+665
+00:30:58,320 --> 00:31:00,320
+Beta is equal to zero minus one.
+
+666
+00:31:00,320 --> 00:31:02,320
+Beta is equal to zero minus one.
+
+667
+00:31:02,320 --> 00:31:04,320
+Beta is equal to zero minus one.
+
+668
+00:31:04,320 --> 00:31:06,320
+Beta is equal to zero minus one.
+
+669
+00:31:06,320 --> 00:31:08,320
+Beta is equal to zero minus one.
+
+670
+00:31:08,320 --> 00:31:10,320
+Let's check that.
+
+671
+00:31:10,320 --> 00:31:12,320
+Let's square it.
+
+672
+00:31:12,320 --> 00:31:14,320
+If we square it,
+
+673
+00:31:14,320 --> 00:31:16,320
+beta squared is equal to this,
+
+674
+00:31:16,320 --> 00:31:18,320
+zero one one zero.
+
+675
+00:31:18,320 --> 00:31:20,320
+zero one one zero.
+
+676
+00:31:20,320 --> 00:31:22,320
+In the upper left hand corner,
+
+677
+00:31:22,320 --> 00:31:24,320
+we have zero times zero plus one times one.
+
+678
+00:31:24,320 --> 00:31:26,320
+That's good.
+
+679
+00:31:26,320 --> 00:31:28,320
+And in the lower,
+
+680
+00:31:28,320 --> 00:31:30,320
+it's trivial. You can work that out yourself.
+
+681
+00:31:30,320 --> 00:31:32,320
+The value of this matrix is indeed one.
+
+682
+00:31:32,320 --> 00:31:34,320
+That's good.
+
+683
+00:31:34,320 --> 00:31:36,320
+But, not more important, but equally important,
+
+684
+00:31:36,320 --> 00:31:38,320
+is that alpha beta times beta alpha
+
+685
+00:31:38,320 --> 00:31:40,320
+is equal to zero.
+
+686
+00:31:40,320 --> 00:31:42,320
+In other words, that alpha beta is minus beta alpha.
+
+687
+00:31:42,320 --> 00:31:44,320
+Let's check it.
+
+688
+00:31:44,320 --> 00:31:46,320
+Let's just do these things once
+
+689
+00:31:46,320 --> 00:31:48,320
+on a blackboard.
+
+690
+00:31:48,320 --> 00:31:50,320
+And then after that,
+
+691
+00:31:50,320 --> 00:31:52,320
+you'll believe me.
+
+692
+00:31:52,320 --> 00:31:54,320
+Okay, alpha beta is
+
+693
+00:31:54,320 --> 00:31:56,320
+one zero zero
+
+694
+00:31:56,320 --> 00:31:58,320
+minus one. That's alpha.
+
+695
+00:31:58,320 --> 00:32:00,320
+Beta is zero one one zero.
+
+696
+00:32:00,320 --> 00:32:02,320
+This is alpha times beta.
+
+697
+00:32:02,320 --> 00:32:04,320
+Alpha beta.
+
+698
+00:32:04,320 --> 00:32:06,320
+When I multiply these matrices,
+
+699
+00:32:06,320 --> 00:32:08,320
+row times column,
+
+700
+00:32:08,320 --> 00:32:10,320
+I get zero.
+
+701
+00:32:10,320 --> 00:32:12,320
+This one times this one is one.
+
+702
+00:32:12,320 --> 00:32:14,320
+This one down here times this is minus one.
+
+703
+00:32:14,320 --> 00:32:16,320
+This times this is zero.
+
+704
+00:32:16,320 --> 00:32:18,320
+So that's alpha times beta.
+
+705
+00:32:18,320 --> 00:32:20,320
+How about beta times alpha?
+
+706
+00:32:20,320 --> 00:32:22,320
+Let's do it in the opposite order.
+
+707
+00:32:22,320 --> 00:32:24,320
+Zero one one zero.
+
+708
+00:32:24,320 --> 00:32:26,320
+That's beta.
+
+709
+00:32:26,320 --> 00:32:28,320
+Alpha is one zero.
+
+710
+00:32:28,320 --> 00:32:30,320
+That's beta.
+
+711
+00:32:30,320 --> 00:32:32,320
+One zero zero minus one.
+
+712
+00:32:32,320 --> 00:32:34,320
+The corner element,
+
+713
+00:32:34,320 --> 00:32:36,320
+the left corner element,
+
+714
+00:32:36,320 --> 00:32:38,320
+the left diagonal element
+
+715
+00:32:38,320 --> 00:32:40,320
+is zero times one
+
+716
+00:32:40,320 --> 00:32:42,320
+plus one times zero.
+
+717
+00:32:42,320 --> 00:32:44,320
+Good. That's zero.
+
+718
+00:32:44,320 --> 00:32:46,320
+But let's look at the upper right hand corner.
+
+719
+00:32:46,320 --> 00:32:48,320
+That's zero times zero
+
+720
+00:32:48,320 --> 00:32:50,320
+one times minus one.
+
+721
+00:32:50,320 --> 00:32:52,320
+So whatever it is,
+
+722
+00:32:52,320 --> 00:32:54,320
+we get a minus one here,
+
+723
+00:32:54,320 --> 00:32:56,320
+a zero,
+
+724
+00:32:56,320 --> 00:32:58,320
+a zero,
+
+725
+00:32:58,320 --> 00:33:00,320
+and a one.
+
+726
+00:33:00,320 --> 00:33:02,320
+Yeah, or one down here.
+
+727
+00:33:02,320 --> 00:33:04,320
+So alpha beta
+
+728
+00:33:04,320 --> 00:33:06,320
+is the negative of beta alpha.
+
+729
+00:33:06,320 --> 00:33:08,320
+This is the negative of this.
+
+730
+00:33:08,320 --> 00:33:10,320
+Alright, so indeed it's true.
+
+731
+00:33:10,320 --> 00:33:12,320
+This matrix here is
+
+732
+00:33:12,320 --> 00:33:14,320
+square is one
+
+733
+00:33:14,320 --> 00:33:16,320
+and it anti-commutes
+
+734
+00:33:16,320 --> 00:33:18,320
+with alpha.
+
+735
+00:33:18,320 --> 00:33:20,320
+Alpha beta plus beta alpha
+
+736
+00:33:20,320 --> 00:33:22,320
+is equal to zero.
+
+737
+00:33:22,320 --> 00:33:24,320
+That's another way of saying that as matrices
+
+738
+00:33:24,320 --> 00:33:26,320
+these things anti-commute.
+
+739
+00:33:26,320 --> 00:33:28,320
+There are other possible choices.
+
+740
+00:33:28,320 --> 00:33:30,320
+I'll come to another one in a little while.
+
+741
+00:33:30,320 --> 00:33:36,320
+Okay, so we've actually found a solution of this.
+
+742
+00:33:36,320 --> 00:33:38,320
+If we choose for alpha and beta
+
+743
+00:33:38,320 --> 00:33:40,320
+the two matrices that are written here
+
+744
+00:33:40,320 --> 00:33:44,320
+and then rewrite
+
+745
+00:33:44,320 --> 00:33:46,320
+the Dirac equation.
+
+746
+00:33:46,320 --> 00:33:48,320
+Let's write it out specifically
+
+747
+00:33:48,320 --> 00:33:50,320
+in terms of its components.
+
+748
+00:33:50,320 --> 00:33:52,320
+Write it out as real equations.
+
+749
+00:33:52,320 --> 00:33:54,320
+By real I don't mean real as opposed to
+
+750
+00:33:54,320 --> 00:33:56,320
+imaginary.
+
+751
+00:33:56,320 --> 00:33:58,320
+I mean
+
+752
+00:33:58,320 --> 00:34:00,320
+just explicitly, very very
+
+753
+00:34:00,320 --> 00:34:02,320
+explicitly writing down
+
+754
+00:34:02,320 --> 00:34:04,320
+the equations to see what they mean.
+
+755
+00:34:10,319 --> 00:34:12,319
+Once we know alpha and beta
+
+756
+00:34:16,319 --> 00:34:18,319
+we can now plug them in.
+
+757
+00:34:18,319 --> 00:34:20,319
+Okay, so let's
+
+758
+00:34:20,319 --> 00:34:22,319
+here we are, what does it say
+
+759
+00:34:22,319 --> 00:34:24,319
+in column notation
+
+760
+00:34:24,319 --> 00:34:26,319
+it says that psi right
+
+761
+00:34:26,319 --> 00:34:28,319
+psi left
+
+762
+00:34:30,320 --> 00:34:38,320
+pi by i
+
+763
+00:34:38,320 --> 00:34:40,400
+over k
+
+764
+00:34:40,400 --> 00:34:42,400
+is equal to
+
+765
+00:34:42,400 --> 00:34:44,400
+at this time
+
+766
+00:34:44,400 --> 00:34:45,600
+if Iara
+
+767
+00:34:45,600 --> 00:34:46,239
+goes away
+
+768
+00:34:46,239 --> 00:34:48,320
+ten times
+
+769
+00:34:48,320 --> 00:34:50,320
+out of practise
+
+770
+00:34:50,320 --> 00:34:52,320
+is equal to
+
+771
+00:34:52,320 --> 00:34:54,320
+pi always
+
+772
+00:34:54,320 --> 00:34:56,320
+and a
+
+773
+00:34:58,320 --> 00:34:59,360
+would be
+
+774
+00:34:59,360 --> 00:35:00,240
+P
+
+775
+00:35:00,240 --> 00:35:06,069
+times the x derivative of psi, do I have
+
+776
+00:35:06,069 --> 00:35:11,899
+this right? And the x derivative of psi left
+
+777
+00:35:13,319 --> 00:35:16,349
+No, I'm missing the minus sign here,
+
+778
+00:35:16,349 --> 00:35:19,379
+right? Where did that minus sign come from?
+
+779
+00:35:19,380 --> 00:35:26,590
+It's alpha. Remember what alpha is? It's the matrix 1 minus 1, 0,
+
+780
+00:35:26,590 --> 00:35:33,800
+0. So this minus 1 here gives you a negative sign down here
+
+781
+00:35:33,800 --> 00:35:39,830
+But now let's write the other term plus beta
+
+782
+00:35:39,830 --> 00:35:45,860
+times psi itself. Beta times psi right, psi left
+
+783
+00:35:45,860 --> 00:35:48,980
+What is beta? Beta is the matrix
+
+784
+00:35:49,380 --> 00:35:52,540
+0, 1, 1, 0. What does this matrix do
+
+785
+00:35:52,540 --> 00:35:55,700
+when it acts on psi right and psi left?
+
+786
+00:35:55,700 --> 00:35:59,020
+It flips them. So let's just
+
+787
+00:35:59,020 --> 00:36:02,340
+do it. Psi left, psi right
+
+788
+00:36:02,340 --> 00:36:07,940
+And now we see what the various equations are
+
+789
+00:36:07,940 --> 00:36:12,140
+I, psi right dot, is equal
+
+790
+00:36:12,140 --> 00:36:16,340
+to minus I dx, psi right
+
+791
+00:36:16,340 --> 00:36:19,340
+plus, there's a mass here, m
+
+792
+00:36:19,340 --> 00:36:21,240
+plus, m
+
+793
+00:36:21,240 --> 00:36:22,980
+psi left
+
+794
+00:36:23,700 --> 00:36:27,420
+It throws psi left into the equation for psi right
+
+795
+00:36:27,420 --> 00:36:28,940
+and likewise
+
+796
+00:36:28,940 --> 00:36:30,940
+I, psi left dot
+
+797
+00:36:30,940 --> 00:36:32,940
+is equal to plus
+
+798
+00:36:32,940 --> 00:36:34,900
+I
+
+799
+00:36:34,900 --> 00:36:36,880
+dx, psi left
+
+800
+00:36:38,080 --> 00:36:39,460
+plus m
+
+801
+00:36:39,460 --> 00:36:40,960
+psi right
+
+802
+00:36:43,740 --> 00:36:47,500
+That's explicitly what the equations say
+
+803
+00:36:47,500 --> 00:36:49,180
+You can write them in any number of forms
+
+804
+00:36:49,180 --> 00:36:57,239
+form, I can also write it as i psi dot is
+
+805
+00:36:57,239 --> 00:37:05,299
+equal to i minus i alpha d psi by dx plus
+
+806
+00:37:05,299 --> 00:37:08,299
+n beta psi. In this form I must
+
+807
+00:37:08,299 --> 00:37:11,299
+remember that these are columns and that these
+
+808
+00:37:11,299 --> 00:37:14,719
+are matrices. In this form it's
+
+809
+00:37:14,719 --> 00:37:18,140
+just absolutely explicit what the equations
+
+810
+00:37:18,140 --> 00:37:21,469
+are and beta interchanges or beta
+
+811
+00:37:21,469 --> 00:37:24,799
+interchanges psi left and psi right so
+
+812
+00:37:24,799 --> 00:37:27,249
+these equations become coupled equations. The
+
+813
+00:37:27,249 --> 00:37:29,700
+left and the right movers become
+
+814
+00:37:29,700 --> 00:37:33,489
+coupled. That's what a mass term
+
+815
+00:37:33,489 --> 00:37:37,279
+does. Very strange, nobody would have expected
+
+816
+00:37:37,279 --> 00:37:40,409
+this before Dirac that that somehow what a
+
+817
+00:37:40,409 --> 00:37:43,540
+mass for an electron is is it's a
+
+818
+00:37:43,540 --> 00:37:47,700
+term in the equation for psi right which is
+
+819
+00:37:47,700 --> 00:37:48,120
+proportional to the mass of an electron.
+
+820
+00:37:48,140 --> 00:37:50,170
+It's proportional to psi left and a term
+
+821
+00:37:50,170 --> 00:37:52,200
+for psi left which is proportional to psi right.
+
+822
+00:37:52,200 --> 00:37:57,060
+These equations automatically conserve
+
+823
+00:37:57,060 --> 00:38:01,920
+momentum because they're translation invariant.
+
+824
+00:38:01,920 --> 00:38:05,670
+But the particle now has a mass.
+
+825
+00:38:05,670 --> 00:38:09,420
+With this equation the electron now has its
+
+826
+00:38:09,420 --> 00:38:13,320
+mass and its mass is just m.
+
+827
+00:38:13,320 --> 00:38:17,220
+So that's a remarkably beautiful and simple equation.
+
+828
+00:38:17,220 --> 00:38:17,720
+It is beautiful and simple.
+
+829
+00:38:18,140 --> 00:38:21,640
+But let's, not but, it
+
+830
+00:38:21,640 --> 00:38:25,140
+is a beautiful and simple equation.
+
+831
+00:38:25,140 --> 00:38:29,140
+Is the solution automatically Lorentz invariant?
+
+832
+00:38:29,140 --> 00:38:33,009
+Is it Lorentz invariant? No, solutions should not
+
+833
+00:38:33,009 --> 00:38:36,879
+be Lorentz invariant. Solutions should be Lorentz covariant.
+
+834
+00:38:36,879 --> 00:38:39,859
+The meaning of that is a given solution for
+
+835
+00:38:39,859 --> 00:38:42,839
+example might describe an electron moving with a certain momentum.
+
+836
+00:38:42,839 --> 00:38:45,049
+If you Lorentz transform it, it will be moving with
+
+837
+00:38:45,049 --> 00:38:47,259
+a different momentum. So it's going to be a different momentum.
+
+838
+00:38:47,259 --> 00:38:47,619
+So it's going to be a different momentum.
+
+839
+00:38:47,619 --> 00:38:47,980
+So it's going to be a different momentum.
+
+840
+00:38:48,140 --> 00:38:50,379
+It should not be invariant.
+
+841
+00:38:50,379 --> 00:38:55,759
+What a Lorentz transformation should do is it should carry a wave
+
+842
+00:38:55,759 --> 00:39:01,140
+function describing a particle of a given momentum into the Lorentz transform momentum.
+
+843
+00:39:01,140 --> 00:39:05,460
+And yes, in that sense this is Lorentz invariant.
+
+844
+00:39:05,460 --> 00:39:08,800
+We're not going to prove it, but it satisfied the one key
+
+845
+00:39:08,800 --> 00:39:12,140
+test that omega squared is equal to k squared plus m squared.
+
+846
+00:39:12,140 --> 00:39:14,699
+And that is a Lorentz invariant relation.
+
+847
+00:39:14,699 --> 00:39:17,259
+Omega squared equals k squared plus m squared.
+
+848
+00:39:17,260 --> 00:39:21,840
+And yes, these equations are Lorentz invariant.
+
+849
+00:39:21,840 --> 00:39:25,740
+Okay, let's go to the limit. Just
+
+850
+00:39:25,740 --> 00:39:29,640
+to look at it a little more clearly.
+
+851
+00:39:29,640 --> 00:39:33,640
+Let's go to the limit now, which we could
+
+852
+00:39:33,640 --> 00:39:37,640
+not do in this case without the mass term.
+
+853
+00:39:37,640 --> 00:39:39,330
+Let's go to the limit
+
+854
+00:39:39,330 --> 00:39:41,020
+where the electron is standing still.
+
+855
+00:39:41,020 --> 00:39:43,790
+You can't make a massless particle stand still.
+
+856
+00:39:43,790 --> 00:39:46,560
+It always moves at the speed of light.
+
+857
+00:39:46,560 --> 00:39:49,159
+But once the particle has a mass,
+
+858
+00:39:49,159 --> 00:39:51,759
+you can study it when it's at rest
+
+859
+00:39:51,759 --> 00:39:55,960
+At rest means its momentum is equal to zero
+
+860
+00:39:58,740 --> 00:40:01,110
+To let the momentum be equal to
+
+861
+00:40:01,110 --> 00:40:03,480
+zero, we can just, where is our equation?
+
+862
+00:40:03,480 --> 00:40:07,410
+Our equation was omega was
+
+863
+00:40:07,410 --> 00:40:11,340
+equal to alpha, was it minus?
+
+864
+00:40:11,340 --> 00:40:15,840
+No, alpha k plus beta m
+
+865
+00:40:16,560 --> 00:40:20,400
+Let's just manipulate it at this level first
+
+866
+00:40:20,400 --> 00:40:24,240
+and then we'll write down what the equation is
+
+867
+00:40:24,240 --> 00:40:27,240
+What the equation of motion is
+
+868
+00:40:27,240 --> 00:40:30,740
+To set the electron to be at rest, that's the
+
+869
+00:40:30,740 --> 00:40:34,240
+same as setting its momentum to be equal to zero
+
+870
+00:40:34,240 --> 00:40:38,240
+Momentum equal to zero, first of all says that
+
+871
+00:40:38,240 --> 00:40:42,240
+the wave function has no space variation at all
+
+872
+00:40:42,240 --> 00:40:46,240
+If k is equal to zero, there's no space variation
+
+873
+00:40:46,240 --> 00:40:46,540
+It's just constant
+
+874
+00:40:46,560 --> 00:40:49,960
+If k is constant with respect to space, if the
+
+875
+00:40:49,960 --> 00:40:53,360
+wave function is constant with respect to space, no momentum
+
+876
+00:40:53,360 --> 00:40:56,560
+And we can throw this term away
+
+877
+00:40:56,560 --> 00:41:00,440
+In any case, when acting on wave functions
+
+878
+00:41:00,440 --> 00:41:04,320
+which have zero momentum or zero wave number
+
+879
+00:41:04,320 --> 00:41:08,520
+Then omega is just equal to beta times m
+
+880
+00:41:08,520 --> 00:41:12,380
+So for a particle at rest, its
+
+881
+00:41:12,380 --> 00:41:16,240
+energy is just equal to beta times m
+
+882
+00:41:16,240 --> 00:41:19,000
+Or we can, what does that mean?
+
+883
+00:41:19,000 --> 00:41:19,959
+What does it mean?
+
+884
+00:41:19,959 --> 00:41:25,359
+Let's write it in this form
+
+885
+00:41:25,359 --> 00:41:31,020
+i d psi by dt
+
+886
+00:41:31,020 --> 00:41:34,939
+That's how you get omega
+
+887
+00:41:34,939 --> 00:41:37,000
+By hitting it with i d by dt
+
+888
+00:41:37,000 --> 00:41:42,240
+That's equal to beta m psi
+
+889
+00:41:42,240 --> 00:41:46,200
+So for a particle at rest where we can throw
+
+890
+00:41:46,240 --> 00:41:48,240
+Away the space variation
+
+891
+00:41:48,240 --> 00:41:51,240
+The Schrodinger or the Dirac equation just becomes
+
+892
+00:41:51,240 --> 00:41:53,240
+i d psi by dt is
+
+893
+00:41:53,240 --> 00:41:55,240
+equal to beta m times psi
+
+894
+00:41:55,240 --> 00:41:58,240
+Or to write it another way
+
+895
+00:41:58,240 --> 00:42:02,240
+Psi right dot with an i
+
+896
+00:42:02,240 --> 00:42:07,240
+Is equal to m psi left
+
+897
+00:42:07,240 --> 00:42:10,240
+And i psi left dot
+
+898
+00:42:10,240 --> 00:42:16,040
+Is equal to m psi right
+
+899
+00:42:16,240 --> 00:42:18,240
+Did I get that?
+
+900
+00:42:18,240 --> 00:42:20,240
+No, no
+
+901
+00:42:20,240 --> 00:42:22,240
+Minus sign, one of them has a minus sign
+
+902
+00:42:22,240 --> 00:42:24,240
+Yeah
+
+903
+00:42:24,240 --> 00:42:26,240
+Beta
+
+904
+00:42:26,240 --> 00:42:28,240
+This one has a minus sign
+
+905
+00:42:28,240 --> 00:42:30,240
+No, no minus sign
+
+906
+00:42:30,240 --> 00:42:32,240
+No, no minus sign
+
+907
+00:42:32,240 --> 00:42:34,240
+No minus sign
+
+908
+00:42:34,240 --> 00:42:36,240
+Beta has no minus signs in it
+
+909
+00:42:36,240 --> 00:42:38,240
+Beta is one, one off the diagonal
+
+910
+00:42:38,240 --> 00:42:40,740
+So this is the simplified
+
+911
+00:42:40,740 --> 00:42:43,240
+Dirac equation for particles at rest
+
+912
+00:42:43,240 --> 00:42:45,240
+Or near being at rest
+
+913
+00:42:46,240 --> 00:42:47,240
+Okay
+
+914
+00:42:47,240 --> 00:42:49,740
+Notice that they're still coupled
+
+915
+00:42:49,740 --> 00:42:52,240
+together in this left right way
+
+916
+00:42:52,240 --> 00:42:54,240
+But to decouple them
+
+917
+00:42:54,240 --> 00:42:57,240
+To find ordinary equations
+
+918
+00:42:57,240 --> 00:42:59,240
+Which are not coupled in this way
+
+919
+00:42:59,240 --> 00:43:01,240
+All you have to do is
+
+920
+00:43:01,240 --> 00:43:03,240
+add and subtract these two equations
+
+921
+00:43:03,240 --> 00:43:05,240
+Let's add them
+
+922
+00:43:05,240 --> 00:43:06,240
+What do we get?
+
+923
+00:43:06,240 --> 00:43:08,240
+Then we get
+
+924
+00:43:08,240 --> 00:43:10,240
+i
+
+925
+00:43:12,240 --> 00:43:14,240
+Psi, let's call it plus
+
+926
+00:43:14,240 --> 00:43:16,240
+Psi plus means
+
+927
+00:43:16,240 --> 00:43:19,240
+Psi right plus psi left
+
+928
+00:43:21,240 --> 00:43:23,240
+When we add them
+
+929
+00:43:23,240 --> 00:43:26,240
+i psi right plus psi left
+
+930
+00:43:26,240 --> 00:43:28,240
+Is equal
+
+931
+00:43:28,240 --> 00:43:33,240
+To m times psi left plus psi right
+
+932
+00:43:33,240 --> 00:43:35,240
+Which is just psi plus
+
+933
+00:43:38,240 --> 00:43:41,240
+We now have a equation for an object
+
+934
+00:43:41,240 --> 00:43:44,240
+Which is decoupled
+
+935
+00:43:44,240 --> 00:43:45,240
+Just one equation
+
+936
+00:43:45,240 --> 00:43:47,240
+Not coupled to anything else
+
+937
+00:43:47,240 --> 00:43:49,240
+And what about the other possibility?
+
+938
+00:43:49,240 --> 00:43:51,240
+Let's subtract them
+
+939
+00:43:51,240 --> 00:43:52,240
+When we subtract them
+
+940
+00:43:52,240 --> 00:43:56,240
+We get i psi minus dot
+
+941
+00:43:56,240 --> 00:44:00,240
+Psi minus is psi right minus psi left
+
+942
+00:44:00,240 --> 00:44:03,240
+And what do we get on the right hand side?
+
+943
+00:44:03,240 --> 00:44:06,240
+Is it m psi minus?
+
+944
+00:44:06,240 --> 00:44:09,240
+Minus m psi minus
+
+945
+00:44:15,240 --> 00:44:17,240
+So by adding them and subtracting them
+
+946
+00:44:17,240 --> 00:44:19,240
+In other words taking linear
+
+947
+00:44:19,240 --> 00:44:21,240
+Different linear combinations
+
+948
+00:44:21,240 --> 00:44:24,240
+We find two objects
+
+949
+00:44:24,240 --> 00:44:28,240
+One which satisfies an equation with a plus sign
+
+950
+00:44:28,240 --> 00:44:31,240
+And one which satisfies an equation with a minus sign
+
+951
+00:44:31,240 --> 00:44:33,240
+Which if we just look
+
+952
+00:44:33,240 --> 00:44:36,240
+If we just imagine that psi has a frequency
+
+953
+00:44:36,240 --> 00:44:40,240
+Then this is also the same as omega equals m
+
+954
+00:44:40,240 --> 00:44:42,240
+For the plus sign
+
+955
+00:44:42,240 --> 00:44:43,240
+And omega equals minus m
+
+956
+00:44:43,240 --> 00:44:46,240
+For the minus sign
+
+957
+00:44:46,240 --> 00:44:49,240
+Omega equals plus m for this equation
+
+958
+00:44:49,240 --> 00:44:52,240
+And omega is equal to minus m for this equation
+
+959
+00:44:52,240 --> 00:44:55,240
+So notice what's happening
+
+960
+00:44:55,240 --> 00:44:57,240
+When the particle is at rest
+
+961
+00:44:57,240 --> 00:45:01,240
+It also has positive and negative frequencies
+
+962
+00:45:01,240 --> 00:45:03,240
+When it was moving with the speed of light
+
+963
+00:45:03,240 --> 00:45:07,240
+Psi left and psi right had positive and negative frequencies
+
+964
+00:45:07,240 --> 00:45:10,240
+So we have a positive and negative frequency
+
+965
+00:45:10,240 --> 00:45:12,240
+And we have a positive and negative frequency
+
+966
+00:45:13,240 --> 00:45:18,240
+But when the particle is at rest
+
+967
+00:45:18,240 --> 00:45:21,240
+It's the linear combination of psi plus and psi minus
+
+968
+00:45:21,240 --> 00:45:25,240
+Which have definite frequencies plus and minus
+
+969
+00:45:25,240 --> 00:45:29,240
+So psi plus is the field operator
+
+970
+00:45:29,240 --> 00:45:33,240
+Describing positive energy particles at rest
+
+971
+00:45:33,240 --> 00:45:37,240
+And psi minus is the field operator
+
+972
+00:45:37,240 --> 00:45:41,240
+Describing negative energy particles at rest
+
+973
+00:45:41,240 --> 00:45:42,240
+What do we do with negative energy particles at rest?
+
+974
+00:45:42,240 --> 00:45:44,240
+Negative energy particles at rest
+
+975
+00:45:44,240 --> 00:45:46,240
+Negative energy particles at rest
+
+976
+00:45:46,240 --> 00:45:48,240
+They're bad things, we don't want them
+
+977
+00:45:48,240 --> 00:45:50,240
+What do we do with them?
+
+978
+00:45:50,240 --> 00:45:53,240
+We just fill the Dirac C with them
+
+979
+00:45:53,240 --> 00:45:55,240
+We fill them up
+
+980
+00:45:55,240 --> 00:45:58,240
+So what we have left over then
+
+981
+00:45:58,240 --> 00:46:01,240
+Is the plus electrons here
+
+982
+00:46:01,240 --> 00:46:03,240
+The electrons which are linear combinations
+
+983
+00:46:03,240 --> 00:46:06,240
+Linear superpositions of electrons
+
+984
+00:46:06,240 --> 00:46:09,240
+Left moving and right moving electrons
+
+985
+00:46:09,240 --> 00:46:12,240
+The linear superposition of electrons
+
+986
+00:46:12,240 --> 00:46:14,240
+Left and right
+
+987
+00:46:14,240 --> 00:46:16,240
+Makes an electron at rest
+
+988
+00:46:18,240 --> 00:46:22,240
+With a frequency or an energy proportional to mass
+
+989
+00:46:22,240 --> 00:46:27,240
+The difference gives you an electron with negative energy
+
+990
+00:46:27,240 --> 00:46:30,240
+You just fill up the Dirac C with it
+
+991
+00:46:30,240 --> 00:46:35,240
+So now you have particles with mass
+
+992
+00:46:35,240 --> 00:46:39,240
+Both positive and negative energies
+
+993
+00:46:39,240 --> 00:46:41,240
+In fact for every momentum
+
+994
+00:46:41,240 --> 00:46:43,240
+There are positive and negative energies
+
+995
+00:46:43,240 --> 00:46:45,240
+You fill up all the negative energies
+
+996
+00:46:45,240 --> 00:46:51,240
+And you leave the positive energies alone
+
+997
+00:46:51,240 --> 00:46:53,240
+There are positive energy electrons
+
+998
+00:46:53,240 --> 00:46:55,240
+And positive energy holes
+
+999
+00:46:55,240 --> 00:46:59,240
+Both holes and particles now have mass
+
+1000
+00:46:59,240 --> 00:47:03,240
+The negative energy electrons
+
+1001
+00:47:03,240 --> 00:47:05,240
+When you remove one
+
+1002
+00:47:05,240 --> 00:47:07,240
+Has positive energy
+
+1003
+00:47:07,240 --> 00:47:09,240
+And so a hole
+
+1004
+00:47:09,240 --> 00:47:11,240
+Has positive mass
+
+1005
+00:47:11,240 --> 00:47:13,240
+Just as an electron has positive mass
+
+1006
+00:47:13,240 --> 00:47:16,240
+Or just as the original particles had positive mass
+
+1007
+00:47:16,240 --> 00:47:19,240
+So you see that it's
+
+1008
+00:47:19,240 --> 00:47:21,240
+It's a very odd thing
+
+1009
+00:47:21,240 --> 00:47:23,240
+As I said nobody
+
+1010
+00:47:23,240 --> 00:47:26,240
+Had any idea at all
+
+1011
+00:47:26,240 --> 00:47:30,240
+That the way to make massive particles
+
+1012
+00:47:30,240 --> 00:47:32,240
+In quantum mechanics
+
+1013
+00:47:32,240 --> 00:47:34,240
+Was to take left movers and right movers
+
+1014
+00:47:34,240 --> 00:47:36,240
+And have the left movers coupled to the right movers
+
+1015
+00:47:36,240 --> 00:47:37,240
+In this odd way
+
+1016
+00:47:37,240 --> 00:47:39,240
+It's not a good idea
+
+1017
+00:47:39,240 --> 00:47:42,240
+It's now a commonplace idea
+
+1018
+00:47:42,240 --> 00:47:45,240
+That coupling left movers to right movers
+
+1019
+00:47:45,240 --> 00:47:47,240
+Gives you massive particles
+
+1020
+00:47:47,240 --> 00:47:50,240
+But still it's a rather surprising and interesting fact
+
+1021
+00:47:50,240 --> 00:47:51,240
+Yeah
+
+1022
+00:47:51,240 --> 00:47:53,240
+Is that the size of minus
+
+1023
+00:47:53,240 --> 00:47:55,240
+Or the size of m to the right of it?
+
+1024
+00:47:55,240 --> 00:47:56,240
+Here?
+
+1025
+00:47:56,642 --> 00:47:57,642
+よっしゃ
+
+1026
+00:47:59,810 --> 00:48:01,810
+What's that minus?
+
+1027
+00:48:01,810 --> 00:48:03,810
+Minus
+
+1028
+00:48:05,050 --> 00:48:06,640
+All right, just in case you don't
+
+1029
+00:48:06,640 --> 00:48:08,230
+know what psi plus and psi minus are
+
+1030
+00:48:09,050 --> 00:48:10,630
+psi plus
+
+1031
+00:48:10,630 --> 00:48:14,230
+is equal to psi right plus psi left and
+
+1032
+00:48:14,990 --> 00:48:18,750
+Psi minus is equal to psi right minus psi left
+
+1033
+00:48:23,610 --> 00:48:26,410
+What does it mean to add wave
+
+1034
+00:48:26,410 --> 00:48:29,210
+functions or add field operators this way
+
+1035
+00:48:29,810 --> 00:48:31,810
+you can ask what happens if
+
+1036
+00:48:32,429 --> 00:48:36,069
+Psi right plus psi left acts on the vacuum. What does it
+
+1037
+00:48:36,069 --> 00:48:39,710
+give? Does it give you two particles one left and one right?
+
+1038
+00:48:41,470 --> 00:48:43,470
+So I left plus I right
+
+1039
+00:48:44,810 --> 00:48:46,810
+No
+
+1040
+00:48:47,490 --> 00:48:51,130
+So I left times psi right would be two particles
+
+1041
+00:48:51,570 --> 00:48:54,820
+So I left contains creation operators. I right contains
+
+1042
+00:48:54,820 --> 00:48:58,070
+creation operators you multiply them together. It gives you
+
+1043
+00:49:00,510 --> 00:49:02,569
+Products which create two particles.
+
+1044
+00:49:02,569 --> 00:49:04,629
+What about silent plus side?
+
+1045
+00:49:06,630 --> 00:49:08,630
+Was it
+
+1046
+00:49:09,630 --> 00:49:12,120
+How many particles does it give you first
+
+1047
+00:49:12,120 --> 00:49:14,610
+of all one is it left moving or right?
+
+1048
+00:49:16,570 --> 00:49:18,570
+Which means
+
+1049
+00:49:20,349 --> 00:49:22,349
+Which means that it's a particle
+
+1050
+00:49:22,770 --> 00:49:25,580
+With half a unit of probability of being a left mover
+
+1051
+00:49:25,580 --> 00:49:28,390
+and half a unit of probability of being a right mover
+
+1052
+00:49:28,390 --> 00:49:30,390
+It's a coherent linear quantum superposition
+
+1053
+00:49:30,390 --> 00:49:33,070
+So these plus and minus operators are
+
+1054
+00:49:33,070 --> 00:49:35,750
+field operators which create particles which are
+
+1055
+00:49:35,750 --> 00:49:37,630
+linear coherent superpositions in other words quantum
+
+1056
+00:49:37,630 --> 00:49:39,510
+superpositions of left movers and right movers
+
+1057
+00:49:39,510 --> 00:49:41,530
+which means they have equal probability for either
+
+1058
+00:49:41,530 --> 00:49:43,530
+Okay
+
+1059
+00:49:43,530 --> 00:49:45,530
+equal probability for either
+
+1060
+00:49:45,530 --> 00:49:47,530
+so a particle at rest is
+
+1061
+00:49:47,530 --> 00:49:49,530
+a
+
+1062
+00:49:49,530 --> 00:49:51,530
+Particle at rest is
+
+1063
+00:49:51,530 --> 00:49:53,530
+a
+
+1064
+00:49:53,530 --> 00:49:55,530
+Particle at rest is
+
+1065
+00:49:55,530 --> 00:49:57,130
+a
+
+1066
+00:49:57,130 --> 00:50:00,080
+linear coherent superposition of left
+
+1067
+00:50:00,080 --> 00:50:03,030
+mover and right mover and
+
+1068
+00:50:04,069 --> 00:50:06,069
+a massive particle in general
+
+1069
+00:50:06,410 --> 00:50:07,970
+contains both left moving
+
+1070
+00:50:07,970 --> 00:50:09,530
+components and right moving components
+
+1071
+00:50:10,009 --> 00:50:12,510
+As I emphasize it does not mean two particles
+
+1072
+00:50:13,030 --> 00:50:16,340
+It means one particle with a probability of a half
+
+1073
+00:50:16,340 --> 00:50:19,650
+for in this case for being left moving or right moving
+
+1074
+00:50:21,650 --> 00:50:23,420
+And when you look at it
+
+1075
+00:50:23,420 --> 00:50:25,190
+and see how fast it's moving
+
+1076
+00:50:25,190 --> 00:50:26,790
+It's correct
+
+1077
+00:50:26,790 --> 00:50:28,790
+It's at rest
+
+1078
+00:50:28,790 --> 00:50:30,790
+It's got zero momentum
+
+1079
+00:50:33,130 --> 00:50:35,350
+When I say it's a left mover or right mover
+
+1080
+00:50:35,350 --> 00:50:38,520
+I mean to say that if you didn't have this term in
+
+1081
+00:50:38,520 --> 00:50:41,690
+the equation that it would be moving to the left or the right
+
+1082
+00:50:43,030 --> 00:50:45,530
+It's components the way you it's um
+
+1083
+00:50:46,149 --> 00:50:49,709
+It's matrix components in the original equation described left movers
+
+1084
+00:50:49,709 --> 00:50:53,269
+and right movers in the new equation with the n term
+
+1085
+00:50:53,269 --> 00:50:55,269
+It describes something at rest
+
+1086
+00:50:55,270 --> 00:50:59,110
+Or it 회 Tat
+
+1087
+00:50:59,850 --> 00:51:01,270
+Or right movers and right movers in the previous equation
+
+1088
+00:51:01,270 --> 00:51:09,560
+We don't even know if there's
+
+1089
+00:51:09,560 --> 00:51:17,850
+any超y will be at rest orので
+
+1090
+00:51:19,650 --> 00:51:21,540
+Yeah, you suitable does coherent superposition of something moving to the right and something
+
+1091
+00:51:21,540 --> 00:51:23,430
+is moving to the left they're both at rest or the whole thing is
+
+1092
+00:51:23,430 --> 00:51:25,450
+a particle flying off to the left
+
+1093
+00:51:25,450 --> 00:51:27,470
+and a particle flying off to the right
+
+1094
+00:51:27,470 --> 00:51:31,970
+the mass term modifies the whole thing significantly
+
+1095
+00:51:31,970 --> 00:51:33,950
+and it simply makes a wave which just
+
+1096
+00:51:33,950 --> 00:51:35,930
+sits there, it's neither going to the left
+
+1097
+00:51:35,930 --> 00:51:38,110
+nor to the right, it just sits there
+
+1098
+00:51:38,110 --> 00:51:42,210
+but it's made up out of these same
+
+1099
+00:51:42,210 --> 00:51:43,650
+objects
+
+1100
+00:51:43,650 --> 00:51:47,590
+the upper component and the lower component
+
+1101
+00:51:47,590 --> 00:51:50,250
+okay so that's how you make a massive
+
+1102
+00:51:50,250 --> 00:51:51,850
+fermion
+
+1103
+00:51:51,850 --> 00:51:56,930
+all massive fermions in particle physics
+
+1104
+00:51:56,930 --> 00:52:01,930
+are built out of left movers and right movers
+
+1105
+00:52:01,930 --> 00:52:03,510
+is there like a one
+
+1106
+00:52:03,510 --> 00:52:05,090
+over square to two over there?
+
+1107
+00:52:05,090 --> 00:52:07,360
+you can put a square, it doesn't
+
+1108
+00:52:07,360 --> 00:52:09,630
+matter because it's uh... yeah you could uh...
+
+1109
+00:52:09,630 --> 00:52:11,950
+you can put a square, sure
+
+1110
+00:52:11,950 --> 00:52:12,370
+if you want
+
+1111
+00:52:12,370 --> 00:52:15,440
+combination of phase actually matter exactly
+
+1112
+00:52:15,440 --> 00:52:18,510
+what they are or is there just
+
+1113
+00:52:18,510 --> 00:52:21,829
+a number of equations that would be basically the same
+
+1114
+00:52:21,829 --> 00:52:24,510
+the phase or the square root of two?
+
+1115
+00:52:24,510 --> 00:52:26,270
+the... just
+
+1116
+00:52:26,270 --> 00:52:27,890
+ignoring the square root of two uh...
+
+1117
+00:52:27,890 --> 00:52:30,330
+that doesn't change the equation
+
+1118
+00:52:30,330 --> 00:52:33,870
+it would be square root of two on both sides
+
+1119
+00:52:33,870 --> 00:52:35,900
+i'm just saying the definition
+
+1120
+00:52:35,900 --> 00:52:37,930
+of psi plus and psi minus
+
+1121
+00:52:37,930 --> 00:52:40,669
+have to have
+
+1122
+00:52:40,669 --> 00:52:42,090
+basically
+
+1123
+00:52:42,090 --> 00:52:45,510
+same size right and left
+
+1124
+00:52:45,510 --> 00:52:46,669
+yes
+
+1125
+00:52:46,669 --> 00:52:49,370
+you're asking about the relative size of a...
+
+1126
+00:52:49,370 --> 00:52:49,909
+for a particle at rest for a particle at rest...
+
+1127
+00:52:49,909 --> 00:52:50,310
+for a particle at rest...
+
+1128
+00:52:50,310 --> 00:52:50,810
+for a particle at rest...
+
+1129
+00:52:50,810 --> 00:52:51,310
+for a particle at rest...
+
+1130
+00:52:51,310 --> 00:52:51,810
+for a particle at rest...
+
+1131
+00:52:51,830 --> 00:52:52,330
+for a particle at rest...
+
+1132
+00:52:52,330 --> 00:52:53,990
+but they have a different phase
+
+1133
+00:52:53,990 --> 00:52:55,490
+could you...
+
+1134
+00:52:55,490 --> 00:52:56,050
+it's...
+
+1135
+00:52:56,050 --> 00:52:57,070
+different phase means what?
+
+1136
+00:52:57,070 --> 00:52:59,330
+we have only real coefficients there, could there be...
+
+1137
+00:52:59,330 --> 00:53:02,800
+in fact we do and that's a consequence of
+
+1138
+00:53:02,800 --> 00:53:06,270
+beta having been chosen to be a real matrix
+
+1139
+00:53:06,270 --> 00:53:08,240
+there are other choices of
+
+1140
+00:53:08,240 --> 00:53:10,210
+beta that one could have chosen
+
+1141
+00:53:10,210 --> 00:53:12,689
+the only rule about beta was that
+
+1142
+00:53:12,689 --> 00:53:15,169
+it was an object which anti-commuted with alpha
+
+1143
+00:53:15,169 --> 00:53:17,310
+and whose square was one
+
+1144
+00:53:17,310 --> 00:53:18,789
+it is not unique
+
+1145
+00:53:18,789 --> 00:53:20,330
+but once you choose it, you choose it
+
+1146
+00:53:20,330 --> 00:53:21,310
+once you choose it, you stick with it
+
+1147
+00:53:21,310 --> 00:53:24,350
+but...
+
+1148
+00:53:24,350 --> 00:53:25,670
+and
+
+1149
+00:53:25,670 --> 00:53:26,790
+they're all equivalent
+
+1150
+00:53:26,790 --> 00:53:28,790
+they're all equivalent to each other
+
+1151
+00:53:28,790 --> 00:53:30,810
+but...
+
+1152
+00:53:30,810 --> 00:53:33,870
+as a consequence of the particular choice of beta
+
+1153
+00:53:33,870 --> 00:53:36,650
+the coefficient here is one
+
+1154
+00:53:36,650 --> 00:53:38,090
+had I chosen other choices there
+
+1155
+00:53:38,090 --> 00:53:39,530
+might be some phases in there
+
+1156
+00:53:39,530 --> 00:53:40,430
+just a...
+
+1157
+00:53:40,430 --> 00:53:40,990
+a...
+
+1158
+00:53:40,990 --> 00:53:43,230
+question?
+
+1159
+00:53:43,234 --> 00:53:45,114
+But isn't it?
+
+1160
+00:53:45,122 --> 00:53:48,962
+turned out left mover, right mover is misleading because
+
+1161
+00:53:48,962 --> 00:53:50,002
+A little bit.
+
+1162
+00:53:50,002 --> 00:53:51,842
+I mean, if there's a particle
+
+1163
+00:53:51,842 --> 00:53:53,682
+that's really moving to the right,
+
+1164
+00:53:53,682 --> 00:53:58,522
+the right line equation, it has both left mover component
+
+1165
+00:53:58,522 --> 00:54:02,722
+and right mover component in this wave function, right?
+
+1166
+00:54:02,722 --> 00:54:07,202
+It's got things which were labeled R and L,
+
+1167
+00:54:07,202 --> 00:54:10,242
+which, when the mass term wasn't there,
+
+1168
+00:54:10,242 --> 00:54:13,962
+really corresponded to left moving and right moving waves.
+
+1169
+00:54:13,962 --> 00:54:18,301
+Now, once the mass term is
+
+1170
+00:54:18,301 --> 00:54:22,641
+there, we might give up the idea
+
+1171
+00:54:22,641 --> 00:54:27,042
+that it's composed of left moving and right moving waves.
+
+1172
+00:54:27,042 --> 00:54:28,662
+It is misleading to think of it
+
+1173
+00:54:28,662 --> 00:54:30,282
+as left moving and right moving waves.
+
+1174
+00:54:30,282 --> 00:54:32,962
+It's just a wave that's not moving at all,
+
+1175
+00:54:32,962 --> 00:54:37,722
+but it's built out of the same mathematical objects
+
+1176
+00:54:37,722 --> 00:54:39,402
+which were left movers and right
+
+1177
+00:54:39,402 --> 00:54:41,082
+movers when there was no mass.
+
+1178
+00:54:41,082 --> 00:54:43,202
+Now, that's a mouthful.
+
+1179
+00:54:43,202 --> 00:54:43,842
+The best thing to do
+
+1180
+00:54:43,842 --> 00:54:46,722
+is to play with it and
+
+1181
+00:54:46,722 --> 00:54:49,602
+perhaps once there's a mass term,
+
+1182
+00:54:49,602 --> 00:54:52,662
+give up R and L meaning right
+
+1183
+00:54:52,662 --> 00:54:55,722
+and left and mean something else by them.
+
+1184
+00:54:55,722 --> 00:55:00,362
+R and L, the upper component and the lower component.
+
+1185
+00:55:00,362 --> 00:55:01,881
+Yeah.
+
+1186
+00:55:01,881 --> 00:55:03,322
+Question.
+
+1187
+00:55:03,322 --> 00:55:06,942
+So even in the rest frame, the
+
+1188
+00:55:06,942 --> 00:55:10,562
+fermion needs to have a spin angular momentum.
+
+1189
+00:55:10,562 --> 00:55:12,602
+So far, this is a one-dimensional particle.
+
+1190
+00:55:12,602 --> 00:55:13,802
+It doesn't have angular momentum.
+
+1191
+00:55:13,842 --> 00:55:15,382
+Because angular momentum doesn't make
+
+1192
+00:55:15,382 --> 00:55:16,922
+sense in only one direction,
+
+1193
+00:55:16,922 --> 00:55:17,922
+in only one dimension.
+
+1194
+00:55:17,922 --> 00:55:21,442
+So we have not gotten to angular momentum yet,
+
+1195
+00:55:21,442 --> 00:55:24,442
+which I'm trying, but I'm not going to make it.
+
+1196
+00:55:24,442 --> 00:55:27,082
+So our wave function has
+
+1197
+00:55:27,082 --> 00:55:29,722
+the fermion creation annihilation operators.
+
+1198
+00:55:29,722 --> 00:55:30,602
+Yes, it does.
+
+1199
+00:55:30,602 --> 00:55:32,322
+We started the differential equation.
+
+1200
+00:55:32,322 --> 00:55:35,442
+We started with this first order in time and space.
+
+1201
+00:55:35,442 --> 00:55:35,682
+Yes.
+
+1202
+00:55:35,682 --> 00:55:37,562
+If we were going after bosons,
+
+1203
+00:55:37,562 --> 00:55:40,602
+where did the fermion creep in aside
+
+1204
+00:55:40,602 --> 00:55:43,642
+from the type of the creation annihilation?
+
+1205
+00:55:43,642 --> 00:55:44,642
+OK.
+
+1206
+00:55:44,642 --> 00:55:45,402
+That's about it.
+
+1207
+00:55:45,402 --> 00:55:49,122
+But the point is with this kind of equation,
+
+1208
+00:55:49,122 --> 00:55:51,562
+with specifically this kind of equation,
+
+1209
+00:55:51,562 --> 00:55:53,962
+you have no choice but to
+
+1210
+00:55:53,962 --> 00:55:56,362
+quantize it with the rules of fermions
+
+1211
+00:55:56,362 --> 00:55:59,262
+because otherwise you'll have this
+
+1212
+00:55:59,262 --> 00:56:02,162
+terrible problem of an unstable vacuum.
+
+1213
+00:56:02,162 --> 00:56:06,321
+We have not done relativistic
+
+1214
+00:56:06,321 --> 00:56:10,481
+bosons yet and we need to.
+
+1215
+00:56:10,481 --> 00:56:13,442
+Historically, of course, the Dirac equation, well,
+
+1216
+00:56:13,642 --> 00:56:16,402
+I'm not sure which, the Klein-Gordon equation,
+
+1217
+00:56:16,402 --> 00:56:20,642
+I think came before the Dirac equation, but yeah.
+
+1218
+00:56:20,642 --> 00:56:25,642
+If you, can you make it a Lorentz transformation
+
+1219
+00:56:25,642 --> 00:56:30,522
+which removes the, in that upper box there,
+
+1220
+00:56:30,522 --> 00:56:33,482
+moves the term just to the right of the equation
+
+1221
+00:56:33,482 --> 00:56:36,602
+so that you end up with
+
+1222
+00:56:36,602 --> 00:56:39,722
+the one at the lower box?
+
+1223
+00:56:39,722 --> 00:56:43,242
+In other words, is the lower box essentially the same
+
+1224
+00:56:43,242 --> 00:56:43,602
+as the upper box?
+
+1225
+00:56:43,602 --> 00:56:44,602
+Yeah.
+
+1226
+00:56:44,602 --> 00:56:47,442
+The upper box but in a different coordinate system.
+
+1227
+00:56:47,442 --> 00:56:48,002
+Yeah.
+
+1228
+00:56:48,002 --> 00:56:54,201
+A coordinate system which is gotten by inverting the x-axis.
+
+1229
+00:56:54,201 --> 00:56:56,461
+Now, talk about the lower box
+
+1230
+00:56:56,461 --> 00:56:58,722
+on this, on the lower board.
+
+1231
+00:56:58,722 --> 00:56:59,682
+Here.
+
+1232
+00:56:59,682 --> 00:57:00,322
+The box.
+
+1233
+00:57:00,322 --> 00:57:00,842
+The box.
+
+1234
+00:57:00,842 --> 00:57:01,521
+The box.
+
+1235
+00:57:01,521 --> 00:57:02,442
+Ah, here.
+
+1236
+00:57:02,442 --> 00:57:04,521
+That one compared to the one above.
+
+1237
+00:57:04,521 --> 00:57:05,162
+Yeah.
+
+1238
+00:57:05,162 --> 00:57:07,042
+The box above.
+
+1239
+00:57:07,042 --> 00:57:07,921
+The box above.
+
+1240
+00:57:07,921 --> 00:57:09,081
+The box above.
+
+1241
+00:57:09,081 --> 00:57:10,081
+Those two boxes.
+
+1242
+00:57:10,081 --> 00:57:10,722
+Yeah.
+
+1243
+00:57:10,722 --> 00:57:12,842
+I'm wondering if you can go from the box up,
+
+1244
+00:57:12,842 --> 00:57:13,201
+the upper box up.
+
+1245
+00:57:13,202 --> 00:57:14,702
+The upper box to the
+
+1246
+00:57:14,702 --> 00:57:16,202
+lower box by a Lorentz transformation.
+
+1247
+00:57:16,202 --> 00:57:21,442
+Oh, you mean, I know what you mean.
+
+1248
+00:57:21,442 --> 00:57:23,942
+You mean, supposing we wrote down
+
+1249
+00:57:23,942 --> 00:57:26,442
+the equation for a non-zero momentum.
+
+1250
+00:57:26,442 --> 00:57:27,442
+Right.
+
+1251
+00:57:27,442 --> 00:57:28,442
+Yes.
+
+1252
+00:57:28,442 --> 00:57:29,442
+And solved it.
+
+1253
+00:57:29,442 --> 00:57:31,942
+Then could you get to the
+
+1254
+00:57:31,942 --> 00:57:34,442
+equation with zero momentum by Lorentz transformation?
+
+1255
+00:57:34,442 --> 00:57:35,442
+Yes.
+
+1256
+00:57:35,442 --> 00:57:36,942
+But I would have to tell
+
+1257
+00:57:36,942 --> 00:57:38,442
+you how Lorentz transformations act on psi,
+
+1258
+00:57:38,442 --> 00:57:40,442
+which I haven't done.
+
+1259
+00:57:40,442 --> 00:57:41,202
+Right.
+
+1260
+00:57:41,202 --> 00:57:42,202
+Right.
+
+1261
+00:57:42,202 --> 00:57:43,202
+I'm just wondering what the...
+
+1262
+00:57:43,202 --> 00:57:46,202
+In other words, this is just a general
+
+1263
+00:57:46,202 --> 00:57:49,202
+in some sense or another as the box above.
+
+1264
+00:57:49,202 --> 00:57:53,202
+If you add Lorentz transformations, that's right.
+
+1265
+00:57:53,202 --> 00:57:54,202
+Yeah.
+
+1266
+00:57:54,202 --> 00:57:56,322
+If you say, all right, this is the
+
+1267
+00:57:56,322 --> 00:57:58,442
+theory of electrons at rest, and now let's Lorentz
+
+1268
+00:57:58,442 --> 00:58:00,202
+transform them in such a way...
+
+1269
+00:58:00,202 --> 00:58:01,202
+Yes, that's correct.
+
+1270
+00:58:01,202 --> 00:58:04,202
+But you would have to know how to transform psi.
+
+1271
+00:58:04,202 --> 00:58:05,202
+I understand.
+
+1272
+00:58:05,202 --> 00:58:06,202
+Yeah.
+
+1273
+00:58:06,202 --> 00:58:07,202
+That's correct.
+
+1274
+00:58:07,202 --> 00:58:08,202
+Yeah.
+
+1275
+00:58:08,202 --> 00:58:09,202
+So this...
+
+1276
+00:58:09,202 --> 00:58:10,202
+That's right.
+
+1277
+00:58:10,202 --> 00:58:11,202
+That's...
+
+1278
+00:58:11,202 --> 00:58:12,202
+Another interpretation of mass...
+
+1279
+00:58:12,202 --> 00:58:12,702
+Another interpretation of mass that it comes
+
+1280
+00:58:12,702 --> 00:58:13,202
+from the interaction with Higgs boson, how
+
+1281
+00:58:13,202 --> 00:58:14,202
+does it relate to these equations?
+
+1282
+00:58:14,202 --> 00:58:15,202
+Okay.
+
+1283
+00:58:15,202 --> 00:58:16,202
+I will tell you.
+
+1284
+00:58:16,202 --> 00:58:17,202
+All right.
+
+1285
+00:58:17,202 --> 00:58:18,202
+Good.
+
+1286
+00:58:18,202 --> 00:58:20,702
+Let me just be very
+
+1287
+00:58:20,702 --> 00:58:23,202
+brief about it at this point.
+
+1288
+00:58:23,202 --> 00:58:24,202
+Okay.
+
+1289
+00:58:24,202 --> 00:58:26,702
+So, let's say that you have a
+
+1290
+00:58:26,702 --> 00:58:29,202
+mass, and you have a very small mass.
+
+1291
+00:58:29,202 --> 00:58:32,202
+And you have a mass of...
+
+1292
+00:58:32,202 --> 00:58:35,202
+And you have a mass of...
+
+1293
+00:58:35,202 --> 00:58:36,202
+Yeah.
+
+1294
+00:58:36,202 --> 00:58:37,202
+You have a mass of...
+
+1295
+00:58:37,202 --> 00:58:38,202
+I don't know.
+
+1296
+00:58:38,202 --> 00:58:39,202
+I don't know.
+
+1297
+00:58:39,202 --> 00:58:42,202
+I don't know how to explain it.
+
+1298
+00:58:42,202 --> 00:58:43,202
+How...
+
+1299
+00:58:43,202 --> 00:58:48,702
+What's the connection between this formulation of a
+
+1300
+00:58:48,702 --> 00:58:54,202
+mass and the idea that Higgs fields give
+
+1301
+00:58:54,202 --> 00:58:55,202
+particles mass, fermions mass?
+
+1302
+00:58:55,202 --> 00:58:56,202
+All right.
+
+1303
+00:58:56,202 --> 00:58:58,202
+So I'll tell you.
+
+1304
+00:58:58,202 --> 00:59:02,202
+The equations of motion for the
+
+1305
+00:59:02,202 --> 00:59:06,202
+fermion fields and the Higgs field...
+
+1306
+00:59:06,202 --> 00:59:07,202
+The Higgs field is another field.
+
+1307
+00:59:07,202 --> 00:59:08,202
+Let's call it phi.
+
+1308
+00:59:08,202 --> 00:59:09,202
+Let's call it phi of X.
+
+1309
+00:59:09,202 --> 00:59:10,202
+And it's a scalar field.
+
+1310
+00:59:10,202 --> 00:59:11,202
+It's a scalar field.
+
+1311
+00:59:11,202 --> 00:59:12,202
+Whatever it is, phi of X.
+
+1312
+00:59:12,202 --> 00:59:12,702
+The equations of motion, first of all,
+
+1313
+00:59:12,702 --> 00:59:13,202
+contain an equation of motion for phi.
+
+1314
+00:59:13,202 --> 00:59:14,202
+Let's not worry about what it is.
+
+1315
+00:59:14,202 --> 00:59:15,202
+But the Dirac equation becomes a non-linear equation.
+
+1316
+00:59:15,202 --> 00:59:17,702
+And it becomes a non-linear equation in which
+
+1317
+00:59:17,702 --> 00:59:20,202
+there's a coupling constant here and a phi.
+
+1318
+00:59:20,202 --> 00:59:21,202
+A coupling constant and a phi.
+
+1319
+00:59:21,202 --> 00:59:22,202
+So it's the Mona Lafayette equation.
+
+1320
+00:59:22,202 --> 00:59:23,202
+The power equation is the function.
+
+1321
+00:59:23,202 --> 00:59:24,202
+Let's take that and let's take that by itself.
+
+1322
+00:59:24,202 --> 00:59:25,202
+It's very simple.
+
+1323
+00:59:25,202 --> 00:59:26,202
+It consists of three constants.
+
+1324
+00:59:26,202 --> 00:59:27,202
+There's a R and a log.
+
+1325
+00:59:27,202 --> 00:59:28,202
+There's a log.
+
+1326
+00:59:28,202 --> 00:59:29,202
+There's a log.
+
+1327
+00:59:29,202 --> 00:59:30,202
+There's a log.
+
+1328
+00:59:30,202 --> 00:59:31,202
+There's a log.
+
+1329
+00:59:31,202 --> 00:59:32,202
+There's a log.
+
+1330
+00:59:32,202 --> 00:59:33,202
+There's a log.
+
+1331
+00:59:33,202 --> 00:59:40,202
+here and a phi, a coupling constant and a
+
+1332
+00:59:40,202 --> 00:59:47,202
+phi. No mass, the Dirac electron has no mass,
+
+1333
+00:59:47,202 --> 00:59:50,521
+and if the vacuum was such that the field
+
+1334
+00:59:50,521 --> 00:59:53,841
+phi were equal to zero, as you normally would
+
+1335
+00:59:53,841 --> 00:59:57,211
+think, in a vacuum, empty space, phi must
+
+1336
+00:59:57,211 --> 01:00:00,582
+be equal to zero, right? Okay, if that were
+
+1337
+01:00:00,582 --> 01:00:04,632
+the case, then looking at the electron in
+
+1338
+01:00:04,632 --> 01:00:08,682
+a vacuum, in an empty space where phi was
+
+1339
+01:00:08,682 --> 01:00:11,242
+equal to zero, this wouldn't be there,
+
+1340
+01:00:11,242 --> 01:00:13,802
+and you would just have the massless electron.
+
+1341
+01:00:13,802 --> 01:00:17,622
+But if for some reason, for some reason,
+
+1342
+01:00:17,622 --> 01:00:21,442
+the energetics of the Higgs field favor the lowest
+
+1343
+01:00:21,442 --> 01:00:25,431
+energy having a non-zero value of phi, let's
+
+1344
+01:00:25,431 --> 01:00:29,421
+say a constant non-zero value of phi, phi
+
+1345
+01:00:29,421 --> 01:00:30,541
+of x,
+
+1346
+01:00:30,542 --> 01:00:33,422
+equaling a constant, let's just call it phi,
+
+1347
+01:00:33,422 --> 01:00:36,302
+if that's what the vacuum, if that's what
+
+1348
+01:00:36,302 --> 01:00:39,882
+the empty space were like, it was filled with
+
+1349
+01:00:39,882 --> 01:00:43,462
+phi, then phi here would just be the constant
+
+1350
+01:00:43,462 --> 01:00:47,082
+value and all of this would play the role
+
+1351
+01:00:47,082 --> 01:00:50,702
+of the mass. So you have an equation. The
+
+1352
+01:00:50,702 --> 01:00:53,752
+mass of the electron is equal to the
+
+1353
+01:00:53,752 --> 01:00:56,802
+coupling constant times the magnitude or times the
+
+1354
+01:00:56,802 --> 01:00:59,642
+value of the Higgs field in the vacuum.
+
+1355
+01:01:00,542 --> 01:01:03,402
+So that's the connection. All right, we've said
+
+1356
+01:01:03,402 --> 01:01:06,262
+it. That is the connection. So any place
+
+1357
+01:01:06,262 --> 01:01:09,152
+that this can come from, it'll provide a
+
+1358
+01:01:09,152 --> 01:01:12,042
+mass. And in particular, one place it could come
+
+1359
+01:01:12,042 --> 01:01:16,352
+from is nonlinear equations, including couplings
+
+1360
+01:01:16,352 --> 01:01:20,662
+between bosons and fermions, and for some
+
+1361
+01:01:20,662 --> 01:01:23,482
+reason the bosonic field having a
+
+1362
+01:01:23,482 --> 01:01:26,302
+value in the vacuum, in empty space.
+
+1363
+01:01:26,302 --> 01:01:27,302
+Yeah?
+
+1364
+01:01:27,302 --> 01:01:27,802
+And the, one of the things that we're
+
+1365
+01:01:27,802 --> 01:01:28,302
+seeing might give evidence for the fact that the
+
+1366
+01:01:28,302 --> 01:01:29,302
+Higgs field is a vacuum.
+
+1367
+01:01:29,302 --> 01:01:30,302
+Yeah.
+
+1368
+01:01:30,302 --> 01:01:31,382
+So that's one of the big issues.
+
+1369
+01:01:31,382 --> 01:01:32,382
+Absolutely.
+
+1370
+01:01:32,382 --> 01:01:36,322
+Can you say more about how they expect that, Mike?
+
+1371
+01:01:36,322 --> 01:01:39,492
+Well, yeah, okay, so we can talk a
+
+1372
+01:01:39,492 --> 01:01:42,662
+little more about it right now. I was going
+
+1373
+01:01:42,662 --> 01:01:45,572
+to go into the 3 plus 1 dimensional
+
+1374
+01:01:45,572 --> 01:01:48,482
+Dirac equation, but since you asked, let's discuss
+
+1375
+01:01:48,482 --> 01:01:55,602
+it a little bit.
+
+1376
+01:01:55,602 --> 01:01:58,502
+The Higgs field is a bosonic field.
+
+1377
+01:01:58,502 --> 01:01:59,502
+Hmm-mm-mm.
+
+1378
+01:01:59,502 --> 01:02:00,102
+Hmm-mm-mm.
+
+1379
+01:02:00,302 --> 01:02:03,142
+fields, let's call it phi, they have potential
+
+1380
+01:02:03,142 --> 01:02:05,982
+energy. They first of all have energy which
+
+1381
+01:02:05,982 --> 01:02:08,822
+depends on the gradients of the field,
+
+1382
+01:02:08,822 --> 01:02:11,662
+both space gradients and time gradients. Let's
+
+1383
+01:02:11,662 --> 01:02:14,282
+not worry about that. They also have energy
+
+1384
+01:02:14,282 --> 01:02:16,902
+which just depends on the value of the field
+
+1385
+01:02:16,902 --> 01:02:21,142
+itself. The Maxwell field, for example, has
+
+1386
+01:02:21,142 --> 01:02:25,382
+energy which is E squared plus B squared,
+
+1387
+01:02:25,382 --> 01:02:27,462
+electric field squared plus magnetic field squared.
+
+1388
+01:02:27,462 --> 01:02:29,542
+Now both the electric field and the
+
+1389
+01:02:29,542 --> 01:02:32,491
+magnetic field are proportional to derivatives
+
+1390
+01:02:32,491 --> 01:02:35,441
+of the vector potential, time derivatives
+
+1391
+01:02:35,441 --> 01:02:37,931
+and space derivatives. So in that case,
+
+1392
+01:02:37,931 --> 01:02:40,422
+all of the energy is associated with gradients
+
+1393
+01:02:40,422 --> 01:02:43,751
+of fields. For the Higgs field, there are, or
+
+1394
+01:02:43,751 --> 01:02:47,081
+for a scalar field, you can have an energy
+
+1395
+01:02:47,081 --> 01:02:50,061
+which is a sort of called the potential energy
+
+1396
+01:02:50,061 --> 01:02:53,042
+of the field, V of phi. It does not depend
+
+1397
+01:02:53,042 --> 01:02:55,441
+on either space derivatives or time derivatives.
+
+1398
+01:02:55,441 --> 01:02:57,841
+It's an energy density. It's an energy density
+
+1399
+01:02:57,841 --> 01:02:58,561
+in the field.
+
+1400
+01:02:59,542 --> 01:03:02,321
+And then principle, unless you have some deep
+
+1401
+01:03:02,321 --> 01:03:05,101
+principles to guide you, this V of phi
+
+1402
+01:03:05,101 --> 01:03:09,662
+could be anything, any reasonable function of phi.
+
+1403
+01:03:09,662 --> 01:03:13,072
+Okay. Now there are some symmetries for the
+
+1404
+01:03:13,072 --> 01:03:16,482
+case of the Higgs field. For example, one
+
+1405
+01:03:16,482 --> 01:03:19,422
+symmetry is that phi, a positive and
+
+1406
+01:03:19,422 --> 01:03:22,362
+negative phi, are identical to each other. There's
+
+1407
+01:03:22,362 --> 01:03:24,851
+a symmetry of phi becomes minus phi, it's
+
+1408
+01:03:24,851 --> 01:03:27,341
+symmetric, and that means that V of phi should
+
+1409
+01:03:27,341 --> 01:03:29,382
+be a symmetric function. Why, why I say that?
+
+1410
+01:03:29,542 --> 01:03:31,621
+It's not important right now. It's just true.
+
+1411
+01:03:31,621 --> 01:03:33,701
+So it means it should be a symmetric function
+
+1412
+01:03:33,701 --> 01:03:36,571
+on the left and right. If it has a
+
+1413
+01:03:36,571 --> 01:03:39,441
+bulge over here, it should have a bulge over here.
+
+1414
+01:03:39,441 --> 01:03:44,621
+Now for whatever reason, and the reasons
+
+1415
+01:03:44,621 --> 01:03:49,802
+are still not completely settled completely, V
+
+1416
+01:03:49,802 --> 01:03:54,472
+of phi is a function which looks like this.
+
+1417
+01:03:54,472 --> 01:03:59,142
+Why that is so? As I said, nobody really knows
+
+1418
+01:03:59,542 --> 01:04:02,272
+so, but you pick a function, one function is
+
+1419
+01:04:02,272 --> 01:04:05,002
+as good as another. It has to be symmetric,
+
+1420
+01:04:05,002 --> 01:04:08,192
+but that's all. And from what we know
+
+1421
+01:04:08,192 --> 01:04:11,382
+about the laws of particle physics, it appears that
+
+1422
+01:04:11,382 --> 01:04:15,592
+the potential energy of the Higgs boson looks
+
+1423
+01:04:15,592 --> 01:04:19,802
+like this. Here's phi. Here's phi equals zero.
+
+1424
+01:04:19,802 --> 01:04:23,251
+And the minimum of the potential is at
+
+1425
+01:04:23,251 --> 01:04:26,701
+some non-zero values of phi, either over here or
+
+1426
+01:04:26,701 --> 01:04:28,982
+over here. You get to pick one.
+
+1427
+01:04:29,542 --> 01:04:34,121
+Is it here or is it here? Okay, so
+
+1428
+01:04:34,121 --> 01:04:38,701
+if the potential looked like that, you would say
+
+1429
+01:04:38,701 --> 01:04:42,161
+the minimum was at the origin. If that were
+
+1430
+01:04:42,161 --> 01:04:45,622
+the case, the vacuum value of phi, the state
+
+1431
+01:04:45,622 --> 01:04:48,161
+of lowest energy, the state of lowest potential
+
+1432
+01:04:48,161 --> 01:04:50,701
+energy, would have phi equal to zero, and
+
+1433
+01:04:50,701 --> 01:04:55,461
+the electron would have no mass. Okay?
+
+1434
+01:04:55,461 --> 01:04:57,421
+If for some reasons, the field of the vacuum
+
+1435
+01:04:57,421 --> 01:04:59,382
+would be at the origin, the state of lowest
+
+1436
+01:04:59,382 --> 01:04:59,442
+potential energy would have phi equal to
+
+1437
+01:04:59,442 --> 01:04:59,502
+zero, and the electron would have no mass.
+
+1438
+01:04:59,502 --> 01:05:01,862
+Okay? So if the field potential looks like
+
+1439
+01:05:01,862 --> 01:05:04,222
+this, then the state of lowest energy will
+
+1440
+01:05:04,222 --> 01:05:07,422
+either be over here or over here.
+
+1441
+01:05:07,422 --> 01:05:10,622
+There will be two configurations which will otherwise
+
+1442
+01:05:10,622 --> 01:05:14,112
+be identical, one with positive value of the
+
+1443
+01:05:14,112 --> 01:05:17,602
+field, one with negative value of the field.
+
+1444
+01:05:17,602 --> 01:05:21,522
+Either of them give rise to a mass here. Okay?
+
+1445
+01:05:21,522 --> 01:05:25,442
+Either of them give rise to a mass of V, of
+
+1446
+01:05:25,442 --> 01:05:27,392
+G times phi. And, you know, you can
+
+1447
+01:05:27,392 --> 01:05:29,342
+start asking, what's the mass of the vacuum? What's
+
+1448
+01:05:29,342 --> 01:05:29,842
+the mass of the vacuum? What's the mass
+
+1449
+01:05:29,842 --> 01:05:30,342
+of the vacuum? What's the mass of the vacuum?
+
+1450
+01:05:30,342 --> 01:05:31,602
+And, you know, you can start asking, why
+
+1451
+01:05:31,602 --> 01:05:32,862
+did nature choose to have a field potential
+
+1452
+01:05:32,862 --> 01:05:36,902
+which looks like this? Not completely clear at
+
+1453
+01:05:36,902 --> 01:05:40,942
+the moment. Okay, but, you see, our real
+
+1454
+01:05:40,942 --> 01:05:45,612
+vacuum is over here. Let's assume. Now, the
+
+1455
+01:05:45,612 --> 01:05:50,282
+field can be over here in the vacuum, but
+
+1456
+01:05:50,282 --> 01:05:54,732
+it can also be perturbed. It can oscillate
+
+1457
+01:05:54,732 --> 01:05:59,182
+about here. Just like a particle in a potential,
+
+1458
+01:05:59,182 --> 01:06:02,912
+oscillate back and forth, the Higgs field
+
+1459
+01:06:02,912 --> 01:06:06,642
+can vibrate. It can have a frequency. What
+
+1460
+01:06:06,642 --> 01:06:10,762
+corresponds to a vibrating Higgs field? Right.
+
+1461
+01:06:10,762 --> 01:06:14,882
+The frequency of the Higgs field is related
+
+1462
+01:06:14,882 --> 01:06:17,051
+to the mass of the Higgs particle, and
+
+1463
+01:06:17,051 --> 01:06:19,221
+the excitations of the Higgs field in which it's
+
+1464
+01:06:19,221 --> 01:06:22,441
+oscillating are like any other oscillation
+
+1465
+01:06:22,441 --> 01:06:25,662
+coming quanta. Those quanta are the Higgs
+
+1466
+01:06:25,662 --> 01:06:29,182
+particles. So the Higgs particles correspond to oscillation
+
+1467
+01:06:29,182 --> 01:06:33,331
+in here, but if the Higgs particle is very
+
+1468
+01:06:33,331 --> 01:06:37,481
+massive, it means it takes a lot of energy
+
+1469
+01:06:37,481 --> 01:06:40,021
+to get this field starting to vibrate. In
+
+1470
+01:06:40,021 --> 01:06:42,561
+the vacuum, it just sits there. The electron
+
+1471
+01:06:42,561 --> 01:06:45,511
+has a mass. Okay? If it
+
+1472
+01:06:45,511 --> 01:06:48,461
+starts to vibrate, that's a Higgs particle.
+
+1473
+01:06:48,461 --> 01:06:52,961
+Now, if the Higgs field is coupled in an
+
+1474
+01:06:52,961 --> 01:06:57,461
+interesting dynamical way to the electron field, then the
+
+1475
+01:06:59,182 --> 01:07:01,261
+energy has to be spare, and it should vibrate
+
+1476
+01:07:01,261 --> 01:07:03,341
+to the Higgs particle. Do you get any marché
+
+1477
+01:07:03,341 --> 01:07:03,981
+in it?
+
+1478
+01:07:03,981 --> 01:07:06,891
+Ja, I'm a huge fan of Higgs-faery
+
+1479
+01:07:06,891 --> 01:07:09,802
+reactions now, but it's hard to be purse.
+
+1480
+01:07:09,802 --> 01:07:12,641
+So if you analyze a crystal-yard classroom,
+
+1481
+01:07:12,641 --> 01:07:15,481
+and you want it to vibrate, and youroras
+
+1482
+01:07:15,481 --> 01:07:17,431
+seem to be very bread- 팔� sheyal- despite
+
+1483
+01:07:17,431 --> 01:07:19,382
+it being quite intimate, but if it gives you
+
+1484
+01:07:19,382 --> 01:07:21,002
+absolutely good energy because of it, if
+
+1485
+01:07:21,002 --> 01:07:22,622
+youroras deploy a Bioterium at this transition to
+
+1486
+01:07:22,622 --> 01:07:23,801
+the 여러분 we said it is, that is,
+
+1487
+01:07:23,801 --> 01:07:24,981
+if you apply electrons and electrons, pairs called
+
+1488
+01:07:24,981 --> 01:07:26,911
+gamma, or than enormously memories, theseufen- almighty
+
+1489
+01:07:26,911 --> 01:07:28,841
+mass. In the vacuum, if it's all
+
+1490
+01:07:29,182 --> 01:07:31,912
+an enormous amount of energy to excite
+
+1491
+01:07:31,912 --> 01:07:34,642
+one quantum's worth of vibration in here.
+
+1492
+01:07:34,642 --> 01:07:37,892
+So if a Higgs particle is massive, it means you've got
+
+1493
+01:07:37,892 --> 01:07:41,142
+to collide electrons with a lot of energy to get it vibrating.
+
+1494
+01:07:41,142 --> 01:07:43,441
+Once it's vibrating, those vibrations are
+
+1495
+01:07:43,441 --> 01:07:45,741
+the quanta of the Higgs field.
+
+1496
+01:07:45,741 --> 01:07:48,681
+So the quanta of the Higgs field
+
+1497
+01:07:48,681 --> 01:07:51,622
+is itself a legitimate quantum oscillating object,
+
+1498
+01:07:51,622 --> 01:07:54,182
+which is described by quanta.
+
+1499
+01:07:54,182 --> 01:07:56,782
+Those quanta are called the Higgs particle.
+
+1500
+01:07:56,782 --> 01:08:01,142
+And they are coupled to the electron and
+
+1501
+01:08:01,142 --> 01:08:05,502
+other fermion fields, quark fields and so forth,
+
+1502
+01:08:05,502 --> 01:08:09,002
+in such a way that a collision of
+
+1503
+01:08:09,002 --> 01:08:12,502
+two fermion fields can start the Higgs field vibrating.
+
+1504
+01:08:12,502 --> 01:08:14,042
+Action and reaction.
+
+1505
+01:08:14,042 --> 01:08:16,751
+In case if Higgs field starts vibrating,
+
+1506
+01:08:16,751 --> 01:08:19,461
+would it cause the electron mass to change?
+
+1507
+01:08:19,461 --> 01:08:21,421
+Yes.
+
+1508
+01:08:21,421 --> 01:08:23,242
+Yes.
+
+1509
+01:08:23,242 --> 01:08:26,602
+Yes, if you did get the Higgs field.
+
+1510
+01:08:26,602 --> 01:08:26,761
+If you did get the Higgs field.
+
+1511
+01:08:26,761 --> 01:08:28,202
+If you could get the Higgs
+
+1512
+01:08:28,202 --> 01:08:29,642
+field to move an appreciable amount,
+
+1513
+01:08:29,642 --> 01:08:32,812
+for example, if you could somehow get the Higgs field
+
+1514
+01:08:32,812 --> 01:08:35,982
+to get in balance up here and hold it there,
+
+1515
+01:08:35,982 --> 01:08:39,321
+the electron would have no mass.
+
+1516
+01:08:39,321 --> 01:08:41,941
+All right, now this takes huge amounts of energy.
+
+1517
+01:08:41,941 --> 01:08:45,221
+You could, to create a region of space and to
+
+1518
+01:08:45,221 --> 01:08:48,502
+hold it there, where the Higgs field is up here,
+
+1519
+01:08:48,502 --> 01:08:51,962
+would require an enormous amount of energy,
+
+1520
+01:08:51,962 --> 01:08:54,272
+so much energy that if you tried to make
+
+1521
+01:08:54,272 --> 01:08:56,582
+that region big enough to do an experiment in,
+
+1522
+01:08:56,582 --> 01:08:59,582
+it would create a black hole.
+
+1523
+01:08:59,582 --> 01:09:04,522
+So it's very difficult to arrange for a region
+
+1524
+01:09:04,522 --> 01:09:09,462
+of space to have a Higgs field sufficiently displaced,
+
+1525
+01:09:09,462 --> 01:09:12,171
+so that you could see an appreciable
+
+1526
+01:09:12,171 --> 01:09:14,881
+change in the mass of the electron.
+
+1527
+01:09:14,881 --> 01:09:16,932
+But yes, the answer is yes,
+
+1528
+01:09:16,932 --> 01:09:18,982
+electron, a quark or anything else,
+
+1529
+01:09:18,982 --> 01:09:21,252
+the answer is yes, that a displacement of the Higgs field would
+
+1530
+01:09:21,252 --> 01:09:23,522
+correspond to effectively a shift in the mass of a Higgs field.
+
+1531
+01:09:23,522 --> 01:09:23,881
+So what does that mean?
+
+1532
+01:09:23,881 --> 01:09:24,301
+What can I do?
+
+1533
+01:09:24,301 --> 01:09:24,702
+That's what I'm trying to do.
+
+1534
+01:09:24,702 --> 01:09:25,062
+What's the point?
+
+1535
+01:09:25,062 --> 01:09:25,402
+What's the point?
+
+1536
+01:09:25,402 --> 01:09:25,542
+What's the point?
+
+1537
+01:09:25,542 --> 01:09:25,841
+What's the point?
+
+1538
+01:09:25,841 --> 01:09:26,102
+What's the point?
+
+1539
+01:09:26,102 --> 01:09:26,202
+What's the point?
+
+1540
+01:09:26,202 --> 01:09:26,402
+What's the point?
+
+1541
+01:09:26,402 --> 01:09:26,421
+What's the point?
+
+1542
+01:09:26,421 --> 01:09:26,442
+What's the point?
+
+1543
+01:09:26,442 --> 01:09:26,542
+What's the point?
+
+1544
+01:09:26,542 --> 01:09:26,562
+What's the point?
+
+1545
+01:09:26,582 --> 01:09:27,582
+the electron.
+
+1546
+01:09:27,582 --> 01:09:32,082
+So what is the reason we
+
+1547
+01:09:32,082 --> 01:09:36,582
+think there is a Higgs field and…
+
+1548
+01:09:36,582 --> 01:09:39,582
+The electron has mass.
+
+1549
+01:09:39,582 --> 01:09:41,582
+No, we don't think there's only one necessarily.
+
+1550
+01:09:41,582 --> 01:09:45,082
+So each particle, are electrons and quarks
+
+1551
+01:09:45,082 --> 01:09:48,582
+each have their own H to generate their…
+
+1552
+01:09:48,582 --> 01:09:53,582
+No, no, no, no.
+
+1553
+01:09:53,582 --> 01:09:59,082
+In the standard model of particle physics is one Higgs and it
+
+1554
+01:09:59,082 --> 01:10:04,582
+does the work for all of the particles, electrons, quarks and so forth.
+
+1555
+01:10:04,582 --> 01:10:07,582
+In a supersymmetric version of it there are two.
+
+1556
+01:10:07,582 --> 01:10:11,082
+One of them for up quarks, well
+
+1557
+01:10:11,082 --> 01:10:14,582
+it's just two, but no more than two.
+
+1558
+01:10:14,582 --> 01:10:17,082
+And it's not that one is
+
+1559
+01:10:17,082 --> 01:10:19,582
+for electrons and one is for quarks.
+
+1560
+01:10:19,582 --> 01:10:22,582
+It's a little more complicated than that.
+
+1561
+01:10:22,582 --> 01:10:23,582
+Okay.
+
+1562
+01:10:23,582 --> 01:10:28,582
+In some ways more complicated and in some ways simpler.
+
+1563
+01:10:28,582 --> 01:10:32,582
+So in a supersymmetric theory there are two Higgs bosons.
+
+1564
+01:10:32,582 --> 01:10:36,582
+In a regular ordinary theory there's only one.
+
+1565
+01:10:36,582 --> 01:10:38,582
+And the Higgs field is
+
+1566
+01:10:38,582 --> 01:10:40,582
+a little more complicated than this.
+
+1567
+01:10:40,582 --> 01:10:46,582
+I didn't give it its full glory, but I gave you the basic idea
+
+1568
+01:10:46,582 --> 01:10:52,582
+that the Higgs particle is an oscillation at the bottom of this potential well.
+
+1569
+01:10:52,582 --> 01:10:56,082
+And the Higgs field in the vacuum is the
+
+1570
+01:10:56,082 --> 01:10:59,582
+origin of the mass of the electron and the quarks.
+
+1571
+01:10:59,582 --> 01:11:01,582
+And the real question is why do
+
+1572
+01:11:01,582 --> 01:11:03,582
+you have to go to such lengths?
+
+1573
+01:11:03,582 --> 01:11:06,582
+Why don't you just give the electron in the
+
+1574
+01:11:06,582 --> 01:11:09,582
+equations a mass in the hell with the Higgs field?
+
+1575
+01:11:09,582 --> 01:11:13,082
+And that has a lot to do
+
+1576
+01:11:13,082 --> 01:11:16,582
+with the weak interactions and unification or not.
+
+1577
+01:11:16,582 --> 01:11:19,082
+In the supersymmetric case then
+
+1578
+01:11:19,082 --> 01:11:21,582
+are they two Higgs particles?
+
+1579
+01:11:21,582 --> 01:11:25,582
+No, no, no, not really.
+
+1580
+01:11:25,582 --> 01:11:29,582
+It's just there's one which gives mass to up quarks and
+
+1581
+01:11:29,582 --> 01:11:33,582
+the other one which gives mass to down quarks and electrons.
+
+1582
+01:11:33,582 --> 01:11:36,582
+And it's a little funny.
+
+1583
+01:11:36,582 --> 01:11:39,582
+I mean it's a technical feature of supersymmetric
+
+1584
+01:11:39,582 --> 01:11:42,582
+theories which in itself is not terribly interesting.
+
+1585
+01:11:42,582 --> 01:11:46,582
+Not terribly conceptually interesting.
+
+1586
+01:11:46,582 --> 01:11:48,582
+It's just to keep all the symmetries and
+
+1587
+01:11:48,582 --> 01:11:50,582
+everything you're forced to throw in two Higgs bosons.
+
+1588
+01:11:50,582 --> 01:11:53,582
+It's one of the, to my mind,
+
+1589
+01:11:53,582 --> 01:11:56,582
+one of the ugly features of supersymmetric theories.
+
+1590
+01:11:56,582 --> 01:12:01,582
+But it may be true, ugly or not.
+
+1591
+01:12:01,582 --> 01:12:03,582
+So question, if the Higgs particle has
+
+1592
+01:12:03,582 --> 01:12:05,582
+mass, where does that mass come from?
+
+1593
+01:12:05,666 --> 01:12:06,506
+Ah.
+
+1594
+01:12:10,562 --> 01:12:13,562
+from the Higgs particle.
+
+1595
+01:12:13,562 --> 01:12:14,062
+No, no.
+
+1596
+01:12:20,202 --> 01:12:22,542
+Yeah, we're getting in over our heads now,
+
+1597
+01:12:22,542 --> 01:12:24,862
+because much of this, no, no.
+
+1598
+01:12:24,862 --> 01:12:27,442
+I mean, we want to take it easy.
+
+1599
+01:12:27,442 --> 01:12:28,902
+Where does the Higgs mass come from?
+
+1600
+01:12:28,902 --> 01:12:30,742
+Nobody knows at the moment.
+
+1601
+01:12:33,682 --> 01:12:34,952
+The real question is not why
+
+1602
+01:12:34,952 --> 01:12:36,222
+the Higgs particle has a mass.
+
+1603
+01:12:36,222 --> 01:12:39,042
+The real question, honestly, is why the Higgs particle mass
+
+1604
+01:12:39,042 --> 01:12:41,802
+is so small.
+
+1605
+01:12:41,802 --> 01:12:42,302
+OK.
+
+1606
+01:12:46,122 --> 01:12:48,482
+There are symmetries involved in this whole story.
+
+1607
+01:12:48,482 --> 01:12:51,002
+Symmetries are very important to the story.
+
+1608
+01:12:51,002 --> 01:12:58,042
+Let's suppose we had a reason to believe
+
+1609
+01:12:58,042 --> 01:13:00,382
+that there was a symmetry.
+
+1610
+01:13:03,222 --> 01:13:05,002
+Let's see, what is the symmetry?
+
+1611
+01:13:09,042 --> 01:13:13,542
+Symmetries are very important in the study of mass.
+
+1612
+01:13:13,542 --> 01:13:16,422
+Symmetries are very important to the study of mass.
+
+1613
+01:13:16,422 --> 01:13:18,241
+So we can't just assume that the vacuum is symmetric.
+
+1614
+01:13:18,241 --> 01:13:19,722
+And that's not what we're talking about here.
+
+1615
+01:13:19,722 --> 01:13:20,802
+The vacuum has to be symmetric.
+
+1616
+01:13:20,802 --> 01:13:21,722
+OK, so let's come back to it.
+
+1617
+01:13:21,722 --> 01:13:22,422
+Let's come back to it.
+
+1618
+01:13:22,422 --> 01:13:24,282
+This is an interesting model to explain,
+
+1619
+01:13:24,282 --> 01:13:26,642
+to understand the relation between symmetries
+
+1620
+01:13:26,642 --> 01:13:28,261
+and particle masses.
+
+1621
+01:13:28,261 --> 01:13:29,222
+Let's come back to it.
+
+1622
+01:13:29,222 --> 01:13:30,292
+But I will tell you
+
+1623
+01:13:30,292 --> 01:13:31,362
+that the basic symmetry I'm thinking
+
+1624
+01:13:31,362 --> 01:13:35,541
+about is this left-right symmetric symmetry here.
+
+1625
+01:13:35,541 --> 01:13:38,922
+If the vacuum was left-right symmetric, it would mean, left,
+
+1626
+01:13:38,922 --> 01:13:41,572
+have to be zero, and the mass
+
+1627
+01:13:41,572 --> 01:13:44,222
+of the electron would have to be zero.
+
+1628
+01:13:44,222 --> 01:13:47,372
+So it's the breaking of symmetry which
+
+1629
+01:13:47,372 --> 01:13:50,522
+is what provides the mass of the electron.
+
+1630
+01:13:50,522 --> 01:13:53,372
+Now many of the particles, the basic structure
+
+1631
+01:13:53,372 --> 01:13:56,222
+of the theory is such that there are symmetries
+
+1632
+01:13:56,222 --> 01:13:59,022
+which would tell you that if the vacuum
+
+1633
+01:13:59,022 --> 01:14:01,822
+was symmetric, those particles would have to be
+
+1634
+01:14:01,822 --> 01:14:03,402
+massless.
+
+1635
+01:14:03,402 --> 01:14:06,242
+And they only can get a mass by
+
+1636
+01:14:06,242 --> 01:14:09,082
+virtue of the vacuum being asymmetric like that.
+
+1637
+01:14:09,082 --> 01:14:17,162
+That is all of the particles that we know.
+
+1638
+01:14:17,162 --> 01:14:20,722
+All of the particles that we know of,
+
+1639
+01:14:20,722 --> 01:14:24,282
+with the exception of one, namely the photon, get
+
+1640
+01:14:24,282 --> 01:14:27,462
+their mass, or would be massless, would not have
+
+1641
+01:14:27,462 --> 01:14:30,642
+mass if the Higgs field was at the center
+
+1642
+01:14:30,642 --> 01:14:32,042
+here.
+
+1643
+01:14:32,042 --> 01:14:33,382
+The photon is an exception.
+
+1644
+01:14:33,382 --> 01:14:35,742
+Only because it doesn't have any mass.
+
+1645
+01:14:35,742 --> 01:14:36,942
+It's not an exception.
+
+1646
+01:14:36,942 --> 01:14:39,242
+It has no mass.
+
+1647
+01:14:39,242 --> 01:14:42,202
+But all the particles that have mass have
+
+1648
+01:14:42,202 --> 01:14:45,162
+mass because the Higgs field is not at the
+
+1649
+01:14:45,162 --> 01:14:46,162
+center.
+
+1650
+01:14:46,162 --> 01:14:50,041
+That's where the, oh I'm sorry, there is
+
+1651
+01:14:50,041 --> 01:14:53,921
+one exception, apart from the photon, the Higgs
+
+1652
+01:14:53,921 --> 01:14:55,942
+particle itself.
+
+1653
+01:14:55,942 --> 01:14:59,052
+The Higgs particle itself could have a mass
+
+1654
+01:14:59,052 --> 01:15:02,162
+even if it didn't have an offset like this.
+
+1655
+01:15:02,162 --> 01:15:03,342
+So the Higgs particle gets
+
+1656
+01:15:03,342 --> 01:15:07,172
+its mass from a totally different mechanism
+
+1657
+01:15:07,172 --> 01:15:11,002
+than electrons, quarks, Z bosons, W bosons,
+
+1658
+01:15:11,002 --> 01:15:14,082
+all those other particles have mass
+
+1659
+01:15:14,082 --> 01:15:17,162
+because of a mechanism like this.
+
+1660
+01:15:17,162 --> 01:15:19,782
+Only the Higgs boson gets its mass from
+
+1661
+01:15:19,782 --> 01:15:22,402
+some other mechanism, but we don't, we haven't
+
+1662
+01:15:22,402 --> 01:15:25,082
+gotten far enough yet to discuss that.
+
+1663
+01:15:25,082 --> 01:15:26,082
+We'll come to it.
+
+1664
+01:15:26,082 --> 01:15:27,082
+How about a graviton?
+
+1665
+01:15:27,082 --> 01:15:28,082
+Hm?
+
+1666
+01:15:28,082 --> 01:15:29,082
+How about a graviton?
+
+1667
+01:15:29,082 --> 01:15:30,082
+Does that have a mass?
+
+1668
+01:15:30,082 --> 01:15:31,082
+No, there's no mass.
+
+1669
+01:15:31,082 --> 01:15:32,082
+With the Higgs particle?
+
+1670
+01:15:32,082 --> 01:15:33,082
+No, there's no mass.
+
+1671
+01:15:33,082 --> 01:15:33,822
+It's like a Higgs field.
+
+1672
+01:15:33,822 --> 01:15:34,822
+It has no mass, a graviton.
+
+1673
+01:15:34,822 --> 01:15:35,822
+Okay, so it's like a photon.
+
+1674
+01:15:35,822 --> 01:15:36,822
+Like a photon.
+
+1675
+01:15:36,822 --> 01:15:37,822
+A photon is not unique.
+
+1676
+01:15:37,822 --> 01:15:38,822
+It's not what?
+
+1677
+01:15:38,822 --> 01:15:39,822
+The photon is not unique.
+
+1678
+01:15:39,822 --> 01:15:40,822
+It's zero mass.
+
+1679
+01:15:40,822 --> 01:15:41,822
+Right.
+
+1680
+01:15:41,822 --> 01:15:42,822
+The graviton is the only other.
+
+1681
+01:15:42,822 --> 01:15:43,822
+In theory.
+
+1682
+01:15:43,822 --> 01:15:44,822
+In theory.
+
+1683
+01:15:44,822 --> 01:15:45,822
+Well, we don't know that it's the only other one.
+
+1684
+01:15:45,822 --> 01:16:00,002
+It's the only of the known objects in nature.
+
+1685
+01:16:00,002 --> 01:16:00,502
+The only things which move with
+
+1686
+01:16:00,502 --> 01:16:01,002
+the speed of light are the particles.
+
+1687
+01:16:01,002 --> 01:16:02,002
+The particles are the only objects in nature.
+
+1688
+01:16:02,002 --> 01:16:03,002
+The particles are the only objects in nature.
+
+1689
+01:16:03,002 --> 01:16:06,522
+They are photons and gravitons of the known things.
+
+1690
+01:16:06,522 --> 01:16:08,552
+At one time it was thought that neutrinos
+
+1691
+01:16:08,552 --> 01:16:10,582
+were massless, but we now know that neutrinos
+
+1692
+01:16:10,582 --> 01:16:12,762
+have a tiny little bit of mass,
+
+1693
+01:16:12,762 --> 01:16:14,942
+which means that there's this left-right coupling between
+
+1694
+01:16:14,942 --> 01:16:15,942
+them.
+
+1695
+01:16:15,942 --> 01:16:16,942
+It's very small.
+
+1696
+01:16:16,942 --> 01:16:20,052
+Now, why it's so small is another question,
+
+1697
+01:16:20,052 --> 01:16:23,162
+and we'll try to get to these things.
+
+1698
+01:16:23,162 --> 01:16:30,242
+But, uh...
+
+1699
+01:16:30,242 --> 01:16:31,862
+Should we talk about the four dimensions?
+
+1700
+01:16:31,862 --> 01:16:32,862
+The three dimensions?
+
+1701
+01:16:32,862 --> 01:16:33,862
+The three dimensions?
+
+1702
+01:16:33,862 --> 01:16:34,862
+The three dimensions?
+
+1703
+01:16:34,862 --> 01:16:35,362
+The three dimensions plus
+
+1704
+01:16:35,362 --> 01:16:35,862
+the one-dimensional Dirac equation?
+
+1705
+01:16:35,862 --> 01:16:40,832
+Yeah, the pattern is, once you
+
+1706
+01:16:40,832 --> 01:16:45,802
+understand this, the pattern is very similar.
+
+1707
+01:16:45,802 --> 01:16:52,802
+Again, particles are described, or fields, waves,
+
+1708
+01:16:52,802 --> 01:16:59,802
+are described by a frequency and a
+
+1709
+01:16:59,802 --> 01:17:00,802
+wave vector.
+
+1710
+01:17:00,802 --> 01:17:01,802
+A wave vector.
+
+1711
+01:17:01,802 --> 01:17:04,722
+The wave number becomes a wave vector, which
+
+1712
+01:17:04,722 --> 01:17:07,642
+is proportional to the momentum of a particle
+
+1713
+01:17:07,642 --> 01:17:11,802
+The wave vector has components, kx, ky, and kz
+
+1714
+01:17:13,562 --> 01:17:18,922
+And Dirac began by writing down a generalization
+
+1715
+01:17:18,922 --> 01:17:21,402
+Actually, I can write the same equation
+
+1716
+01:17:21,402 --> 01:17:25,802
+Omega equals, remember what it was, alpha times k
+
+1717
+01:17:26,922 --> 01:17:28,362
+Was there a minus?
+
+1718
+01:17:28,362 --> 01:17:30,602
+I think I had a minus in there
+
+1719
+01:17:30,602 --> 01:17:32,042
+Minus alpha times k
+
+1720
+01:17:34,762 --> 01:17:37,722
+And Dirac said, let's generalize this
+
+1721
+01:17:37,722 --> 01:17:38,922
+Oh, plus beta m
+
+1722
+01:17:39,962 --> 01:17:41,882
+Plus beta m
+
+1723
+01:17:44,442 --> 01:17:46,482
+Again, standing for a particular
+
+1724
+01:17:46,482 --> 01:17:48,522
+equation, a particular differential equation
+
+1725
+01:17:48,522 --> 01:17:51,482
+Time derivatives, space derivatives, and just mass
+
+1726
+01:17:55,882 --> 01:17:57,402
+Did I leave out the minus? Let's see
+
+1727
+01:17:58,042 --> 01:17:58,282
+Where?
+
+1728
+01:18:00,602 --> 01:18:04,722
+I'm not sure, I've lost track of whether
+
+1729
+01:18:04,722 --> 01:18:08,842
+there should be a minus there or not
+
+1730
+01:18:08,842 --> 01:18:11,722
+Maybe not, no, no minus, take it back
+
+1731
+01:18:11,722 --> 01:18:13,882
+No minus, I take it back
+
+1732
+01:18:13,882 --> 01:18:17,562
+No minus at all
+
+1733
+01:18:17,562 --> 01:18:25,562
+Okay, omega equals alpha k plus beta m
+
+1734
+01:18:25,562 --> 01:18:27,682
+Now Dirac said, look, let's
+
+1735
+01:18:27,682 --> 01:18:29,802
+try this in three dimensional space
+
+1736
+01:18:29,802 --> 01:18:32,282
+I have three components of
+
+1737
+01:18:32,282 --> 01:18:34,762
+momentum, I'll call this momentum now
+
+1738
+01:18:34,762 --> 01:18:37,402
+And therefore I have to have three components of alpha
+
+1739
+01:18:37,402 --> 01:18:42,202
+If it better be of the form, let's call it alpha one
+
+1740
+01:18:42,202 --> 01:18:47,002
+k one plus alpha two k two plus alpha three k three
+
+1741
+01:18:48,762 --> 01:18:50,962
+Three components of k, one, two, and
+
+1742
+01:18:50,962 --> 01:18:53,162
+three now mean x, y, and z
+
+1743
+01:18:54,442 --> 01:18:56,042
+Alpha one k one plus alpha two
+
+1744
+01:18:56,042 --> 01:18:57,642
+k two plus alpha three k three
+
+1745
+01:18:57,642 --> 01:18:59,642
+Is the natural generalization of k
+
+1746
+01:18:59,802 --> 01:19:03,132
+of this, plus beta m. He started out with this. He
+
+1747
+01:19:03,132 --> 01:19:06,462
+said that's the most general linear thing I can write down.
+
+1748
+01:19:07,482 --> 01:19:11,522
+It's nice and simple. Let's see if we can
+
+1749
+01:19:11,522 --> 01:19:15,562
+do business with an equation like this, with alpha
+
+1750
+01:19:15,562 --> 01:19:19,762
+and betas being matrices, in such a way that
+
+1751
+01:19:19,762 --> 01:19:23,962
+omega squared is equal to k squared plus m squared.
+
+1752
+01:19:23,962 --> 01:19:30,311
+We will require omega squared equals kx squared, or k1
+
+1753
+01:19:30,311 --> 01:19:36,661
+squared, plus k2 squared, plus k3 squared, plus m squared.
+
+1754
+01:19:37,002 --> 01:19:41,002
+That's relativity. Now, of course, there's more to relativity
+
+1755
+01:19:41,002 --> 01:19:45,002
+than just this equation, but he started with that.
+
+1756
+01:19:45,002 --> 01:19:46,641
+He said, let's try that. Let's see
+
+1757
+01:19:46,641 --> 01:19:48,281
+if we can do business with that.
+
+1758
+01:19:51,322 --> 01:19:51,801
+Good.
+
+1759
+01:19:53,962 --> 01:19:57,002
+Somebody's saying something, but I can't hear what it is.
+
+1760
+01:19:58,002 --> 01:19:58,522
+Okay.
+
+1761
+01:19:59,402 --> 01:20:00,642
+All right, so let's just square it.
+
+1762
+01:20:01,342 --> 01:20:03,082
+Omega squared, what are we going to get?
+
+1763
+01:20:04,322 --> 01:20:05,781
+Let's just multiply.
+
+1764
+01:20:07,202 --> 01:20:11,121
+Alpha 1, k1, plus alpha 2, k2,
+
+1765
+01:20:11,121 --> 01:20:15,041
+plus alpha 3, k3, plus beta m.
+
+1766
+01:20:18,101 --> 01:20:20,151
+You know, why he chose this
+
+1767
+01:20:20,151 --> 01:20:22,202
+particular form is a historical fact.
+
+1768
+01:20:22,262 --> 01:20:23,902
+It was simple. It was nice and simple.
+
+1769
+01:20:23,962 --> 01:20:28,042
+And let's try it. It was in that
+
+1770
+01:20:28,042 --> 01:20:32,122
+spirit. Let's try it and see what we get.
+
+1771
+01:20:32,822 --> 01:20:35,211
+All right, so first of all, we're going
+
+1772
+01:20:35,211 --> 01:20:37,601
+to get things like alpha 1 squared, k1 squared.
+
+1773
+01:20:37,682 --> 01:20:40,221
+We're going to have similar things for alpha 2
+
+1774
+01:20:40,221 --> 01:20:42,761
+squared, k2 squared, alpha 3 squared, plus k3 squared.
+
+1775
+01:20:43,141 --> 01:20:45,991
+It's pretty obvious we had better choose all of
+
+1776
+01:20:45,991 --> 01:20:48,842
+the square of each alpha to be equal to 1.
+
+1777
+01:20:49,481 --> 01:20:51,641
+Okay, so we can write that
+
+1778
+01:20:51,641 --> 01:20:53,802
+then alpha sub i squared equals 1.
+
+1779
+01:20:53,962 --> 01:20:57,202
+For alpha, for i equals 1, 2, and 3.
+
+1780
+01:20:57,322 --> 01:20:59,192
+The square of each alpha matrix, each
+
+1781
+01:20:59,192 --> 01:21:01,062
+one of them, has to be 1.
+
+1782
+01:21:01,261 --> 01:21:02,261
+That's the first condition.
+
+1783
+01:21:03,482 --> 01:21:04,682
+Let me write it up here.
+
+1784
+01:21:05,742 --> 01:21:09,802
+Alpha 1 squared equals alpha 2
+
+1785
+01:21:09,802 --> 01:21:13,862
+squared equals alpha 3 squared equals 1.
+
+1786
+01:21:14,462 --> 01:21:15,342
+All three of them.
+
+1787
+01:21:15,902 --> 01:21:17,362
+Now, what about beta?
+
+1788
+01:21:17,362 --> 01:21:20,371
+When we multiply beta squared, we're
+
+1789
+01:21:20,371 --> 01:21:23,381
+also going to want to match.
+
+1790
+01:21:23,962 --> 01:21:25,962
+Where's the...
+
+1791
+01:21:27,141 --> 01:21:29,342
+Yeah, we're going to want to match this.
+
+1792
+01:21:29,982 --> 01:21:32,261
+So also beta squared had better be equal to 1.
+
+1793
+01:21:36,402 --> 01:21:37,822
+We're going to get some other terms.
+
+1794
+01:21:37,982 --> 01:21:39,732
+We're going to get terms, for
+
+1795
+01:21:39,732 --> 01:21:41,482
+example, which have k1 times k2.
+
+1796
+01:21:42,521 --> 01:21:44,001
+They'll come from two places.
+
+1797
+01:21:44,562 --> 01:21:46,682
+We'll have k1, k2 from these two terms.
+
+1798
+01:21:46,742 --> 01:21:47,521
+Can everybody see it?
+
+1799
+01:21:49,062 --> 01:21:51,422
+But we'll also get terms from these two terms.
+
+1800
+01:21:51,962 --> 01:21:52,641
+Same term.
+
+1801
+01:21:52,641 --> 01:21:53,782
+k1, k2.
+
+1802
+01:21:53,962 --> 01:21:56,302
+So what do we have for k1, k2?
+
+1803
+01:21:56,381 --> 01:21:57,902
+We'll have k1, k2.
+
+1804
+01:21:58,442 --> 01:22:00,962
+We'll have alpha 1, alpha
+
+1805
+01:22:00,962 --> 01:22:03,482
+2 plus alpha 2, alpha 1.
+
+1806
+01:22:03,822 --> 01:22:05,102
+What do we want to do with that?
+
+1807
+01:22:05,942 --> 01:22:06,422
+Zero.
+
+1808
+01:22:06,761 --> 01:22:07,381
+Got to be zero.
+
+1809
+01:22:08,482 --> 01:22:11,892
+And more generally, the anti-commutator of
+
+1810
+01:22:11,892 --> 01:22:15,302
+two alphas had better be zero
+
+1811
+01:22:15,302 --> 01:22:17,372
+if they're not the same, if
+
+1812
+01:22:17,372 --> 01:22:19,442
+they don't have the same index.
+
+1813
+01:22:20,141 --> 01:22:20,702
+Okay.
+
+1814
+01:22:21,422 --> 01:22:23,641
+So we have alpha.
+
+1815
+01:22:23,962 --> 01:22:29,462
+I alpha j plus alpha j alpha i equals zero.
+
+1816
+01:22:30,042 --> 01:22:31,641
+I not equal to j.
+
+1817
+01:22:32,962 --> 01:22:35,862
+For i equal to j, it has to be 1.
+
+1818
+01:22:36,242 --> 01:22:41,222
+So you can write this in the form, if you like, if you
+
+1819
+01:22:41,222 --> 01:22:46,202
+like notation, alpha i alpha j plus alpha j alpha i equals delta ij.
+
+1820
+01:22:47,722 --> 01:22:50,822
+Another way of saying zero when i not
+
+1821
+01:22:50,822 --> 01:22:53,922
+equal to j, 1 when i equals to j.
+
+1822
+01:22:53,962 --> 01:22:57,762
+What about the terms which have
+
+1823
+01:22:57,762 --> 01:23:01,562
+products, for example, k times m.
+
+1824
+01:23:01,562 --> 01:23:04,641
+We're going to have k times m, k1 times m.
+
+1825
+01:23:05,042 --> 01:23:09,662
+k1 times m from here and k1, duck out of the
+
+1826
+01:23:09,662 --> 01:23:14,282
+way, k1 times m from here and k1 times m from here.
+
+1827
+01:23:15,482 --> 01:23:15,982
+All right.
+
+1828
+01:23:15,982 --> 01:23:19,352
+So we'll also have to have each one of the
+
+1829
+01:23:19,352 --> 01:23:22,722
+alphas plus dot dot dot dot dot dot dot dot
+
+1830
+01:23:23,242 --> 01:23:23,881
+plus
+
+1831
+01:23:23,962 --> 01:23:32,641
+k1 m alpha 1 beta plus beta alpha 1.
+
+1832
+01:23:35,042 --> 01:23:39,042
+We have to have the alphas all anticommute with beta.
+
+1833
+01:23:40,042 --> 01:23:40,542
+Okay.
+
+1834
+01:23:40,542 --> 01:23:44,892
+So we have to have for every alpha, alpha
+
+1835
+01:23:44,892 --> 01:23:49,242
+i beta plus beta alpha i must equal zero.
+
+1836
+01:23:50,442 --> 01:23:52,881
+If we can satisfy these relations,
+
+1837
+01:23:53,962 --> 01:23:55,962
+we can find four matrices altogether.
+
+1838
+01:23:55,962 --> 01:23:57,962
+Three alphas and one beta.
+
+1839
+01:23:57,962 --> 01:23:59,962
+Very symmetric.
+
+1840
+01:23:59,962 --> 01:24:03,962
+Every one of them anticommutes with any other one.
+
+1841
+01:24:03,962 --> 01:24:05,962
+Of all four of them, this is symmetric.
+
+1842
+01:24:05,962 --> 01:24:07,962
+If the four matrices, first of all,
+
+1843
+01:24:07,962 --> 01:24:09,962
+they all have to square to one.
+
+1844
+01:24:09,962 --> 01:24:13,962
+They all have to anticommute with each other.
+
+1845
+01:24:13,962 --> 01:24:15,962
+And that's it basically.
+
+1846
+01:24:15,962 --> 01:24:18,962
+If we can find four such matrices, then
+
+1847
+01:24:18,962 --> 01:24:21,962
+we can find a wave equation of the matrix.
+
+1848
+01:24:21,962 --> 01:24:22,962
+Okay.
+
+1849
+01:24:22,962 --> 01:24:23,122
+Okay.
+
+1850
+01:24:23,122 --> 01:24:23,242
+Okay.
+
+1851
+01:24:23,242 --> 01:24:24,242
+Okay.
+
+1852
+01:24:24,242 --> 01:24:27,242
+So we can find a wave
+
+1853
+01:24:27,242 --> 01:24:30,242
+equation of the same column matrix type,
+
+1854
+01:24:31,242 --> 01:24:33,242
+which will give us in
+
+1855
+01:24:33,242 --> 01:24:35,242
+four dimensions, three plus one dimensions,
+
+1856
+01:24:35,242 --> 01:24:36,742
+will give us omega squared
+
+1857
+01:24:36,742 --> 01:24:38,242
+equals k squared plus m squared.
+
+1858
+01:24:38,242 --> 01:24:42,242
+So Dirac set himself the task of finding
+
+1859
+01:24:42,242 --> 01:24:46,242
+a collection of four matrices which satisfied this rule.
+
+1860
+01:24:46,242 --> 01:24:47,742
+His first observation must have been
+
+1861
+01:24:47,742 --> 01:24:49,242
+a little bit of a disappointment,
+
+1862
+01:24:49,242 --> 01:24:50,742
+is that you can't do
+
+1863
+01:24:50,742 --> 01:24:52,242
+it with two by two matrices.
+
+1864
+01:24:52,242 --> 01:24:54,742
+You can find three matrices of the
+
+1865
+01:24:54,742 --> 01:24:57,242
+right form, which are square to one,
+
+1866
+01:24:57,242 --> 01:25:02,242
+and which mutually anticommute in this way.
+
+1867
+01:25:02,242 --> 01:25:04,742
+You can find three of them, the three
+
+1868
+01:25:04,742 --> 01:25:07,242
+Pauli matrices, but there is no fourth one.
+
+1869
+01:25:07,242 --> 01:25:11,242
+And so first attempt, failure.
+
+1870
+01:25:11,242 --> 01:25:13,242
+I don't know if it was Dirac's first attempt.
+
+1871
+01:25:13,242 --> 01:25:14,742
+He probably knew this so
+
+1872
+01:25:14,742 --> 01:25:16,242
+intuitively that it didn't even bother.
+
+1873
+01:25:16,242 --> 01:25:18,242
+But the first case where you
+
+1874
+01:25:18,242 --> 01:25:20,242
+can have matrices which satisfy this,
+
+1875
+01:25:20,242 --> 01:25:23,242
+is in four, not four dimensions of space time.
+
+1876
+01:25:23,242 --> 01:25:24,242
+That's not the point.
+
+1877
+01:25:24,242 --> 01:25:26,242
+Four by four matrices.
+
+1878
+01:25:26,242 --> 01:25:27,242
+Four by four matrices.
+
+1879
+01:25:27,242 --> 01:25:29,242
+There are four by four matrices
+
+1880
+01:25:29,242 --> 01:25:31,242
+which satisfy all of these conditions.
+
+1881
+01:25:31,242 --> 01:25:33,242
+There are no three by three
+
+1882
+01:25:33,242 --> 01:25:35,242
+and no two by two matrices.
+
+1883
+01:25:35,242 --> 01:25:38,242
+Just first case is four by four matrices.
+
+1884
+01:25:38,242 --> 01:25:40,742
+So Dirac figured out the four
+
+1885
+01:25:40,742 --> 01:25:43,242
+by four matrices, which satisfied these rules.
+
+1886
+01:25:43,242 --> 01:25:44,242
+I'm going to give them to you.
+
+1887
+01:25:44,242 --> 01:25:45,242
+I'm going to tell you what they are.
+
+1888
+01:25:45,242 --> 01:25:46,242
+You can study them.
+
+1889
+01:25:46,242 --> 01:25:48,242
+I'm going to give you the rules.
+
+1890
+01:25:48,242 --> 01:25:49,242
+I'm going to give you the rules.
+
+1891
+01:25:49,242 --> 01:25:52,242
+What they are, you can study them yourself.
+
+1892
+01:25:52,242 --> 01:25:57,242
+I'm not going to do the details.
+
+1893
+01:25:57,242 --> 01:26:01,242
+Four by four matrices, which satisfy these rules.
+
+1894
+01:26:01,242 --> 01:26:05,242
+They are called of course the Dirac matrices.
+
+1895
+01:26:09,242 --> 01:26:13,242
+Incidentally, that raises a puzzle from the beginning.
+
+1896
+01:26:13,242 --> 01:26:18,242
+The two by two matrices correspond,
+
+1897
+01:26:18,242 --> 01:26:20,282
+it had something to do
+
+1898
+01:26:20,282 --> 01:26:22,322
+with moving left and moving right
+
+1899
+01:26:22,322 --> 01:26:23,881
+What are these 4x4 matrices?
+
+1900
+01:26:23,881 --> 01:26:26,931
+What are the four possibilities
+
+1901
+01:26:26,931 --> 01:26:29,982
+associated with the four matrices?
+
+1902
+01:26:29,982 --> 01:26:32,001
+And that's something we'll come to, I think, next time
+
+1903
+01:26:32,001 --> 01:26:34,041
+I don't think we'll do that tonight
+
+1904
+01:26:34,041 --> 01:26:38,501
+But the new ingredient is spin
+
+1905
+01:26:38,501 --> 01:26:39,501
+That...
+
+1906
+01:26:39,501 --> 01:26:42,621
+Okay, and we're going to have to
+
+1907
+01:26:42,621 --> 01:26:45,742
+learn a little bit about angular momentum
+
+1908
+01:26:45,742 --> 01:26:47,862
+before we can learn about spin
+
+1909
+01:26:47,862 --> 01:26:50,131
+Okay, so let me tell you
+
+1910
+01:26:50,131 --> 01:26:52,401
+what the minimal set of matrices
+
+1911
+01:26:52,401 --> 01:26:53,401
+They're not unique
+
+1912
+01:26:53,401 --> 01:26:58,202
+They're not unique up to some simple transformations
+
+1913
+01:26:58,202 --> 01:27:02,641
+But they're equivalent
+
+1914
+01:27:02,641 --> 01:27:04,391
+Not unique, but equivalent in the
+
+1915
+01:27:04,391 --> 01:27:06,141
+same sense that I can pick
+
+1916
+01:27:06,141 --> 01:27:10,381
+If I'm interested in mutually orthogonal axes in space
+
+1917
+01:27:10,381 --> 01:27:14,161
+Mutually orthogonal axes are not unique
+
+1918
+01:27:14,161 --> 01:27:16,661
+There's another set of mutually orthogonal axes
+
+1919
+01:27:16,661 --> 01:27:17,661
+They're not unique
+
+1920
+01:27:17,662 --> 01:27:20,412
+But they are equivalent in that the laws of
+
+1921
+01:27:20,412 --> 01:27:23,162
+physics in either set of axes are the same
+
+1922
+01:27:23,162 --> 01:27:25,922
+And you can make transformations from one to the other
+
+1923
+01:27:25,922 --> 01:27:29,412
+In the same sense, the choice of
+
+1924
+01:27:29,412 --> 01:27:32,902
+Dirac matrices is not unique, but equivalent
+
+1925
+01:27:32,902 --> 01:27:37,382
+And here's a particular solution
+
+1926
+01:27:37,382 --> 01:27:38,082
+Okay, so beta
+
+1927
+01:27:38,082 --> 01:27:38,782
+is equal to 1,0,0,0,0,1,0,0,0,2,2,0,0,1,0,0,2,2,0,0,0,0,2,2,0,2,0,0,2,0,0,0,1
+
+1928
+01:27:38,782 --> 01:27:46,842
+is equal to 1, 0, 0, 0, 0, 1, 0,
+
+1929
+01:27:46,842 --> 01:27:54,902
+0, 0, 0, minus 1, 0, 0, 0, 0, minus 1
+
+1930
+01:27:54,902 --> 01:27:57,382
+Okay, that's beta
+
+1931
+01:27:57,382 --> 01:28:00,622
+Now before I write the others, I want to simplify
+
+1932
+01:28:00,622 --> 01:28:02,362
+Well, maybe, yeah
+
+1933
+01:28:02,362 --> 01:28:08,022
+I think I'll write them without simplifying the notation
+
+1934
+01:28:08,022 --> 01:28:10,702
+Okay, that's beta
+
+1935
+01:28:10,702 --> 01:28:13,882
+Alpha 1
+
+1936
+01:28:13,882 --> 01:28:17,212
+And of course it's your job to
+
+1937
+01:28:17,212 --> 01:28:20,542
+go home and check these algebraic relations
+
+1938
+01:28:20,542 --> 01:28:25,242
+Okay
+
+1939
+01:28:37,242 --> 01:28:37,442
+Okay
+
+1940
+01:28:37,442 --> 01:28:37,482
+Okay
+
+1941
+01:28:40,022 --> 01:28:45,022
+Alpha 2 equals 0, 0, 0, 0
+
+1942
+01:28:45,022 --> 01:28:53,392
+Now I could start saving myself work
+
+1943
+01:28:53,392 --> 01:29:01,762
+by just dividing these things into 2x2 structures
+
+1944
+01:29:01,762 --> 01:29:03,482
+And call each one of these, give
+
+1945
+01:29:03,482 --> 01:29:05,202
+each one of these 2x2 matrices a name
+
+1946
+01:29:05,202 --> 01:29:06,482
+But I'll do that next time
+
+1947
+01:29:06,482 --> 01:29:07,442
+Okay
+
+1948
+01:29:07,442 --> 01:29:10,682
+Here goes alpha 2
+
+1949
+01:29:10,682 --> 01:29:12,762
+Anybody know what comes next?
+
+1950
+01:29:16,062 --> 01:29:19,102
+Minus i, i, 0
+
+1951
+01:29:19,102 --> 01:29:27,602
+And down here we have 0, minus i, i, 0
+
+1952
+01:29:27,602 --> 01:29:31,881
+And then 0, 0, 0, 0
+
+1953
+01:29:31,881 --> 01:29:34,442
+Alpha 3
+
+1954
+01:29:34,442 --> 01:29:35,442
+Alpha 3
+
+1955
+01:29:35,442 --> 01:29:36,562
+Alpha 3
+
+1956
+01:29:36,562 --> 01:29:36,881
+Alpha 3
+
+1957
+01:29:36,881 --> 01:29:48,941
+下
+
+1958
+01:29:48,941 --> 01:29:49,721
+No
+
+1959
+01:29:59,762 --> 01:30:02,642
+Minus 1
+
+1960
+01:30:02,642 --> 01:30:04,302
+Zero
+
+1961
+01:30:04,302 --> 01:30:06,022
+No
+
+1962
+01:30:06,022 --> 01:30:06,201
+Oh, yeah
+
+1963
+01:30:06,201 --> 01:30:06,282
+Oh, yeah
+
+1964
+01:30:06,282 --> 01:30:06,842
+Yeah
+
+1965
+01:30:06,882 --> 01:30:19,001
+1, 0, 0, minus 1, 0, 0, 0, 0
+
+1966
+01:30:23,001 --> 01:30:27,651
+A more nifty notation is to
+
+1967
+01:30:27,651 --> 01:30:32,302
+divide things into blocks of 2x2 matrices
+
+1968
+01:30:32,302 --> 01:30:36,062
+Alright, each one a block of 2x2 matrices
+
+1969
+01:30:37,062 --> 01:30:41,102
+And then write them in the form beta
+
+1970
+01:30:41,102 --> 01:30:45,142
+is equal to the unit, let's call it i
+
+1971
+01:30:46,142 --> 01:30:50,062
+For identity or unit matrix here, unit 2x2 matrix
+
+1972
+01:30:50,562 --> 01:30:56,542
+0 for 0, 0, 0, 0, 0, minus i
+
+1973
+01:30:57,542 --> 01:31:00,802
+Where each entry is now a 2x2 matrix
+
+1974
+01:31:02,302 --> 01:31:04,922
+Okay, and alpha
+
+1975
+01:31:07,402 --> 01:31:14,262
+Is equal to 0, sigma, sigma, 0
+
+1976
+01:31:15,802 --> 01:31:18,962
+Where these matrices are the three Pauli matrices
+
+1977
+01:31:18,962 --> 01:31:20,662
+The three Pauli matrices, if you don't
+
+1978
+01:31:20,662 --> 01:31:22,362
+know what they are, here they are
+
+1979
+01:31:23,782 --> 01:31:28,842
+Sigma 1, sigma 2, and sigma 3
+
+1980
+01:31:28,842 --> 01:31:30,132
+We're going to come back
+
+1981
+01:31:30,132 --> 01:31:31,422
+to these matrices, they're very important
+
+1982
+01:31:32,302 --> 01:31:35,552
+Okay, these objects satisfy
+
+1983
+01:31:35,552 --> 01:31:38,802
+the Dirac anti-commutation relations
+
+1984
+01:31:38,802 --> 01:31:40,802
+And if you write a wave
+
+1985
+01:31:40,802 --> 01:31:42,802
+equation, what would the wave equation be?
+
+1986
+01:31:42,802 --> 01:31:44,802
+The wave equation would be
+
+1987
+01:31:45,802 --> 01:31:46,802
+Um
+
+1988
+01:31:50,802 --> 01:31:52,802
+Well, let's write it down
+
+1989
+01:31:54,302 --> 01:31:56,302
+You first of all
+
+1990
+01:31:57,302 --> 01:31:59,602
+Make a four component psi, psi
+
+1991
+01:31:59,602 --> 01:32:01,902
+1, psi 2, psi 3, psi 4
+
+1992
+01:32:02,302 --> 01:32:04,302
+Corresponding to the 4x4 matrix entries
+
+1993
+01:32:04,302 --> 01:32:08,302
+And you write that derivative of psi
+
+1994
+01:32:08,302 --> 01:32:10,302
+With respect to t
+
+1995
+01:32:10,302 --> 01:32:12,302
+Times i
+
+1996
+01:32:12,302 --> 01:32:14,302
+Is equal to minus
+
+1997
+01:32:14,302 --> 01:32:16,302
+Alpha i
+
+1998
+01:32:16,302 --> 01:32:18,302
+With an i
+
+1999
+01:32:18,302 --> 01:32:20,302
+Derivative of psi with respect to xi
+
+2000
+01:32:20,302 --> 01:32:22,302
+X i means x, y, and z
+
+2001
+01:32:22,302 --> 01:32:24,302
+This means alpha y
+
+2002
+01:32:24,302 --> 01:32:26,302
+And this means alpha y
+
+2003
+01:32:26,302 --> 01:32:28,302
+And this means alpha y
+
+2004
+01:32:28,302 --> 01:32:30,302
+And this means alpha y
+
+2005
+01:32:30,302 --> 01:32:32,302
+And this means alpha y
+
+2006
+01:32:32,302 --> 01:32:33,302
+So alpha y is 1
+
+2007
+01:32:33,302 --> 01:32:34,302
+times derivative with respect to x
+
+2008
+01:32:34,302 --> 01:32:37,302
+Alpha 2, derivative with respect to y, and so forth
+
+2009
+01:32:37,302 --> 01:32:39,302
+Summed over i
+
+2010
+01:32:39,302 --> 01:32:45,302
+And then plus beta m psi
+
+2011
+01:32:45,302 --> 01:32:47,302
+That's the famous Dirac equation
+
+2012
+01:32:47,302 --> 01:32:49,302
+And it stands for four equations
+
+2013
+01:32:50,302 --> 01:32:52,302
+Four equations
+
+2014
+01:32:52,302 --> 01:32:53,802
+In which the components get
+
+2015
+01:32:53,802 --> 01:32:55,302
+a good deal more mixed up
+
+2016
+01:32:55,302 --> 01:32:57,302
+Than in the one, in
+
+2017
+01:32:57,302 --> 01:32:59,302
+the easier case, the one dimension
+
+2018
+01:32:59,302 --> 01:33:00,302
+They get more mixed up
+
+2019
+01:33:00,302 --> 01:33:01,302
+because there's a lot of off-topics
+
+2020
+01:33:02,302 --> 01:33:05,302
+And then there's the off-diagonal matrix elements here
+
+2021
+01:33:05,302 --> 01:33:07,302
+That means when they're off-diagonal
+
+2022
+01:33:07,302 --> 01:33:09,302
+It means the matrix elements get mixed up
+
+2023
+01:33:09,302 --> 01:33:12,302
+The different components
+
+2024
+01:33:12,302 --> 01:33:14,302
+In a fairly intricate way
+
+2025
+01:33:14,302 --> 01:33:16,802
+But still it's a coupled
+
+2026
+01:33:16,802 --> 01:33:19,302
+set of linear differential equations
+
+2027
+01:33:19,302 --> 01:33:21,302
+For four components
+
+2028
+01:33:21,302 --> 01:33:23,302
+Where the matrices sort of entangle
+
+2029
+01:33:23,302 --> 01:33:25,302
+Or entangle is a technical term
+
+2030
+01:33:25,302 --> 01:33:27,302
+I shouldn't use it
+
+2031
+01:33:27,302 --> 01:33:31,302
+Where the matrices couple the various components together
+
+2032
+01:33:31,302 --> 01:33:33,302
+It's called the Dirac equation
+
+2033
+01:33:37,302 --> 01:33:39,302
+We will come back to it
+
+2034
+01:33:39,302 --> 01:33:43,302
+And the next time we'll discuss where spin comes from
+
+2035
+01:33:43,302 --> 01:33:46,302
+Where spin comes from is the
+
+2036
+01:33:48,302 --> 01:33:50,302
+Extra doubling, if you like
+
+2037
+01:33:50,302 --> 01:33:53,302
+Of the size of the matrices
+
+2038
+01:33:53,302 --> 01:33:56,302
+Is there a c that sort of is some more
+
+2039
+01:33:56,302 --> 01:33:58,302
+Function as the m over here?
+
+2040
+01:33:58,302 --> 01:33:59,302
+Sure, cc
+
+2041
+01:33:59,302 --> 01:34:00,302
+Hold on, what?
+
+2042
+01:34:01,302 --> 01:34:03,302
+We have an m over here and
+
+2043
+01:34:03,302 --> 01:34:05,302
+Do you want to know where the c's go?
+
+2044
+01:34:08,302 --> 01:34:09,802
+Actually I'm trying to think of
+
+2045
+01:34:09,802 --> 01:34:11,302
+it as a kind of a
+
+2046
+01:34:11,302 --> 01:34:14,302
+Four vector type of a thing
+
+2047
+01:34:14,302 --> 01:34:16,302
+It's not, they're not four vectors
+
+2048
+01:34:16,302 --> 01:34:19,302
+They're spinners, they're not four vectors
+
+2049
+01:34:19,302 --> 01:34:21,302
+They're four component objects
+
+2050
+01:34:21,302 --> 01:34:23,302
+But they're not four vectors
+
+2051
+01:34:23,302 --> 01:34:26,302
+The four here is not the same
+
+2052
+01:34:26,302 --> 01:34:29,302
+as saying that space has four dimensions
+
+2053
+01:34:29,302 --> 01:34:32,302
+It happened in the previous case
+
+2054
+01:34:32,302 --> 01:34:34,302
+That space-time had two dimensions
+
+2055
+01:34:34,302 --> 01:34:37,302
+And the matrices were two by two
+
+2056
+01:34:37,302 --> 01:34:42,302
+However, that was just an accident
+
+2057
+01:34:42,302 --> 01:34:44,302
+And in this case it's also an accident
+
+2058
+01:34:44,302 --> 01:34:46,302
+As you go between different dimensions
+
+2059
+01:34:46,302 --> 01:34:48,302
+The matrices get big fast
+
+2060
+01:34:48,302 --> 01:34:52,302
+And they're not the same dimensionality as the space
+
+2061
+01:34:52,302 --> 01:34:55,302
+They're always even dimensional
+
+2062
+01:34:55,302 --> 01:34:57,302
+And they're always of dimension two to the n
+
+2063
+01:34:57,302 --> 01:34:59,302
+In any dimension
+
+2064
+01:34:59,302 --> 01:35:01,302
+In any dimension of space
+
+2065
+01:35:01,302 --> 01:35:02,802
+The size of the matrices
+
+2066
+01:35:02,802 --> 01:35:04,302
+is always two to some power
+
+2067
+01:35:04,302 --> 01:35:06,302
+So the basic structure is we
+
+2068
+01:35:06,302 --> 01:35:08,302
+have some m psi on one term
+
+2069
+01:35:08,302 --> 01:35:11,302
+And some sort of momentum on the other term
+
+2070
+01:35:11,302 --> 01:35:13,302
+Some sort of momentum where
+
+2071
+01:35:13,302 --> 01:35:15,302
+That's right, where some sort
+
+2072
+01:35:15,302 --> 01:35:17,302
+of momentum on the other term
+
+2073
+01:35:17,302 --> 01:35:20,302
+But where the matrices mix up the components
+
+2074
+01:35:20,302 --> 01:35:23,302
+In some slightly intricate way
+
+2075
+01:35:23,302 --> 01:35:27,302
+It's again interesting to study the case with no momentum
+
+2076
+01:35:27,302 --> 01:35:28,302
+Of a particle at rest
+
+2077
+01:35:28,302 --> 01:35:30,302
+And then it just has this
+
+2078
+01:35:30,302 --> 01:35:32,302
+And if you notice
+
+2079
+01:35:32,302 --> 01:35:36,302
+Beta has two positive entries and two negative entries
+
+2080
+01:35:36,302 --> 01:35:39,302
+It means that there are positive energy states
+
+2081
+01:35:39,302 --> 01:35:41,302
+And negative energy states
+
+2082
+01:35:41,302 --> 01:35:43,302
+Same deal
+
+2083
+01:35:43,302 --> 01:35:44,302
+Same deal
+
+2084
+01:35:44,302 --> 01:35:46,302
+Fill up the negative energies
+
+2085
+01:35:51,302 --> 01:35:54,302
+Shouldn't that alpha equation be
+
+2086
+01:35:54,302 --> 01:35:57,302
+alpha i and zero sigma i
+
+2087
+01:35:58,302 --> 01:36:00,302
+Sigma i is zero
+
+2088
+01:36:00,302 --> 01:36:01,302
+Up or right
+
+2089
+01:36:01,302 --> 01:36:02,302
+Absolutely
+
+2090
+01:36:02,302 --> 01:36:03,302
+Yeah
+
+2091
+01:36:03,302 --> 01:36:13,302
+There's also a two in the left top board
+
+2092
+01:36:13,302 --> 01:36:14,302
+Left top board
+
+2093
+01:36:14,302 --> 01:36:16,302
+Left top board
+
+2094
+01:36:16,302 --> 01:36:17,302
+Left top board
+
+2095
+01:36:17,302 --> 01:36:20,302
+Right for the delta
+
+2096
+01:36:20,302 --> 01:36:21,302
+Yeah
+
+2097
+01:36:21,302 --> 01:36:22,302
+Yeah, two
+
+2098
+01:36:22,302 --> 01:36:23,302
+Oh, is there a two
+
+2099
+01:36:23,302 --> 01:36:24,302
+You're right
+
+2100
+01:36:24,302 --> 01:36:25,302
+You are right
+
+2101
+01:36:25,302 --> 01:36:26,302
+There is a two here
+
+2102
+01:36:26,302 --> 01:36:27,302
+Thank you
+
+2103
+01:36:27,302 --> 01:36:28,302
+Why is there a two there
+
+2104
+01:36:28,302 --> 01:36:29,302
+Let's see
+
+2105
+01:36:29,302 --> 01:36:31,302
+Alpha one squared should be one
+
+2106
+01:36:31,302 --> 01:36:33,302
+But this is obviously
+
+2107
+01:36:33,302 --> 01:36:34,302
+If both i and j are one
+
+2108
+01:36:34,302 --> 01:36:37,302
+This is alpha one squared plus alpha one squared
+
+2109
+01:36:37,302 --> 01:36:39,302
+Which is two
+
+2110
+01:36:39,302 --> 01:36:40,302
+That's right
+
+2111
+01:36:40,302 --> 01:36:42,302
+There is a two
+
+2112
+01:36:42,302 --> 01:36:46,802
+Was the initiative for RAC having
+
+2113
+01:36:46,802 --> 01:36:51,302
+to go to four potential matrices
+
+2114
+01:36:51,302 --> 01:36:55,302
+Is that a case of like 30 giga head of
+
+2115
+01:36:55,302 --> 01:36:56,302
+Boy was it
+
+2116
+01:36:56,302 --> 01:36:57,302
+Absolutely
+
+2117
+01:36:57,302 --> 01:36:58,302
+Yes, sir
+
+2118
+01:36:58,302 --> 01:37:00,302
+I mean until Dirac wrote down this equation
+
+2119
+01:37:00,302 --> 01:37:02,302
+Anti-particles had never been heard of
+
+2120
+01:37:02,302 --> 01:37:04,302
+Spin had been heard of
+
+2121
+01:37:04,302 --> 01:37:06,302
+But nobody knew where it came from
+
+2122
+01:37:06,302 --> 01:37:08,302
+What Dirac
+
+2123
+01:37:08,302 --> 01:37:10,302
+He postulated this equation
+
+2124
+01:37:10,302 --> 01:37:12,302
+And then tracked down its consequences
+
+2125
+01:37:12,302 --> 01:37:14,302
+And one of the consequences was anti-particles
+
+2126
+01:37:14,302 --> 01:37:16,302
+The other consequence was spin
+
+2127
+01:37:16,302 --> 01:37:17,302
+Like it or not
+
+2128
+01:37:17,302 --> 01:37:18,302
+Spin was there
+
+2129
+01:37:18,302 --> 01:37:19,302
+So
+
+2130
+01:37:19,302 --> 01:37:20,302
+You know
+
+2131
+01:37:20,302 --> 01:37:21,302
+It's a very interesting question
+
+2132
+01:37:21,302 --> 01:37:22,302
+And I think it's a very interesting question
+
+2133
+01:37:22,302 --> 01:37:23,302
+And I think it's a very interesting question
+
+2134
+01:37:23,302 --> 01:37:24,302
+And I think it's a very interesting question
+
+2135
+01:37:24,302 --> 01:37:25,302
+And I think it's a very interesting question
+
+2136
+01:37:25,302 --> 01:37:26,302
+So
+
+2137
+01:37:26,302 --> 01:37:27,302
+Yes
+
+2138
+01:37:27,302 --> 01:37:28,302
+That's right
+
+2139
+01:37:28,302 --> 01:37:29,302
+I mean
+
+2140
+01:37:29,302 --> 01:37:32,302
+Was it a similar story to what we mentioned earlier
+
+2141
+01:37:32,302 --> 01:37:33,302
+About the theorem of relativity and quantum mechanics
+
+2142
+01:37:33,302 --> 01:37:34,302
+Giving us fermions and bosons
+
+2143
+01:37:34,302 --> 01:37:35,302
+Which came first
+
+2144
+01:37:35,302 --> 01:37:36,302
+The theorem or the empirical evidence
+
+2145
+01:37:36,302 --> 01:37:37,302
+Oh, the empirical evidence
+
+2146
+01:37:37,302 --> 01:37:38,302
+Oh, yes
+
+2147
+01:37:38,302 --> 01:37:39,302
+No
+
+2148
+01:37:39,302 --> 01:37:40,302
+The theorem
+
+2149
+01:37:40,302 --> 01:37:41,302
+The theorem was much later
+
+2150
+01:37:41,302 --> 01:37:42,302
+And it keeps getting
+
+2151
+01:37:42,302 --> 01:37:43,302
+The
+
+2152
+01:37:43,302 --> 01:37:44,302
+How do you say
+
+2153
+01:37:44,302 --> 01:37:45,302
+The
+
+2154
+01:37:45,302 --> 01:37:46,302
+The
+
+2155
+01:37:46,302 --> 01:37:47,302
+The
+
+2156
+01:37:47,302 --> 01:37:48,302
+The
+
+2157
+01:37:48,302 --> 01:37:49,302
+The
+
+2158
+01:37:49,302 --> 01:37:50,302
+The
+
+2159
+01:37:50,302 --> 01:37:51,302
+The
+
+2160
+01:37:51,302 --> 01:37:52,302
+The
+
+2161
+01:37:52,302 --> 01:37:53,302
+The
+
+2162
+01:37:53,302 --> 01:37:54,302
+The
+
+2163
+01:37:54,302 --> 01:38:07,522
+P
+
+2164
+01:38:07,522 --> 01:38:09,062
+The
+
+2165
+01:38:09,062 --> 01:38:11,302
+The
+
+2166
+01:38:11,302 --> 01:38:12,302
+Points
+
+2167
+01:38:12,302 --> 01:38:13,302
+The
+
+2168
+01:38:13,302 --> 01:38:15,302
+Points
+
+2169
+01:38:15,302 --> 01:38:16,302
+Are
+
+2170
+01:38:16,302 --> 01:38:17,302
+Are
+
+2171
+01:38:17,302 --> 01:38:18,302
+Current
+
+2172
+01:38:18,302 --> 01:38:19,302
+Points
+
+2173
+01:38:19,302 --> 01:38:20,302
+So
+
+2174
+01:38:20,302 --> 01:38:21,302
+Okay
+
+2175
+01:38:21,302 --> 01:38:22,302
+One
+
+2176
+01:38:22,302 --> 01:38:23,302
+Two
+
+2177
+01:38:23,302 --> 01:38:26,702
+By now, I don't think anybody
+
+2178
+01:38:26,702 --> 01:38:30,102
+doubts that the only possibilities of bosons...
+
+2179
+01:38:30,102 --> 01:38:33,152
+Incidentally, this is a statement about
+
+2180
+01:38:33,152 --> 01:38:36,202
+three-dimensional space, one dimension of time.
+
+2181
+01:38:36,322 --> 01:38:37,722
+Relativity in three dimensions of
+
+2182
+01:38:37,722 --> 01:38:39,122
+space, one dimension of time.
+
+2183
+01:38:39,562 --> 01:38:41,432
+In two dimensions of space, in
+
+2184
+01:38:41,432 --> 01:38:43,302
+one dimension of time, it's different.
+
+2185
+01:38:44,062 --> 01:38:46,412
+There are things which can
+
+2186
+01:38:46,412 --> 01:38:48,762
+interpolate between bosons and fermions.
+
+2187
+01:38:51,082 --> 01:38:52,322
+And they're interesting.
+
+2188
+01:38:52,322 --> 01:38:55,462
+But in four dimensions, that's it.
+
+2189
+01:38:55,822 --> 01:38:57,462
+Bosons and fermions, and that's all.
+
+2190
+01:38:58,422 --> 01:38:59,822
+In higher dimensions, that's it.
+
+2191
+01:39:01,602 --> 01:39:04,652
+For the subscript of psi, for the four
+
+2192
+01:39:04,652 --> 01:39:07,702
+components of psi, is there a customary index?
+
+2193
+01:39:08,802 --> 01:39:09,702
+Well, sure.
+
+2194
+01:39:10,702 --> 01:39:12,142
+What should we call the index?
+
+2195
+01:39:12,242 --> 01:39:12,941
+We'll need a label.
+
+2196
+01:39:13,082 --> 01:39:13,862
+What do you call it?
+
+2197
+01:39:13,941 --> 01:39:15,182
+Oh, we can name it.
+
+2198
+01:39:15,362 --> 01:39:17,472
+I mean, I don't want to use I, because
+
+2199
+01:39:17,472 --> 01:39:19,582
+we've used I at least twice in this equation.
+
+2200
+01:39:19,582 --> 01:39:22,302
+At least twice in this equation.
+
+2201
+01:39:22,422 --> 01:39:23,782
+We can fix that.
+
+2202
+01:39:24,222 --> 01:39:25,542
+Square root of minus one.
+
+2203
+01:39:27,002 --> 01:39:27,222
+All right.
+
+2204
+01:39:28,062 --> 01:39:28,302
+Right.
+
+2205
+01:39:29,222 --> 01:39:31,402
+Now there's I, but I would not want...
+
+2206
+01:39:31,402 --> 01:39:32,941
+This I labels what?
+
+2207
+01:39:33,022 --> 01:39:33,602
+What is this I?
+
+2208
+01:39:34,262 --> 01:39:34,702
+Space.
+
+2209
+01:39:35,262 --> 01:39:36,462
+One, X, Y, and Z.
+
+2210
+01:39:36,941 --> 01:39:38,842
+But now there's also a label here.
+
+2211
+01:39:38,941 --> 01:39:39,642
+So what should I call it?
+
+2212
+01:39:39,662 --> 01:39:39,941
+Alpha?
+
+2213
+01:39:40,082 --> 01:39:40,662
+Let's call it...
+
+2214
+01:39:40,662 --> 01:39:41,082
+Oh, boy.
+
+2215
+01:39:41,202 --> 01:39:42,062
+We've already used alpha.
+
+2216
+01:39:42,562 --> 01:39:42,882
+M.
+
+2217
+01:39:44,142 --> 01:39:45,202
+And then...
+
+2218
+01:39:45,202 --> 01:39:46,322
+There's already a new one.
+
+2219
+01:39:46,582 --> 01:39:47,562
+We already used M.
+
+2220
+01:39:48,522 --> 01:39:50,742
+So, okay, there isn't a customary one.
+
+2221
+01:39:51,362 --> 01:39:51,842
+How about J?
+
+2222
+01:39:51,842 --> 01:39:52,242
+I don't know.
+
+2223
+01:39:52,322 --> 01:39:52,782
+I'm having an error.
+
+2224
+01:39:53,022 --> 01:39:53,922
+P and Q.
+
+2225
+01:39:54,042 --> 01:39:54,542
+P and Q.
+
+2226
+01:39:55,002 --> 01:39:55,262
+Okay.
+
+2227
+01:39:55,642 --> 01:39:56,702
+So this is P.
+
+2228
+01:39:57,522 --> 01:40:00,622
+The matrices themselves have two indices.
+
+2229
+01:40:01,702 --> 01:40:05,142
+P, Q, and this would be Q.
+
+2230
+01:40:06,402 --> 01:40:08,182
+And this would also be P,
+
+2231
+01:40:08,182 --> 01:40:09,962
+Q, and this would be Q.
+
+2232
+01:40:10,602 --> 01:40:11,912
+And in this case, P and
+
+2233
+01:40:11,912 --> 01:40:13,222
+Q would run from one to four.
+
+2234
+01:40:15,422 --> 01:40:16,902
+You don't really need those, do you?
+
+2235
+01:40:17,002 --> 01:40:18,982
+Because you can just use matrix multiplication.
+
+2236
+01:40:19,282 --> 01:40:19,662
+What's that?
+
+2237
+01:40:19,822 --> 01:40:21,862
+Just use matrix multiplication.
+
+2238
+01:40:21,862 --> 01:40:22,602
+So that's correct.
+
+2239
+01:40:22,742 --> 01:40:22,922
+Sure.
+
+2240
+01:40:24,182 --> 01:40:24,542
+Yeah, yeah.
+
+2241
+01:40:24,941 --> 01:40:26,941
+But if you wanted to know where
+
+2242
+01:40:26,941 --> 01:40:28,941
+all the hidden indices are and things...
+
+2243
+01:40:28,941 --> 01:40:31,091
+And there's a symmetric way to write
+
+2244
+01:40:31,091 --> 01:40:33,242
+this equation so that it looks more relativistic.
+
+2245
+01:40:33,502 --> 01:40:35,221
+And maybe I'll write it down next time.
+
+2246
+01:40:37,622 --> 01:40:40,701
+Basically, there's a more symmetric way to write it.
+
+2247
+01:40:41,182 --> 01:40:44,142
+But this does the trick.
+
+2248
+01:40:44,142 --> 01:40:46,782
+In any case, that's the
+
+2249
+01:40:46,782 --> 01:40:49,422
+Dirac equation or its simplest incarnation.
+
+2250
+01:40:50,981 --> 01:40:51,142
+And...
+
+2251
+01:40:51,862 --> 01:40:54,862
+Next time...
+
+2252
+01:40:55,981 --> 01:40:57,902
+What did I say we would do next time?
+
+2253
+01:40:58,862 --> 01:40:59,382
+Spin.
+
+2254
+01:41:00,542 --> 01:41:00,981
+Spin.
+
+2255
+01:41:01,562 --> 01:41:05,941
+Spin and the wave fields for relativistic bosons.
+
+2256
+01:41:06,742 --> 01:41:09,432
+Doing that, we will be ready to
+
+2257
+01:41:09,432 --> 01:41:12,122
+start to talk about real particle physics.
+
+2258
+01:41:12,622 --> 01:41:14,512
+We need to talk about what
+
+2259
+01:41:14,512 --> 01:41:16,402
+the theory of bosons is like.
+
+2260
+01:41:16,842 --> 01:41:19,042
+About half the particles in nature are bosons.
+
+2261
+01:41:20,022 --> 01:41:21,842
+And the Dirac equation is not.
+
+2262
+01:41:21,862 --> 01:41:23,461
+It's not the right description for them.
+
+2263
+01:41:23,842 --> 01:41:25,662
+We need to talk about that a little bit.
+
+2264
+01:41:26,062 --> 01:41:34,662
+And then we move on to quarks, leptons, z-bosons, x-bosons.
+
+2265
+01:41:34,782 --> 01:41:35,721
+No, no, x-bosons.
+
+2266
+01:41:35,822 --> 01:41:38,802
+Y-bosons, Higgs bosons, photons.
+
+2267
+01:41:38,802 --> 01:41:41,162
+And try to make a little
+
+2268
+01:41:41,162 --> 01:41:43,522
+bit of order out of the mess.
+
+2269
+01:41:49,022 --> 01:41:49,642
+Good.
+
+2270
+01:41:50,242 --> 01:41:50,602
+Okay.
+
+2271
+01:41:51,862 --> 01:41:53,842
+Symmetries.
+
+2272
+01:41:53,961 --> 01:41:55,461
+We have to talk about symmetries.
+
+2273
+01:41:55,742 --> 01:41:56,961
+More about symmetries.
+
+2274
+01:41:58,822 --> 01:42:02,102
+For more, please visit us at stanford.edu.
+
+2275
+01:42:02,102 --> 01:42:02,302
+Thank you.
+
