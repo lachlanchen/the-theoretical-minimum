@@ -124,6 +124,8 @@ leonardsusskind/
 │   └── lesson_1.pdf ... lesson_11.pdf
 ├── supplemental_advanced_quantum/
 │   ├── README.md
+│   ├── course.pdf
+│   ├── lecture_01.pdf ... lecture_10.pdf
 │   └── ch1/
 │       ├── main.tex
 │       ├── book_1_template.tex
@@ -195,6 +197,7 @@ Open PDFs in relevant folders, for example:
 - `core_general_relativity/lesson_1.pdf`
 - `core_cosmology/lesson_1.pdf`
 - `core_statistical_mechanics/lesson_1.pdf`
+- `supplemental_advanced_quantum/course.pdf`
 - `supplemental_particle_physics_2/NumberTheory.pdf`
 
 ### 2) Author or extend LaTeX materials
