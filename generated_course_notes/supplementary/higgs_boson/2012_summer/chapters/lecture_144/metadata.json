@@ -1,0 +1,52 @@
+{
+  "course_rel": "supplementary/higgs_boson/2012_summer",
+  "transcript_rel": "supplementary/higgs_boson/2012_summer/144 - Demystifying the Higgs Boson with Leonard Susskind [JqNg819PiZY].md",
+  "video_rel": "supplementary/higgs_boson/2012_summer/144 - Demystifying the Higgs Boson with Leonard Susskind [JqNg819PiZY].webm",
+  "lecture_number": 144,
+  "lecture_slug": "lecture_144",
+  "lecture_title": "Demystifying the Higgs Boson with Leonard Susskind",
+  "assets": [
+    {
+      "name": "lecture_144_figure_02.png",
+      "timestamp_seconds": 601.38,
+      "timestamp_hhmmss": "00:10:01.380",
+      "source_candidate": "lecture_144_window_04_candidate_01_001001380.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame is the best balance of clarity and completeness. The bowl-shaped potential sketch on the board is fully visible, including the horizontal and vertical axes and the interior guide line, while Susskind\u2019s top hat demonstration is also captured cleanly without obscuring the diagram. Later candidates crop the board more aggressively.",
+      "subtitle_excerpt": "of the potential energy of the field.",
+      "segment_start_seconds": 601.02,
+      "segment_start_hhmmss": "00:10:01.020",
+      "segment_end_seconds": 604.02,
+      "segment_end_hhmmss": "00:10:04.020",
+      "caption_hint": "potential-energy bowl with hat analogy"
+    },
+    {
+      "name": "lecture_144_figure_03.png",
+      "timestamp_seconds": 790.78,
+      "timestamp_hhmmss": "00:13:10.780",
+      "source_candidate": "lecture_144_window_05_candidate_02_001310780.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame gives the clearest and most stable view of the board sketch while also preserving Susskind\u2019s hat prop cleanly. The potential-energy drawing at the left is more legible here than in the later frames, which introduce more gesture blur and shadow, and the hat itself is less blurred than in the first frame.",
+      "subtitle_excerpt": "Physicists call this kind of potential energy function",
+      "segment_start_seconds": 790.02,
+      "segment_start_hhmmss": "00:13:10.020",
+      "segment_end_seconds": 792.02,
+      "segment_end_hhmmss": "00:13:12.020",
+      "caption_hint": "sombrero potential sketch"
+    },
+    {
+      "name": "lecture_144_figure_04.png",
+      "timestamp_seconds": 973.78,
+      "timestamp_hhmmss": "00:16:13.780",
+      "source_candidate": "lecture_144_window_06_candidate_04_001613780.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame gives the cleanest unobstructed view of the developed potential sketch. The sombrero-like profile, central peak, surrounding rim, and marked point in the trough are all visible, while Susskind has moved far enough right that his body and gesture do not interfere with the diagram. Earlier frames contain more distracting motion and gesture overlap.",
+      "subtitle_excerpt": "in a circle like that would cost some energy.",
+      "segment_start_seconds": 972.02,
+      "segment_start_hhmmss": "00:16:12.020",
+      "segment_end_seconds": 974.02,
+      "segment_end_hhmmss": "00:16:14.020",
+      "caption_hint": "circle around the sombrero trough"
+    }
+  ]
+}
