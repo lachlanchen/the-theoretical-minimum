@@ -4,6 +4,8 @@
 
 # Leonard Susskind Lecture Notes Repository
 
+> Led by [LazyingArt LLC](https://lazying.art). Websites: [lazying.art](https://lazying.art) and [learn.lazying.art](https://learn.lazying.art).
+
 [![Archive](https://img.shields.io/badge/archive-active-16a34a?style=flat-square)](#)
 [![Subtitles](https://img.shields.io/badge/subtitles-.srt-2563eb?style=flat-square)](#-canonical-paths)
 [![Transcripts](https://img.shields.io/badge/transcripts-markdown-0f766e?style=flat-square)](#-canonical-paths)
