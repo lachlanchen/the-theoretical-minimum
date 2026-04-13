@@ -1,0 +1,545 @@
+\chapter{Quantum Entanglements, Part 1}
+
+These notes follow Lecture 8 of Leonard Susskind's \emph{Quantum Entanglement} course and are written as companion notes rather than as a transcript. The lecture opens by returning to density matrices in a deliberately practical spirit: not as a new formalism, but as the right language when a system has been prepared and we do not fully know how. From there the argument unfolds in the same order as the lecture itself. First we review the rules for density matrices, then the trace formula for expectation values and the entropy that measures ignorance. Only after that does the real entanglement story begin: a pure state of a combined system may induce a mixed state for one part. Two explicit spin examples make that point concrete. The lecture then changes direction, but not logic, and turns to time evolution, unitarity, the Hamiltonian, and the phase evolution of energy eigenstates. The present chapter is curated in this archive by LazyingArt LLC, but the progression and emphasis remain those of Leonard Susskind.
+
+\section{Density Matrices As Incomplete Knowledge}
+
+We begin with the motivation. A system may have been prepared in a perfectly definite way, and yet we may not know how it was prepared. An electron spin may have been aligned by a magnetic field, but if someone else chose the direction of that field and did not tell us what it was, then the system is not described, for us, by a known state vector. It is described by a density matrix.
+
+This is the quantum analog of a classical probability distribution. The lecture reviews its basic properties in exactly that spirit. If \(\rho\) is a density matrix, then
+\begin{equation}
+\operatorname{Tr}\rho = 1,
+\qquad
+\rho^\dagger = \rho.
+\end{equation}
+If its eigenvalues are \(\lambda_i\), then
+\begin{equation}
+\lambda_i \in \mathbb{R},
+\qquad
+\lambda_i \geq 0,
+\qquad
+\sum_i \lambda_i = 1.
+\end{equation}
+Because \(\rho\) is Hermitian, its eigenvectors form an orthonormal basis. In that basis the eigenvalues are probabilities.
+
+The lecture immediately places beside one another the two limiting cases. If we know nothing at all, then all the eigenvalues are equal, so
+\begin{equation}
+\rho = \frac{1}{n}I,
+\end{equation}
+where \(n\) is the dimension of the state space. This is complete ignorance. At the opposite extreme, maximal knowledge means a pure state \(|\psi\rangle\), and even then it is useful to write a density matrix:
+\begin{equation}
+\rho = |\psi\rangle\langle\psi|.
+\end{equation}
+This is simply the projector onto the state \(|\psi\rangle\).
+
+Let us check its eigenvalues, since the lecture pauses here to do exactly that. Assuming \(|\psi\rangle\) is normalized,
+\begin{equation}
+\rho |\psi\rangle
+=
+|\psi\rangle\langle\psi|\psi\rangle
+=
+|\psi\rangle.
+\end{equation}
+So \(|\psi\rangle\) is an eigenvector with eigenvalue \(1\). If \(|\phi\rangle\) is orthogonal to \(|\psi\rangle\), then
+\begin{equation}
+\rho|\phi\rangle
+=
+|\psi\rangle\langle\psi|\phi\rangle
+=
+0.
+\end{equation}
+Thus a pure-state density matrix has exactly one nonzero eigenvalue, equal to \(1\), and every orthogonal direction has eigenvalue \(0\). In the old language this is not a mixed state at all; the old German word was \emph{gemisch}, but here we will simply say \emph{mixed state} when more than one eigenvalue is nonzero.
+
+\subsection{Question \& Answer}
+
+Why is a fifty-fifty mixture of two nonorthogonal states not the right final language?
+
+The point is not that such a preparation is impossible. The point is that a density matrix, being Hermitian, comes with a basis of orthogonal eigenvectors, and only in that basis do its eigenvalues have the clean interpretation as probabilities. One may certainly begin with a preparation procedure that mentions nonorthogonal states. But once the density matrix is formed, it reorganizes the description into its own orthogonal eigenbasis. That is where the probabilities live.
+
+So the lecture is warning us not to confuse the story of preparation with the final language of \(\rho\). The density matrix has its own natural basis, and that basis is orthogonal.
+
+\section{Expectation Values And Entropy}
+
+The next question is operational. What do we do with \(\rho\)? The answer is the trace formula
+\begin{equation}
+\bar M = \operatorname{Tr}(\rho M),
+\end{equation}
+where \(M\) is any observable. The lecture also notes the modest cyclicity fact needed here:
+\begin{equation}
+\operatorname{Tr}(\rho M) = \operatorname{Tr}(M\rho).
+\end{equation}
+This is not because \(M\) and \(\rho\) commute, but because the trace of a product of two operators is insensitive to their order.
+
+The lecture then reviews the definition of the trace itself. In any basis \(\{|i\rangle\}\),
+\begin{equation}
+\operatorname{Tr}(X) = \sum_i \langle i|X|i\rangle.
+\end{equation}
+It does not matter which basis is used; the trace is basis-independent. Let us now see how the expectation-value rule reduces to the ordinary one for a pure state. If \(\rho = |\psi\rangle\langle\psi|\), then
+\begin{align}
+\bar M
+&= \operatorname{Tr}(|\psi\rangle\langle\psi|M) \\
+&= \sum_i \langle i|\psi\rangle\langle\psi|M|i\rangle \\
+&= \langle\psi|M\left(\sum_i |i\rangle\langle i|\right)|\psi\rangle \\
+&= \langle\psi|M|\psi\rangle.
+\end{align}
+So the trace formula really does generalize the familiar expectation value.
+
+Now let us do what the lecture does next: choose the basis that diagonalizes \(\rho\). If \(\rho |j\rangle = \lambda_j |j\rangle\), then
+\begin{align}
+\bar M
+&= \operatorname{Tr}(\rho M)
+ = \sum_i \langle i|\rho M|i\rangle \\
+&= \sum_{i,j}\langle i|\rho|j\rangle \langle j|M|i\rangle \\
+&= \sum_j \lambda_j \langle j|M|j\rangle.
+\end{align}
+This is the correct probabilistic reading of the density matrix: the expectation value is the average of \(\langle j|M|j\rangle\), weighted by the eigenvalues \(\lambda_j\), but only in the basis where \(\rho\) is diagonal. That last clause matters.
+
+The lecture then adds the second tool we will need later: entropy. For a probability distribution \(\{p_i\}\),
+\begin{equation}
+S = -\sum_i p_i \log p_i.
+\end{equation}
+If one probability is \(1\) and the rest vanish, then \(S=0\). If all \(n\) probabilities are equal, \(p_i = 1/n\), then
+\begin{equation}
+S = -n\left(\frac{1}{n}\log\frac{1}{n}\right)=\log n.
+\end{equation}
+So entropy measures ignorance. Zero entropy means complete knowledge. Large entropy means the probability distribution is spread out over many possibilities. The lecture is still in review mode here, but the review is pointed: entropy is about to become the diagnostic of entanglement.
+
+\section{Composite Systems And The Reduced Density Matrix}
+
+Now the lecture turns to entanglement itself. Entanglement begins when we have more than one system. Let us therefore consider a composite system with two parts, \(A\) and \(B\). We choose basis states \(|a,b\rangle\), where \(a\) labels subsystem \(A\) and \(b\) labels subsystem \(B\). In the lecture these indices drift a bit on the board, so let us settle them cleanly from the start.
+
+The most general pure state of the combined system is
+\begin{equation}
+|\Psi\rangle = \sum_{a,b}\psi(a,b)\,|a,b\rangle,
+\qquad
+\sum_{a,b}|\psi(a,b)|^2 = 1.
+\end{equation}
+Now imagine that Alice performs an experiment involving only subsystem \(A\). Let \(M\) be an observable acting only on \(A\). Then \(M\) changes the \(a\)-index but leaves the \(b\)-index untouched.
+
+To compute the expectation value, we write
+\begin{align}
+\langle M\rangle
+&= \langle\Psi|M|\Psi\rangle \\
+&=
+\sum_{a',b'}\sum_{a,b}
+\psi^*(a',b')\psi(a,b)\,
+\langle a',b'|M|a,b\rangle.
+\end{align}
+Since \(M\) is passive on subsystem \(B\), its matrix elements are diagonal in \(b\):
+\begin{equation}
+\langle a',b'|M|a,b\rangle
+=
+\langle a'|M|a\rangle\,\delta_{b'b}.
+\end{equation}
+Therefore \(b'=b\), and the expression becomes
+\begin{equation}
+\langle M\rangle
+=
+\sum_{a',a,b}
+\psi^*(a',b)\psi(a,b)\,
+\langle a'|M|a\rangle.
+\end{equation}
+
+Now comes the central step. Hold \(a\) and \(a'\) fixed and sum only over \(b\). The result depends only on \(a\) and \(a'\), so we give it a name:
+\begin{equation}
+\rho_A(a,a') = \sum_b \psi(a,b)\psi^*(a',b).
+\end{equation}
+This is the reduced density matrix of subsystem \(A\). With this definition,
+\begin{equation}
+\langle M\rangle = \operatorname{Tr}_A(\rho_A M).
+\end{equation}
+So all measurements performed on subsystem \(A\) alone are encoded in \(\rho_A\). In effect, we have summed over the \(B\)-degrees of freedom and turned a pure state of the whole into a density matrix for the part.
+
+\section{Pure Whole, Mixed Part}
+
+This is the sharp conceptual pivot of the lecture. The composite system may be in a pure state, described by a single state vector \(|\Psi\rangle\), and nevertheless the subsystem \(A\) may be described only by a mixed density matrix \(\rho_A\).
+
+Classically there is no analog of this. If one has complete knowledge of a classical composite system, then one has complete knowledge of each of its parts. In classical physics, a pure state of the whole implies pure states of the parts. Quantum mechanics breaks that implication. We may know everything that quantum mechanics allows us to know about the whole, and still have only a statistical description of a part.
+
+The lecture does not present that as a detached theorem. It appears only after the reduced-density-matrix calculation has been done. That order matters. The algebra has earned the philosophical contrast.
+
+\subsection{Question \& Answer}
+
+How is tracing out \(B\) different from an ordinary classical marginal?
+
+There is certainly a similarity. In both cases we sum or integrate over variables we do not observe. But the difference shows up precisely when the state of the whole is pure. In a classical system, complete knowledge of the whole implies complete knowledge of the parts. In a quantum system, complete knowledge of the whole may force us to use a mixed state for the part.
+
+So the reduced density matrix is not just a classical marginal in new notation. It reflects the genuinely quantum fact that the state of a subsystem need not exist as an independent pure state at all.
+
+The lecture also fields a related question here: is \(\operatorname{Tr}(M\rho)\) the product \(\operatorname{Tr} M\, \operatorname{Tr}\rho\)? No. The trace of a product is not the product of traces.
+
+\section{Factorized States And The Entropy Test}
+
+At this point the lecture asks the natural question: when does the subsystem \emph{remain} pure? In other words, what condition on \(\psi(a,b)\) guarantees that the reduced density matrix of \(A\) is itself a pure-state projector?
+
+The answer is that the wave function factorizes:
+\begin{equation}
+\psi(a,b)=\phi(a)\chi(b).
+\end{equation}
+This is the special case in which the combined system is already a product of a pure state for \(A\) and a pure state for \(B\).
+
+Let us substitute this into the reduced density matrix:
+\begin{align}
+\rho_A(a,a')
+&= \sum_b \psi(a,b)\psi^*(a',b) \\
+&= \sum_b \phi(a)\chi(b)\,\phi^*(a')\chi^*(b) \\
+&= \phi(a)\phi^*(a')\sum_b \chi(b)\chi^*(b).
+\end{align}
+If \(\chi\) is normalized, then the sum over \(b\) is \(1\), and therefore
+\begin{equation}
+\rho_A(a,a')=\phi(a)\phi^*(a').
+\end{equation}
+So
+\begin{equation}
+\rho_A = |\phi\rangle\langle\phi|.
+\end{equation}
+The reduced density matrix has one nonzero eigenvalue, equal to \(1\), and all the rest vanish. Its entropy is therefore zero.
+
+This gives the lecture a practical criterion. Product structure means zero subsystem entropy. More generally, the smaller the entropy, the closer the state is to a product; the larger the entropy, the farther it is from one. The lecture is careful not to overstate this. The diagnostic is practical rather than mystical: calculate the reduced density matrix, calculate its eigenvalues, then calculate its entropy.
+
+\section{Two Spin Examples: Singlet And Product State}
+
+The lecture now puts the machinery to work on two familiar two-spin states.
+
+\subsection{The Singlet State}
+
+The first example is the singlet,
+\begin{equation}
+|\mathrm{sing}\rangle
+=
+\frac{1}{\sqrt{2}}
+\Bigl(
+|\uparrow\downarrow\rangle
+-
+|\downarrow\uparrow\rangle
+\Bigr).
+\end{equation}
+In component form,
+\begin{equation}
+\psi(\uparrow,\uparrow)=0,\qquad
+\psi(\uparrow,\downarrow)=\frac{1}{\sqrt{2}},\qquad
+\psi(\downarrow,\uparrow)=-\frac{1}{\sqrt{2}},\qquad
+\psi(\downarrow,\downarrow)=0.
+\end{equation}
+
+Let us compute the reduced density matrix for spin \(1\). The diagonal entries are
+\begin{align}
+\rho_A(\uparrow,\uparrow)
+&=
+\sum_b \psi(\uparrow,b)\psi^*(\uparrow,b)
+=
+|\psi(\uparrow,\uparrow)|^2 + |\psi(\uparrow,\downarrow)|^2
+=
+\frac{1}{2},
+\\
+\rho_A(\downarrow,\downarrow)
+&=
+\sum_b \psi(\downarrow,b)\psi^*(\downarrow,b)
+=
+|\psi(\downarrow,\uparrow)|^2 + |\psi(\downarrow,\downarrow)|^2
+=
+\frac{1}{2}.
+\end{align}
+For the off-diagonal term,
+\begin{align}
+\rho_A(\uparrow,\downarrow)
+&=
+\sum_b \psi(\uparrow,b)\psi^*(\downarrow,b) \\
+&=
+\psi(\uparrow,\uparrow)\psi^*(\downarrow,\uparrow)
++
+\psi(\uparrow,\downarrow)\psi^*(\downarrow,\downarrow)
+=
+0,
+\end{align}
+and similarly \(\rho_A(\downarrow,\uparrow)=0\). Hence
+\begin{equation}
+\rho_A
+=
+\begin{pmatrix}
+\frac{1}{2} & 0 \\[4pt]
+0 & \frac{1}{2}
+\end{pmatrix}
+=
+\frac{1}{2}I.
+\end{equation}
+This is the maximally mixed density matrix for a single spin. Its entropy is
+\begin{equation}
+S_A
+=
+-2\left(\frac{1}{2}\log\frac{1}{2}\right)
+=
+\log 2.
+\end{equation}
+
+Now let us use the reduced density matrix the way the lecture uses it. For spin along any axis \(\hat n\),
+\begin{equation}
+\langle \sigma\cdot \hat n\rangle
+=
+\operatorname{Tr}\bigl(\rho_A\,\sigma\cdot \hat n\bigr)
+=
+\frac{1}{2}\operatorname{Tr}(\sigma\cdot \hat n)
+=
+0,
+\end{equation}
+because every Pauli matrix has zero trace. So the spin is equally likely to point along \(\hat n\) or opposite to \(\hat n\), no matter what direction \(\hat n\) is. This is the familiar content of the singlet state, now recast in density-matrix language.
+
+\subsection{A Product State In Disguise}
+
+The second example is the normalized state with all four amplitudes equal:
+\begin{equation}
+|\Psi\rangle
+=
+\frac{1}{2}
+\Bigl(
+|\uparrow\uparrow\rangle
++
+|\uparrow\downarrow\rangle
++
+|\downarrow\uparrow\rangle
++
+|\downarrow\downarrow\rangle
+\Bigr).
+\end{equation}
+When we trace over spin \(2\), we obtain
+\begin{equation}
+\rho_A
+=
+\begin{pmatrix}
+\frac{1}{2} & \frac{1}{2} \\[4pt]
+\frac{1}{2} & \frac{1}{2}
+\end{pmatrix}.
+\end{equation}
+Its trace is still \(1\), as it must be, but now the determinant is
+\begin{equation}
+\det \rho_A
+=
+\frac{1}{2}\cdot\frac{1}{2}
+-
+\frac{1}{2}\cdot\frac{1}{2}
+=
+0.
+\end{equation}
+Since the eigenvalues of a \(2\times2\) matrix have sum equal to the trace and product equal to the determinant, the two eigenvalues are \(1\) and \(0\). Therefore the entropy is zero. So despite appearances, this is not an entangled state at all; it is a product state.
+
+\subsection{Question \& Answer}
+
+What product state is it?
+
+The lecture answers this by testing the expectation values of the Pauli matrices. First,
+\begin{equation}
+\sigma_3
+=
+\begin{pmatrix}
+1 & 0 \\[4pt]
+0 & -1
+\end{pmatrix},
+\qquad
+\operatorname{Tr}(\rho_A \sigma_3)=0.
+\end{equation}
+So the spins are not aligned along the \(z\)-axis.
+
+Next the lecture turns to \(\sigma_1\). The spoken line in the transcript is garbled, but the intended matrix is supported by the board frame and by standard notation:
+\begin{equation}
+\sigma_1
+=
+\begin{pmatrix}
+0 & 1 \\[4pt]
+1 & 0
+\end{pmatrix}.
+\end{equation}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.68\textwidth]{lecture_08_figure_03.png}
+\caption{\(\sigma_1\) acting on the reduced density matrix. The frame is kept as evidence for the board's matrix-multiplication layout, while the clean algebra is reconstructed nearby.}
+\end{figure}
+
+Now compute
+\begin{align}
+\rho_A \sigma_1
+&=
+\begin{pmatrix}
+\frac{1}{2} & \frac{1}{2} \\[4pt]
+\frac{1}{2} & \frac{1}{2}
+\end{pmatrix}
+\begin{pmatrix}
+0 & 1 \\[4pt]
+1 & 0
+\end{pmatrix}
+=
+\begin{pmatrix}
+\frac{1}{2} & \frac{1}{2} \\[4pt]
+\frac{1}{2} & \frac{1}{2}
+\end{pmatrix},
+\\
+\operatorname{Tr}(\rho_A \sigma_1) &= 1.
+\end{align}
+So the expectation value of \(\sigma_1\) is \(1\), while the expectation values of the other components vanish. The conclusion is that the two spins are unentangled and both point along the \(x\)-axis.
+
+The lecture then makes the broader interpretive point. If we perturb such a zero-entropy density matrix slightly, its entropy becomes small but nonzero. That small entropy measures a small amount of entanglement. Entropy and entanglement go together here.
+
+Before leaving the subject, the lecture pauses to separate two entropies that are easy to confuse. In the examples above, the \emph{combined} system is in a pure state and therefore has entropy zero. The entropy we have been computing is the entropy of the \emph{subsystem}. It arises because the subsystem is entangled with what we traced over. That is why it is called entanglement entropy. It is also why the entropy is not additive in the naive classical way: the whole may have entropy zero while each part has nonzero entropy.
+
+A student then asks whether entanglement has units. The lecture's answer is crisp. Entropy is a pure number. One may speak loosely of bits, but that is not a physical dimension. It is best to think of entropy here as dimensionless.
+
+Finally, the lecture raises a suggestive idea without forcing it into dogma: perhaps every density matrix can ultimately be viewed as coming from entanglement with something else. Sometimes that ``something else'' is merely hidden in the preparation apparatus, the environment, or the observer's ignorance. The lecture leaves that as a suspicion rather than as a theorem.
+
+\section{From Unitarity To The Schr\"odinger Equation}
+
+Now the lecture changes direction. We leave entanglement for a while and ask how states change with time. The transition is deliberate. The same concern remains in the background: distinctions must be preserved.
+
+In a discrete classical system, reversible evolution is just a permutation of states. The law tells us where each state goes next, and because the evolution is reversible, two different states never collapse into one. Information is not lost. In quantum mechanics the corresponding principle is unitarity.
+
+\subsection{Question \& Answer}
+
+How can a system with only finitely many orthonormal states evolve continuously in time?
+
+The lecture answers by returning to the spin. A spin-\(\tfrac12\) system has only two orthogonal outcomes for a measurement along a fixed axis, but its state vector is not confined to those two basis vectors. It may point continuously through an entire family of superpositions. That is why a finite-dimensional quantum system can still evolve continuously in time. The discreteness lies in the dimension of the vector space, not in the set of all possible state vectors.
+
+\subsection{Linear Evolution And Unitarity}
+
+The first principle is that time evolution is linear. If the state at time \(0\) is \(|\psi(0)\rangle\), then at time \(t\),
+\begin{equation}
+|\psi(t)\rangle = U(t)|\psi(0)\rangle,
+\qquad
+U(0)=I.
+\end{equation}
+The second principle is that inner products are preserved:
+\begin{equation}
+\langle \phi(t)|\psi(t)\rangle
+=
+\langle \phi(0)|\psi(0)\rangle.
+\end{equation}
+Taking the Hermitian conjugate of the ket evolution,
+\begin{equation}
+\langle \phi(t)|
+=
+\langle \phi(0)|U^\dagger(t).
+\end{equation}
+Therefore
+\begin{equation}
+\langle \phi(t)|\psi(t)\rangle
+=
+\langle \phi(0)|U^\dagger(t)U(t)|\psi(0)\rangle.
+\end{equation}
+Since this must equal \(\langle \phi(0)|\psi(0)\rangle\) for every pair of initial states, the only possible conclusion is
+\begin{equation}
+U^\dagger(t)U(t)=I.
+\end{equation}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.72\textwidth]{lecture_08_figure_04.png}
+\caption{Bra-ket form of the unitarity argument. The screenshot is preserved because it records the lecturer's stacked board derivation from time evolution to \(U^\dagger U=I\).}
+\end{figure}
+
+That is unitarity. It is the quantum version of the statement that distinctions are conserved.
+
+The lecture then fields a useful caution. Preservation of inner products does \emph{not} mean that unentangled systems must remain unentangled forever. If that were true, systems could never become entangled, and measurement itself would be impossible. Unitarity preserves inner products, not separability.
+
+\subsection{Infinitesimal Evolution And The Hamiltonian}
+
+Now take a very small time interval \(\epsilon\). Because \(U(0)=I\), the lecture writes
+\begin{equation}
+U(\epsilon) = I - i\epsilon h,
+\end{equation}
+to first order in \(\epsilon\). At this stage the lecture temporarily suppresses \(\hbar\); that is part of the historical order of the derivation, and we will restore \(\hbar\) in the final cleaned equation.
+
+Taking the Hermitian conjugate,
+\begin{equation}
+U^\dagger(\epsilon)=I+i\epsilon h^\dagger.
+\end{equation}
+Now impose unitarity:
+\begin{align}
+I
+&= U^\dagger(\epsilon)U(\epsilon) \\
+&= (I+i\epsilon h^\dagger)(I-i\epsilon h) \\
+&= I + i\epsilon h^\dagger - i\epsilon h + O(\epsilon^2).
+\end{align}
+Ignoring \(O(\epsilon^2)\), we obtain
+\begin{equation}
+h^\dagger = h.
+\end{equation}
+So the infinitesimal generator is Hermitian. The lecture then gives it its name: the Hamiltonian. Its eigenvalues are the energy levels.
+
+To pass from the infinitesimal evolution operator to a differential equation, write
+\begin{equation}
+|\psi(\epsilon)\rangle = (I-i\epsilon h)|\psi(0)\rangle.
+\end{equation}
+Subtract \(|\psi(0)\rangle\) and divide by \(\epsilon\):
+\begin{equation}
+\frac{|\psi(\epsilon)\rangle-|\psi(0)\rangle}{\epsilon}
+=
+-i h |\psi(0)\rangle.
+\end{equation}
+Now let \(\epsilon\to 0\). This becomes
+\begin{equation}
+\frac{\mathrm{d}}{\mathrm{d}t}|\psi(t)\rangle = -i h |\psi(t)\rangle.
+\end{equation}
+Restoring \(\hbar\) and switching to the standard capital \(H\), we arrive at the final form
+\begin{equation}
+i\hbar\,\frac{\mathrm{d}}{\mathrm{d}t}|\psi(t)\rangle = H|\psi(t)\rangle.
+\end{equation}
+This is the general time-dependent Schr\"odinger equation.
+
+\subsection{Question \& Answer}
+
+If a state remains an energy eigenvector for all time, does that not mean it does not change?
+
+This is exactly the objection the lecture raises near the end, and it is worth preserving. The answer is no. An eigenvector may be multiplied by a complex number and remain the same eigenvector. So ``remaining an eigenvector'' does not mean ``remaining numerically identical.''
+
+\subsection{Energy Eigenstates And Phase Evolution}
+
+Now suppose
+\begin{equation}
+H|\psi\rangle = E|\psi\rangle.
+\end{equation}
+We try the lecture's ansatz
+\begin{equation}
+|\psi(t)\rangle = f(t)|\psi(0)\rangle,
+\end{equation}
+with \(f(t)\) a scalar function of time.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.68\textwidth]{lecture_08_figure_05.png}
+\caption{Energy eigenstate and scalar time evolution. The board shows the two-line setup that leads from \(H|\psi\rangle=E|\psi\rangle\) to the time-dependent phase factor.}
+\end{figure}
+
+Substitute into the Schr\"odinger equation:
+\begin{align}
+i\hbar\,\frac{\mathrm{d}}{\mathrm{d}t}\bigl(f(t)|\psi(0)\rangle\bigr)
+&=
+H f(t)|\psi(0)\rangle \\
+i\hbar\,\frac{\mathrm{d}f}{\mathrm{d}t}|\psi(0)\rangle
+&=
+f(t)E|\psi(0)\rangle.
+\end{align}
+Cancel the common eigenvector:
+\begin{equation}
+\frac{\mathrm{d}f}{\mathrm{d}t}
+=
+-\frac{iE}{\hbar}f(t).
+\end{equation}
+Hence
+\begin{equation}
+f(t)=e^{-iEt/\hbar},
+\end{equation}
+and therefore
+\begin{equation}
+|\psi(t)\rangle = e^{-iEt/\hbar}|\psi(0)\rangle.
+\end{equation}
+So an energy eigenstate evolves only by a phase.
+
+The lecture closes by interpreting the coefficient of \(t\) in that phase as an angular frequency:
+\begin{equation}
+\omega = \frac{E}{\hbar},
+\qquad\text{or equivalently}\qquad
+E=\hbar\omega.
+\end{equation}
+That is where the lecture stops. The general equation of motion is in hand, but the concrete choice of Hamiltonian is postponed.
+
+\section{Summary}
+
+The lecture begins with density matrices as the language of incomplete preparation and ends with the Schr\"odinger equation as the law of time evolution. In between, one central quantum fact is established carefully and then illustrated: a composite system may be in a pure state while each subsystem is mixed. The reduced density matrix is obtained by summing over unobserved degrees of freedom, and its entropy measures the entanglement of the subsystem with what has been traced out. Product states have one eigenvalue equal to \(1\) and zero entropy; the singlet has a reduced density matrix proportional to the identity and entropy \(\log 2\). After that, the lecture pivots to time evolution, argues that inner products must be preserved, derives unitarity, identifies a Hermitian Hamiltonian as the infinitesimal generator of motion, and finally shows that an energy eigenstate evolves only by a time-dependent phase with angular frequency \(E/\hbar\).
