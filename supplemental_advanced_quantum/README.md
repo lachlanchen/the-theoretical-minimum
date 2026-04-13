@@ -1,45 +1,42 @@
-# Supplemental Advanced Quantum
+# 🧪 Supplemental Advanced Quantum
 
-This folder is the canonical publication surface for the Advanced Quantum course in this repository.
+This folder is the canonical publication surface for the generated notes from the `2013_fall` Advanced Quantum Mechanics run.
 
-## What Is Here
+## 📘 Published PDFs
 
-- `course.pdf`: merged course notes for the full run
+- `advanced_quantum_mechanics.pdf`: merged full-course book
 - `lecture_01.pdf` to `lecture_10.pdf`: lecture-by-lecture PDFs
 
-These PDFs are derived from the transcript-driven note pipeline under:
+These top-level PDFs are the published artifacts for this folder.
 
-- `generated_course_notes/supplementary/advanced_quantum_mechanics/2013_fall/`
-
-The current top-level PDFs in this folder are the canonical published artifacts.
-
-## Course Snapshot
+## 📊 Course Snapshot
 
 | Item | Status |
 |---|---|
 | Course run | `supplementary/advanced_quantum_mechanics/2013_fall` |
+| Merged course PDF | `advanced_quantum_mechanics.pdf` |
 | Lecture PDFs | `10 / 10` present |
-| Merged course PDF | present |
-| Source transcript tree | `markdown/supplementary/advanced_quantum_mechanics/2013_fall/` |
-| Source subtitle tree | `subtitles/supplementary/advanced_quantum_mechanics/2013_fall/` |
+| Source transcripts | `markdown/supplementary/advanced_quantum_mechanics/2013_fall/` |
+| Source subtitles | `subtitles/supplementary/advanced_quantum_mechanics/2013_fall/` |
+| Generated-note source | `generated_course_notes/supplementary/advanced_quantum_mechanics/2013_fall/` |
 
-## Reading Order
+## 🧭 Reading Layout
 
-1. Open `course.pdf` for the full compiled book.
-2. Open `lecture_01.pdf` through `lecture_10.pdf` for chapter-sized reading.
-3. Consult the generated-note tree for intermediate note assets, figures, or LaTeX chapter files.
+1. Start with `advanced_quantum_mechanics.pdf` for the full compiled notes.
+2. Use `lecture_01.pdf` through `lecture_10.pdf` for lecture-sized reading.
+3. Consult `generated_course_notes/...` for LaTeX sources, figures, and intermediate note assets.
 
-## Publication Notes
+## 🔗 Publication Notes
 
-- These PDFs currently mirror the generated course outputs through hard links.
-- That keeps the published filenames in this folder simple and canonical.
-- If the generated PDFs are replaced during a future rebuild, the hard links may need to be refreshed.
+- The PDFs in this folder currently mirror the generated outputs through hard links.
+- The merged file is named after the course rather than using a generic `course.pdf`.
+- If the generated PDFs are rebuilt later, the hard links may need to be refreshed.
 
-## Credits
+## 🙏 Credits
 
 - Original lecture content: Leonard Susskind
-- Transcript-derived note curation and packaging in this repository: [LazyingArt LLC](https://lazying.art)
+- Transcript-derived note curation and publication tooling: [LazyingArt LLC](https://lazying.art)
 
-## Local Workspace Notes
+## 🗂️ Legacy Items
 
-Local-only working material may exist beside these PDFs, but the published artifacts for this folder are the top-level `course.pdf` and `lecture_*.pdf` files.
+Legacy material such as `ch1/` may still exist beside the published PDFs, but the primary reader-facing artifacts are `advanced_quantum_mechanics.pdf` and `lecture_*.pdf`.

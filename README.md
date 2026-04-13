@@ -75,8 +75,8 @@ The main transcript and subtitle archive in this repository is derived from this
     </tr>
     <tr>
       <td>Published generated PDFs</td>
-      <td><code>supplemental_advanced_quantum/</code></td>
-      <td>Canonical published outputs for finished generated courses, including lecture PDFs and a merged course PDF.</td>
+      <td><code>supplemental_*/</code></td>
+      <td>Canonical published outputs for finished generated courses, using a course-specific merged PDF filename plus <code>lecture_XX.pdf</code> files.</td>
     </tr>
     <tr>
       <td>Legacy build artifacts</td>
@@ -120,7 +120,10 @@ Open the PDFs in the relevant course folder, for example:
 - `core_general_relativity/lesson_1.pdf`
 - `core_cosmology/lesson_1.pdf`
 - `core_statistical_mechanics/lesson_1.pdf`
-- `supplemental_advanced_quantum/course.pdf`
+- `supplemental_advanced_quantum/advanced_quantum_mechanics.pdf`
+- `supplemental_cosmology_and_black_holes/topics_in_string_theory.pdf`
+- `supplemental_higgs_boson/demystifying_the_higgs_boson.pdf`
+- `supplemental_particle_physics_1/particle_physics_1_basic_concepts.pdf`
 
 ### 📝 Read transcripts directly
 
