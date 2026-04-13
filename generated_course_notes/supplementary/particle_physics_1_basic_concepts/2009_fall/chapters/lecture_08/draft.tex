@@ -1,0 +1,607 @@
+\chapter{Composite Bosons, Spin, and the Dirac Equation}
+
+This lecture begins with a paradox and keeps the structure of a blackboard discussion all the way through. We first ask how two hydrogen atoms can behave as bosons even though each atom is built from fermions. From there we return to the mathematics of spin, not as a digression, but because the same algebra will later reappear as isospin, color, and internal symmetry more generally. Finally we come back to the Dirac equation, where the same two-by-two structure appears twice: once as spin and once as the doubling into positive- and negative-energy solutions. These notes follow Leonard Susskind's Lecture 8, with curation by LazyingArt LLC, and keep the order in which the argument is unfolded.
+
+\section{Exchange Symmetry and Composite Bosons}
+
+The lecture opens by returning to a question left hanging from earlier meetings. If a boson is made from fermions, can two such bosons occupy the same state? Before we can answer that, we have to restate the elementary exchange rules in the simplest language.
+
+For two identical particles described by a wavefunction \(\psi(x,y)\), the symbols \(x\) and \(y\) do not name two different species. They merely label the two particle slots. The physical rule is
+
+\begin{equation}
+\psi_B(x,y)=\psi_B(y,x), \qquad \psi_F(x,y)=-\psi_F(y,x),
+\end{equation}
+
+for bosons and fermions respectively. This is just the statement that two identical bosons are indistinguishable with a plus sign under exchange, while two identical fermions are indistinguishable with a minus sign.
+
+Now we can answer one part of the opening question immediately. Two bosons certainly can be in the same one-particle state. If \(\varphi(x)\) is a one-particle wavefunction, then
+
+\begin{equation}
+\psi(x,y)=\varphi(x)\varphi(y)
+\end{equation}
+
+is a perfectly good two-boson state, because wavefunctions are ordinary complex-valued functions, not operators. Therefore
+
+\begin{equation}
+\varphi(x)\varphi(y)=\varphi(y)\varphi(x).
+\end{equation}
+
+So the product state is automatically symmetric. For fermions the same product does not work: it does not acquire a minus sign under exchange, so it cannot describe two identical fermions in the same state.
+
+The next step in the lecture is constructive. Suppose we begin with a completely generic two-particle wavefunction \(\phi(x,y)\), neither symmetric nor antisymmetric. Then we may build from it the combinations
+
+\begin{align}
+\psi_{\mathrm{sym}}(x,y) &= \phi(x,y)+\phi(y,x),\\
+\psi_{\mathrm{asym}}(x,y) &= \phi(x,y)-\phi(y,x).
+\end{align}
+
+Up to an overall normalization, these are the bosonic and fermionic projections of the original state. The lecture stresses this as a practical rule rather than a slogan: if we want a bosonic state, we add the exchanged term; if we want a fermionic state, we subtract it.
+
+\section{Two Hydrogen Atoms as a Four-Fermion System}
+
+Now the interesting case begins. A hydrogen atom is made of a proton and an electron, and both of those are fermions. So for two hydrogen atoms we are really discussing a four-body system with two identical electrons and two identical protons.
+
+Let us write the electron coordinates as \(x_1,x_2\) and the proton coordinates as \(y_1,y_2\). The four-body wavefunction must obey
+
+\begin{equation}
+\Psi(x_1,x_2;y_1,y_2)=-\Psi(x_2,x_1;y_1,y_2),
+\end{equation}
+
+because the electrons are fermions, and also
+
+\begin{equation}
+\Psi(x_1,x_2;y_1,y_2)=-\Psi(x_1,x_2;y_2,y_1),
+\end{equation}
+
+because the protons are fermions.
+
+We begin with a product of two one-atom wavefunctions,
+\[
+\psi(x_1,y_1)\phi(x_2,y_2),
+\]
+where \(\psi\) describes one hydrogen atom and \(\phi\) describes the other. In general this is not yet acceptable, because it is neither antisymmetric in the electron labels nor antisymmetric in the proton labels.
+
+The lecture builds the correct state in two stages. First antisymmetrize in the electron coordinates:
+
+\begin{equation}
+\Psi_x(x_1,x_2;y_1,y_2)
+=
+\psi(x_1,y_1)\phi(x_2,y_2)
+-
+\psi(x_2,y_1)\phi(x_1,y_2).
+\end{equation}
+
+This now changes sign when \(x_1\leftrightarrow x_2\), but it is still not antisymmetric in \(y_1\leftrightarrow y_2\). So we apply the same rule once more, this time to the whole expression:
+
+\begin{align}
+\Psi_{2H}(x_1,x_2;y_1,y_2)
+&=
+\Psi_x(x_1,x_2;y_1,y_2)-\Psi_x(x_1,x_2;y_2,y_1)\\
+&=
+\psi(x_1,y_1)\phi(x_2,y_2)
+-\psi(x_2,y_1)\phi(x_1,y_2)\nonumber\\
+&\quad
+-\psi(x_1,y_2)\phi(x_2,y_1)
++\psi(x_2,y_2)\phi(x_1,y_1).
+\end{align}
+
+This is the four-term wavefunction the lecture is aiming at. The transcript in this part is orally compressed and slightly noisy, but the sign pattern \(+,-,-,+\) is the essential point, and it is fixed by the two successive antisymmetrizations.
+
+Now we ask the key question: what happens if we exchange the two whole atoms? Exchanging atom \(1\) and atom \(2\) means doing both exchanges at once,
+\[
+(x_1,y_1)\longleftrightarrow(x_2,y_2).
+\]
+But the wavefunction is antisymmetric under exchanging the two \(x\)'s and antisymmetric under exchanging the two \(y\)'s. Therefore the full atom exchange gives two minus signs, hence a plus sign:
+
+\begin{equation}
+\Psi_{2H}(x_2,x_1;y_2,y_1)=\Psi_{2H}(x_1,x_2;y_1,y_2).
+\end{equation}
+
+So the four-fermion state is symmetric under interchange of the two atoms. In that precise sense the hydrogen atoms behave as bosons.
+
+\subsection{Question \& Answer}
+
+The lecture then pauses over the natural objection.
+
+\paragraph{Question.} How can two bosonic atoms be in the same state if their constituent fermions cannot?
+
+\paragraph{Answer.} Let us now set the two one-atom wavefunctions equal, \(\phi=\psi\). Then the two-atom state becomes
+
+\begin{align}
+\Psi_{\mathrm{same}}(x_1,x_2;y_1,y_2)
+&=
+\psi(x_1,y_1)\psi(x_2,y_2)
+-\psi(x_2,y_1)\psi(x_1,y_2)\nonumber\\
+&\quad
+-\psi(x_1,y_2)\psi(x_2,y_1)
++\psi(x_2,y_2)\psi(x_1,y_1)\\
+&=
+2\Big[\psi(x_1,y_1)\psi(x_2,y_2)-\psi(x_2,y_1)\psi(x_1,y_2)\Big].
+\end{align}
+
+This is not zero in general. So two atoms can indeed occupy the same atomic state.
+
+But now let us test the constituent fermions directly. If we force the two electrons to be at the same point, we set \(x_1=x_2=x\). Then
+
+\begin{align}
+\Psi_{\mathrm{same}}(x,x;y_1,y_2)
+&=
+2\Big[\psi(x,y_1)\psi(x,y_2)-\psi(x,y_1)\psi(x,y_2)\Big]\\
+&=0.
+\end{align}
+
+Likewise, if we force the two protons to coincide by setting \(y_1=y_2\), the wavefunction also vanishes. The right conclusion is therefore not that the electron and proton sectors have somehow forgotten the Pauli principle. Rather, the opposite is true: the antisymmetrization has projected out exactly those parts of the four-body wavefunction in which the identical fermions occupy the same constituent state.
+
+This is also why the lecture insists on separating two questions that are easy to blur together. To ask whether two atoms can be in the same momentum state is not the same as asking whether they can be put on top of each other in space. Momentum eigenstates are spread out, and the bosonic exchange rule concerns the symmetry of the state under interchange, not whether the system has a hard-core repulsion or a large interaction energy at short distance.
+
+\section{Half-Spin as a Two-State Quantum System}
+
+At this point the lecture makes an explicit pivot. We come back to spin because the mathematics of spin is going to reappear later as the mathematics of isospin, color, and internal symmetry in general. The physics changes, but the algebra survives.
+
+With \(\hbar=1\), the spin operators satisfy the same angular-momentum commutation relations as before:
+
+\begin{equation}
+[S_x,S_y]=iS_z,\qquad [S_y,S_z]=iS_x,\qquad [S_z,S_x]=iS_y.
+\end{equation}
+
+It is also useful to define the raising and lowering operators
+
+\begin{equation}
+S_\pm = S_x \pm i S_y.
+\end{equation}
+
+For spin \(1/2\), the \(z\)-component of spin can take only the values \(+\tfrac12\) and \(-\tfrac12\). So the spin state space is two-dimensional. If we forget the position and momentum of the electron for a moment and look only at its spin, any state may be written as a two-component column,
+
+\begin{equation}
+\psi =
+\begin{pmatrix}
+\alpha\\
+\beta
+\end{pmatrix},
+\qquad
+|\alpha|^2 = P(\text{up along }z),
+\qquad
+|\beta|^2 = P(\text{down along }z).
+\end{equation}
+
+Operators on this two-state space become \(2\times2\) matrices. Choosing \(S_z\) to be diagonal, the standard representation is
+
+\begin{equation}
+S_i=\frac12 \sigma_i,
+\end{equation}
+
+with
+
+\begin{equation}
+\sigma_x=
+\begin{pmatrix}
+0&1\\
+1&0
+\end{pmatrix},
+\qquad
+\sigma_y=
+\begin{pmatrix}
+0&-i\\
+i&0
+\end{pmatrix},
+\qquad
+\sigma_z=
+\begin{pmatrix}
+1&0\\
+0&-1
+\end{pmatrix}.
+\end{equation}
+
+The lecture then solves the eigenvalue problems one axis at a time.
+
+For the \(z\)-axis we solve
+
+\begin{align}
+\sigma_z
+\begin{pmatrix}
+\alpha\\
+\beta
+\end{pmatrix}
+=
++
+\begin{pmatrix}
+\alpha\\
+\beta
+\end{pmatrix},
+\qquad
+\sigma_z
+\begin{pmatrix}
+\alpha\\
+\beta
+\end{pmatrix}
+=
+-
+\begin{pmatrix}
+\alpha\\
+\beta
+\end{pmatrix}.
+\end{align}
+
+The first equation gives \(\beta=0\), the second gives \(\alpha=0\). After normalization we find
+
+\begin{equation}
+|+\!z\rangle=
+\begin{pmatrix}
+1\\
+0
+\end{pmatrix},
+\qquad
+|-\!z\rangle=
+\begin{pmatrix}
+0\\
+1
+\end{pmatrix}.
+\end{equation}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.74\textwidth]{lecture_08_figure_02.png}
+\caption{Pauli-\(\sigma_z\) eigenvalue equation.}
+\end{figure}
+
+For the \(x\)-axis the equation is
+
+\begin{equation}
+\sigma_x
+\begin{pmatrix}
+\alpha\\
+\beta
+\end{pmatrix}
+=
+\begin{pmatrix}
+\beta\\
+\alpha
+\end{pmatrix}.
+\end{equation}
+
+Thus the \(+1\) eigenvalue problem requires \(\alpha=\beta\), while the \(-1\) eigenvalue problem requires \(\beta=-\alpha\). Normalizing the solutions gives
+
+\begin{equation}
+|+\!x\rangle=\frac{1}{\sqrt2}
+\begin{pmatrix}
+1\\
+1
+\end{pmatrix},
+\qquad
+|-\!x\rangle=\frac{1}{\sqrt2}
+\begin{pmatrix}
+1\\
+-1
+\end{pmatrix}.
+\end{equation}
+
+This is the familiar and important point that a definite spin along the \(x\)-axis is a linear superposition of spin-up and spin-down along the \(z\)-axis.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.74\textwidth]{lecture_08_figure_03.png}
+\caption{\(\sigma_x\) eigenvector condition.}
+\end{figure}
+
+For the \(y\)-axis the lecture works more quickly and also hesitates over the sign assignment. The standard normalized eigenvectors are
+
+\begin{equation}
+|+\!y\rangle=\frac{1}{\sqrt2}
+\begin{pmatrix}
+1\\
+i
+\end{pmatrix},
+\qquad
+|-\!y\rangle=\frac{1}{\sqrt2}
+\begin{pmatrix}
+1\\
+-i
+\end{pmatrix},
+\end{equation}
+
+up to the usual freedom to multiply by an overall phase. The important point is not the live sign bookkeeping on the board but the new appearance of the complex phase \(i\). Both \(x\)-polarized and \(y\)-polarized states give equal probabilities for measuring \(z\)-up and \(z\)-down, but they differ by a relative phase, and that phase is physically meaningful.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.82\textwidth]{lecture_08_figure_04.png}
+\caption{\(\sigma_y\) eigenvectors and spin-matrix summary.}
+\end{figure}
+
+So the whole spin-\(1/2\) story can be stated in one sentence: every spin state is a linear combination of the two basis states \( |+\!z\rangle\) and \( |-\!z\rangle\), and the Pauli matrices tell us how to describe measurements along other axes.
+
+\section{Spin-1 and the Meaning of Multi-Component Wavefunctions}
+
+The lecture next moves to spin \(1\). Here the \(z\)-component can take the values \(+1,0,-1\), so the spin space is now three-dimensional. As before, the matrices are not unique. Susskind chooses a particularly symmetric representation in which none of the three generators is singled out by being diagonal from the start.
+
+A convenient form matching the board pattern, with signs fixed by the commutation relations, is
+
+\begin{equation}
+S_x
+=
+i
+\begin{pmatrix}
+0&0&0\\
+0&0&1\\
+0&-1&0
+\end{pmatrix},
+\qquad
+S_y
+=
+i
+\begin{pmatrix}
+0&0&-1\\
+0&0&0\\
+1&0&0
+\end{pmatrix},
+\qquad
+S_z
+=
+i
+\begin{pmatrix}
+0&1&0\\
+-1&0&0\\
+0&0&0
+\end{pmatrix}.
+\end{equation}
+
+These matrices are purely imaginary and antisymmetric, and they treat the \(x\), \(y\), and \(z\) directions in a visibly parallel way. In this basis \(S_z\) is not diagonal, so we find the \(m_s\) states by solving the eigenvalue problem directly. The resulting eigenvectors are
+
+\begin{equation}
+|m_s=+1\rangle=\frac{1}{\sqrt2}
+\begin{pmatrix}
+1\\
+-i\\
+0
+\end{pmatrix},
+\qquad
+|m_s=-1\rangle=\frac{1}{\sqrt2}
+\begin{pmatrix}
+1\\
+i\\
+0
+\end{pmatrix},
+\qquad
+|m_s=0\rangle=
+\begin{pmatrix}
+0\\
+0\\
+1
+\end{pmatrix}.
+\end{equation}
+
+The lecture then returns from abstract spin space to a real particle moving in ordinary space. For a spin-\(\tfrac12\) particle the state is no longer just a fixed column \((\alpha,\beta)^T\); the components become functions of position:
+
+\begin{equation}
+\psi(x)=
+\begin{pmatrix}
+\psi_\uparrow(x)\\
+\psi_\downarrow(x)
+\end{pmatrix}.
+\end{equation}
+
+Likewise for a spin-1 particle we have
+
+\begin{equation}
+\phi(x)=
+\begin{pmatrix}
+\phi_1(x)\\
+\phi_2(x)\\
+\phi_3(x)
+\end{pmatrix}.
+\end{equation}
+
+At each point in space there is now a vector in spin space. The spin information is not being added to the ordinary wavefunction from the outside; it is built into the fact that the wavefunction has several components.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} If we write a three-component wavefunction, is \(\psi_1\), or in the present notation \(\phi_1(x)\), itself a probability?
+
+\paragraph{Answer.} No. A component of the column is an amplitude in a chosen basis, not yet a measured probability for a physical spin value. The right rule is to project the state onto the eigenvector corresponding to the measurement we are actually making.
+
+If \(|m_s\rangle\) is the normalized eigenvector for the outcome \(m_s\), then
+
+\begin{equation}
+P(m_s\mid x)=|\langle m_s|\phi(x)\rangle|^2.
+\end{equation}
+
+For example, using the eigenvectors above,
+
+\begin{align}
+P(+1\mid x)
+&=
+\left|
+\frac{1}{\sqrt2}
+\begin{pmatrix}
+1&i&0
+\end{pmatrix}
+\begin{pmatrix}
+\phi_1(x)\\
+\phi_2(x)\\
+\phi_3(x)
+\end{pmatrix}
+\right|^2
+=
+\frac12\left|\phi_1(x)+i\phi_2(x)\right|^2,\\
+P(-1\mid x)
+&=
+\frac12\left|\phi_1(x)-i\phi_2(x)\right|^2,\\
+P(0\mid x)
+&=
+\left|
+\begin{pmatrix}
+0&0&1
+\end{pmatrix}
+\begin{pmatrix}
+\phi_1(x)\\
+\phi_2(x)\\
+\phi_3(x)
+\end{pmatrix}
+\right|^2
+=
+|\phi_3(x)|^2.
+\end{align}
+
+This is exactly the principle the lecture wants to preserve, even though the blackboard arithmetic in this segment is admittedly rough. The important rule is the projection rule. Once we keep the components complex, the probabilities come from inner products with the proper eigenvectors, not from reading off a single component by itself.
+
+\section{Dirac Matrices in Block Form}
+
+Now let us come back to the Dirac equation. In the form used in the lecture it is
+
+\begin{equation}
+i\partial_t\Psi
+=
+-\,i\,\alpha_i\,\partial_i\Psi
++
+m\beta\Psi,
+\qquad i=1,2,3,
+\end{equation}
+
+where \(\Psi\) is a four-component spinor and repeated spatial indices are summed.
+
+For a plane wave of momentum \(k_i\) and frequency \(\omega\), the equation becomes
+
+\begin{equation}
+\omega \Psi = \left(\alpha_i k_i + m\beta\right)\Psi.
+\end{equation}
+
+The whole point of the Dirac construction is that, after squaring, this must reproduce the relativistic dispersion relation
+
+\begin{equation}
+\omega^2 = k^2 + m^2.
+\end{equation}
+
+That requirement imposes algebraic conditions on the matrices. The compact form is
+
+\begin{equation}
+\{\alpha_i,\alpha_j\}=2\delta_{ij},
+\qquad
+\{\alpha_i,\beta\}=0,
+\qquad
+\beta^2=1.
+\end{equation}
+
+This is the Clifford-type anticommutation algebra behind the equation. If we only needed three mutually anticommuting matrices squaring to the identity, the Pauli matrices would do the job in \(2\times2\) form. But the extra \(\beta\) requires a fourth matrix with the same property, and that cannot be done in \(2\times2\) or \(3\times3\) form. This is the reason the minimal representation is \(4\times4\).
+
+The lecture then rewrites the matrices in \(2\times2\) block form. For the \(\alpha_i\) one convenient realization is
+
+\begin{equation}
+\alpha_i=
+\begin{pmatrix}
+\sigma_i&0\\
+0&-\sigma_i
+\end{pmatrix}.
+\end{equation}
+
+For \(\beta\), the transcript in this stretch is noisy because Susskind is comparing different equivalent representations. The form consistent with the rest-frame calculation a few minutes later is
+
+\begin{equation}
+\beta=
+\begin{pmatrix}
+0&I\\
+I&0
+\end{pmatrix},
+\qquad
+I=
+\begin{pmatrix}
+1&0\\
+0&1
+\end{pmatrix}.
+\end{equation}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.68\textwidth]{lecture_08_figure_05.png}
+\caption{Block form of \(\alpha_i\) from Pauli matrices.}
+\end{figure}
+
+\begin{figure}[t]
+\centering
+\begin{tikzpicture}[scale=1.0]
+\draw (0,0) rectangle (4,4);
+\draw (2,0)--(2,4);
+\draw (0,2)--(4,2);
+\node at (1,3) {$\sigma_i$};
+\node at (3,3) {$0$};
+\node at (1,1) {$0$};
+\node at (3,1) {$-\sigma_i$};
+\end{tikzpicture}
+\caption{A clean block-matrix version of the board organization for \(\alpha_i\).}
+\end{figure}
+
+This block notation is more than a bookkeeping trick. It already hints at the physical interpretation Susskind wants to emphasize: there are two distinct kinds of doubling in the Dirac equation. One comes from the \(2\times2\) block structure itself; the other comes from the \(2\times2\) Pauli matrix sitting inside each block.
+
+\section{The Rest-Frame Dirac Equation, Energy Doubling, and Positrons}
+
+The lecture then asks for the easiest possible place to see what the four components mean. That place is the rest frame, or equivalently the zero-momentum case. If \(k=0\), the spatial-derivative terms vanish, and the Dirac equation collapses to a very simple form. The blackboard at this point still carries an extra factor of \(i\), but the corrected equation used immediately afterward is
+
+\begin{equation}
+i\,\partial_t\Psi = m\,\beta\,\Psi.
+\end{equation}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.76\textwidth]{lecture_08_figure_06.png}
+\caption{Rest-frame Dirac equation.}
+\end{figure}
+
+Now split the four-component Dirac spinor into two two-component pieces,
+
+\begin{equation}
+\Psi=
+\begin{pmatrix}
+\psi_+\\
+\psi_-
+\end{pmatrix}.
+\end{equation}
+
+With the off-diagonal form of \(\beta\), the matrix simply swaps the upper and lower blocks, and the rest-frame equation becomes
+
+\begin{equation}
+i\dot{\psi}_+=m\psi_-,
+\qquad
+i\dot{\psi}_-=m\psi_+.
+\end{equation}
+
+At this stage the lecture performs the key trick: add the two equations and subtract the two equations. Then the combinations decouple:
+
+\begin{align}
+i\partial_t(\psi_+ + \psi_-)
+&=
+m(\psi_+ + \psi_-),\\
+i\partial_t(\psi_+ - \psi_-)
+&=
+-\,m(\psi_+ - \psi_-).
+\end{align}
+
+So if the state has definite frequency, the two independent branches have
+
+\begin{equation}
+\omega=+m
+\qquad \text{or} \qquad
+\omega=-m.
+\end{equation}
+
+This is the first two-by-two-ness: positive- and negative-energy solutions. The second two-by-two-ness remains inside each \(\psi_\pm\), since each of those is still a two-component spinor. That is the spin doubling. So the lecture's four-component spinor is naturally read as
+\[
+(\text{energy sign}) \times (\text{spin sign}).
+\]
+
+In the positive-energy sector, the remaining freedom is exactly the familiar two-component spin-\(\tfrac12\) freedom. This is the point Susskind returns to when asked how the rest-frame Dirac analysis still knows about spin even though the \(\alpha_i\) matrices no longer appear explicitly at zero momentum.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} What is the physical meaning of the negative-energy solutions?
+
+\paragraph{Answer.} The lecture answers this in the Dirac-sea language. Negative frequency means negative energy. If the equation predicts negative-energy electron states, then the vacuum is not obtained by leaving them empty. It is obtained by filling them all. Because electrons are fermions, at most one electron can occupy each negative-energy state. The filled set of all negative-energy states is then called the vacuum.
+
+Now remove one of those negative-energy electrons and place it into a positive-energy state. What do we see? We see a positive-energy electron together with a hole in the filled negative-energy sea. That hole behaves as a positive-energy particle of opposite charge: a positron.
+
+So the twofold energy doubling in the Dirac equation becomes, physically, the existence of electrons and positrons. The other twofoldness remains the spin-\(\tfrac12\) doubling. In this way the \(4\times4\) structure becomes exactly what Susskind says it is: particle versus antiparticle, each with spin up or spin down.
+
+The lecture then pushes one step farther and asks what happens to the hole. If a higher negative-energy electron falls into it, that is simply the positron changing its state. Such a process can radiate photons. Likewise, when a positive-energy electron and a positron disappear, we describe the process as annihilation and again photons must carry away the conserved energy and momentum.
+
+The final caution in the lecture is important. One should not turn this verbal picture into a loose claim that everything always cascades downward. Energy conservation by itself is not enough; momentum must also be conserved. That is why a free electron cannot continually radiate photons and lower its energy in empty space, and it is also why the positron story is more constrained than a naive picture of falling levels might suggest.
+
+\section{Summary}
+
+The lecture ties together three ideas that at first seem separate. First, a composite boson can be made from fermions because the atom exchange produces two minus signs and therefore a plus sign. Second, the mathematics of spin is the mathematics of finite-dimensional state spaces, matrices, eigenvectors, and projections, and that same mathematics will return later under new physical names. Third, the Dirac equation contains two independent doublings: one is the spin-\(\tfrac12\) structure already familiar from Pauli matrices, and the other is the split into positive- and negative-energy solutions. In the lecture's language, that is what the four-by-four is about.
