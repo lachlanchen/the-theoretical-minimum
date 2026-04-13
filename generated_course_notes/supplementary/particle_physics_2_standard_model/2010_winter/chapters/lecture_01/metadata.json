@@ -1,0 +1,66 @@
+{
+  "course_rel": "supplementary/particle_physics_2_standard_model/2010_winter",
+  "transcript_rel": "supplementary/particle_physics_2_standard_model/2010_winter/085 - Lecture 1 \uff5c New Revolutions in Particle Physics\uff1a Standard Model [Igl8hE3Eac0].md",
+  "video_rel": "supplementary/particle_physics_2_standard_model/2010_winter/085 - Lecture 1 \uff5c New Revolutions in Particle Physics\uff1a Standard Model [Igl8hE3Eac0].mkv",
+  "lecture_number": 1,
+  "lecture_slug": "lecture_01",
+  "lecture_title": "Lecture 1 : New Revolutions in Particle Physics\uff1a Standard Model",
+  "assets": [
+    {
+      "name": "lecture_01_figure_02.png",
+      "timestamp_seconds": 872.28,
+      "timestamp_hhmmss": "00:14:32.280",
+      "source_candidate": "lecture_01_window_03_candidate_04_001432280.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame shows the wave-function sketch in its most finished and least obstructed state within the subtitle window. The curve at upper left is already drawn, Susskind's writing hand no longer covers it, and the surrounding board layout with the marked points remains visible enough to support a careful schematic redraw.",
+      "subtitle_excerpt": "Let's draw the Schr\u00f6dinger wave function.",
+      "segment_start_seconds": 870.52,
+      "segment_start_hhmmss": "00:14:30.520",
+      "segment_end_seconds": 872.52,
+      "segment_end_hhmmss": "00:14:32.520",
+      "caption_hint": "Schr\u00f6dinger wave-function sketch"
+    },
+    {
+      "name": "lecture_01_figure_03.png",
+      "timestamp_seconds": 1074.24,
+      "timestamp_hhmmss": "00:17:54.240",
+      "source_candidate": "lecture_01_window_04_candidate_01_001754240.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame captures both wave-function sketches clearly and in a comparatively complete state. The two hump-like curves are simultaneously visible, the board layout with one sketch on the left and one on the right is easy to read, and Susskind's hand is not yet obscuring the key contour of either curve as much as in the later candidates.",
+      "subtitle_excerpt": "two wave functions, which I didn't draw very well,",
+      "segment_start_seconds": 1073.88,
+      "segment_start_hhmmss": "00:17:53.880",
+      "segment_end_seconds": 1076.88,
+      "segment_end_hhmmss": "00:17:56.880",
+      "caption_hint": "two wave-function sketches"
+    },
+    {
+      "name": "lecture_01_figure_04.png",
+      "timestamp_seconds": 1228.64,
+      "timestamp_hhmmss": "00:20:28.640",
+      "source_candidate": "lecture_01_window_05_candidate_04_002028640.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This is the clearest and least obstructed frame in the window. By this point the board shows the full layout at once: the two upper wave-function sketches and the lower graph representing the proton-proton potential, while Susskind has stepped aside enough that neither the curves nor the lower axes are being actively covered by his hand.",
+      "subtitle_excerpt": "a potential energy between the two protons.",
+      "segment_start_seconds": 1226.88,
+      "segment_start_hhmmss": "00:20:26.880",
+      "segment_end_seconds": 1228.88,
+      "segment_end_hhmmss": "00:20:28.880",
+      "caption_hint": "potential-energy sketch for two protons"
+    },
+    {
+      "name": "lecture_01_figure_05.png",
+      "timestamp_seconds": 2351.4,
+      "timestamp_hhmmss": "00:39:11.400",
+      "source_candidate": "lecture_01_window_06_candidate_02_003911400.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the clearest unobstructed frame in the window. The table headers and the photon row are fully visible, and both the photon symbol and the entry A are legible before the lecturer steps in and begins to write over the board.",
+      "subtitle_excerpt": "but you can also use the vector potential,",
+      "segment_start_seconds": 2349.88,
+      "segment_start_hhmmss": "00:39:09.880",
+      "segment_end_seconds": 2353.88,
+      "segment_end_hhmmss": "00:39:13.880",
+      "caption_hint": "photon notation and vector potential"
+    }
+  ]
+}
