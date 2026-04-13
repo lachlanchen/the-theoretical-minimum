@@ -26,6 +26,7 @@ It combines lecture transcriptions, subtitle files, generated TeX notes, compile
   - `subtitles/` for `.srt`
   - `markdown/` for timestamped Markdown transcripts
 - A transcript-to-TeX pipeline in `generated_course_notes/`.
+- The `Video2Book/` submodule for playlist download and transcription automation.
 - Imported companion material in `theoretical_minimum_companion_notes/`.
 - Reusable LaTeX templates in `template/kaobook` and `template/tuftle`.
 
@@ -90,8 +91,8 @@ The main transcript and subtitle archive in this repository is derived from this
     </tr>
     <tr>
       <td>Templates and shared material</td>
-      <td><code>template/</code>, <code>figs/</code>, <code>the_theoretical_minimum/</code></td>
-      <td>LaTeX templates, shared branding/assets, and the related submodule checkout.</td>
+      <td><code>template/</code>, <code>figs/</code>, <code>the_theoretical_minimum/</code>, <code>Video2Book/</code></td>
+      <td>LaTeX templates, shared branding/assets, the related submodule checkout, and the download/transcription automation submodule.</td>
     </tr>
   </tbody>
 </table>
@@ -132,6 +133,23 @@ Use:
 
 - `subtitles/` for subtitle-style reading and timestamp fidelity
 - `markdown/` for text review, searching, and note generation
+
+### ⬇️ Refresh the source playlist
+
+Use the parent wrapper, which delegates to the `Video2Book` submodule:
+
+```bash
+./scripts/download_susskind_playlist.sh
+```
+
+### 🎙️ Run the transcription queue
+
+Use the parent wrappers, which delegate to the `Video2Book` submodule:
+
+```bash
+./scripts/start_transcription_tmux.sh
+./scripts/start_transcription_monitor_tmux.sh
+```
 
 ### 🧪 Work on transcript-derived notes
 

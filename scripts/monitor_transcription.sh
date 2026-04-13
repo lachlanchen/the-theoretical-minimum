@@ -5,4 +5,4 @@ repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 
 export TRANSCRIPTION_REPO_ROOT="$repo_root"
 cd "$repo_root"
-exec bash "$repo_root/Video2Book/scripts/process_videos_one_by_one.sh" "$@"
+exec bash "$repo_root/Video2Book/scripts/monitor_transcription.sh" "$@"
