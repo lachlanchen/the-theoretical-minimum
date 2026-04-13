@@ -1,0 +1,80 @@
+{
+  "course_rel": "supplementary/quantum_entanglement/2006_fall_part_1",
+  "transcript_rel": "supplementary/quantum_entanglement/2006_fall_part_1/055 - Lecture 8 \uff5c Quantum Entanglements, Part 1 (Stanford) [C1erB9p5414].md",
+  "video_rel": "supplementary/quantum_entanglement/2006_fall_part_1/055 - Lecture 8 \uff5c Quantum Entanglements, Part 1 (Stanford) [C1erB9p5414].mp4",
+  "lecture_number": 8,
+  "lecture_slug": "lecture_08",
+  "lecture_title": "Lecture 8 : Quantum Entanglements, Part 1 (Stanford)",
+  "assets": [
+    {
+      "name": "lecture_08_figure_01.png",
+      "timestamp_seconds": 0.0,
+      "timestamp_hhmmss": "00:00:00.000",
+      "source_candidate": "lecture_08_window_01_candidate_03_000006812.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "None of the candidate frames contain blackboard mathematics, diagrams, or lecture layout. They are opening title-card frames, which are not useful for note writing and should be rejected.",
+      "subtitle_excerpt": "This program is brought to you by Stanford University.",
+      "segment_start_seconds": 0.0,
+      "segment_start_hhmmss": "00:00:00.000",
+      "segment_end_seconds": 10.48,
+      "segment_end_hhmmss": "00:00:10.480",
+      "caption_hint": "Stanford title card"
+    },
+    {
+      "name": "lecture_08_figure_02.png",
+      "timestamp_seconds": 317.58,
+      "timestamp_hhmmss": "00:05:17.580",
+      "source_candidate": "lecture_08_window_02_candidate_02_000517580.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "Candidate 2 is the clearest usable frame. The small three-branch board sketch is fully visible and least occluded, whereas candidate 1 is partially blocked by Susskind's hand and candidates 3 and 4 lose most or all of the board content. The frame is still sparse, so it is best used as diagram evidence rather than as a source of equation transcription.",
+      "subtitle_excerpt": "in the i-th eigenvector of the density matrix.",
+      "segment_start_seconds": 315.68,
+      "segment_start_hhmmss": "00:05:15.680",
+      "segment_end_seconds": 320.68,
+      "segment_end_hhmmss": "00:05:20.680",
+      "caption_hint": "Small branching schematic"
+    },
+    {
+      "name": "lecture_08_figure_03.png",
+      "timestamp_seconds": 3913.928,
+      "timestamp_hhmmss": "01:05:13.928",
+      "source_candidate": "lecture_08_window_04_candidate_03_010513928.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "Sigma 1 was the matrix 1, 1, 0, 0.",
+      "segment_start_seconds": 3910.002,
+      "segment_start_hhmmss": "01:05:10.002",
+      "segment_end_seconds": 3916.042,
+      "segment_end_hhmmss": "01:05:16.042",
+      "caption_hint": "Sigma 1 was the matrix 1, 1, 0, 0."
+    },
+    {
+      "name": "lecture_08_figure_04.png",
+      "timestamp_seconds": 5010.80465,
+      "timestamp_hhmmss": "01:23:30.805",
+      "source_candidate": "lecture_08_window_05_candidate_03_012330805.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "If an equation like this is true for every vector,",
+      "segment_start_seconds": 5008.061,
+      "segment_start_hhmmss": "01:23:28.061",
+      "segment_end_seconds": 5012.282,
+      "segment_end_hhmmss": "01:23:32.282",
+      "caption_hint": "If an equation like this is true for every vector,"
+    },
+    {
+      "name": "lecture_08_figure_05.png",
+      "timestamp_seconds": 6234.192,
+      "timestamp_hhmmss": "01:43:54.192",
+      "source_candidate": "lecture_08_window_06_candidate_03_014354192.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "if psi of zero is an eigenvector of the energy,",
+      "segment_start_seconds": 6230.942,
+      "segment_start_hhmmss": "01:43:50.942",
+      "segment_end_seconds": 6235.942,
+      "segment_end_hhmmss": "01:43:55.942",
+      "caption_hint": "if psi of zero is an eigenvector of the energy,"
+    }
+  ]
+}
