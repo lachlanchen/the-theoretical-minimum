@@ -1,0 +1,377 @@
+\chapter{Lecture 4: New Revolutions in Particle Physics}
+
+These notes follow Leonard Susskind's fourth lecture in the supplementary particle physics track, curated by LazyingArt LLC. We omit the brief administrative opening and return directly to the mathematical spine of the lecture. The aim is to go back to the simplest quantum field and push it far enough that scattering amplitudes begin to display conservation laws. To get there, the lecture rebuilds a small toolkit in the order in which it will be needed: the Dirac delta function, bra-ket bookkeeping, the time-dependent field, the field equation, and finally the simplest scattering model.
+
+\section{Why Return to the Simple Field?}
+
+The simple field has already been introduced, but the lecture insists that we are not finished with it. A quantum field is not being revisited here for the sake of formalism alone. The point is that in the microscopic world our experimental handle is almost always the same: collide particles, watch what comes out, and compute the amplitude for the transition from an initial state to a final state. Even the simplest field already contains the ingredients for that bookkeeping.
+
+Before we can cash this out, however, the lecture deliberately pauses. Susskind's move is characteristic: before asking what the field does, he asks what little bits of mathematics we will repeatedly need in the computation. The first is the Dirac delta function. The second is the elementary algebra of bras, kets, and creation and annihilation operators.
+
+\section{Dirac Delta as a Working Tool}
+
+The lecture begins with a picture rather than a formula. We imagine a lump-like function localized at one point, narrower and narrower, but with its total area held fixed. If the point is \(y=a\), the limiting object is \(\delta(y-a)\). The board sketch is part of the argument, because it emphasizes both localization and normalization.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.68\textwidth]{lecture_04_figure_02.png}
+\caption{Delta-function spike at \(y=a\).}
+\end{figure}
+
+The measure \(dy\) is only partly visible on the board, but the mathematical content is clear enough:
+\begin{equation}
+\int dy\,\delta(y-a)=1.
+\end{equation}
+The point of the picture is that \(\delta(y-a)\) vanishes away from \(y=a\), but is so high and so narrow at \(y=a\) that the total area remains one.
+
+\begin{figure}[h]
+\centering
+\begin{tikzpicture}[scale=1.0]
+\draw[->] (-3.2,0) -- (3.4,0) node[right] {$y$};
+\draw[very thick] (0,0) -- (0,2.8);
+\draw (0,-0.15) node[below] {$y=a$};
+\draw (1.15,1.65) node {$\int \delta(y-a)$};
+\end{tikzpicture}
+\caption{A clean redraw of the localized spike used to visualize \(\delta(y-a)\).}
+\end{figure}
+
+The lecture then turns this picture into a Fourier identity. We work on a periodic interval of total length \(L\), and consider the allowed modes \(e^{ikx}\), with
+\begin{equation}
+k_n=\frac{2\pi n}{L}, \qquad \Delta k=\frac{2\pi}{L}.
+\end{equation}
+Integrating over one full period, conveniently from \(-L/2\) to \(L/2\), we get
+\begin{equation}
+\int_{-L/2}^{L/2} dx\,e^{ikx}=
+\begin{cases}
+L, & k=0,\\[4pt]
+0, & k\neq 0.
+\end{cases}
+\end{equation}
+As a function of the discrete variable \(k\), this is a spike of height \(L\) and width \(\Delta k=2\pi/L\). Its area is therefore
+\[
+L\cdot \frac{2\pi}{L}=2\pi.
+\]
+In the large-\(L\) limit the spacing in \(k\) goes to zero, and the spike becomes a genuine delta function:
+\begin{equation}
+\int_{-\infty}^{\infty} dx\,e^{ikx}=2\pi \delta(k).
+\end{equation}
+By the same symmetry between \(x\) and \(k\), we also have
+\begin{equation}
+\int_{-\infty}^{\infty} dk\,e^{ikx}=2\pi \delta(x).
+\end{equation}
+
+This is not detached mathematical review. The lecture is installing exactly the object that will later emerge from the time integral in a scattering amplitude.
+
+\section{Bras, Kets, and Operators Acting to the Left}
+
+The next piece of bookkeeping is bra-ket notation. In the lecture, kets are used for initial states and bras for final states. Their inner product is a number, and for the oscillator basis \(|n\rangle\) one has
+\begin{equation}
+\langle m|n\rangle=\delta_{mn},
+\end{equation}
+the discrete analog of the Dirac delta function.
+
+For the harmonic oscillator, the familiar action on ket vectors is
+\begin{equation}
+a^\dagger|n\rangle=\sqrt{n+1}\,|n+1\rangle,
+\qquad
+a|n\rangle=\sqrt{n}\,|n-1\rangle.
+\end{equation}
+The lecture now asks for the corresponding action on bra vectors. The answer is chosen so that left-acting and right-acting calculations give the same numerical result:
+\begin{equation}
+\langle n|a^\dagger=\sqrt{n}\,\langle n-1|,
+\qquad
+\langle n|a=\sqrt{n+1}\,\langle n+1|.
+\end{equation}
+On the board this is written with \(a^+\) and \(a^-\); we standardize here to \(a^\dagger\) and \(a\).
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why does a creation operator lower a bra?
+
+\paragraph{Answer.} Because what matters is the numerical matrix element, not the verbal label ``creation'' by itself. If we compute
+\[
+\langle n|a^\dagger|m\rangle
+\]
+by acting to the right, we get
+\[
+\langle n|a^\dagger|m\rangle
+=
+\langle n|\,\sqrt{m+1}\,|m+1\rangle
+=
+\sqrt{m+1}\,\delta_{n,m+1}.
+\]
+So the matrix element is nonzero only when \(n=m+1\). To reproduce that same condition by acting to the left, \(a^\dagger\) must turn \(\langle n|\) into something proportional to \(\langle n-1|\), namely
+\[
+\langle n|a^\dagger=\sqrt{n}\,\langle n-1|.
+\]
+The lecture emphasizes that this is a definition chosen because it gives a useful calculus.
+
+The usefulness is immediately visible in the example
+\begin{equation}
+\langle n|a^\dagger a|n\rangle.
+\end{equation}
+Acting to the right,
+\begin{align}
+a|n\rangle &= \sqrt{n}\,|n-1\rangle,\\
+a^\dagger|n-1\rangle &= \sqrt{n}\,|n\rangle,
+\end{align}
+so
+\begin{equation}
+\langle n|a^\dagger a|n\rangle=n\langle n|n\rangle=n.
+\end{equation}
+Acting to the left,
+\begin{align}
+\langle n|a^\dagger &= \sqrt{n}\,\langle n-1|,\\
+\langle n-1|a &= \sqrt{n}\,\langle n|,
+\end{align}
+and again
+\begin{equation}
+\langle n|a^\dagger a|n\rangle=n.
+\end{equation}
+This is the whole point of the rule: we do not have to worry about which side the operators act on. The bookkeeping is stable.
+
+\section{The Simple Field, Units, and Time Dependence}
+
+With the bookkeeping in place, the lecture returns to the simple field itself. We first adopt the unit convention
+\begin{equation}
+\hbar=1,
+\end{equation}
+so that momentum and wave number coincide.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.58\textwidth]{lecture_04_figure_03.png}
+\caption{Units \(\hbar=1\) and the identification \(\vec p=\vec k\).}
+\end{figure}
+
+Thus
+\begin{equation}
+\vec p=\vec k.
+\end{equation}
+Likewise, since \(E=\hbar\omega\) and \(p=\hbar k\), the same unit choice gives
+\begin{equation}
+E=\omega, \qquad p=k.
+\end{equation}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.62\textwidth]{lecture_04_figure_04.png}
+\caption{Energy-frequency and momentum-wave-number relations.}
+\end{figure}
+
+The simple spatial field is then written as
+\begin{equation}
+\psi(x)=\sum_k a^\dagger(k)e^{-ikx},
+\end{equation}
+with conjugate
+\begin{equation}
+\psi^\dagger(x)=\sum_k a(k)e^{ikx}.
+\end{equation}
+Here the lecture's point is not that this is the only possible definition, but that it is a useful and very simple one. The field is built directly from the operators that create and annihilate particles of momentum \(k\).
+
+At this stage the lecture makes the next natural move. A field ought to vary in time as well as in space. For each wave number \(k\), there is a frequency \(\omega(k)\), so the time dependence is introduced mode by mode:
+\begin{equation}
+\psi(x,t)=\sum_k a^\dagger(k)e^{-ikx}e^{i\omega(k)t},
+\end{equation}
+and correspondingly
+\begin{equation}
+\psi^\dagger(x,t)=\sum_k a(k)e^{ikx}e^{-i\omega(k)t}.
+\end{equation}
+This sign convention is the lecture's convention. It is not the most standard modern one, but it is the one used in the derivation that follows, so we keep it.
+
+The board in this part of the lecture writes \(a^+(k)\) and at one point also uses a capital \(\Psi\). We keep the notation consistent and write \(a^\dagger(k)\) and \(\psi(x,t)\), since no mathematical distinction is intended.
+
+\section{From Dispersion Relation to the Field Equation}
+
+Now the lecture asks the next question in the only order that makes sense: once the field has been given a time dependence, what equation does it satisfy? For a nonrelativistic particle one has
+\begin{equation}
+\omega(k)=\frac{k^2}{2m}.
+\end{equation}
+That is simply the statement \(E=p^2/2m\), together with \(E=\omega\) and \(p=k\).
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.66\textwidth]{lecture_04_figure_05.png}
+\caption{Beginning the time-dependent field expansion \(\Psi(x,t)\).}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.72\textwidth]{lecture_04_figure_06.png}
+\caption{Correcting the time-derivative equation for \(\Psi\).}
+\end{figure}
+
+Differentiating the field with respect to time pulls down \(i\omega(k)\):
+\begin{equation}
+\dot{\psi}(x,t)=\sum_k i\omega(k)\,a^\dagger(k)e^{-ikx}e^{i\omega(k)t}.
+\end{equation}
+Differentiating with respect to space pulls down \(-ik\):
+\begin{equation}
+\partial_x\psi(x,t)=\sum_k (-ik)\,a^\dagger(k)e^{-ikx}e^{i\omega(k)t}.
+\end{equation}
+At this point the lecture deliberately stops. A single spatial derivative cannot match the time derivative, because \(\omega\) is proportional to \(k^2\), not \(k\). So we differentiate once more:
+\begin{equation}
+\partial_x^2\psi(x,t)=\sum_k (-k^2)\,a^\dagger(k)e^{-ikx}e^{i\omega(k)t}.
+\end{equation}
+Using \(k^2=2m\omega(k)\), this becomes
+\begin{equation}
+\partial_x^2\psi(x,t)=\sum_k \bigl(-2m\,\omega(k)\bigr)a^\dagger(k)e^{-ikx}e^{i\omega(k)t}.
+\end{equation}
+Comparing this with \(\dot{\psi}\), we obtain the field equation
+\begin{equation}
+-i\dot{\psi}=\frac{1}{2m}\frac{\partial^2\psi}{\partial x^2}.
+\end{equation}
+Equivalently,
+\begin{equation}
+i\dot{\psi}=-\frac{1}{2m}\frac{\partial^2\psi}{\partial x^2}.
+\end{equation}
+The lecture recognizes this as the Schr\"odinger equation, but now for an operator-valued field rather than for the elementary one-particle wavefunction of introductory quantum mechanics.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why does the equation require a second spatial derivative, and what should we make of the sign check on the board?
+
+\paragraph{Answer.} The second derivative is forced on us by the dispersion relation. Since \(\omega\propto k^2\), the time derivative brings down \(i\omega\), while one spatial derivative brings down only \(-ik\). We need two spatial derivatives to reproduce the same power of \(k\). As for the sign, the lecture checks it live because the chalkboard derivation is being unfolded rather than recited from a finished script. The physics is not changing in the middle of the argument; what is happening is that the factor of \(i\) and the minus sign are being rearranged until the equation takes a consistent form.
+
+The lecture then makes an important conceptual distinction. In elementary quantum mechanics, \(\psi\) is an ordinary function whose modulus squared becomes a probability density. Here \(\psi(x,t)\) is an operator. It creates particles and annihilates particles. Only in the limit of large occupation number does such an operator-valued field begin to behave like a classical field, much as a highly excited harmonic oscillator begins to look classical.
+
+\section{Fixed-Target Scattering and the Time Integral}
+
+Only after the field has been made dynamical does the lecture return to the question that motivated the whole detour: how do we use this field to describe a process? The simplest model is a heavy target fixed at \(x=0\), with a single incoming particle of momentum \(k_i\) and a single outgoing particle of momentum \(k_f\). The target is so heavy that its recoil is omitted from the mathematical description.
+
+\begin{figure}[h]
+\centering
+\begin{tikzpicture}[scale=1.0]
+\draw[->] (-3.2,0) -- (3.2,0) node[right] {space};
+\draw[->] (0,-0.3) -- (0,4.2) node[above] {time};
+\draw[very thick] (0,0) -- (0,3.8);
+\draw (-0.45,3.55) node[left] {$x=0$};
+\draw[thick,->] (-2.2,0.8) -- (0,2.0);
+\draw (-1.55,0.95) node[below] {$k_i$};
+\draw[thick,->] (0,2.0) -- (2.2,3.2);
+\draw (1.55,3.0) node[above] {$k_f$};
+\fill (0,2.0) circle (1.4pt);
+\end{tikzpicture}
+\caption{Fixed-target scattering in the lecture's simple model. The particle is absorbed at \(x=0\) and immediately re-emitted.}
+\end{figure}
+
+The lecture translates this picture into operator language. We choose the stable convention that \(\psi\) annihilates and \(\psi^\dagger\) creates. The board briefly hesitates over which symbol should carry the dagger, but the final calculation is naturally written as
+\begin{equation}
+\mathcal A_{i\to f}\propto \left\langle k_f\left|\,g\int dt\,\psi^\dagger(0,t)\psi(0,t)\,\right|k_i\right\rangle.
+\end{equation}
+The factor \(g\) is the coupling constant, the numerical measure of the interaction strength between target and particle. The integral over all \(t\) implements the statement that the scattering can occur at any time; no one time is singled out.
+
+At \(x=0\), the fields reduce to
+\begin{equation}
+\psi(0,t)=\sum_k a(k)e^{-i\omega(k)t},
+\qquad
+\psi^\dagger(0,t)=\sum_\ell a^\dagger(\ell)e^{i\omega(\ell)t}.
+\end{equation}
+Substituting these into the amplitude gives
+\begin{align}
+\mathcal A_{i\to f}
+&\propto
+g\int dt
+\sum_{\ell,k}
+e^{i\omega(\ell)t}e^{-i\omega(k)t}
+\langle k_f|a^\dagger(\ell)a(k)|k_i\rangle.
+\end{align}
+Now the bookkeeping does exactly what it was designed to do. Since the initial state contains only one particle of momentum \(k_i\), only the term \(k=k_i\) survives. Since the final bra describes only one particle of momentum \(k_f\), only the term \(\ell=k_f\) survives. In the one-particle sector the operator algebra collapses to
+\[
+\langle 0|0\rangle=1,
+\]
+so the amplitude reduces to
+\begin{equation}
+\mathcal A_{i\to f}\propto g\int dt\,e^{i(\omega_f-\omega_i)t}.
+\end{equation}
+Now the Dirac delta function reappears exactly where the lecture prepared us to expect it:
+\begin{equation}
+\int dt\,e^{i(\omega_f-\omega_i)t}=2\pi\delta(\omega_f-\omega_i).
+\end{equation}
+Therefore
+\begin{equation}
+\mathcal A_{i\to f}\propto 2\pi g\,\delta(\omega_f-\omega_i).
+\end{equation}
+This is the main payoff of the section. The amplitude vanishes unless \(\omega_f=\omega_i\), that is, unless the energy is conserved.
+
+The lecture then reads the probability only schematically, since squaring a delta function is a distributional subtlety that is not being regularized here. The intended point is simply that the first-order probability is proportional to
+\begin{equation}
+|\mathcal A_{i\to f}|^2\propto 4\pi^2 g^2,
+\end{equation}
+together with the energy-conserving condition enforced by the delta function.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why does this simple model conserve energy but not momentum?
+
+\paragraph{Answer.} Because the model treats time and space asymmetrically. The interaction is allowed to happen at any time, so the amplitude is integrated over all \(t\), and that produces a delta function in energy. But the interaction is pinned to one place, \(x=0\), so there is no analogous integration over all positions, and therefore no delta function imposing momentum conservation. Physically, the target can absorb momentum. In the simplified bookkeeping we have frozen the target and omitted its recoil, so the particle's momentum need not be conserved even though the full system's momentum would be.
+
+This same point can be seen by moving the target away from the origin. If the target sits at \(x=x_{\text{target}}\) instead of at \(0\), the amplitude acquires an extra phase,
+\begin{equation}
+\mathcal A(x_{\text{target}})\propto e^{i(k_i-k_f)x_{\text{target}}}.
+\end{equation}
+But this phase disappears from the probability after multiplying by the complex conjugate. So the position of the target matters at the level of amplitude, but not at the level of probability.
+
+The lecture also uses questions from the room to show where the simple model is hiding physics. If \(g\) becomes large, this first-order calculation is no longer enough; one must sum a whole series of more complicated processes. If the coupling becomes time-dependent, or if the target itself moves so that its location becomes time-dependent, then the time integral changes and energy conservation can fail in the reduced description. In both cases the lesson is the same: the conservation law reflects a symmetry of the description, and when that symmetry is broken or only approximate, the simple delta function no longer appears.
+
+\section{Phase Invariance and Charge Conservation}
+
+The lecture then shifts emphasis from energy to charge. Suppose now that \(\psi\) is the field operator for an electron. Each species has its own field, so from here on \(\psi\) is being read specifically as an electron field. Strictly speaking, the lecture is still using a bosonic toy model of an electron; the fermionic refinement is postponed to the next lecture.
+
+If one electron comes in and one electron goes out, the operator structure is of the form
+\[
+\psi^\dagger\psi.
+\]
+One annihilation, one creation: the net electric charge is unchanged. By contrast, an operator product like
+\[
+\psi^\dagger\psi^\dagger\psi
+\]
+would annihilate one electron and create two, so it would violate charge conservation. A product such as
+\[
+\psi^\dagger\psi^\dagger\psi\psi
+\]
+is again neutral in this sense: two electrons in, two electrons out.
+
+The lecture first states the rule observationally: allowed interaction terms have the same number of \(\psi\)'s as \(\psi^\dagger\)'s. But then it asks for a more structural diagnostic. We perform a global phase transformation,
+\begin{equation}
+\psi \longrightarrow e^{i\alpha}\psi,
+\qquad
+\psi^\dagger \longrightarrow e^{-i\alpha}\psi^\dagger.
+\end{equation}
+Now any monomial built from \(\psi\) and \(\psi^\dagger\) picks up a net phase equal to the difference between the number of \(\psi\)'s and the number of \(\psi^\dagger\)'s. Thus
+\begin{equation}
+\psi^\dagger\psi \longrightarrow \psi^\dagger\psi,
+\qquad
+\psi^\dagger\psi^\dagger\psi\psi \longrightarrow \psi^\dagger\psi^\dagger\psi\psi,
+\end{equation}
+while
+\begin{equation}
+\psi^\dagger\psi^\dagger\psi \longrightarrow e^{-i\alpha}\,\psi^\dagger\psi^\dagger\psi.
+\end{equation}
+Likewise,
+\begin{equation}
+\psi+\psi^\dagger
+\end{equation}
+is not invariant under the phase transformation.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Is there a more structural test than merely counting \(\psi\)'s and \(\psi^\dagger\)'s?
+
+\paragraph{Answer.} Yes. Counting is the quick rule, but the structural statement is phase invariance. An interaction term conserves charge precisely when it is invariant under the global rephasing
+\[
+\psi\to e^{i\alpha}\psi,
+\qquad
+\psi^\dagger\to e^{-i\alpha}\psi^\dagger.
+\]
+Equal numbers of \(\psi\) and \(\psi^\dagger\) mean the phases cancel. Unequal numbers mean they do not. In that sense the charge-counting rule is really the concrete shadow of a symmetry principle.
+
+The lecture is careful not to inflate this into a full formal derivation of Noether's theorem. Instead it uses the simplest operator language available: if the interaction eats as many electrons as it spits out, then charge is conserved; equivalently, the interaction is unchanged by a global phase rotation of the field.
+
+A final caution is also important. If an incoming electron strikes a complicated target and many electrons emerge, charge conservation does not disappear. Rather, the target itself has changed state and its own degrees of freedom must be included. In other words, one can no longer treat the target as a passive background. The target must itself be described by quantum fields.
+
+\section{Summary}
+
+The lecture has now displayed three linked ideas in a deliberately concrete way. First, integrating over all times produces the delta function that enforces energy conservation. Second, an interaction built from equal numbers of \(\psi\) and \(\psi^\dagger\) is invariant under a global phase rotation and therefore conserves charge. Third, neither result is magic: each is the mechanical imprint of a symmetry of the description.
+
+What remains for the next lecture is momentum. If time-translation symmetry leads to energy conservation, and global phase symmetry leads to charge conservation, then spatial translation symmetry should lead to momentum conservation. The present lecture stops one step before that conclusion, but it has already established the method: write the field, write the amplitude, integrate over the variables that are not special, and watch the conservation laws appear.
