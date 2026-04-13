@@ -1,0 +1,410 @@
+\chapter{Quantum Entanglements, Part 1}
+
+This lecture begins by stepping back. Before entanglement is allowed to do anything interesting, we rebuild the machinery of time dependence from the ground up: linear evolution, preservation of probability, infinitesimal time steps, the Schrödinger equation, energy eigenvectors, superposition, and the commutator law for observables. Only after that apparatus is firmly in hand do we turn to a spin in a magnetic field and then to two coupled spins, where entanglement finally appears as a dynamical question rather than a slogan.
+
+\section{Time Dependence, Inner Products, and Unitarity}
+
+We begin with the state vector itself. Up to this point one may think of a ket as a static object, but now we allow it to depend on time. The most general evolution law we are willing to assume is a linear one:
+\begin{equation}
+|\psi(t)\rangle = U(t)|\psi(0)\rangle.
+\end{equation}
+For bra vectors the corresponding rule is the Hermitian-conjugate one,
+\begin{equation}
+\langle \phi(t)| = \langle \phi(0)|U^\dagger(t).
+\end{equation}
+At this stage nothing has been said about the detailed form of \(U(t)\). The point is only that state vectors evolve linearly.
+
+But linearity alone is not enough. A physical state must keep its total probability equal to one, and more generally the inner product structure must be preserved. For normalized states this means
+\begin{equation}
+\langle \psi(t)|\psi(t)\rangle = \langle \psi(0)|\psi(0)\rangle.
+\end{equation}
+As in ordinary vector geometry, if the length of every vector is preserved under a linear transformation, then the inner product of any pair of vectors is preserved as well. Therefore,
+\begin{equation}
+\langle \phi(t)|\psi(t)\rangle = \langle \phi(0)|\psi(0)\rangle.
+\end{equation}
+Substituting the evolution laws gives
+\begin{equation}
+\langle \phi(0)|\,U^\dagger(t)U(t)\,|\psi(0)\rangle
+=
+\langle \phi(0)|\psi(0)\rangle.
+\end{equation}
+Since this is true for arbitrary vectors \(|\phi(0)\rangle\) and \(|\psi(0)\rangle\), the operator between them must be the identity:
+\begin{equation}
+U^\dagger(t)U(t)=1.
+\end{equation}
+That is the definition of a unitary operator. So unitarity is not dropped in from above as an independent axiom here; it is forced on us by the demand that probability be preserved.
+
+\section{Infinitesimal Evolution and the Schrödinger Equation}
+
+To understand the operator \(U(t)\), the lecture does not attack finite time evolution all at once. Instead it breaks time into very small intervals and studies one such interval. Let \(t=\epsilon\), with \(\epsilon\) small enough that \(\epsilon^2\) can be neglected. Since no evolution at all should mean no change at all, we must have \(U(0)=1\). Therefore the most general first-order form is
+\begin{equation}
+U(\epsilon)=1-\frac{i\epsilon}{\hbar}H.
+\end{equation}
+The factors of \(i\) and \(\hbar\) are introduced by convention. The lecture is explicit about this: one could absorb such factors into the definition of the generator. But this is the convenient convention, and with it the generator comes out Hermitian.
+
+Indeed,
+\begin{equation}
+U^\dagger(\epsilon)=1+\frac{i\epsilon}{\hbar}H^\dagger.
+\end{equation}
+Now impose unitarity to first order in \(\epsilon\):
+\begin{align}
+1
+&=
+U^\dagger(\epsilon)U(\epsilon) \\
+&=
+\left(1+\frac{i\epsilon}{\hbar}H^\dagger\right)
+\left(1-\frac{i\epsilon}{\hbar}H\right) \\
+&=
+1+\frac{i\epsilon}{\hbar}(H^\dagger-H)+O(\epsilon^2).
+\end{align}
+Discarding \(O(\epsilon^2)\) terms, we obtain
+\begin{equation}
+H^\dagger=H.
+\end{equation}
+So the infinitesimal generator of time evolution is Hermitian. In quantum mechanics that means it is an observable, and this observable is what we call the Hamiltonian.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.72\textwidth]{lecture_09_figure_03.png}
+\caption{Difference quotient for the state vector}
+\end{figure}
+
+The next step is to turn the infinitesimal update rule into a differential equation. The board writes this as a difference quotient at an arbitrary origin of time:
+\begin{equation}
+\frac{d}{dt}|\psi\rangle
+=
+\frac{|\psi(\epsilon)\rangle-|\psi(0)\rangle}{\epsilon}.
+\end{equation}
+The notation on the board suppresses the time label on the ket at the left, but the intended content is clear: any instant may be regarded as the origin, and the derivative is the change over a small time interval divided by that interval.
+
+Now substitute the infinitesimal evolution rule,
+\begin{equation}
+|\psi(\epsilon)\rangle
+=
+\left(1-\frac{i\epsilon}{\hbar}H\right)|\psi(0)\rangle.
+\end{equation}
+Then
+\begin{align}
+\frac{d}{dt}|\psi(t)\rangle
+&=
+\frac{\left(1-\frac{i\epsilon}{\hbar}H\right)|\psi(t)\rangle-|\psi(t)\rangle}{\epsilon} \\
+&=
+-\frac{i}{\hbar}H|\psi(t)\rangle.
+\end{align}
+Equivalently,
+\begin{equation}
+i\hbar\,\frac{d}{dt}|\psi(t)\rangle = H|\psi(t)\rangle.
+\end{equation}
+This is the Schrödinger equation. The lecture pauses over that point: once one knows the state at one instant and knows the Hamiltonian, this equation gives the entire time dependence of the system.
+
+\section{Energy Eigenvectors and Stationary Time Dependence}
+
+We do not solve the Schrödinger equation in full generality at once. The lecture first chooses the simplest case: a state that is already an eigenvector of the Hamiltonian.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.70\textwidth]{lecture_09_figure_04.png}
+\caption{Energy eigenvalue equation}
+\end{figure}
+
+Suppose
+\begin{equation}
+H|\psi_E\rangle = E|\psi_E\rangle.
+\end{equation}
+If the Hamiltonian acts on the state by merely multiplying it by a number, then the time evolution should never generate a new direction in the vector space. It can only multiply that same vector by a time-dependent scalar. So we look for a solution of the form
+\begin{equation}
+|\psi_E(t)\rangle = f(t)|\psi_E\rangle.
+\end{equation}
+Insert this ansatz into the Schrödinger equation:
+\begin{align}
+i\hbar\,\frac{d}{dt}\bigl(f(t)|\psi_E\rangle\bigr)
+&=
+H\bigl(f(t)|\psi_E\rangle\bigr) \\
+i\hbar\,\dot f(t)|\psi_E\rangle
+&=
+f(t)E|\psi_E\rangle.
+\end{align}
+Since \(|\psi_E\rangle\) is fixed, the vector equation collapses to the scalar equation
+\begin{equation}
+\dot f(t) = -\frac{iE}{\hbar}f(t).
+\end{equation}
+Its solution is exponential:
+\begin{equation}
+f(t)=e^{-iEt/\hbar}.
+\end{equation}
+Therefore
+\begin{equation}
+|\psi_E(t)\rangle = e^{-iEt/\hbar}|\psi_E(0)\rangle.
+\end{equation}
+This is why a Hamiltonian eigenvector is called a stationary state: nothing happens to it except the acquisition of a phase.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.78\textwidth]{lecture_09_figure_05.png}
+\caption{Energy-frequency relation beside phase evolution}
+\end{figure}
+
+Now the lecture makes the next conceptual move. After the algebra is corrected on the fly, the phase factor is read as
+\begin{equation}
+e^{-iEt/\hbar}
+=
+\cos\!\left(\frac{Et}{\hbar}\right)
+-
+i\sin\!\left(\frac{Et}{\hbar}\right).
+\end{equation}
+So the phase oscillates with angular frequency
+\begin{equation}
+\omega = \frac{E}{\hbar},
+\end{equation}
+or equivalently,
+\begin{equation}
+E=\hbar\omega.
+\end{equation}
+The board only preserves part of this chain, but the intended conclusion is unmistakable: the coefficient \(E\) sits exactly where one expects energy to sit in the Einstein--Planck relation.
+
+\subsection{Question \& Answer}
+
+Why do we call \(H\) the energy?
+
+The lecture gives two answers, one formal and one physical. The formal answer is that \(H\) is the universal Hermitian operator that generates time evolution. Every system has one. The physical answer emerges from the stationary-state solution: if a state evolves as \(e^{-i\omega t}\), then the number multiplying \(\hbar\omega\) is what Einstein and Planck would have recognized as the energy. In other words, once the time dependence has been solved, the eigenvalue \(E\) lands precisely in the energy slot.
+
+There is also a second criterion, still to come at this point in the lecture: energy is the quantity that is conserved. The next major calculation will show that \(\langle H\rangle\) does not change with time. Taken together, these are the two reasons the abstract generator \(H\) deserves the name Hamiltonian.
+
+\section{Superposition in the Energy Basis and the General Solution}
+
+A single energy eigenvector is too simple. It only picks up an overall phase, and overall phases do not affect probabilities. The real dynamical content begins when we superpose states with different energies.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.72\textwidth]{lecture_09_figure_06.png}
+\caption{Expansion in Hamiltonian eigenvectors}
+\end{figure}
+
+Because \(H\) is Hermitian, it has a complete orthonormal basis of eigenvectors. So any state can be expanded as
+\begin{equation}
+|\psi\rangle=\sum_n \alpha_n |\psi_n\rangle,
+\end{equation}
+where
+\begin{equation}
+H|\psi_n\rangle = E_n|\psi_n\rangle.
+\end{equation}
+Linearity now does all the work. Each basis vector evolves with its own phase, so
+\begin{equation}
+|\psi(t)\rangle
+=
+\sum_n \alpha_n e^{-iE_n t/\hbar}|\psi_n\rangle.
+\end{equation}
+This is the general solution in the energy basis. The point is not merely that the state has been written as a sum. The point is that different components rotate with different frequencies. Relative phases therefore change with time, and those relative phases are what later show up in interference effects and in changing probabilities.
+
+In the energy basis the Hamiltonian is diagonal, and the evolution operator is diagonal as well:
+\begin{equation}
+U(t)=e^{-iHt/\hbar}.
+\end{equation}
+This compact operator formula should be read as a summary of the preceding energy-basis argument: in the basis that diagonalizes \(H\), the operator \(U(t)\) simply multiplies each energy eigenvector by the corresponding phase \(e^{-iE_n t/\hbar}\).
+
+A brief remark about combined systems also appears here. If two systems \(A\) and \(B\) are non-interacting, the Hamiltonian of the combined system is taken to be
+\begin{equation}
+H_{AB}=H_A+H_B.
+\end{equation}
+Then the energy eigenvalues add as well. If the systems interact, one must add an interaction term, and this simple separation is no longer available. That distinction will matter when we come to two coupled spins.
+
+\section{Observables, Commutators, and Conserved Quantities}
+
+Having spent enough time on the state vector, the lecture turns to observables. The observables themselves are not changing here; what changes is the state, and therefore the expectation values of observables.
+
+Let \(A\) be a fixed observable. Its expectation value is
+\begin{equation}
+\langle A\rangle = \langle \psi|A|\psi\rangle.
+\end{equation}
+Differentiate with respect to time:
+\begin{equation}
+\frac{d}{dt}\langle A\rangle
+=
+\langle \dot\psi|A|\psi\rangle + \langle \psi|A|\dot\psi\rangle.
+\end{equation}
+Now use the Schrödinger equation for the ket and its Hermitian conjugate for the bra,
+\begin{equation}
+|\dot\psi\rangle = -\frac{i}{\hbar}H|\psi\rangle,
+\qquad
+\langle \dot\psi| = \frac{i}{\hbar}\langle \psi|H.
+\end{equation}
+Substitution gives
+\begin{align}
+\frac{d}{dt}\langle A\rangle
+&=
+\frac{i}{\hbar}\langle \psi|HA|\psi\rangle
+-
+\frac{i}{\hbar}\langle \psi|AH|\psi\rangle \\
+&=
+\frac{i}{\hbar}\langle \psi|(HA-AH)|\psi\rangle \\
+&=
+\frac{i}{\hbar}\langle [H,A]\rangle.
+\end{align}
+This is the central commutator law for expectation values. The Hamiltonian is therefore not only the generator of state evolution; it also controls the time development of every measurable quantity through its commutator with that quantity.
+
+The first application is immediate. Set \(A=H\). Then
+\begin{equation}
+\frac{d}{dt}\langle H\rangle
+=
+\frac{i}{\hbar}\langle [H,H]\rangle
+=
+0.
+\end{equation}
+So the expectation value of the Hamiltonian is conserved. This is the promised structural reason for calling \(H\) the energy.
+
+\subsection{Question \& Answer}
+
+What is the physical meaning of operators that commute with \(H\)?
+
+If \([H,A]=0\), then
+\begin{equation}
+\frac{d}{dt}\langle A\rangle = 0.
+\end{equation}
+So the collection of operators commuting with \(H\) is precisely the collection of conserved quantities for that system. What those quantities are depends on the details of the Hamiltonian. For a free particle, momentum is conserved. Once forces are present, momentum may fail to commute with the Hamiltonian and need no longer be conserved. The general principle, however, is simple: commuting with the Hamiltonian is the quantum criterion for conservation.
+
+\section{Example I: One Spin in a Magnetic Field}
+
+Only now, after all the abstract structure has been laid out, does the lecture move to the simplest concrete example: a single spin in a magnetic field. The Hamiltonian is the energy of the magnetic moment in the field. In the lecture's convention,
+\begin{equation}
+H=\frac{\mu}{2}\,\boldsymbol{\sigma}\cdot \mathbf{B}.
+\end{equation}
+We choose the magnetic field to point along the third axis, so \(\mathbf{B}=B\hat z\). Then
+\begin{equation}
+H=\frac{\mu B}{2}\sigma_3.
+\end{equation}
+
+To stay close to the lecture, we now suppress explicit expectation-value bars on the spin components. The quantities \(\sigma_1,\sigma_2,\sigma_3\) in the next few equations should be read as expectation values.
+
+Start with the third component:
+\begin{equation}
+\dot\sigma_3=\frac{i}{\hbar}[H,\sigma_3].
+\end{equation}
+But \(H\) is proportional to \(\sigma_3\), so the commutator vanishes:
+\begin{equation}
+\dot\sigma_3=0.
+\end{equation}
+Thus the component of spin along the magnetic field is conserved. In the picture suggested by the lecture, that means the tip of the spin vector must remain on a cone of fixed opening angle.
+
+For the first component we use
+\begin{equation}
+[\sigma_3,\sigma_1]=2i\sigma_2,
+\end{equation}
+and therefore
+\begin{align}
+\dot\sigma_1
+&=
+\frac{i}{\hbar}\left[\frac{\mu B}{2}\sigma_3,\sigma_1\right] \\
+&=
+\frac{i\mu B}{2\hbar}[\sigma_3,\sigma_1] \\
+&=
+\frac{i\mu B}{2\hbar}(2i\sigma_2) \\
+&=
+-\frac{\mu B}{\hbar}\sigma_2.
+\end{align}
+Similarly,
+\begin{equation}
+\dot\sigma_2=\frac{\mu B}{\hbar}\sigma_1.
+\end{equation}
+If we define
+\begin{equation}
+\Omega = \frac{\mu B}{\hbar},
+\end{equation}
+then the coupled equations read
+\begin{equation}
+\dot\sigma_1=-\Omega \sigma_2,
+\qquad
+\dot\sigma_2=\Omega \sigma_1,
+\qquad
+\dot\sigma_3=0.
+\end{equation}
+A convenient solution is
+\begin{equation}
+\sigma_1(t)=\cos(\Omega t-\theta),
+\qquad
+\sigma_2(t)=\sin(\Omega t-\theta),
+\end{equation}
+with \(\sigma_3\) constant. The optional phase \(\theta\) simply tells us where on the circle the motion begins. The transverse components rotate uniformly in the plane perpendicular to the magnetic field, and the full spin expectation value precesses about the field direction.
+
+The lecture then gives the operational interpretation. If the spins are all prepared identically, say with \(\sigma_1=+1\) at \(t=0\), then after a quarter period the expectation values have rotated into the \(\sigma_2\) direction, and after a half period the \(\sigma_1\) component has flipped sign. If the ensemble were not prepared identically, one would no longer be describing a single pure-state evolution but a mixed state. That clarification matters: the precession law is a statement about a coherently prepared quantum system, not a random collection of unrelated initial phases.
+
+\section{Example II: Two Coupled Spins and the First Entanglement Dynamics}
+
+Entanglement enters the lecture in a very disciplined way. A student asks about two entangled electrons, but the answer is that one cannot say how they evolve until the Hamiltonian is specified. So let us choose a concrete interaction: no external magnetic field, but each spin provides the magnetic field for the other. Then the Hamiltonian is proportional to
+\begin{equation}
+H \propto \boldsymbol{\sigma}\cdot\boldsymbol{\tau}
+=
+\sigma_1\tau_1+\sigma_2\tau_2+\sigma_3\tau_3.
+\end{equation}
+
+The state space is four-dimensional. A useful basis is the coupled basis consisting of the triplet and singlet states:
+\begin{align}
+|T_+\rangle &= |\uparrow\uparrow\rangle, \\
+|T_0\rangle &= \frac{|\uparrow\downarrow\rangle+|\downarrow\uparrow\rangle}{\sqrt2}, \\
+|T_-\rangle &= |\downarrow\downarrow\rangle, \\
+|S\rangle &= \frac{|\uparrow\downarrow\rangle-|\downarrow\uparrow\rangle}{\sqrt2}.
+\end{align}
+What matters is that there are two distinct energies: one energy \(E_T\) for the triplet sector, which is threefold degenerate, and another energy \(E_S\) for the singlet.
+
+If one begins with an energy eigenstate, nothing very interesting happens: the state simply picks up its own phase. So we choose instead the unentangled state \(|\uparrow\downarrow\rangle\). Its decomposition into energy eigenstates is
+\begin{equation}
+|\uparrow\downarrow\rangle
+=
+\frac{1}{\sqrt2}|T_0\rangle
++
+\frac{1}{\sqrt2}|S\rangle.
+\end{equation}
+Therefore the state at time \(t\) is
+\begin{equation}
+|\psi(t)\rangle
+=
+\frac{1}{\sqrt2}e^{-iE_T t/\hbar}|T_0\rangle
++
+\frac{1}{\sqrt2}e^{-iE_S t/\hbar}|S\rangle.
+\end{equation}
+Now return to the original \(|\uparrow\downarrow\rangle,|\downarrow\uparrow\rangle\) basis:
+\begin{align}
+|\psi(t)\rangle
+&=
+\frac12\left(e^{-iE_T t/\hbar}+e^{-iE_S t/\hbar}\right)|\uparrow\downarrow\rangle \\
+&\quad
++
+\frac12\left(e^{-iE_T t/\hbar}-e^{-iE_S t/\hbar}\right)|\downarrow\uparrow\rangle.
+\end{align}
+At this point the lecture isolates the average energy and the energy difference. Writing
+\begin{equation}
+\Delta E = E_T-E_S,
+\end{equation}
+we obtain the cleaned form
+\begin{equation}
+|\psi(t)\rangle
+=
+e^{-i(E_T+E_S)t/(2\hbar)}
+\left[
+\cos\!\left(\frac{\Delta E}{2\hbar}t\right)|\uparrow\downarrow\rangle
+-
+i\sin\!\left(\frac{\Delta E}{2\hbar}t\right)|\downarrow\uparrow\rangle
+\right].
+\end{equation}
+The overall phase in front is physically irrelevant. The probabilities therefore depend only on the energy difference:
+\begin{equation}
+P_{\uparrow\downarrow}(t)
+=
+\cos^2\!\left(\frac{\Delta E}{2\hbar}t\right),
+\qquad
+P_{\downarrow\uparrow}(t)
+=
+\sin^2\!\left(\frac{\Delta E}{2\hbar}t\right).
+\end{equation}
+So the system oscillates back and forth between \(|\uparrow\downarrow\rangle\) and \(|\downarrow\uparrow\rangle\), with frequency set by the singlet--triplet splitting.
+
+This is the lecture's closing computational lesson. One does not solve such problems by staring at the original basis and hoping to guess the answer. One first expands the state in energy eigenvectors, lets each component evolve with its own phase, and then reassembles the result in whatever basis is needed to read off the probabilities. That is the standard ritual, and once it is recognized as a ritual the structure of the problem becomes transparent.
+
+\section{Summary}
+
+The lecture begins far from entanglement and that is exactly right. First we rebuild time evolution as a linear, norm-preserving motion in the vector space of states. That forces unitarity, and unitarity in turn gives a Hermitian infinitesimal generator \(H\). From the infinitesimal update rule we obtain the Schrödinger equation. From the Schrödinger equation we learn that energy eigenvectors acquire phases \(e^{-iEt/\hbar}\), that \(E=\hbar\omega\), and that a general state evolves by giving each energy component its own phase.
+
+Only after that do observables enter, through
+\begin{equation}
+\frac{d}{dt}\langle A\rangle=\frac{i}{\hbar}\langle [H,A]\rangle,
+\end{equation}
+which immediately shows that \(\langle H\rangle\) is conserved and that every operator commuting with \(H\) represents a conserved quantity. The examples then make the formalism concrete: a single spin precesses in a magnetic field, and a pair of coupled spins oscillates between \(|\uparrow\downarrow\rangle\) and \(|\downarrow\uparrow\rangle\) because triplet and singlet components accumulate different phases. In that sense entanglement appears here not as an extra principle, but as time evolution carried out in the right basis.
