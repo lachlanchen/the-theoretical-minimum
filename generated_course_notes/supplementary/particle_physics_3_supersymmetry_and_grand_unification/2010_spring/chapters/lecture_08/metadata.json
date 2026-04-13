@@ -1,0 +1,52 @@
+{
+  "course_rel": "supplementary/particle_physics_3_supersymmetry_and_grand_unification/2010_spring",
+  "transcript_rel": "supplementary/particle_physics_3_supersymmetry_and_grand_unification/2010_spring/152 - Supersymmetry & Grand Unification\uff1a Lecture 8 [F0Ogxub_nGA].md",
+  "video_rel": "supplementary/particle_physics_3_supersymmetry_and_grand_unification/2010_spring/152 - Supersymmetry & Grand Unification\uff1a Lecture 8 [F0Ogxub_nGA].mp4",
+  "lecture_number": 8,
+  "lecture_slug": "lecture_08",
+  "lecture_title": "Supersymmetry & Grand Unification\uff1a Lecture 8",
+  "assets": [
+    {
+      "name": "lecture_08_figure_02.png",
+      "timestamp_seconds": 464.271,
+      "timestamp_hhmmss": "00:07:44.271",
+      "source_candidate": "lecture_08_window_02_candidate_04_000744271.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the most useful frame in the sequence because it is the latest and most finished version of the board statement. The right side clearly establishes the intended formula as the Hamiltonian written as sigma dotted into momentum, while the left side still preserves the nearby chiral-spinor context. Earlier candidates are sharper only in the trivial sense that less has been written; this one carries the most note-writing value.",
+      "subtitle_excerpt": "Hamiltonian is Sigma dot P. What does that mean?",
+      "segment_start_seconds": 461.71,
+      "segment_start_hhmmss": "00:07:41.710",
+      "segment_end_seconds": 464.62,
+      "segment_end_hhmmss": "00:07:44.620",
+      "caption_hint": "Hamiltonian as sigma dot p"
+    },
+    {
+      "name": "lecture_08_figure_03.png",
+      "timestamp_seconds": 4137.9,
+      "timestamp_hhmmss": "01:08:57.900",
+      "source_candidate": "lecture_08_window_05_candidate_03_010857900.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the best balance of completeness and legibility. The multi-line board derivation is already settled, the lower line\u2019s final identification with the ordinary Lagrangian is visible at the right, and Susskind\u2019s body blocks less of the key expression than in the earlier candidates. The last candidate is slightly more finished, but his hand sits directly on the concluding symbol, making this one more useful for note writing.",
+      "subtitle_excerpt": "or the integral of the ordinary Lagrangian",
+      "segment_start_seconds": 4136.6,
+      "segment_start_hhmmss": "01:08:56.600",
+      "segment_end_seconds": 4138.6,
+      "segment_end_hhmmss": "01:08:58.600",
+      "caption_hint": "component expansion giving the ordinary Lagrangian"
+    },
+    {
+      "name": "lecture_08_figure_04.png",
+      "timestamp_seconds": 4292.36,
+      "timestamp_hhmmss": "01:11:32.360",
+      "source_candidate": "lecture_08_window_06_candidate_04_011132360.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the clearest and most usable frame because the lecturer\u2019s hand has moved away, leaving the final expression unobstructed. It preserves the relevant right-hand portion of the board where the simple no-derivative term is identified, including the auxiliary-field product and the equality leading into the Lagrangian notation. Earlier candidates are more occluded by the pointing hand and finger.",
+      "subtitle_excerpt": "simple Lagrangian with no derivatives",
+      "segment_start_seconds": 4290.6,
+      "segment_start_hhmmss": "01:11:30.600",
+      "segment_end_seconds": 4292.6,
+      "segment_end_hhmmss": "01:11:32.600",
+      "caption_hint": "no-derivative supersymmetric Lagrangian term"
+    }
+  ]
+}
