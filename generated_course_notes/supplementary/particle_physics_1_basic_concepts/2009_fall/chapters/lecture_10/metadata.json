@@ -1,0 +1,52 @@
+{
+  "course_rel": "supplementary/particle_physics_1_basic_concepts/2009_fall",
+  "transcript_rel": "supplementary/particle_physics_1_basic_concepts/2009_fall/084 - Lecture 10 \uff5c New Revolutions in Particle Physics\uff1a Basic Concepts [q-QaaKCvDUs].md",
+  "video_rel": "supplementary/particle_physics_1_basic_concepts/2009_fall/084 - Lecture 10 \uff5c New Revolutions in Particle Physics\uff1a Basic Concepts [q-QaaKCvDUs].mp4",
+  "lecture_number": 10,
+  "lecture_slug": "lecture_10",
+  "lecture_title": "Lecture 10 : New Revolutions in Particle Physics\uff1a Basic Concepts",
+  "assets": [
+    {
+      "name": "lecture_10_figure_02.png",
+      "timestamp_seconds": 134.64,
+      "timestamp_hhmmss": "00:02:14.640",
+      "source_candidate": "lecture_10_window_03_candidate_04_000214640.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the best frame because the board writing is in its most finished state and the full classroom-form action integral is legible. Earlier frames catch Susskind still writing, with the final differential not yet fully settled and his hand occluding the right side. Here he has moved away enough for the expression to read cleanly while still preserving the board context.",
+      "subtitle_excerpt": "the trajectory of the particle of the Lagrangian.",
+      "segment_start_seconds": 132.0,
+      "segment_start_hhmmss": "00:02:12.000",
+      "segment_end_seconds": 135.0,
+      "segment_end_hhmmss": "00:02:15.000",
+      "caption_hint": "action integral in particle mechanics"
+    },
+    {
+      "name": "lecture_10_figure_03.png",
+      "timestamp_seconds": 249.58,
+      "timestamp_hhmmss": "00:04:09.580",
+      "source_candidate": "lecture_10_window_04_candidate_04_000409580.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the best frame because it gives a clean, unobstructed board-only view of the compact field-theory notation. Earlier candidates are partially blocked by the lecturer's hand, while this one preserves the full expression clearly enough to support note writing and typeset reconstruction.",
+      "subtitle_excerpt": "the Lagrangian depends on phi and derivatives of phi.",
+      "segment_start_seconds": 246.5,
+      "segment_start_hhmmss": "00:04:06.500",
+      "segment_end_seconds": 250.0,
+      "segment_end_hhmmss": "00:04:10.000",
+      "caption_hint": "Lagrangian as a function of field and derivatives"
+    },
+    {
+      "name": "lecture_10_figure_04.png",
+      "timestamp_seconds": 712.52,
+      "timestamp_hhmmss": "00:11:52.520",
+      "source_candidate": "lecture_10_window_05_candidate_04_001152520.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This is the strongest frame because the expression is in its finished form and the lecturer's writing hand no longer blocks the final differential. It also preserves the small accompanying x-t path sketch at the upper left, which helps document the board layout at the moment when the lecture connects a trajectory with the exponential phase factor built from the action.",
+      "subtitle_excerpt": "integral of the Lagrangian dt",
+      "segment_start_seconds": 709.0,
+      "segment_start_hhmmss": "00:11:49.000",
+      "segment_end_seconds": 713.0,
+      "segment_end_hhmmss": "00:11:53.000",
+      "caption_hint": "phase factor from the action"
+    }
+  ]
+}
