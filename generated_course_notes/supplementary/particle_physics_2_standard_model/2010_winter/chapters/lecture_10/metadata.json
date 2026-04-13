@@ -1,0 +1,66 @@
+{
+  "course_rel": "supplementary/particle_physics_2_standard_model/2010_winter",
+  "transcript_rel": "supplementary/particle_physics_2_standard_model/2010_winter/094 - Lecture 10 \uff5c New Revolutions in Particle Physics\uff1a Standard Model [QD8SEcoFyAw].md",
+  "video_rel": "supplementary/particle_physics_2_standard_model/2010_winter/094 - Lecture 10 \uff5c New Revolutions in Particle Physics\uff1a Standard Model [QD8SEcoFyAw].mkv",
+  "lecture_number": 10,
+  "lecture_slug": "lecture_10",
+  "lecture_title": "Lecture 10 : New Revolutions in Particle Physics\uff1a Standard Model",
+  "assets": [
+    {
+      "name": "lecture_10_figure_02.png",
+      "timestamp_seconds": 352.48,
+      "timestamp_hhmmss": "00:05:52.480",
+      "source_candidate": "lecture_10_window_03_candidate_01_000552480.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 01 is the clearest and most stable frame. The board-level Dirac Lagrangian is most fully visible here, while Susskind stands off to the left without gesturing across the writing. Later candidates add hand motion or posture changes without revealing more of the equation.",
+      "subtitle_excerpt": "That's the Lagrangian for the Dirac equation.",
+      "segment_start_seconds": 352.0,
+      "segment_start_hhmmss": "00:05:52.000",
+      "segment_end_seconds": 356.0,
+      "segment_end_hhmmss": "00:05:56.000",
+      "caption_hint": "Dirac Lagrangian on the board"
+    },
+    {
+      "name": "lecture_10_figure_03.png",
+      "timestamp_seconds": 617.45,
+      "timestamp_hhmmss": "00:10:17.450",
+      "source_candidate": "lecture_10_window_04_candidate_02_001017450.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 02 is the best frame because it shows the board cleanly with no lecturer occlusion, and the rewritten Dirac-Lagrangian expression is fully visible across the chalkboard. Candidate 01 is nearly identical, but 02 is slightly more settled; candidates 03 and 04 are weaker because Susskind enters from the left and begins to cover part of the writing.",
+      "subtitle_excerpt": "to present the Dirac equation, the Dirac-Lagrangian.",
+      "segment_start_seconds": 616.5,
+      "segment_start_hhmmss": "00:10:16.500",
+      "segment_end_seconds": 619.0,
+      "segment_end_hhmmss": "00:10:19.000",
+      "caption_hint": "board form of the Dirac Lagrangian"
+    },
+    {
+      "name": "lecture_10_figure_04.png",
+      "timestamp_seconds": 938.16,
+      "timestamp_hhmmss": "00:15:38.160",
+      "source_candidate": "lecture_10_window_05_candidate_01_001538160.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 01 is the strongest frame because it captures the new board content relevant to the chiral discussion rather than just the older Dirac-Lagrangian lines. The right-hand side of the board clearly shows the mass bilinear being rewritten into left-right pieces, and Susskind is pushed far enough to the left that the important equation is still readable. The later candidates show more lecturer occlusion and less clean emphasis on this specific step.",
+      "subtitle_excerpt": "a Lagrangian that had a gauge symmetry which only coupled",
+      "segment_start_seconds": 937.5,
+      "segment_start_hhmmss": "00:15:37.500",
+      "segment_end_seconds": 943.0,
+      "segment_end_hhmmss": "00:15:43.000",
+      "caption_hint": "left-right decomposition of the mass term"
+    },
+    {
+      "name": "lecture_10_figure_05.png",
+      "timestamp_seconds": 1134.4,
+      "timestamp_hhmmss": "00:18:54.400",
+      "source_candidate": "lecture_10_window_06_candidate_04_001854400.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "Candidate 04 is the best frame because the central features of the upside-down Mexican-hat cross-section are fully visible: both minima and the central hump are clear, while Susskind's hand has moved off the most informative part of the curve. It also preserves the accompanying chiral-coupling board layout at the top, making it the most useful combined evidence frame for note writing.",
+      "subtitle_excerpt": "But with one of these upside-down Mexican hat potentials,",
+      "segment_start_seconds": 1130.0,
+      "segment_start_hhmmss": "00:18:50.000",
+      "segment_end_seconds": 1135.0,
+      "segment_end_hhmmss": "00:18:55.000",
+      "caption_hint": "double-well Higgs potential cross-section"
+    }
+  ]
+}
