@@ -1,0 +1,249 @@
+\chapter{Rotations, Spinors, and the Road to Color}
+
+We begin with rotations not because rotations are the final subject of the lecture, but because they are the cleanest example of the kind of symmetry structure that will later govern color. The strategy is concrete. We first understand what a rotation is, how it acts on vectors, and what algebraic conditions its matrices satisfy. Only then do we move to the less visual but more important case of spinors and, finally, to the three-state color degree of freedom of quarks. The lecture proceeds by keeping one idea in front of us throughout: the same group-theoretic pattern can act on very different kinds of objects.
+
+\section{Rotations as a Three-Parameter Symmetry}
+
+A rotation of ordinary space is specified by two pieces of data. First, there is an axis, which we describe by a unit vector \(\hat n\). Second, there is an angle \(\theta\) through which we rotate about that axis. Since a unit vector on the sphere requires two parameters and the angle gives one more, a rotation is a three-parameter object.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.58\textwidth]{lecture_03_figure_02.png}
+\caption{Unit-vector axis sketch for a rotation.}
+\end{figure}
+
+The board sketch is informal, but it captures the intended geometry: three coordinate axes meeting at a point, and a distinguished direction \(\hat n\) indicating the rotation axis. The lecture speaks of a unit vector pointing to a unit sphere; the sketch itself only shows the direction, not the sphere.
+
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}[scale=1.2]
+\draw[thick] (0,0) -- (0,2.0);
+\draw[thick] (0,0) -- (2.1,0);
+\draw[thick] (0,0) -- (-1.2,-1.6);
+\draw[->,thick] (0,0) -- (1.35,1.15);
+\node at (1.52,1.28) {$\hat n$};
+\node at (1.95,1.18) {$\theta$};
+\end{tikzpicture}
+\caption{Cleaned reconstruction of the axis-angle sketch.}
+\end{figure}
+
+We also adopt the convention used in the lecture that rotations are taken to be right-handed. A left-handed rotation can then be rephrased either as a right-handed rotation by a negative angle or as a right-handed rotation about the opposite axis. The point is not to dwell on the global subtleties of the parameterization, but simply to isolate the three local parameters that characterize a rotation.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Do rotations really form a group, and in what sense are they non-abelian?
+
+\paragraph{Answer.} Yes. If we perform one rotation and then another, the result is again some rotation. That gives the product structure. There is an identity element, namely no rotation at all. Every rotation has an inverse, obtained by rotating through the opposite angle about the same axis. Associativity also holds.
+
+What is not true is commutativity. A rotation about the \(x\)-axis followed by a rotation about the \(y\)-axis is, in general, not the same as doing them in the opposite order. The lecture emphasizes that these are sequential operations, and that the failure of commutativity is already visible in ordinary space. This is our first non-abelian group.
+
+\section{Vectors and the \(3\times 3\) Representation}
+
+Once the group structure is clear, the lecture turns immediately to representations. The easiest representation is the one that acts on the components of an ordinary vector. Let \(V_i\) denote the components of a spatial vector, where \(i=1,2,3\) or, if we prefer, \(i=x,y,z\). Then for every rotation there is a corresponding \(3\times 3\) matrix \(R_{ij}(\theta,\hat n)\) such that
+\begin{equation}
+V_i' = R_{ij}(\theta,\hat n)\,V_j .
+\end{equation}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.68\textwidth]{lecture_03_figure_03.png}
+\caption{Rotation matrix acting on vector components.}
+\end{figure}
+
+This is the point at which the lecture passes from geometry to matrix notation. The board writes the relation in an indexed form that is entirely standard even if the handwritten placement is informal. We shall use the convention above, with the transformed component on the left.
+
+A genuine rotation does not change the length of a vector. Therefore the Euclidean norm must be invariant:
+\begin{equation}
+V_i V_i = V_i' V_i' .
+\end{equation}
+Substituting the transformation law into the primed norm gives
+\begin{align}
+V_i' V_i'
+  &= \bigl(R_{ij}V_j\bigr)\bigl(R_{ik}V_k\bigr) \\
+  &= R_{ij}R_{ik}V_jV_k .
+\end{align}
+If this is to agree with \(V_iV_i\) for every vector \(V\), the coefficients must satisfy
+\begin{equation}
+R_{ij}R_{ik}=\delta_{jk}.
+\end{equation}
+In matrix notation this is simply
+\begin{equation}
+R^T R = \mathbf 1.
+\end{equation}
+So the defining property of a rotation matrix is orthogonality. It follows immediately that
+\begin{equation}
+R^{-1}=R^T.
+\end{equation}
+
+This derivation is worth keeping in full because it is the model for what happens later with spinors. First we identify what a transformation is supposed to preserve; then we translate that preservation law into an algebraic condition on the matrix representing the transformation.
+
+\section{Spin One, and a Pause on Continuous Groups}
+
+The lecture now makes a conceptual jump. The three-dimensional representation we have just constructed does not only act on ordinary vectors. It also acts on the three quantum states of a spin-one particle. A spin-one particle has three possible spin states, and those three amplitudes can be arranged into a three-component column vector. Rotations mix those amplitudes among themselves in precisely the same way that a rotation matrix mixes the components of a spatial vector.
+
+That is why one often says that spin-one particles are vector particles. The statement is not that a spin-one state literally is an arrow in space, but that the states transform in the same three-dimensional representation of the rotation group.
+
+Before moving on, the lecture pauses to separate two kinds of symmetry groups. Some groups are discrete: there are only isolated group elements, as with reflection or parity. Others are continuous: there is a continuously varying family of group elements, as with rotations or phase transformations of the form \(e^{i\phi}\). The groups associated with continuous symmetries are Lie groups. The distinction is brief, but it matters, because the groups that dominate the rest of the lecture, \(SU(2)\) and \(SU(3)\), are continuous groups.
+
+There is also a useful contrast case. A spin-zero particle has no nontrivial rotational structure at all. Rotating it does nothing. Its representation of the rotation group is therefore the trivial one.
+
+\section{Spin-\texorpdfstring{\(\frac12\)}{1/2} States and Unitary Matrices}
+
+The next step is the real turning point of the lecture. A spin-\(\frac12\) system has two basis states, which we may denote by
+\begin{equation}
+\begin{pmatrix}1\\0\end{pmatrix},
+\qquad
+\begin{pmatrix}0\\1\end{pmatrix},
+\end{equation}
+and think of as spin up and spin down relative to some chosen axis, say the \(z\)-axis. A general state is then
+\begin{equation}
+\psi=
+\begin{pmatrix}
+\alpha_1\\
+\alpha_2
+\end{pmatrix},
+\qquad
+|\alpha_1|^2+|\alpha_2|^2=1.
+\end{equation}
+The lecture does not stop to derive the detailed relation between \(\alpha_1,\alpha_2\) and a direction in space. It only uses the fact that this two-component object is what we must rotate.
+
+If we rotate the spin state, we must obtain another spin state. Therefore there is a \(2\times 2\) matrix \(U\) such that
+\begin{equation}
+\alpha_i' = U_{ij}\alpha_j.
+\end{equation}
+This is again a representation of the rotation group, but now the entries are complex. The analogue of length preservation is preservation of total probability. That is, if \(|\alpha_1|^2+|\alpha_2|^2=1\) before the transformation, the same must be true afterwards.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.62\textwidth]{lecture_03_figure_04.png}
+\caption{Unitary condition written in Hermitian-conjugate form.}
+\end{figure}
+
+The board presents the resulting condition in two equivalent ways. First,
+\begin{equation}
+\left(U^T\right)^*U=\mathbf 1,
+\end{equation}
+and then, after naming the transpose-plus-complex-conjugate operation as the Hermitian conjugate,
+\begin{equation}
+U^\dagger U=\mathbf 1.
+\end{equation}
+This is the defining property of a unitary matrix.
+
+At this stage the lecture asks a parameter-counting question. A \(2\times 2\) complex matrix has four complex entries, hence eight real parameters. The matrix equation \(U^\dagger U=\mathbf 1\) gives four real conditions, one for each matrix entry of the identity. So a unitary \(2\times 2\) matrix has four real parameters. But a rotation has only three parameters. There is one parameter too many.
+
+The lecture then imposes one more condition:
+\begin{equation}
+\det U = 1.
+\end{equation}
+This is consistent with the group structure because
+\begin{equation}
+\det(AB)=\det A\,\det B.
+\end{equation}
+Thus the unitary matrices with determinant one form a closed subgroup. These are the special unitary matrices, denoted \(SU(2)\).
+
+There is a subtle point here, and the lecture explicitly warns that it is being suppressed. At lecture level, the important statement is that \(SU(2)\) has the same three local parameters and the same multiplication law needed to represent spatial rotations on spin-\(\frac12\) states, even though it does not act on ordinary vectors.
+
+It is also useful to record the general naming convention:
+\begin{equation}
+U(n)=\{\,U\in M_n(\mathbb C)\mid U^\dagger U=\mathbf 1\,\},
+\qquad
+SU(n)=\{\,U\in U(n)\mid \det U=1\,\}.
+\end{equation}
+
+\section{From Small Rotations to the Pauli Matrices}
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Where do the sigma matrices enter?
+
+\paragraph{Answer.} They enter when we stop looking at finite rotations as whole matrices and instead look infinitesimally close to the identity. Then the matrices are nearly \(\mathbf 1\), and the first correction encodes the generators of the group.
+
+To make this precise, the lecture writes a small transformation in the form
+\begin{equation}
+U=\mathbf 1+\epsilon M+O(\epsilon^2),
+\end{equation}
+with \(\epsilon\) small. If we impose unitarity,
+\[
+U^\dagger U=\mathbf 1,
+\]
+and keep only terms linear in \(\epsilon\), we find
+\begin{equation}
+M^\dagger=-M.
+\end{equation}
+So in this convention the small correction is anti-Hermitian.
+
+The lecture then makes a standard improvement: factor out an \(i\), and write instead
+\begin{equation}
+U=\mathbf 1+i\epsilon M+O(\epsilon^2).
+\end{equation}
+Now the same first-order calculation gives
+\begin{equation}
+M^\dagger=M.
+\end{equation}
+So \(M\) may now be taken Hermitian.
+
+The determinant-one condition adds one more restriction. Near the identity we have
+\begin{equation}
+\det(\mathbf 1+i\epsilon M)=1+i\epsilon\,\operatorname{tr}M+O(\epsilon^2),
+\end{equation}
+so \(\det U=1\) implies
+\begin{equation}
+\operatorname{tr}M=0.
+\end{equation}
+Thus the generators are traceless Hermitian \(2\times 2\) matrices.
+
+This is exactly where the Pauli matrices enter. The lecture does not need their full algebra here. It only needs the fact that the traceless Hermitian \(2\times 2\) matrices are spanned by the three sigmas. In cleaned notation we may write
+\begin{equation}
+M=a_x\sigma_x+a_y\sigma_y+a_z\sigma_z.
+\end{equation}
+The coefficients \(a_x,a_y,a_z\) depend on the axis of the small rotation. A small rotation about the \(x\)-axis uses \(\sigma_x\); about the \(y\)-axis, \(\sigma_y\); and similarly for a general axis.
+
+This is the infinitesimal form of the representation. The sigmas are not added by hand from elsewhere; they emerge because they are exactly the traceless Hermitian \(2\times 2\) matrices required by unitarity and determinant one near the identity.
+
+\section{Color as a Three-State System and the Arrival of \texorpdfstring{\(SU(3)\)}{SU(3)}}
+
+Only now does the lecture return to its announced destination. The color of a quark is a three-state system: red, green, or blue. So, just as a spin-\(\frac12\) state is described by two amplitudes, a color state may be described by three amplitudes,
+\begin{equation}
+q=
+\begin{pmatrix}
+\alpha_1\\
+\alpha_2\\
+\alpha_3
+\end{pmatrix}
+\qquad\text{or}\qquad
+q=
+\begin{pmatrix}
+r\\
+g\\
+b
+\end{pmatrix}.
+\end{equation}
+We may equally think of three field operators, one for each color, assembled into a three-component column.
+
+There are, of course, discrete symmetries that merely interchange the three colors. But the lecture wants the larger continuous family that contains such interchanges in spirit. The natural generalization is to let a \(3\times 3\) special unitary matrix act on the color triplet:
+\begin{equation}
+q' = Uq,
+\qquad
+U^\dagger U=\mathbf 1,
+\qquad
+\det U=1,
+\qquad
+U\in SU(3).
+\end{equation}
+This is not an ordinary spatial rotation. It is the same group-theoretic pattern lifted to a three-state internal degree of freedom.
+
+The lecture closes this part by counting parameters. A \(3\times 3\) complex matrix has nine complex entries, hence eighteen real parameters. The unitary condition imposes nine real conditions, and the determinant-one condition imposes one more. So the group has
+\begin{equation}
+18-9-1=8
+\end{equation}
+independent parameters.
+
+This is the first glimpse of why the number eight is going to matter in quantum chromodynamics. The lecture makes the connection suggestively, not yet formally: if one wonders what the eight parameters have to do with the eight gluons, one is wondering in the right direction. But the detailed construction is postponed.
+
+There is also an important physical point already on the table. The symmetry of quark color is not just a matter of relabeling states. The claim is that the physics is invariant under these \(SU(3)\) transformations. The analogy is deliberate: just as spatial rotations mix the components of a vector, and just as \(SU(2)\) rotations mix the components of a spinor, \(SU(3)\) transformations mix the color components of a quark.
+
+\section{Summary}
+
+The lecture begins with the most familiar continuous symmetry, the rotation group of space, and extracts from it a pattern: identify the objects being transformed, ask what quantity must be preserved, and derive the algebraic condition on the matrices. For vectors this gives real orthogonal matrices with \(R^TR=\mathbf 1\). For spin-\(\frac12\) states it gives complex unitary matrices with \(U^\dagger U=\mathbf 1\), and then determinant one selects the three-parameter group \(SU(2)\). Near the identity, the generators are traceless Hermitian matrices, hence linear combinations of the Pauli matrices.
+
+With that machinery in place, the leap to color is no longer mysterious. A quark color state is a three-component object, and the natural continuous symmetry acting on it is \(SU(3)\). Its eight parameters are the first mathematical sign that the later structure of quantum chromodynamics will be richer than ordinary rotation symmetry, even though the route to it begins with the simplest possible example.
