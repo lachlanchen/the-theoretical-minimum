@@ -1,0 +1,66 @@
+{
+  "course_rel": "supplementary/particle_physics_1_basic_concepts/2009_fall",
+  "transcript_rel": "supplementary/particle_physics_1_basic_concepts/2009_fall/080 - Lecture 6 \uff5c New Revolutions in Particle Physics\uff1a Basic Concepts [wUySvFEwmj8].md",
+  "video_rel": "supplementary/particle_physics_1_basic_concepts/2009_fall/080 - Lecture 6 \uff5c New Revolutions in Particle Physics\uff1a Basic Concepts [wUySvFEwmj8].mkv",
+  "lecture_number": 6,
+  "lecture_slug": "lecture_06",
+  "lecture_title": "Lecture 6 : New Revolutions in Particle Physics\uff1a Basic Concepts",
+  "assets": [
+    {
+      "name": "lecture_06_figure_02.png",
+      "timestamp_seconds": 1235.56,
+      "timestamp_hhmmss": "00:20:35.560",
+      "source_candidate": "lecture_06_window_02_candidate_03_002035560.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame is the clearest and most complete view of the board at the moment when Susskind switches to column-vector and matrix notation. The two-component field on the left, the identification with \\(\\Psi\\), the matrix \\(\\alpha\\), and the matrix-form wave equation are all visible at once, with much less occlusion than in the later frame and a more finished left-hand column vector than in the earlier ones.",
+      "subtitle_excerpt": "in column vector notation and matrix notation,",
+      "segment_start_seconds": 1232.96,
+      "segment_start_hhmmss": "00:20:32.960",
+      "segment_end_seconds": 1236.96,
+      "segment_end_hhmmss": "00:20:36.960",
+      "caption_hint": "Spinor column vector and alpha matrix"
+    },
+    {
+      "name": "lecture_06_figure_03.png",
+      "timestamp_seconds": 2688.88,
+      "timestamp_hhmmss": "00:44:48.880",
+      "source_candidate": "lecture_06_window_03_candidate_04_004448880.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "All four candidates are essentially the same board view, but this latest frame gives the most settled, fully written version of the equations. The lecturer is out of the way, the two component equations are clear, and the derived frequencies \\(\\omega=\\pm m\\) are both visible together, making it the best documentary frame for note writing.",
+      "subtitle_excerpt": "Omega equals plus m for this equation",
+      "segment_start_seconds": 2686.24,
+      "segment_start_hhmmss": "00:44:46.240",
+      "segment_end_seconds": 2689.24,
+      "segment_end_hhmmss": "00:44:49.240",
+      "caption_hint": "Decoupled spinor components and \\(\\omega=\\pm m\\)"
+    },
+    {
+      "name": "lecture_06_figure_04.png",
+      "timestamp_seconds": 3047.502,
+      "timestamp_hhmmss": "00:50:47.502",
+      "source_candidate": "lecture_06_window_04_candidate_02_005047502.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the clearest overall view of the board at the moment Susskind is discussing how the matrix components correspond to left- and right-moving modes. The lecturer is mostly to the left, so the central wave equation and the matrix chain across the middle and right are more visible than in the other candidates. The later frames have heavier body occlusion, while the earlier one is less complete.",
+      "subtitle_excerpt": "It's matrix components in the original equation described left movers",
+      "segment_start_seconds": 3046.149,
+      "segment_start_hhmmss": "00:50:46.149",
+      "segment_end_seconds": 3049.709,
+      "segment_end_hhmmss": "00:50:49.709",
+      "caption_hint": "Matrix decomposition into left- and right-moving components"
+    },
+    {
+      "name": "lecture_06_figure_05.png",
+      "timestamp_seconds": 3887.272,
+      "timestamp_hhmmss": "01:04:47.272",
+      "source_candidate": "lecture_06_window_06_candidate_03_010447272.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame is the clearest and least occluded view of the board. It preserves the label \\(V(\\phi)\\) and both potential sketches at once, without the lecturer's hand or body covering the minima or axes, making it the best source for a clean redraw in the notes.",
+      "subtitle_excerpt": "of lowest energy, the state of lowest potential",
+      "segment_start_seconds": 3885.622,
+      "segment_start_hhmmss": "01:04:45.622",
+      "segment_end_seconds": 3888.161,
+      "segment_end_hhmmss": "01:04:48.161",
+      "caption_hint": "Potential \\(V(\\phi)\\) and candidate minima"
+    }
+  ]
+}
