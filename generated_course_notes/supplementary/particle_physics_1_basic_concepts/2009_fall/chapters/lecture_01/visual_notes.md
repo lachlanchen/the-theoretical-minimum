@@ -1,9 +1,9 @@
 # Visual Evidence
 ## Frame Inventory
-- `lecture_01_figure_02.png`: Susskind is writing `\lambda = ...` on an otherwise blank board; this screenshot should remain in the final notes because it documents the exact moment the wavelength symbol is introduced.
-- `lecture_01_figure_03.png`: A tight right-side board crop shows `f=1/T` above `\lambda f=c`; this screenshot should remain because it is the clearest board evidence for the wavelength-frequency relations.
-- `lecture_01_figure_04.png`: A later board state shows the stacked conversion formulas and the boxed final relation `\omega=2\pi c/\lambda`; this screenshot should remain because it preserves the derivational layout and the emphasized takeaway.
-- `lecture_01_figure_05.png`: Susskind points directly at `E=m` in the natural-units discussion, with a less legible dimensional mnemonic below; this screenshot should remain because it records the simplification being stressed in the lecture.
+- `lecture_01_figure_02.png`: Susskind writes `\lambda =` at the upper left of an otherwise blank board; this screenshot should remain in the final notes as documentary evidence for the introduction of wavelength notation.
+- `lecture_01_figure_03.png`: A clean crop of the right-hand board shows `f=\frac{1}{T}` above `\lambda f = c`, with faint cropped remnants of earlier writing at left; this screenshot should remain in the final notes.
+- `lecture_01_figure_04.png`: A later board state stacks the frequency conversion and wave-speed relations above a boxed final equation for `\omega`; this screenshot should remain in the final notes.
+- `lecture_01_figure_05.png`: Susskind points directly at `E=m`, with a second, less legible dimensional line below and a cropped sketch at far right; this screenshot should remain in the final notes because the gesture fixes the intended emphasis.
 
 ## Equation Extraction
 - `lecture_01_figure_02.png`: `\lambda =` [visible]
@@ -20,30 +20,29 @@
 - `lecture_01_figure_04.png`: `\lambda f = c` [partially visible]
 
 - `lecture_01_figure_05.png`: `E = m` [visible]
+- `lecture_01_figure_05.png`: `m\,\frac{(\text{length})^2}{(\text{time})^2} = E` [standard completion]
 - `lecture_01_figure_05.png`: `m\,\ell^{2}/t^{2} = E` [partially visible]
-- `lecture_01_figure_05.png`: `E = mc^{2} \to E = m` [standard completion]
+- `lecture_01_figure_05.png`: `E = mc^{2} \;\to\; E = m \quad (c=1)` [standard completion]
 
 ## Diagram Extraction
-- `lecture_01_figure_02.png` is not a true diagram; it should be preserved as a screenshot only, because its value is documentary rather than graphical.
-- `lecture_01_figure_03.png` is also not a diagram in the TikZ sense; it should be preserved as a screenshot, with the equations typeset cleanly nearby rather than redrawn as a board sketch.
-- `lecture_01_figure_04.png` has meaningful board structure: an earlier boxed relation at left, intermediate formulas above, and the final boxed result below. Preserve the screenshot, and if the notes later echo the structure, do so with clean aligned equations rather than a literal TikZ board redraw.
-- `lecture_01_figure_05.png` contains no reliable standalone diagram; preserve it as a screenshot, and do not redraw the partial sketch at the far right unless additional frame evidence later identifies what it is.
-- Across the chapter, `lecture_01_figure_03.png` and `lecture_01_figure_04.png` should function as a visual pair: first the basic relation `\lambda f=c`, then its reformulation in terms of \(\omega\).
+- `lecture_01_figure_02.png`: This is not a standalone diagram; it is best preserved as a screenshot only, because its value is the moment of notation being introduced on a fresh board.
+- `lecture_01_figure_03.png`: This is not a conceptual sketch to redraw in TikZ; it should be preserved as a screenshot and accompanied by clean display equations nearby.
+- `lecture_01_figure_04.png`: The boxed board layout matters pedagogically, so the screenshot should remain visible; the equations may also be re-typeset cleanly, but a full TikZ board redraw is unnecessary.
+- `lecture_01_figure_05.png`: The screenshot should remain visible because Susskind’s pointing gesture identifies `E=m` as the intended takeaway; the cropped sketch at the far right is too incomplete to justify a TikZ redraw from this frame alone.
+- Across these four frames, the only “diagrammatic” content worth preserving is board organization: notation introduction in `lecture_01_figure_02.png`, the two-step wave relation in `lecture_01_figure_03.png`, the stacked derivation and boxed result in `lecture_01_figure_04.png`, and the natural-units emphasis in `lecture_01_figure_05.png`.
 
 ## Reconstruction Guidance
-- Use `lecture_01_figure_02.png` to justify the notation line `\lambda = \text{wavelength}`, but keep the typeset completion visibly separate from the raw screenshot because the full word is not fully written in the frame.
-- Turn `lecture_01_figure_03.png` into a clean note-quality display such as \(f=\frac{1}{T}\) and \(\lambda f=c\), while keeping the screenshot nearby as evidence that these are the board relations actually used at that point.
-- Turn `lecture_01_figure_04.png` into a cleaned sequence
-  \(\frac{\omega}{2\pi}=f\), \(f=\frac{c}{\lambda}\), \(\omega=\frac{2\pi c}{\lambda}\),
-  and preserve the screenshot because the boxed lower-right placement shows which relation Susskind is treating as the main result.
-- Turn `lecture_01_figure_05.png` into a note statement that in natural units \(c=1\), the rest-energy relation is written \(E=m\). Keep the screenshot because Susskind’s pointing gesture makes this visually important.
-- Do not upgrade the lower line in `lecture_01_figure_05.png` into a polished displayed equation unless the transcript or neighboring frames confirm it. At present it should remain only a tentative dimensional mnemonic.
-- None of these four frames needs a literal TikZ redraw of the board. The right workflow is screenshot plus clean typeset equations, not screenshot replacement.
+- Use `lecture_01_figure_02.png` to anchor the sentence that introduces wavelength notation, but typeset the usable note form as `\lambda = \text{wavelength}` rather than reproducing the partial handwriting.
+- Use `lecture_01_figure_03.png` as the board-evidence image for the wave kinematics sequence, and typeset the clean equations as `f=\frac{1}{T}` and `\lambda f = c`.
+- Use `lecture_01_figure_04.png` as the visual culmination of that same derivation, keeping the screenshot nearby while typesetting `\omega = 2\pi f`, `f=\frac{c}{\lambda}`, and `\omega=\frac{2\pi c}{\lambda}` in clean note-quality form.
+- For `lecture_01_figure_04.png`, prefer canonical algebraic presentation over literal board order when polishing the notes, but keep the screenshot to show that Susskind boxed `\omega=\frac{2\pi c}{\lambda}` as the main result.
+- Use `lecture_01_figure_05.png` to support the natural-units simplification only. The note-quality version should explain that the visible board statement `E=m` is the `c=1` form of the rest-energy relation for a massive particle at rest.
+- Do not promote the lower line in `lecture_01_figure_05.png` into a formal equation unless the transcript is being used explicitly to explain it as a dimensional mnemonic behind `E=mc^2`.
+- No aggressive invention is needed from these frames: the clean note reconstruction is mostly a matter of typesetting the visible equations and making the role of each screenshot explicit.
 
 ## Uncertainties
-- In `lecture_01_figure_02.png`, only the opening of the explanatory word after `\lambda =` is visible; the completion to “wavelength” depends on transcript support.
-- In `lecture_01_figure_03.png`, the denominator in `f=1/T` is best read as \(T\), but the handwriting is slightly stylized.
-- In `lecture_01_figure_04.png`, the top relation `\omega/(2\pi)=f` is less crisp than the lower equations; the boxed `\omega=2\pi c/\lambda` is the most secure reading.
-- In `lecture_01_figure_05.png`, the lower expression under `E=m` is not reliably legible. It looks like a dimensional form involving mass, length squared, time squared, and energy, but it should not be treated as certain.
-- `lecture_01_figure_05.png` supports the natural-units simplification `E=m`, not the unrestricted statement that the general relativistic energy formula is always `E=m`.
-- The cropped sketch at the far right of `lecture_01_figure_05.png` is too incomplete to use as figure evidence.
+- In `lecture_01_figure_02.png`, the full word after the equals sign is not readable from the frame alone; `wavelength` is supported by the subtitle and transcript rather than the image by itself.
+- In `lecture_01_figure_03.png`, the denominator in `f=\frac{1}{T}` is slightly stylized; `T` is the best reading, consistent with the nearby cropped word `period`.
+- In `lecture_01_figure_04.png`, the upper relation is less sharp than the boxed lower equation, so `\frac{\omega}{2\pi}=f` should be treated as a cautious reading of the board rather than the strongest visual evidence.
+- In `lecture_01_figure_05.png`, the lower line is not reliably legible at the symbol level; it seems to be a dimensional relation of the form mass times length squared over time squared equals energy.
+- `lecture_01_figure_05.png` supports `E=m` in natural units, not the unspecialized equation `E=mc^2`; that distinction should remain explicit in the final notes.
