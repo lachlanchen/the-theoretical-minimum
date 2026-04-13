@@ -1,0 +1,52 @@
+{
+  "course_rel": "supplementary/particle_physics_2_standard_model/2010_winter",
+  "transcript_rel": "supplementary/particle_physics_2_standard_model/2010_winter/086 - Lecture 2 \uff5c New Revolutions in Particle Physics\uff1a Standard Model [yy989li6xgY].md",
+  "video_rel": "supplementary/particle_physics_2_standard_model/2010_winter/086 - Lecture 2 \uff5c New Revolutions in Particle Physics\uff1a Standard Model [yy989li6xgY].mkv",
+  "lecture_number": 2,
+  "lecture_slug": "lecture_02",
+  "lecture_title": "Lecture 2 : New Revolutions in Particle Physics\uff1a Standard Model",
+  "assets": [
+    {
+      "name": "lecture_02_figure_02.png",
+      "timestamp_seconds": 908.3,
+      "timestamp_hhmmss": "00:15:08.300",
+      "source_candidate": "lecture_02_window_03_candidate_03_001508300.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the clearest and most useful frame of the four. The relevant spin-state layout is fully visible, including the circled symmetric combination, while Susskind has stepped just far enough aside that the board content is less occluded than in the earlier pointing frames. It best supports a clean reconstruction of the symmetric two-spin state discussed in the subtitle.",
+      "subtitle_excerpt": "Incidentally, this state over here is symmetric",
+      "segment_start_seconds": 907.0,
+      "segment_start_hhmmss": "00:15:07.000",
+      "segment_end_seconds": 909.0,
+      "segment_end_hhmmss": "00:15:09.000",
+      "caption_hint": "symmetric two-spin state"
+    },
+    {
+      "name": "lecture_02_figure_03.png",
+      "timestamp_seconds": 1662.251,
+      "timestamp_hhmmss": "00:27:42.251",
+      "source_candidate": "lecture_02_window_04_candidate_02_002742251.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame gives the clearest and most complete view of the board with the least harmful occlusion. The aligned-spin kets, the symmetric and antisymmetric mixed-spin combinations, and the right-side labels distinguishing the \\(\\ell=1\\) and \\(\\ell=0\\) sectors are all visible at once. The later frames obscure more of the state structure, while the first frame still has Susskind blocking part of the layout.",
+      "subtitle_excerpt": "up and a spin down are symmetric.",
+      "segment_start_seconds": 1661.02,
+      "segment_start_hhmmss": "00:27:41.020",
+      "segment_end_seconds": 1664.26,
+      "segment_end_hhmmss": "00:27:44.260",
+      "caption_hint": "triplet and singlet spin states"
+    },
+    {
+      "name": "lecture_02_figure_04.png",
+      "timestamp_seconds": 2143.76,
+      "timestamp_hhmmss": "00:35:43.760",
+      "source_candidate": "lecture_02_window_05_candidate_01_003543760.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the cleanest and least occluded frame. It isolates the blackboard expression itself, with no hand or body covering the notation, and is therefore the most useful documentary frame for reconstructing the antisymmetric two-particle state being discussed.",
+      "subtitle_excerpt": "An anti-symmetric state of two spins makes spin zero.",
+      "segment_start_seconds": 2143.1,
+      "segment_start_hhmmss": "00:35:43.100",
+      "segment_end_seconds": 2148.6,
+      "segment_end_hhmmss": "00:35:48.600",
+      "caption_hint": "antisymmetric two-spin combination"
+    }
+  ]
+}
