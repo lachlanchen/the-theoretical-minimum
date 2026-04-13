@@ -26,7 +26,7 @@ It combines lecture transcriptions, subtitle files, generated TeX notes, compile
   - `subtitles/` for `.srt`
   - `markdown/` for timestamped Markdown transcripts
 - A transcript-to-TeX pipeline in `generated_course_notes/`.
-- The `Video2Book/` submodule for playlist download and transcription automation.
+- The `Video2Book/` submodule for playlist download, transcription, and subtitle-to-notes automation.
 - Imported companion material in `theoretical_minimum_companion_notes/`.
 - Reusable LaTeX templates in `template/kaobook` and `template/tuftle`.
 
@@ -162,6 +162,13 @@ Within each course run:
 - `chapters/` holds one folder per lecture
 - each lecture folder contains the chapter TeX and its compiled lecture PDF
 - `course.pdf` is the merged full-course PDF for that run
+
+Run the note curator through the parent wrappers, which delegate to the `Video2Book` submodule:
+
+```bash
+./scripts/start_course_notes_tmux.sh
+./scripts/start_course_notes_monitor_tmux.sh
+```
 
 ### 📚 Work on imported companion notes
 
