@@ -1,0 +1,80 @@
+{
+  "course_rel": "supplementary/particle_physics_3_supersymmetry_and_grand_unification/2010_spring",
+  "transcript_rel": "supplementary/particle_physics_3_supersymmetry_and_grand_unification/2010_spring/148 - Supersymmetry & Grand Unification\uff1a Lecture 4 [o_gafEasmvE].md",
+  "video_rel": "supplementary/particle_physics_3_supersymmetry_and_grand_unification/2010_spring/148 - Supersymmetry & Grand Unification\uff1a Lecture 4 [o_gafEasmvE].mp4",
+  "lecture_number": 4,
+  "lecture_slug": "lecture_04",
+  "lecture_title": "Supersymmetry & Grand Unification\uff1a Lecture 4",
+  "assets": [
+    {
+      "name": "lecture_04_figure_02.png",
+      "timestamp_seconds": 356.42,
+      "timestamp_hhmmss": "00:05:56.420",
+      "source_candidate": "lecture_04_window_02_candidate_01_000556420.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the clearest and least occluded view of the whiteboard. The later candidates have Susskind's hand covering key symbols, while this one preserves the two-line bra-ket style layout and the visible state symbol \\(\\psi\\) more completely.",
+      "subtitle_excerpt": "probability that this vector should have",
+      "segment_start_seconds": 356.06,
+      "segment_start_hhmmss": "00:05:56.060",
+      "segment_end_seconds": 359.06,
+      "segment_end_hhmmss": "00:05:59.060",
+      "caption_hint": "state-vector notation on the board"
+    },
+    {
+      "name": "lecture_04_figure_03.png",
+      "timestamp_seconds": 2078.239,
+      "timestamp_hhmmss": "00:34:38.239",
+      "source_candidate": "lecture_04_window_03_candidate_04_003438239.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the cleanest unobstructed view of the board notation. The earlier candidates have Susskind's hand partially covering the symbols, while this one leaves the state notation fully visible and still preserves the local lecture context.",
+      "subtitle_excerpt": "If the original state was an eigenvector of the energy,",
+      "segment_start_seconds": 2074.719,
+      "segment_start_hhmmss": "00:34:34.719",
+      "segment_end_seconds": 2078.719,
+      "segment_end_hhmmss": "00:34:38.719",
+      "caption_hint": "operator acting on an energy eigenstate"
+    },
+    {
+      "name": "lecture_04_figure_04.png",
+      "timestamp_seconds": 2182.376,
+      "timestamp_hhmmss": "00:36:22.376",
+      "source_candidate": "lecture_04_window_04_candidate_02_003622376.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the cleanest, most centered view of the equation while keeping the lecturer's pointing gesture from obscuring the key symbols. The later frames include more of the lecturer and add visual distraction, while this one preserves the mathematical content most clearly.",
+      "subtitle_excerpt": "is an eigenvector of the Hamiltonian with energy E.",
+      "segment_start_seconds": 2181.266,
+      "segment_start_hhmmss": "00:36:21.266",
+      "segment_end_seconds": 2184.186,
+      "segment_end_hhmmss": "00:36:24.186",
+      "caption_hint": "Hamiltonian eigenvalue equation"
+    },
+    {
+      "name": "lecture_04_figure_05.png",
+      "timestamp_seconds": 2331.066,
+      "timestamp_hhmmss": "00:38:51.066",
+      "source_candidate": "lecture_04_window_05_candidate_03_003851066.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame shows the fullest and cleanest version of the board derivation with no meaningful occlusion. It preserves the top eigenvalue equation, the intermediate operator step, the final commutator statement, and the curved guide marks that explain the manipulation.",
+      "subtitle_excerpt": "For any eigenvector of the energy, this must be true.",
+      "segment_start_seconds": 2328.466,
+      "segment_start_hhmmss": "00:38:48.466",
+      "segment_end_seconds": 2332.466,
+      "segment_end_hhmmss": "00:38:52.466",
+      "caption_hint": "commutator acting on an energy eigenstate"
+    },
+    {
+      "name": "lecture_04_figure_06.png",
+      "timestamp_seconds": 2534.296,
+      "timestamp_hhmmss": "00:42:14.296",
+      "source_candidate": "lecture_04_window_06_candidate_02_004214296.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the cleanest, most stable view of the board while keeping the lecturer almost entirely out of the image. The two commutator statements are both visible and legible enough for cautious reconstruction, and there is no meaningful occlusion.",
+      "subtitle_excerpt": "the generators of a symmetry commute with the Hamiltonian.",
+      "segment_start_seconds": 2532.966,
+      "segment_start_hhmmss": "00:42:12.966",
+      "segment_end_seconds": 2536.466,
+      "segment_end_hhmmss": "00:42:16.466",
+      "caption_hint": "symmetry operators commuting with the Hamiltonian"
+    }
+  ]
+}
