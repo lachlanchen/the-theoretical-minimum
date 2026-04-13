@@ -1,0 +1,80 @@
+{
+  "course_rel": "supplementary/quantum_entanglement/2006_fall_part_1",
+  "transcript_rel": "supplementary/quantum_entanglement/2006_fall_part_1/053 - Lecture 6 \uff5c Quantum Entanglements, Part 1 (Stanford) [xXBx8_19nyw].md",
+  "video_rel": "supplementary/quantum_entanglement/2006_fall_part_1/053 - Lecture 6 \uff5c Quantum Entanglements, Part 1 (Stanford) [xXBx8_19nyw].mp4",
+  "lecture_number": 6,
+  "lecture_slug": "lecture_06",
+  "lecture_title": "Lecture 6 : Quantum Entanglements, Part 1 (Stanford)",
+  "assets": [
+    {
+      "name": "lecture_06_figure_02.png",
+      "timestamp_seconds": 575.06,
+      "timestamp_hhmmss": "00:09:35.060",
+      "source_candidate": "lecture_06_window_02_candidate_02_000935060.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame is the clearest and most usable record of the three-vector sketch. The diagram is already in place, the arrows are more complete than in the earlier frame, and Susskind's hands are not covering the key lines as they are in candidates 1 and 3. Candidate 4 is later but less stable and less helpful as a clean capture of the drawn layout.",
+      "subtitle_excerpt": "So these three vectors that I've drawn in the blackboard",
+      "segment_start_seconds": 573.92,
+      "segment_start_hhmmss": "00:09:33.920",
+      "segment_end_seconds": 576.92,
+      "segment_end_hhmmss": "00:09:36.920",
+      "caption_hint": "Three vectors on the board"
+    },
+    {
+      "name": "lecture_06_figure_03.png",
+      "timestamp_seconds": 855.68,
+      "timestamp_hhmmss": "00:14:15.680",
+      "source_candidate": "lecture_06_window_03_candidate_04_001415680.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame is the most useful note-taking snapshot because the board equations are already fully written and stable: the basis ket, the orthonormality relation, and the expansion of an arbitrary state are all visible at once. The writing is sharp, and although Susskind is pointing at the inner product, he does not significantly block the crucial symbols.",
+      "subtitle_excerpt": "equation with any vector,",
+      "segment_start_seconds": 853.92,
+      "segment_start_hhmmss": "00:14:13.920",
+      "segment_end_seconds": 855.92,
+      "segment_end_hhmmss": "00:14:15.920",
+      "caption_hint": "Orthonormal basis and state expansion"
+    },
+    {
+      "name": "lecture_06_figure_04.png",
+      "timestamp_seconds": 1407.28,
+      "timestamp_hhmmss": "00:23:27.280",
+      "source_candidate": "lecture_06_window_04_candidate_01_002327280.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the clearest frame because both basis states are fully visible without Susskind's hand or marker covering any of the symbols. The later candidates are more occluded by pointing gestures, while this one preserves the board content cleanly for note writing.",
+      "subtitle_excerpt": "They both have sigma 3 equals up.",
+      "segment_start_seconds": 1406.92,
+      "segment_start_hhmmss": "00:23:26.920",
+      "segment_end_seconds": 1409.92,
+      "segment_end_hhmmss": "00:23:29.920",
+      "caption_hint": "Two states with first spin up"
+    },
+    {
+      "name": "lecture_06_figure_05.png",
+      "timestamp_seconds": 1869.32,
+      "timestamp_hhmmss": "00:31:09.320",
+      "source_candidate": "lecture_06_window_05_candidate_04_003109320.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the best frame because the lecturer has moved out of the way and the board is least occluded. It preserves the full layout of the argument: the projector written as a sum over basis states at the top, and the bra-ket setup with \\(\\langle\\psi|\\) and \\(|\\psi\\rangle\\) below. Earlier candidates are visibly obstructed while the expression is still being written.",
+      "subtitle_excerpt": "then the probability that psi has property k equals lambda",
+      "segment_start_seconds": 1863.92,
+      "segment_start_hhmmss": "00:31:03.920",
+      "segment_end_seconds": 1869.92,
+      "segment_end_hhmmss": "00:31:09.920",
+      "caption_hint": "Projector onto the k equals lambda subspace"
+    },
+    {
+      "name": "lecture_06_figure_06.png",
+      "timestamp_seconds": 2517.324,
+      "timestamp_hhmmss": "00:41:57.324",
+      "source_candidate": "lecture_06_window_06_candidate_02_004157324.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the clearest usable view of the emphasized board expression while avoiding the direct hand occlusion present in candidate 1. The circled projector action is fully legible, and the layout clearly shows that Susskind is identifying it as a vector lying in a particular subspace. Later frames are similar, but this one preserves the equation most cleanly at the moment of explanation.",
+      "subtitle_excerpt": "This is a vector in the subspace k equals",
+      "segment_start_seconds": 2516.04,
+      "segment_start_hhmmss": "00:41:56.040",
+      "segment_end_seconds": 2519.42,
+      "segment_end_hhmmss": "00:41:59.420",
+      "caption_hint": "Projected state in the k subspace"
+    }
+  ]
+}
