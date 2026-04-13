@@ -1,0 +1,379 @@
+\chapter{Supersymmetry in Four Dimensions}
+
+The previous lecture built supersymmetry in a toy world with only time. In Leonard Susskind's Lecture~8 the point is to repair that toy model by insisting on Lorentz invariance, and then to push the formalism far enough that a genuine supersymmetric field theory appears on the page. The present chapter is curated from the lecture by LazyingArt LLC. The logic is deliberately incremental: first a relativistic chiral fermion, then the four-dimensional superalgebra, then a special constrained superfield, and finally a sequence of superspace Lagrangians whose component fields reveal the characteristic boson--fermion equalities of supersymmetry.
+
+\section{From Time-Only Supersymmetry to Lorentz Invariance}
+
+The starting point is the one-dimensional toy model from the previous lecture. There one had, schematically,
+\begin{equation}
+\{Q^\dagger,Q\}=2H.
+\end{equation}
+This is perfectly serviceable if time is the only coordinate in sight. But in a Lorentz-invariant theory the Hamiltonian is only the time component of the four-momentum. Energy does not stand alone; it belongs to the four-vector \(P_\mu\).
+
+That immediately creates the first tension of the lecture. If the right-hand side of the supersymmetry anticommutator contains only \(H=P_0\), then a Lorentz transformation will mix that quantity into spatial momentum. So the one-dimensional algebra cannot be the final answer. The lecture therefore begins not by writing down the finished four-dimensional superalgebra, but by asking what kind of relativistic object supersymmetry ought to be built from in the first place.
+
+To get a feel for that question, Susskind backs up to the simplest relativistic spinor system he can use: a massless chiral fermion.
+
+\section{Massless Chiral Fermions and the Hamiltonian \(H=\sigma\cdot p\)}
+
+A massive Dirac particle carries both handednesses. A massless particle need not. That is the first physical fact the lecture wants on the table, because supersymmetry in four dimensions will require spinorial objects, and the cleanest such objects are two-component chiral spinors.
+
+For the massless chiral field we write a two-component spinor
+\begin{equation}
+\psi=
+\begin{pmatrix}
+\psi_1\\
+\psi_2
+\end{pmatrix},
+\qquad \text{or simply } \psi_\alpha .
+\end{equation}
+In the lecture the distinction between chirality and helicity is discussed in a slightly loose way, but the intended point is clear. Helicity is associated with the sign of \(\sigma\cdot p\), while chirality is associated with the relativistic gamma-matrix structure. For a massless particle these coincide, and that coincidence is what makes the two-component description so effective here.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why can a massless particle be purely one-handed, whereas a massive particle cannot?
+
+\paragraph{Answer.} For a massive particle one can always boost to a frame that overtakes it. The spin keeps its orientation, but the momentum reverses relative to the observer, so a state that looked right-handed can look left-handed after the boost. A massive theory must therefore contain both handednesses. A genuinely massless particle moves at the speed of light, so it cannot be overtaken. Its helicity cannot be flipped in this way. In the present context that is the practical reason a massless chiral particle can be described by only half as many spin states as a massive Dirac particle.
+
+The lecture then introduces the Hamiltonian of the chiral particle:
+\begin{equation}
+H=\boldsymbol{\sigma}\cdot \mathbf{p}.
+\end{equation}
+Here \(\boldsymbol{\sigma}=(\sigma^1,\sigma^2,\sigma^3)\) are the Pauli matrices. Susskind's immediate interpretation is physical: the sign of \(\sigma\cdot p\) tells us how spin and momentum are aligned.
+
+\begin{figure}
+\centering
+\includegraphics[width=0.62\textwidth]{lecture_08_figure_02.png}
+\caption{Chiral-spinor setup and the Hamiltonian \(H=\sigma\cdot p\).}
+\end{figure}
+
+Once the Hamiltonian is written, the lecture turns it into a wave equation by the usual operator substitutions \(H\mapsto i\partial_t\) and \(\mathbf p\mapsto -i\nabla\). Thus
+\begin{equation}
+i\frac{\partial \psi}{\partial t}
+=
+-\,i\,\boldsymbol{\sigma}\cdot \nabla \psi .
+\end{equation}
+If we now call \(t=x^0\), and if we enlarge the Pauli matrices by adjoining
+\begin{equation}
+\sigma^0=\mathbf{1},
+\end{equation}
+then the equation becomes
+\begin{equation}
+i\,\sigma^\mu \partial_\mu \psi=0.
+\end{equation}
+This is the chiral Dirac equation in the form the lecture wants. The point is not to prove Lorentz invariance in detail, but to recognize that the relevant relativistic objects are two-component spinors acted on by \(\sigma^\mu\partial_\mu\). Once that structure is visible, the next move in supersymmetry is almost forced: the Grassmann coordinates themselves must carry spinor indices.
+
+\section{The Four-Dimensional Superalgebra}
+
+The lecture now returns to the original supersymmetry question. If the relativistic fermion naturally comes as a two-component spinor, then the Grassmann coordinates of superspace should not be a single \(\theta\); they should be \(\theta_\alpha\) and their conjugates \(\bar\theta_\alpha\). Altogether there are four real Grassmann coordinates. A general superfield is therefore a function of
+\[
+x^\mu,\qquad \theta_\alpha,\qquad \bar\theta_\alpha,
+\]
+and its Grassmann expansion terminates at fourth order.
+
+The same logic applies to the supercharges. They too must carry spinor indices. The lecture derives the four-dimensional algebra by insisting that the right-hand side of the old relation \(\{Q^\dagger,Q\}\sim H\) be replaced by a Lorentz vector. But that alone is not enough, because the left-hand side carries spinor indices \(\alpha,\beta\), whereas \(P_\mu\) carries a Lorentz index \(\mu\). The sigma matrices are inserted precisely to repair this mismatch. In schematic lecture form,
+\begin{align}
+\{Q_\alpha^\dagger,Q_\beta\}
+&=
+2\,\sigma^\mu_{\alpha\beta}P_\mu
+=
+2i\,\sigma^\mu_{\alpha\beta}\partial_\mu,\\
+\{Q_\alpha,Q_\beta\}&=0,
+\qquad
+\{Q_\alpha^\dagger,Q_\beta^\dagger\}=0,\\
+[Q_\alpha,P_\mu]&=0,
+\qquad
+[Q_\alpha^\dagger,P_\mu]=0,
+\qquad
+[P_\mu,P_\nu]=0.
+\end{align}
+The factor of \(2\) is conventional and is not stressed in the lecture. What matters is the structure: the anticommutator of two supercharges closes on space-time translations.
+
+At the level of differential operators on superspace, Susskind writes the supercharges as spinorial derivatives with an additional space-time shift term. Because the lecture itself suppresses and revises index placements on the board, we follow its spirit and use a compact notation:
+\begin{equation}
+Q=\frac{\partial}{\partial \theta}+i\,\bar\theta \sigma^\mu \partial_\mu,
+\qquad
+\bar Q=\frac{\partial}{\partial \bar\theta}+i\,\sigma^\mu\theta\,\partial_\mu.
+\end{equation}
+The interpretation is exactly the one emphasized in the lecture: \(P_\mu\) generates tiny shifts in \(x^\mu\), while \(Q\) and \(\bar Q\) generate tiny shifts in the Grassmann directions, together with the compensating space-time motion required by the superalgebra.
+
+\section{Chiral Superfields as a Consistent Constraint}
+
+Once the algebra is on the board, the lecture changes emphasis. We no longer ask only what the algebra is; we ask what sort of superfields furnish useful representations of it. A completely general superfield depends on all of \(x,\theta,\bar\theta\), and that is more structure than we want for a first example. The local problem is therefore: can we impose a simplifying constraint without destroying supersymmetry?
+
+Susskind motivates this through an ordinary symmetry analogy. In a rotationally invariant theory, the condition
+\[
+v_x=0
+\]
+is a bad constraint, because a rotation will immediately generate a nonzero \(v_x\). By contrast, the condition
+\[
+v^2=1
+\]
+is compatible with rotations, because it is preserved by the symmetry. One must therefore test a proposed constraint by acting with the symmetry generator and checking that the constrained class is mapped back into itself.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} What makes the constraint \(\bar D\Phi=0\) compatible with supersymmetry?
+
+\paragraph{Answer.} If \(\Phi\) obeys a constraint and we then apply a supersymmetry transformation to \(\Phi\), the transformed field must still satisfy the same constraint. For a linear differential constraint this is guaranteed if the constraint operator commutes or anticommutes with the supersymmetry generators. Then one may move the generator past the constraint operator and use the original constraint again. This is the local mathematical problem that the lecture solves before it ever defines a chiral superfield.
+
+To construct such a constraint, the lecture introduces operators \(D\) and \(\bar D\) that are sign-flipped versions of the \(Q\)-operators:
+\begin{equation}
+D=\frac{\partial}{\partial \theta}-i\,\bar\theta \sigma^\mu \partial_\mu,
+\qquad
+\bar D=\frac{\partial}{\partial \bar\theta}-i\,\sigma^\mu\theta\,\partial_\mu.
+\end{equation}
+These are built so that they anticommute with the supercharges in the same way as in the simpler one-dimensional model. That makes them suitable for imposing supersymmetry-compatible differential constraints.
+
+The particular constraint chosen in the lecture is
+\begin{equation}
+\bar D\Phi=0.
+\end{equation}
+This is not presented as a mysterious definition dropped from the sky. It is presented as the answer to the consistency question: here is a differential constraint that reduces the complexity of the superfield while preserving the action of supersymmetry.
+
+\section{Solving \(\bar D\Phi=0\) and Expanding the Chiral Superfield}
+
+We now solve the constraint. The lecture first compares it with the simpler equation \(\partial\Phi/\partial\bar\theta=0\). That simpler condition would force \(\Phi\) to have no \(\bar\theta\)-dependence at all. But \(\bar D\Phi=0\) is subtler. It allows \(\bar\theta\)-dependence, but only in a special combination with \(x\).
+
+Define
+\begin{equation}
+y^\mu=x^\mu+i\,\bar\theta \sigma^\mu \theta.
+\end{equation}
+The claim is that the general solution of the chiral constraint is
+\begin{equation}
+\Phi=\Phi(y,\theta).
+\end{equation}
+The only dependence on \(\bar\theta\) is hidden inside \(y^\mu\).
+
+This is exactly the sort of step where the lecture slows down and does a small calculation. If \(\Phi\) depends on \(\bar\theta\) only through \(y^\mu\), then
+\begin{align}
+\frac{\partial}{\partial \bar\theta_\alpha}\Phi(y,\theta)
+&=
+\frac{\partial \Phi}{\partial y^\mu}\,
+\frac{\partial y^\mu}{\partial \bar\theta_\alpha}
+=
+i\,(\sigma^\mu\theta)_\alpha\,\partial_\mu \Phi .
+\end{align}
+Therefore
+\begin{align}
+\bar D_\alpha \Phi
+&=
+\left(
+\frac{\partial}{\partial \bar\theta_\alpha}
+-
+i(\sigma^\mu\theta)_\alpha\partial_\mu
+\right)\Phi
+=
+0.
+\end{align}
+The two terms cancel exactly. That is the whole point. The superfield is not independent of \(\bar\theta\), but its \(\bar\theta\)-dependence is so tightly tied to \(x\) that \(\bar D\) annihilates it.
+
+A field satisfying this condition is called a chiral superfield. In the lecture it is also emphasized that such a field is generically complex.
+
+Since a chiral superfield depends only on \(y^\mu\) and the two components of \(\theta\), its Grassmann expansion terminates at \(\theta^2\):
+\begin{equation}
+\Phi(y,\theta)=\phi(y)+\theta\psi(y)+\theta^2 F(y).
+\end{equation}
+Here we follow the lecture's schematic notation, suppressing detailed spinor index placement. The three component fields are a scalar \(\phi\), a fermion \(\psi\), and an auxiliary complex scalar \(F\). Already at this stage the lecture warns us not to treat \(F\) as an ordinary propagating boson. It is present because supersymmetry bookkeeping wants it there, but its dynamical role will turn out to be very peculiar.
+
+\section{Superspace Actions and the Free Example \(\Phi^\ast\Phi\)}
+
+The next step is to build supersymmetric actions. One begins not with the ordinary Lagrangian density, but with a super-Lagrangian \(\mathcal L_{\mathrm{sup}}\) depending on \(x,\theta,\bar\theta\), and then integrates over superspace:
+\begin{equation}
+S=\int d^4x\,d^2\theta\,d^2\bar\theta\;\mathcal L_{\mathrm{sup}}.
+\end{equation}
+Because Grassmann integration picks out the coefficient of the highest Grassmann monomial, the effect of the \(d^2\theta\,d^2\bar\theta\) integral is simply to extract the \(\theta^2\bar\theta^2\) term.
+
+The first example is as simple as it could possibly be:
+\begin{equation}
+\mathcal L_{\mathrm{sup}}=\Phi^\ast \Phi.
+\end{equation}
+That simplicity is deceptive. The lecture stresses that the super-Lagrangian itself contains no derivatives at all, and yet ordinary kinetic terms will emerge from it.
+
+For the conjugate chiral field one has
+\begin{equation}
+\Phi^\ast=\Phi^\ast(x^\mu-i\,\bar\theta\sigma^\mu\theta,\bar\theta).
+\end{equation}
+Hence the product entering the action is
+\begin{equation}
+\Phi^\ast(x-i\bar\theta\sigma\theta,\bar\theta)\,
+\Phi(x+i\bar\theta\sigma\theta,\theta).
+\end{equation}
+Now comes the lecture's useful trick. Since we are integrating over \(x\), we may shift the integration variable. If we shift \(x\) to remove the Grassmann shift from one factor, it doubles in the other factor:
+\begin{equation}
+\Phi^\ast(x-i\bar\theta\sigma\theta,\bar\theta)\,
+\Phi(x+i\bar\theta\sigma\theta,\theta)
+\longrightarrow
+\Phi^\ast(x,\bar\theta)\,\Phi(x+2i\bar\theta\sigma\theta,\theta).
+\end{equation}
+This does not change the integral, but it makes the bookkeeping far easier.
+
+\begin{figure}
+\centering
+\includegraphics[width=0.92\textwidth]{lecture_08_figure_03.png}
+\caption{Component expansion leading to the ordinary Lagrangian.}
+\end{figure}
+
+We now expand the shifted argument in a Taylor series. For the scalar component this gives, schematically,
+\begin{align}
+\phi(x+2i\bar\theta\sigma\theta)
+&=
+\phi(x)
++
+2i(\bar\theta\sigma^\mu\theta)\,\partial_\mu \phi(x)
++
+(\bar\theta\sigma^\mu\theta)(\bar\theta\sigma^\nu\theta)\,
+\partial_\mu\partial_\nu \phi(x).
+\end{align}
+The lecture explicitly declines to track numerical coefficients carefully on the blackboard, so we keep only the secure structure. The spinor term is handled similarly, but it truncates earlier because once too many \(\theta\)'s appear the expression vanishes.
+
+The only terms that survive the \(d^2\theta\,d^2\bar\theta\) integral are those proportional to \(\theta^2\bar\theta^2\). Collecting them, one finds the ordinary component Lagrangian in schematic form:
+\begin{equation}
+\mathcal L
+\sim
+\phi^\ast \Box \phi
++
+\bar\psi\,\sigma^\mu\partial_\mu\psi
++
+F^\ast F.
+\end{equation}
+This is the crucial first payoff. The bottom line is entirely recognizable: a massless scalar, a massless fermion, and the auxiliary-field term. And the lecture immediately makes the sharp observation that the ordinary derivatives were not put into the super-Lagrangian by hand. They arose solely from the shifted argument \(x\pm i\bar\theta\sigma\theta\). That is why the formal superspace manipulations are not empty symbolism; they genuinely manufacture ordinary space-time dynamics.
+
+\section{Mass Terms, Interaction Terms, and the Supersymmetric Payoff}
+
+The free example gives us the kinematics. We now turn to masses and interactions. The lecture does this in stages: first a quadratic chiral term, then a cubic one, and only after that the Feynman-diagram interpretation.
+
+Before doing so, it returns once more to the auxiliary field. In the free theory the relevant part of the ordinary Lagrangian is simply
+\begin{equation}
+\mathcal L \supset F^\ast F.
+\end{equation}
+
+\begin{figure}
+\centering
+\includegraphics[width=0.75\textwidth]{lecture_08_figure_04.png}
+\caption{Auxiliary-field term in the simple supersymmetric Lagrangian.}
+\end{figure}
+
+There are no derivatives on \(F\). Its Euler--Lagrange equation is therefore algebraic rather than differential. In the free case,
+\begin{equation}
+\frac{\partial \mathcal L}{\partial F}=0 \quad \Rightarrow \quad F^\ast=0,
+\qquad
+\frac{\partial \mathcal L}{\partial F^\ast}=0 \quad \Rightarrow \quad F=0.
+\end{equation}
+This is exactly why the lecture insists that \(F\) is not an ordinary propagating degree of freedom.
+
+\begin{figure}
+\centering
+\begin{tikzpicture}[scale=1.0]
+\draw[dashed] (-1.4,0)--(0,0);
+\draw[dashed] (0,0)--(1.4,0);
+\fill (0,0) circle (2pt);
+\end{tikzpicture}
+\caption{Pedagogical redraw of the \(F\)-field propagator as a local contact. The lecture's point is that with no derivatives the line does not genuinely propagate between separated points; it collapses to a delta-function contact.}
+\end{figure}
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why is it legitimate to integrate only over \(d^2\theta\) when the expression has no \(\bar\theta\)-dependence?
+
+\paragraph{Answer.} If one tried to integrate a purely chiral expression with the full measure \(d^2\theta\,d^2\bar\theta\), the \(\bar\theta\)-integration would indeed kill it. The lecture explicitly raises this as a local puzzle and then uses the standard supersymmetric rule: when the integrand depends only on the chiral variables, one uses the chiral superspace integral \(\int d^2\theta\). Susskind notes that this deserves justification; at this stage he simply records it as the correct supersymmetric construction for such terms.
+
+With that rule understood, consider the quadratic chiral term
+\begin{equation}
+S_m=\int d^4x\,d^2\theta\;m\,\Phi^2+\mathrm{c.c.}
+\end{equation}
+We expand
+\begin{equation}
+\Phi=\phi+\theta\psi+\theta^2 F,
+\end{equation}
+suppressing the lecture's loose index conventions, and keep only the \(\theta^2\) part of \(\Phi^2\). Schematically,
+\begin{equation}
+\Phi^2\big|_{\theta^2}\sim F\phi+\psi\psi.
+\end{equation}
+Thus the corresponding ordinary Lagrangian contains
+\begin{equation}
+\mathcal L_m\sim m\,F\phi + m\,\psi\psi + \mathrm{c.c.}
+\end{equation}
+The fermionic term is a mass term in two-component notation; the lecture refers to it as a Majorana-type mass term.
+
+The \(F\phi\) term is more unusual, but because \(F\) is auxiliary we can eliminate it directly. Combining it with the free \(F^\ast F\) term gives
+\begin{equation}
+\mathcal L(F)
+=
+F^\ast F
++
+m\,F\phi
++
+m\,F^\ast \phi^\ast .
+\end{equation}
+Its equations of motion are
+\begin{equation}
+F^\ast + m\phi =0,
+\qquad
+F + m\phi^\ast =0.
+\end{equation}
+Substituting back produces
+\begin{equation}
+\mathcal L_{\mathrm{boson\ mass}} \sim m^2\,\phi^\ast\phi.
+\end{equation}
+This is one of the lecture's central points: the same supersymmetric term gives a mass to the fermion and, after eliminating the auxiliary field, a matching mass to the boson. The bosonic Lagrangian carries \(m^2\), the fermionic wave equation carries \(m\), but the physical mass is the same in both sectors.
+
+The next step is the cubic interaction
+\begin{equation}
+S_g=\int d^4x\,d^2\theta\;g\,\Phi^3+\mathrm{c.c.}
+\end{equation}
+Again we extract only the \(\theta^2\) part. The lecture identifies two kinds of terms:
+\begin{equation}
+\Phi^3\big|_{\theta^2}\sim \phi\,\psi\psi + \phi^2 F.
+\end{equation}
+Therefore
+\begin{equation}
+\mathcal L_{\mathrm{int}}
+\sim
+g\,\phi\,\psi\psi
++
+g\,\phi^\ast \bar\psi\bar\psi
++
+g\,\phi^2 F
++
+g\,\phi^{\ast 2}F^\ast.
+\end{equation}
+The first pair of terms is a Yukawa interaction: two fermions and one boson meeting at a vertex. The second pair couples the scalar to the auxiliary field. Since \(F\) does not propagate as an ordinary field, these terms do not describe a new dynamical particle. Instead they induce a local four-boson interaction once \(F\) is eliminated. In schematic form,
+\begin{equation}
+\mathcal L_{\mathrm{int}}
+\sim
+g\,\phi\,\psi\psi
++
+g\,\phi^\ast \bar\psi\bar\psi
++
+g^2\,\phi^2\phi^{\ast 2}.
+\end{equation}
+Here we see the second major supersymmetric constraint of the lecture. The quartic bosonic coupling is not independent. It is tied to the square of the Yukawa coupling.
+
+That relationship is the key to the loop-level payoff. The boson self-energy receives a contribution from the four-boson interaction and another from a fermion loop built out of two Yukawa vertices. The lecture's point is not to evaluate the integrals in detail, but to stress that supersymmetry forces the masses and couplings to match so tightly that these contributions come with the same size and opposite statistics sign.
+
+\begin{figure}
+\centering
+\begin{tikzpicture}[scale=0.9]
+\draw[dashed] (-1.7,0)--(-0.8,0);
+\draw[dashed] (-0.8,0) arc (180:0:0.8);
+\draw[dashed] (0.8,0) arc (0:-180:0.8);
+\draw[dashed] (0.8,0)--(1.7,0);
+\end{tikzpicture}
+\qquad
+\begin{tikzpicture}[scale=0.9]
+\draw[dashed] (-1.7,0)--(-0.8,0);
+\draw (-0.8,0) arc (180:0:0.8);
+\draw (0.8,0) arc (0:-180:0.8);
+\draw[dashed] (0.8,0)--(1.7,0);
+\end{tikzpicture}
+\caption{Schematic paired boson self-energy diagrams. On the left, a bosonic loop from the induced four-boson interaction; on the right, a fermionic loop from the Yukawa interaction. The lecture's point is that supersymmetry locks their coefficients together while boson and fermion loops carry opposite signs.}
+\end{figure}
+
+Thus the real power of supersymmetry is not exhausted by the statement that a boson and a fermion sit in the same multiplet. The stronger statement is that their masses are equal and their couplings are numerically related in precisely the way needed for nontrivial diagrammatic cancellations. The lecture emphasizes that this pattern persists to all orders in perturbation theory.
+
+\section{Summary}
+
+The lecture began with an apparently modest complaint: a supersymmetry algebra involving only the Hamiltonian cannot be right in a Lorentz-invariant theory. From that complaint we were led to a massless chiral spinor, from the chiral spinor to spinorial Grassmann coordinates and the four-dimensional superalgebra, and from there to the chiral superfield constraint \(\bar D\Phi=0\). Once the chiral superfield was in hand, the superspace action principle produced a familiar component theory: scalar, fermion, and auxiliary field. The free example \(\Phi^\ast\Phi\) gave the kinetic terms; \(\Phi^2\) gave equal boson and fermion masses; \(\Phi^3\) gave Yukawa interactions together with the induced quartic bosonic coupling required by supersymmetry.
+
+This is where Lecture~8 really wants to end: exact supersymmetry is a very rigid organizing principle, and that rigidity shows up most clearly in the equality of masses and in the cancellation patterns of bosonic and fermionic loops. But the lecture also turns outward at the end. Exact supersymmetry is not manifest in nature, so the next question is how supersymmetry may be broken. Beyond that lies the second theme announced in the course title: the possible role of supersymmetry in grand unification, where the standard-model gauge group is invited to assemble itself into a larger structure such as \(SU(5)\).
