@@ -124,6 +124,7 @@ Open the PDFs in the relevant course folder, for example:
 - `supplemental_cosmology_and_black_holes/topics_in_string_theory.pdf`
 - `supplemental_higgs_boson/demystifying_the_higgs_boson.pdf`
 - `supplemental_particle_physics_1/particle_physics_1_basic_concepts.pdf`
+- `supplemental_particle_physics_2/particle_physics_2_standard_model.pdf`
 
 ### 📝 Read transcripts directly
 
