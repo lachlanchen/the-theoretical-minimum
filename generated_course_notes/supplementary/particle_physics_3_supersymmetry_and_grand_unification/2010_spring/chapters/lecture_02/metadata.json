@@ -1,0 +1,66 @@
+{
+  "course_rel": "supplementary/particle_physics_3_supersymmetry_and_grand_unification/2010_spring",
+  "transcript_rel": "supplementary/particle_physics_3_supersymmetry_and_grand_unification/2010_spring/146 - Supersymmetry & Grand Unification\uff1a Lecture 2 [-nBOCF0sPgU].md",
+  "video_rel": "supplementary/particle_physics_3_supersymmetry_and_grand_unification/2010_spring/146 - Supersymmetry & Grand Unification\uff1a Lecture 2 [-nBOCF0sPgU].mp4",
+  "lecture_number": 2,
+  "lecture_slug": "lecture_02",
+  "lecture_title": "Supersymmetry & Grand Unification\uff1a Lecture 2",
+  "assets": [
+    {
+      "name": "lecture_02_figure_02.png",
+      "timestamp_seconds": 1467.76,
+      "timestamp_hhmmss": "00:24:27.760",
+      "source_candidate": "lecture_02_window_02_candidate_02_002427760.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 02 is the best balance of clarity and usable board evidence. The lecturer is slightly left of center, so the right-hand ket notation and the upper boxed sketch remain more visible than in the later gestures, and the frame looks a bit more settled than the earliest one. The mathematics is only partially legible, but this is the strongest frame for preserving the board layout at the moment he discusses fermionic anti-symmetry.",
+      "subtitle_excerpt": "For fermions, the wave functions are anti-symmetric,",
+      "segment_start_seconds": 1467.0,
+      "segment_start_hhmmss": "00:24:27.000",
+      "segment_end_seconds": 1469.0,
+      "segment_end_hhmmss": "00:24:29.000",
+      "caption_hint": "fermion anti-symmetry state labels"
+    },
+    {
+      "name": "lecture_02_figure_04.png",
+      "timestamp_seconds": 2423.24,
+      "timestamp_hhmmss": "00:40:23.240",
+      "source_candidate": "lecture_02_window_04_candidate_01_004023240.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "Candidate 01 is the most useful frame because it preserves the broadest board layout at this moment. It keeps both the simple closed-loop sketches on the left and the more elaborate diagrammatic material on the right in a single view, whereas the later candidates progressively crop away one side or lose part of the comparison. Even though the lecturer stands near the middle, the main diagram groups remain visible enough to support a schematic redraw.",
+      "subtitle_excerpt": "because when you look at these supersymmetric theories",
+      "segment_start_seconds": 2423.0,
+      "segment_start_hhmmss": "00:40:23.000",
+      "segment_end_seconds": 2425.0,
+      "segment_end_hhmmss": "00:40:25.000",
+      "caption_hint": "supersymmetric loop-diagram comparison"
+    },
+    {
+      "name": "lecture_02_figure_05.png",
+      "timestamp_seconds": 3435.24,
+      "timestamp_hhmmss": "00:57:15.240",
+      "source_candidate": "lecture_02_window_05_candidate_01_005715240.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "Candidate 01 is the clearest and most useful frame because it captures the newly introduced diagram before the lecturer steps in and begins drawing over it. The solid circular loop and the dashed circular loop are both visible at once, with minimal occlusion and the cleanest board state in this subtitle window.",
+      "subtitle_excerpt": "now let's draw another Feynman diagram",
+      "segment_start_seconds": 3435.0,
+      "segment_start_hhmmss": "00:57:15.000",
+      "segment_end_seconds": 3437.0,
+      "segment_end_hhmmss": "00:57:17.000",
+      "caption_hint": "solid and dashed loop diagrams"
+    },
+    {
+      "name": "lecture_02_figure_06.png",
+      "timestamp_seconds": 4158.76,
+      "timestamp_hhmmss": "01:09:18.760",
+      "source_candidate": "lecture_02_window_06_candidate_04_010918760.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "Candidate 04 is the best frame because the lecturer has shifted far enough to the right that the orbital sketch and the emitted wavy line are most visible together. Earlier frames keep more of the diagram blocked by his body. This one best captures the board layout for the transition-to-lower-energy picture mentioned in the subtitle.",
+      "subtitle_excerpt": "drop down to the lowest energy orbit",
+      "segment_start_seconds": 4157.0,
+      "segment_start_hhmmss": "01:09:17.000",
+      "segment_end_seconds": 4159.0,
+      "segment_end_hhmmss": "01:09:19.000",
+      "caption_hint": "drop to a lower orbit"
+    }
+  ]
+}
