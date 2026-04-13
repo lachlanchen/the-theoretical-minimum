@@ -1,0 +1,80 @@
+{
+  "course_rel": "supplementary/quantum_entanglement/2006_fall_part_1",
+  "transcript_rel": "supplementary/quantum_entanglement/2006_fall_part_1/051 - Lecture 4 \uff5c Quantum Entanglements, Part 1 (Stanford) [5vfo512fvlE].md",
+  "video_rel": "supplementary/quantum_entanglement/2006_fall_part_1/051 - Lecture 4 \uff5c Quantum Entanglements, Part 1 (Stanford) [5vfo512fvlE].mp4",
+  "lecture_number": 4,
+  "lecture_slug": "lecture_04",
+  "lecture_title": "Lecture 4 : Quantum Entanglements, Part 1 (Stanford)",
+  "assets": [
+    {
+      "name": "lecture_04_figure_02.png",
+      "timestamp_seconds": 309.48,
+      "timestamp_hhmmss": "00:05:09.480",
+      "source_candidate": "lecture_04_window_02_candidate_04_000509480.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the clearest and most useful frame for note writing. The equation is fully written, centered, and unobstructed, whereas the earlier candidates are partially blocked by the lecturer's head or shoulder. It cleanly captures the transition from the abstract dot-product notation to the explicit linear combination of Pauli matrices.",
+      "subtitle_excerpt": "But now, each of the sigmas is itself a matrix.",
+      "segment_start_seconds": 306.84,
+      "segment_start_hhmmss": "00:05:06.840",
+      "segment_end_seconds": 309.84,
+      "segment_end_hhmmss": "00:05:09.840",
+      "caption_hint": "Spin component along an arbitrary direction"
+    },
+    {
+      "name": "lecture_04_figure_03.png",
+      "timestamp_seconds": 454.48,
+      "timestamp_hhmmss": "00:07:34.480",
+      "source_candidate": "lecture_04_window_03_candidate_04_000734480.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame is the most useful for notes because the main result is already fully visible and least obstructed: the operator \\(\\sigma\\cdot\\hat n\\) is shown both as a linear combination of Pauli matrices and as an explicit \\(2\\times2\\) matrix. Earlier candidates are more interrupted by the lecturer\u2019s writing motion or by partial lower-line notation.",
+      "subtitle_excerpt": "That's the matrix sigma dot n,",
+      "segment_start_seconds": 451.84,
+      "segment_start_hhmmss": "00:07:31.840",
+      "segment_end_seconds": 454.84,
+      "segment_end_hhmmss": "00:07:34.840",
+      "caption_hint": "Matrix form of \\(\\sigma\\cdot\\hat n\\)"
+    },
+    {
+      "name": "lecture_04_figure_04.png",
+      "timestamp_seconds": 1056.666,
+      "timestamp_hhmmss": "00:17:36.666",
+      "source_candidate": "lecture_04_window_04_candidate_04_001736666.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This is the best frame because the board content is most complete at this moment: the small directional sketch at left is visible, the upper eigenvalue relation is already in place, and the lower \\(\\hat m\\)-equation has just been finished. It is still partially occluded by the lecturer, but less so than the earlier candidates, which catch the writing mid-stroke and leave the lower line less settled.",
+      "subtitle_excerpt": "m equals plus 1 also equals sigma dot m.",
+      "segment_start_seconds": 1052.309,
+      "segment_start_hhmmss": "00:17:32.309",
+      "segment_end_seconds": 1057.26,
+      "segment_end_hhmmss": "00:17:37.260",
+      "caption_hint": "Spin-up states along \\(\\hat m\\) and \\(\\hat n\\)"
+    },
+    {
+      "name": "lecture_04_figure_05.png",
+      "timestamp_seconds": 1199.9,
+      "timestamp_hhmmss": "00:19:59.900",
+      "source_candidate": "lecture_04_window_05_candidate_04_001959900.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This is the best frame because it preserves the full local board layout at the moment the lecture moves from separate eigenvalue equations to their overlap. The small \\(\\hat m\\)-\\(\\hat n\\) direction sketch is still visible, the two eigenvalue relations remain on the board, and the lower bra-ket line is the most developed of the four candidates. The lecturer still blocks part of the center, but the earlier frames are less finished.",
+      "subtitle_excerpt": "that if sigma dot n equals one, then sigma",
+      "segment_start_seconds": 1194.0,
+      "segment_start_hhmmss": "00:19:54.000",
+      "segment_end_seconds": 1200.5,
+      "segment_end_hhmmss": "00:20:00.500",
+      "caption_hint": "Overlap of spin-up states along \\(\\hat m\\) and \\(\\hat n\\)"
+    },
+    {
+      "name": "lecture_04_figure_06.png",
+      "timestamp_seconds": 3345.198,
+      "timestamp_hhmmss": "00:55:45.198",
+      "source_candidate": "lecture_04_window_06_candidate_04_005545198.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame is the most useful because it preserves the fully legible reference equation at the top and also captures the clearest progress toward the second equation for the new matrix. The earlier candidates are cleaner but less informative for this subtitle moment, since they show only the first line or an even less developed start of the second one.",
+      "subtitle_excerpt": "And another matrix has exactly the same eigenvectors,",
+      "segment_start_seconds": 3340.798,
+      "segment_start_hhmmss": "00:55:40.798",
+      "segment_end_seconds": 3345.798,
+      "segment_end_hhmmss": "00:55:45.798",
+      "caption_hint": "Shared eigenvectors for two matrices"
+    }
+  ]
+}
