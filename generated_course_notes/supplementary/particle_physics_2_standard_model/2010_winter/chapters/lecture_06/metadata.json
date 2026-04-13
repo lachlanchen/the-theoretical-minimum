@@ -1,0 +1,66 @@
+{
+  "course_rel": "supplementary/particle_physics_2_standard_model/2010_winter",
+  "transcript_rel": "supplementary/particle_physics_2_standard_model/2010_winter/090 - Lecture 6 \uff5c New Revolutions in Particle Physics\uff1a Standard Model [5rytN74EOi0].md",
+  "video_rel": "supplementary/particle_physics_2_standard_model/2010_winter/090 - Lecture 6 \uff5c New Revolutions in Particle Physics\uff1a Standard Model [5rytN74EOi0].mkv",
+  "lecture_number": 6,
+  "lecture_slug": "lecture_06",
+  "lecture_title": "Lecture 6 : New Revolutions in Particle Physics\uff1a Standard Model",
+  "assets": [
+    {
+      "name": "lecture_06_figure_02.png",
+      "timestamp_seconds": 1639.967,
+      "timestamp_hhmmss": "00:27:19.967",
+      "source_candidate": "lecture_06_window_02_candidate_02_002719967.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame is the clearest and most useful of the set: the lecturer\u2019s hand has moved away from the equation, the dimensional relations at the top right are most legible, and the qualitative distance plot is still fully visible. It preserves both the blackboard mathematics and the accompanying sketch without the extra occlusion present in the neighboring frames.",
+      "subtitle_excerpt": "energy and also momentum.",
+      "segment_start_seconds": 1639.222,
+      "segment_start_hhmmss": "00:27:19.222",
+      "segment_end_seconds": 1641.182,
+      "segment_end_hhmmss": "00:27:21.182",
+      "caption_hint": "Natural-units dimensions and distance sketch"
+    },
+    {
+      "name": "lecture_06_figure_03.png",
+      "timestamp_seconds": 2140.942,
+      "timestamp_hhmmss": "00:35:40.942",
+      "source_candidate": "lecture_06_window_03_candidate_02_003540942.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame gives the most balanced and usable view of the blackboard material on both sides of the lecturer. The left-hand weak-interaction sketch and the right-hand proton-centered diagram are both visible with their main labels intact, and the lecturer is not actively pointing across either drawing, so there is less transient occlusion than in the neighboring frames.",
+      "subtitle_excerpt": "more momentum than energy.",
+      "segment_start_seconds": 2140.182,
+      "segment_start_hhmmss": "00:35:40.182",
+      "segment_end_seconds": 2142.182,
+      "segment_end_hhmmss": "00:35:42.182",
+      "caption_hint": "Weak-interaction board sketches"
+    },
+    {
+      "name": "lecture_06_figure_04.png",
+      "timestamp_seconds": 2245.662,
+      "timestamp_hhmmss": "00:37:25.662",
+      "source_candidate": "lecture_06_window_04_candidate_01_003725662.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame gives the clearest combined view of the two useful board elements at this moment: the boxed coupling estimate on the right and the nearby reaction sketch. The lecturer is not yet pointing into the diagram or leaning over the board, so both the formula and the overall layout are less occluded than in the later frames.",
+      "subtitle_excerpt": "to find the probability for the reaction to happen.",
+      "segment_start_seconds": 2245.182,
+      "segment_start_hhmmss": "00:37:25.182",
+      "segment_end_seconds": 2249.182,
+      "segment_end_hhmmss": "00:37:29.182",
+      "caption_hint": "Weak-reaction estimate on the board"
+    },
+    {
+      "name": "lecture_06_figure_06.png",
+      "timestamp_seconds": 2760.702,
+      "timestamp_hhmmss": "00:46:00.702",
+      "source_candidate": "lecture_06_window_06_candidate_04_004600702.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame gives the clearest and most complete view of the board diagram that matters at this moment: the full potential-energy profile, the dashed equal-energy line, the particle mark in the left well, and the matching point on the right slope that the lecturer is indicating. It also still preserves the uncertainty-relation fragment on the left, making it the most useful combined evidence frame.",
+      "subtitle_excerpt": "It has the same amount of potential energy over here.",
+      "segment_start_seconds": 2757.182,
+      "segment_start_hhmmss": "00:45:57.182",
+      "segment_end_seconds": 2761.182,
+      "segment_end_hhmmss": "00:46:01.182",
+      "caption_hint": "Potential barrier and equal-energy level"
+    }
+  ]
+}
