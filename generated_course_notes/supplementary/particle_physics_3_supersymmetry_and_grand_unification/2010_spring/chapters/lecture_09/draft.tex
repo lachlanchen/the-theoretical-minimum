@@ -1,0 +1,360 @@
+\chapter{Supersymmetry Breaking and the Opening of Grand Unification}
+
+These notes follow Leonard Susskind's ninth lecture in the supplementary course on supersymmetry and grand unification, with curation by LazyingArt LLC. The route is the lecture's own route: first a review of symmetry breaking in familiar physics, then a return to the simple supersymmetric model of the previous lecture, then the question of gravity, and finally a first, deliberately incomplete, step toward grand unification. The central idea is that symmetry breaking should first be understood as level splitting, because later exactly the same logic will be read as mass splitting among particles.
+
+\section{Symmetry Breaking as Level Splitting}
+
+Susskind begins with a familiar quantum-mechanical fact. If an atom has total angular momentum \(j\), then rotational invariance implies a multiplet of
+\begin{equation}
+2j+1
+\end{equation}
+states, corresponding to the possible values of the angular-momentum component along any chosen axis. The key point is not the axis itself, but the degeneracy: when the laws are rotationally invariant, these states all have the same energy.
+
+We may label the states by the magnetic quantum number \(m_J\), with
+\begin{equation}
+m_J=-j,-j+1,\dots,j.
+\end{equation}
+Rotational symmetry says that all these states are physically equivalent as long as nothing in the environment picks out a preferred direction. The energy diagram therefore begins with a degenerate stack of levels.
+
+Now place the atom in a magnetic field. The field does pick out a direction, and the degeneracy is lifted. Susskind does not dwell on coefficients here; the point is the pattern. Schematically,
+\begin{equation}
+\Delta E \propto B\,m_J,
+\end{equation}
+so that the originally degenerate levels split linearly with the applied field. This is the Zeeman effect, and it is the prototype for everything that follows. In particle physics we will later reinterpret such splittings as mass splittings.
+
+The lecture then replaces the external magnetic field by something more subtle: the field produced by a ferromagnet that fills space. A ferromagnet is not fundamentally asymmetric. Its underlying laws are still rotationally invariant. What breaks the symmetry is the vacuum. Once the little magnets line up, some direction is chosen, but the choice itself is not preferred by the laws. Any uniformly aligned direction has the same energy.
+
+From inside such a world, however, the distinction is not obvious. An atom living inside the ferromagnet sees its levels split just as they would be split by an externally imposed field. That is the tension the lecture wants us to feel before moving on.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} How can an observer living inside the broken phase tell the difference between spontaneous symmetry breaking and a world whose laws were asymmetric from the start?
+
+\paragraph{Answer.} The answer is Goldstone's theorem in its physical form. If we rotate every magnetic moment by the same amount, no energy is required. More generally, if the direction of magnetization varies very slowly through space, the system develops long-wavelength spin waves, or magnons. Their energy tends to zero as the wavelength tends to infinity:
+\begin{equation}
+E(k)\to 0 \qquad \text{as} \qquad k\to 0.
+\end{equation}
+Long wavelength means low momentum, and low momentum with vanishing energy is precisely the signature of a massless excitation. Thus a creature inside the ferromagnet can discover, by experiment, the presence of massless modes. That is the operational sign that the symmetry was not explicitly absent from the laws, but spontaneously broken by the vacuum.
+
+This is the pattern Susskind wants to import into supersymmetry: a broken vacuum is not merely a shifted background, but a background that reveals itself through new low-energy degrees of freedom and through level splitting.
+
+\section{Vacuum Criteria and Order Parameters}
+
+The ferromagnet also gives a clean language for the vacuum itself. Let \(M\) denote the magnetization field. If thermal or quantum fluctuations wash out the alignment, then
+\begin{equation}
+M=0,
+\end{equation}
+and we say the vacuum is symmetric. If some component of \(M\) is nonzero, then the vacuum has chosen a direction and the symmetry is broken:
+\begin{equation}
+M\neq 0.
+\end{equation}
+This is the order-parameter viewpoint.
+
+Susskind then gives the formal version. Let \(J\) be the generator of rotations. Acting with \(J\) on a state produces its infinitesimal rotational change. If the vacuum is truly symmetric, an infinitesimal rotation changes nothing:
+\begin{equation}
+J|0\rangle=0.
+\end{equation}
+If the vacuum is not symmetric, then the same operation gives a new state:
+\begin{equation}
+J|0\rangle\neq 0.
+\end{equation}
+The lecture interprets this nonzero state as the zero-momentum Goldstone excitation:
+\begin{equation}
+J|0\rangle \sim |\text{Goldstone},\,k=0\rangle.
+\end{equation}
+That is, acting with the broken generator on the vacuum creates an infinitely long wavelength Goldstone mode. Since an infinitesimal global rotation costs no energy, this state has zero energy in the long-wavelength limit.
+
+This is the exact point at which the lecture pivots: supersymmetry will follow the same logic, except that the symmetry generators are fermionic rather than bosonic.
+
+\section{Recap of the Chiral Superfield}
+
+Only after the symmetry-breaking template is in place does Susskind return to supersymmetry. He reviews the simplest chiral superfield model from the previous lecture, because that is the model whose vacuum we are about to examine.
+
+The chiral coordinate is
+\begin{equation}
+y^\mu=x^\mu+i\bar{\theta}\sigma^\mu\theta,
+\end{equation}
+and a chiral superfield depends effectively on \(y\) and \(\theta\). We write its component expansion as
+\begin{equation}
+\Phi(y,\theta)=\phi(y)+\psi(y)\theta+F(y)\theta^2.
+\end{equation}
+Here \(\phi\) is the scalar field, \(\psi\) the fermion field, and \(F\) the auxiliary field. The lecture emphasizes that \(\Phi\) is complex; trying to impose reality is not stable under supersymmetry transformations.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.62\textwidth]{lecture_09_figure_02.png}
+\caption{Chiral superfield recap and the fermion kinetic term.}
+\end{figure}
+
+The first superspace term is the familiar
+\begin{equation}
+\int d^4\theta\,\Phi^\dagger\Phi.
+\end{equation}
+Integrating over the Grassmann variables means picking out the highest \(\theta^2\bar{\theta}^2\) component. Up to the harmless normalizations that Susskind suppresses in the lecture, this yields the ordinary component Lagrangian
+\begin{equation}
+\mathcal{L}_{\mathrm{free}}
+=
+\partial_\mu\phi^\ast\,\partial^\mu\phi
++
+\bar{\psi}\sigma^\mu\partial_\mu\psi
++
+F^\ast F.
+\end{equation}
+The first term is the scalar kinetic term, the second is the massless fermion kinetic term, and the third contains no derivatives at all. This last fact is the seed of the later simplification: \(F\) is not dynamical.
+
+\section{From the Superpotential to the Ordinary Potential}
+
+The interacting part begins with a chiral \(d^2\theta\) term. In the previous lecture Susskind used \(\Phi^2\) to generate a mass term. Here he generalizes the construction to \(\Phi^n\), and then to a general superpotential. The lecture momentarily uses the same Roman-looking letter for both the superpotential and the ordinary potential; to keep the mathematics clean, we will write \(W(\Phi)\) for the superpotential and \(V(\phi)\) for the ordinary scalar potential.
+
+Start with
+\begin{equation}
+\int d^2\theta\,\Phi^n+\mathrm{h.c.}
+\end{equation}
+and expand
+\begin{equation}
+\Phi=\phi+\psi\theta+F\theta^2.
+\end{equation}
+Only the terms with exactly two \(\theta\)'s survive the \(d^2\theta\) integral. There are only two kinds:
+
+\begin{enumerate}
+\item one \(F\theta^2\) and \(n-1\) factors of \(\phi\), producing \(nF\phi^{n-1}\);
+\item two factors of \(\psi\theta\) and \(n-2\) factors of \(\phi\), producing \(\frac{n(n-1)}{2}\phi^{n-2}\psi\psi\).
+\end{enumerate}
+
+So the lecture's arrow means
+\begin{equation}
+\int d^2\theta\,\Phi^n+\mathrm{h.c.}
+\;\leadsto\;
+nF\phi^{n-1}
++\frac{n(n-1)}{2}\phi^{n-2}\psi\psi
++\mathrm{h.c.}
+\end{equation}
+The arrow is important: it does not mean equality of the full expressions. It means that after integrating over \(d^2\theta\), these are the surviving component terms.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.78\textwidth]{lecture_09_figure_03.png}
+\caption{Extracting the two-\(\theta\) term from \(\Phi^n\).}
+\end{figure}
+
+Now recognize the pattern. If \(W(\Phi)=\Phi^n\), then \(W'(\phi)=n\phi^{n-1}\). More generally,
+\begin{equation}
+\int d^2\theta\,W(\Phi)+\mathrm{h.c.}
+\;\leadsto\;
+F\,W'(\phi)
+-\frac{1}{2}W''(\phi)\psi\psi
++\mathrm{h.c.}
+\end{equation}
+The lecture explicitly sets the fermion bilinear aside at this point. The vacuum question will be decided by the bosonic terms.
+
+\paragraph{Eliminating the auxiliary field.}
+Collect all terms containing \(F\). The lecture writes them schematically on the board, and in cleaned notation they are
+\begin{equation}
+\mathcal{L}(F)
+=
+F\,W'(\phi)
++
+F^\ast W'(\phi)^\ast
++
+F^\ast F.
+\end{equation}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.72\textwidth]{lecture_09_figure_04.png}
+\caption{Auxiliary-field terms in the component Lagrangian.}
+\end{figure}
+
+Since \(F\) has no kinetic term, its equation of motion is purely algebraic:
+\begin{align}
+\frac{\partial \mathcal{L}}{\partial F}=0
+&\quad\Rightarrow\quad
+W'(\phi)+F^\ast=0,\\
+\frac{\partial \mathcal{L}}{\partial F^\ast}=0
+&\quad\Rightarrow\quad
+W'(\phi)^\ast+F=0.
+\end{align}
+Hence
+\begin{equation}
+F^\ast=-W'(\phi),
+\qquad
+F=-W'(\phi)^\ast.
+\end{equation}
+Substituting back gives the ordinary scalar potential,
+\begin{equation}
+V(\phi)=|W'(\phi)|^2.
+\end{equation}
+This is the mathematical spine of the lecture. Once we know \(W\), we know \(V\), and once we know \(V\), we know what the vacuum is allowed to do.
+
+\paragraph{Worked examples.}
+If
+\begin{equation}
+W(\Phi)\sim m\Phi^2,
+\end{equation}
+then \(W'(\phi)\sim m\phi\), so
+\begin{equation}
+V(\phi)\sim m^2\,\phi^\ast\phi.
+\end{equation}
+This is the ordinary scalar mass term.
+
+If instead
+\begin{equation}
+W(\Phi)\sim g\Phi^3,
+\end{equation}
+then \(W'(\phi)\sim g\phi^2\), so
+\begin{equation}
+V(\phi)\sim g^2\,|\phi|^4.
+\end{equation}
+The lecture reads this as the quartic interaction one would expect from a \(\phi^4\)-type term in the ordinary potential.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} How can a supersymmetric theory have a non-supersymmetric vacuum?
+
+\paragraph{Answer.} Because the theory and the vacuum are not the same thing. The equations can be supersymmetric even when the minimum of the ordinary potential is not.
+
+The crucial fact is that
+\begin{equation}
+V(\phi)=|W'(\phi)|^2\geq 0.
+\end{equation}
+So there are two cases.
+
+First, the minimum may sit at zero:
+\begin{equation}
+V_{\min}=0.
+\end{equation}
+Then the factor inside the absolute square must vanish,
+\begin{equation}
+W'(\phi)=0,
+\end{equation}
+and therefore
+\begin{equation}
+F=0.
+\end{equation}
+But \(F\) is the last component of the superfield. If it vanishes in the vacuum, there is no preferred direction in superspace, and the vacuum is supersymmetric.
+
+Second, the minimum may occur at positive energy:
+\begin{equation}
+V_{\min}>0.
+\end{equation}
+Then \(W'(\phi)\neq 0\), so the vacuum has
+\begin{equation}
+F\neq 0.
+\end{equation}
+That is the supersymmetric analogue of a nonzero magnetization. The equations of motion remain supersymmetric; the vacuum does not.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.9\textwidth]{lecture_09_figure_05.png}
+\caption{Vacuum condition and the positive supersymmetric potential.}
+\end{figure}
+
+This is exactly why the lecture spent so much time on the ferromagnet first. The analogy is not decorative. A nonzero \(F\)-component plays the role of an order parameter, and its effect is to split the masses of bosons and fermions that would otherwise sit in the same supersymmetry multiplet.
+
+\section{Consequences of Supersymmetry Breaking}
+
+Once the vacuum is allowed to break supersymmetry, the consequences come in a chain.
+
+First, the vacuum energy is no longer zero. That matters only weakly in nongravitational field theory, but it matters violently in gravity. A positive vacuum energy acts as a cosmological constant and drives accelerated expansion. At ordinary particle-physics scales this would be disastrously large. The lecture therefore insists that any realistic version of supersymmetry breaking must somehow address the vacuum energy problem.
+
+Second, the bosons and fermions in a supermultiplet are no longer degenerate. Susskind describes \(F\) as behaving, in effect, like the magnetic field in the Zeeman problem. It does not destroy the idea of supersymmetry at the level of the equations, but it splits the levels of the states that supersymmetry mixes into one another.
+
+Third, once the vacuum is not invariant, the action of the symmetry generator on the vacuum must produce a new state. By analogy with the ordinary Goldstone story, broken supersymmetry yields a massless mode. But because supersymmetry changes bosons into fermions, this new state is fermionic. It is the goldstino. In the same symbolic spirit in which we wrote \(J|0\rangle\) for ordinary spontaneous symmetry breaking, one may think of the broken supersymmetry generator \(Q\) as producing
+\begin{equation}
+Q|0\rangle \sim |\text{goldstino},\,k=0\rangle.
+\end{equation}
+
+The lecture then introduces the language of a hidden sector. The analogy is again the atom in a weak ferromagnetic field. If the field is weak, the atom remains recognizable and only its levels are slightly split. Likewise, the phenomenological hope is that supersymmetry may be broken in a sector only weakly coupled to the visible fields, so that ordinary particles are only slightly split from their superpartners. The breaking sector is then called hidden because it is not directly visible in the low-energy dynamics, except through the induced splittings.
+
+\paragraph{Gravity and supergravity.}
+At this point the lecture becomes intentionally qualitative. Coupling supersymmetry to gravity modifies the effective potential. Susskind sketches an extra contribution that can shift the vacuum energy downward, but he explicitly warns that he may have the Planck-mass factors wrong. The safe conclusion is therefore qualitative: supergravity can alter the vacuum-energy story and, in favorable circumstances, can help rescue a broken-supersymmetry model from an intolerably large cosmological constant.
+
+\paragraph{The super-Higgs analogy.}
+The last supersymmetry point is an analogy with the Higgs mechanism. A massless spin-\(1\) particle has only two helicity states, while a massive one has three:
+\begin{equation}
+\text{massless spin-1}: \quad \lambda=\pm 1,
+\qquad
+\text{massive spin-1}: \quad \lambda=+1,0,-1.
+\end{equation}
+In the electroweak theory, the missing state is supplied by the Goldstone boson.
+
+Susskind then carries the same pattern over to gravity. A massless gravitino has only helicities
+\begin{equation}
+\lambda=\pm \frac{3}{2},
+\end{equation}
+whereas a massive spin-\(\tfrac{3}{2}\) particle must carry
+\begin{equation}
+\lambda=\pm\frac{3}{2},\ \pm\frac{1}{2}.
+\end{equation}
+The goldstino supplies the missing \(\pm \tfrac{1}{2}\) states. Thus the broken-supersymmetry analogue of the Higgs phenomenon is that the goldstino is absorbed into a massive gravitino. This is the super-Higgs mechanism in the lecture's loose but illuminating form.
+
+At this point the mathematics of supersymmetry is, in Susskind's own words, finished for the day.
+
+\section{The First Step Toward \(SU(5)\)}
+
+Only now does the lecture change subjects. The standard model gauge group is
+\begin{equation}
+SU(3)\times SU(2)\times U(1),
+\end{equation}
+and the grand-unification question is whether this product may sit inside a larger and more economical group. The simplest candidate is \(SU(5)\).
+
+By definition, \(SU(5)\) is the group of special unitary \(5\times 5\) matrices:
+\begin{equation}
+U^\dagger U=1,
+\qquad
+\det U=1.
+\end{equation}
+For an infinitesimal transformation,
+\begin{equation}
+U=1+i\epsilon G+O(\epsilon^2).
+\end{equation}
+Unitarity implies that the generator is Hermitian,
+\begin{equation}
+G=G^\dagger,
+\end{equation}
+and the special condition implies that it is traceless,
+\begin{equation}
+\operatorname{tr}G=0.
+\end{equation}
+A Hermitian \(n\times n\) matrix carries \(n^2\) real parameters, and tracelessness removes one of them. Therefore
+\begin{equation}
+\dim SU(n)=n^2-1.
+\end{equation}
+In particular,
+\begin{equation}
+\dim SU(5)=25-1=24.
+\end{equation}
+
+The lecture then shows the first structural embedding:
+\begin{equation}
+SU(3)\times SU(2)\times U(1)\subset SU(5).
+\end{equation}
+The \(5\times 5\) matrices are split into a \(2\oplus 3\) block form. The \(SU(2)\) generators live in the upper-left \(2\times 2\) block, the \(SU(3)\) generators in the lower-right \(3\times 3\) block, and there is one extra diagonal generator commuting with both blocks. In the normalization chosen in the lecture, one may write it schematically as
+\begin{equation}
+Y\propto
+\operatorname{diag}
+\left(
+-1,-1,\frac{2}{3},\frac{2}{3},\frac{2}{3}
+\right).
+\end{equation}
+The important property is tracelessness. Any charge associated with such a generator must add to zero across one multiplet.
+
+This immediately suggests a five-component column. The first two entries should be a weak doublet with no color, namely \(\nu_e\) and \(e^-\). The remaining three slots should then carry color but no weak \(SU(2)\) quantum numbers. The charge condition fixes the choice:
+\begin{equation}
+0+(-1)+\frac{1}{3}+\frac{1}{3}+\frac{1}{3}=0.
+\end{equation}
+So the candidate five-dimensional multiplet is
+\begin{equation}
+(\nu_e,\ e^-,\ \bar d,\ \bar d,\ \bar d).
+\end{equation}
+The three \(\bar d\)'s differ only by color.
+
+This is where the lecture stops itself. The remaining ten fermions of one family are not forced into the five-dimensional representation; they are promised for next time as a ten-dimensional representation of \(SU(5)\). The incompleteness here is part of the point. Grand unification has only just been opened.
+
+\section{Summary}
+
+The lecture built supersymmetry breaking by refusing to begin with supersymmetry. First came the Zeeman effect, then the ferromagnet, then Goldstone modes, then the vacuum criterion \(J|0\rangle\neq 0\). Only after that physical template was fixed did the supersymmetric algebra return. A chiral superfield with superpotential \(W(\Phi)\) leads, after elimination of the auxiliary field \(F\), to the ordinary scalar potential
+\begin{equation}
+V(\phi)=|W'(\phi)|^2.
+\end{equation}
+From there the vacuum question becomes sharp: \(V_{\min}=0\) gives \(F=0\) and an unbroken supersymmetric vacuum, while \(V_{\min}>0\) gives \(F\neq 0\), vacuum energy, boson--fermion mass splitting, and the goldstino. Gravity complicates the vacuum-energy story and leads toward supergravity and the super-Higgs mechanism. Only then does the lecture pivot, still cautiously, to the first group-theoretic opening of \(SU(5)\).
