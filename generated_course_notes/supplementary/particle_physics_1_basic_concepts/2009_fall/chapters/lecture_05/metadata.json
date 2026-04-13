@@ -1,0 +1,80 @@
+{
+  "course_rel": "supplementary/particle_physics_1_basic_concepts/2009_fall",
+  "transcript_rel": "supplementary/particle_physics_1_basic_concepts/2009_fall/079 - Lecture 5 \uff5c New Revolutions in Particle Physics\uff1a Basic Concepts [TshXa3lGqQ8].md",
+  "video_rel": "supplementary/particle_physics_1_basic_concepts/2009_fall/079 - Lecture 5 \uff5c New Revolutions in Particle Physics\uff1a Basic Concepts [TshXa3lGqQ8].mkv",
+  "lecture_number": 5,
+  "lecture_slug": "lecture_05",
+  "lecture_title": "Lecture 5 : New Revolutions in Particle Physics\uff1a Basic Concepts",
+  "assets": [
+    {
+      "name": "lecture_05_figure_01.png",
+      "timestamp_seconds": 0.0,
+      "timestamp_hhmmss": "00:00:00.000",
+      "source_candidate": "lecture_05_window_01_candidate_03_000004550.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "All four candidates are opening campus or title-card frames. None shows blackboard mathematics, a diagram, or classroom layout that would support the notes, so this subtitle window should not be kept.",
+      "subtitle_excerpt": "Stanford University.",
+      "segment_start_seconds": 0.0,
+      "segment_start_hhmmss": "00:00:00.000",
+      "segment_end_seconds": 7.0,
+      "segment_end_hhmmss": "00:00:07.000",
+      "caption_hint": "opening title sequence"
+    },
+    {
+      "name": "lecture_05_figure_02.png",
+      "timestamp_seconds": 1933.9025000000001,
+      "timestamp_hhmmss": "00:32:13.903",
+      "source_candidate": "lecture_05_window_02_candidate_03_003213903.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "with equal probability, then it's momentum that's",
+      "segment_start_seconds": 1932.44,
+      "segment_start_hhmmss": "00:32:12.440",
+      "segment_end_seconds": 1934.69,
+      "segment_end_hhmmss": "00:32:14.690",
+      "caption_hint": "with equal probability, then it's momentum that's"
+    },
+    {
+      "name": "lecture_05_figure_03.png",
+      "timestamp_seconds": 2151.89,
+      "timestamp_hhmmss": "00:35:51.890",
+      "source_candidate": "lecture_05_window_03_candidate_03_003551890.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "equal probability at any time, that's energy conservation.",
+      "segment_start_seconds": 2149.94,
+      "segment_start_hhmmss": "00:35:49.940",
+      "segment_end_seconds": 2152.94,
+      "segment_end_hhmmss": "00:35:52.940",
+      "caption_hint": "equal probability at any time, that's energy conservation."
+    },
+    {
+      "name": "lecture_05_figure_04.png",
+      "timestamp_seconds": 4041.06,
+      "timestamp_hhmmss": "01:07:21.060",
+      "source_candidate": "lecture_05_window_05_candidate_03_010721060.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "orbital state, orbital and spin state in a particular atom.",
+      "segment_start_seconds": 4038.46,
+      "segment_start_hhmmss": "01:07:18.460",
+      "segment_end_seconds": 4042.46,
+      "segment_end_hhmmss": "01:07:22.460",
+      "caption_hint": "orbital state, orbital and spin state in a particular atom."
+    },
+    {
+      "name": "lecture_05_figure_05.png",
+      "timestamp_seconds": 6441.718,
+      "timestamp_hhmmss": "01:47:21.718",
+      "source_candidate": "lecture_05_window_06_candidate_03_014721718.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "Well, that corresponds to the wave equation d psi by",
+      "segment_start_seconds": 6436.518,
+      "segment_start_hhmmss": "01:47:16.518",
+      "segment_end_seconds": 6444.518,
+      "segment_end_hhmmss": "01:47:24.518",
+      "caption_hint": "Well, that corresponds to the wave equation d psi by"
+    }
+  ]
+}
