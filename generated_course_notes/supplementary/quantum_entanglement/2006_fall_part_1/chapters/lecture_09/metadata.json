@@ -1,0 +1,66 @@
+{
+  "course_rel": "supplementary/quantum_entanglement/2006_fall_part_1",
+  "transcript_rel": "supplementary/quantum_entanglement/2006_fall_part_1/056 - Lecture 9 \uff5c Quantum Entanglements, Part 1 (Stanford) [qg-95d6OJJM].md",
+  "video_rel": "supplementary/quantum_entanglement/2006_fall_part_1/056 - Lecture 9 \uff5c Quantum Entanglements, Part 1 (Stanford) [qg-95d6OJJM].mp4",
+  "lecture_number": 9,
+  "lecture_slug": "lecture_09",
+  "lecture_title": "Lecture 9 : Quantum Entanglements, Part 1 (Stanford)",
+  "assets": [
+    {
+      "name": "lecture_09_figure_03.png",
+      "timestamp_seconds": 1335.02,
+      "timestamp_hhmmss": "00:22:15.020",
+      "source_candidate": "lecture_09_window_03_candidate_04_002215020.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "All four frames are very similar, but this one is the most settled final board state for the equation and remains sharp and unobstructed. It cleanly captures the difference-quotient step that the lecture identifies with the time derivative of the state vector.",
+      "subtitle_excerpt": "the time derivative of the state vector.",
+      "segment_start_seconds": 1332.38,
+      "segment_start_hhmmss": "00:22:12.380",
+      "segment_end_seconds": 1335.38,
+      "segment_end_hhmmss": "00:22:15.380",
+      "caption_hint": "Difference quotient for the state vector"
+    },
+    {
+      "name": "lecture_09_figure_04.png",
+      "timestamp_seconds": 1702.52,
+      "timestamp_hhmmss": "00:28:22.520",
+      "source_candidate": "lecture_09_window_04_candidate_02_002822520.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the clearest, most complete view of the board equation while keeping the lecturer from obscuring the mathematics. The eigenvalue relation is fully legible and centered enough to serve as reliable equation evidence.",
+      "subtitle_excerpt": "So if psi is an eigenvector of the Hamiltonian,",
+      "segment_start_seconds": 1701.38,
+      "segment_start_hhmmss": "00:28:21.380",
+      "segment_end_seconds": 1704.38,
+      "segment_end_hhmmss": "00:28:24.380",
+      "caption_hint": "Energy eigenvalue equation"
+    },
+    {
+      "name": "lecture_09_figure_05.png",
+      "timestamp_seconds": 2179.52,
+      "timestamp_hhmmss": "00:36:19.520",
+      "source_candidate": "lecture_09_window_05_candidate_02_003619520.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame preserves the most usable combination of visible board content and minimal occlusion. The lecturer\u2019s lowered posture leaves the left-board equation most readable, and enough of the adjacent derivation remains visible to document the lecture\u2019s closing connection between phase evolution and the energy-frequency relation.",
+      "subtitle_excerpt": "that equation, e equals h bar omega,",
+      "segment_start_seconds": 2178.38,
+      "segment_start_hhmmss": "00:36:18.380",
+      "segment_end_seconds": 2181.38,
+      "segment_end_hhmmss": "00:36:21.380",
+      "caption_hint": "Energy-frequency relation on the board"
+    },
+    {
+      "name": "lecture_09_figure_06.png",
+      "timestamp_seconds": 2315.63,
+      "timestamp_hhmmss": "00:38:35.630",
+      "source_candidate": "lecture_09_window_06_candidate_03_003835630.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the clearest and least obstructed view of the board once the expression has been written. The summation and ket notation are visible together, and the lecturer has stepped aside enough for the line to function as usable equation evidence.",
+      "subtitle_excerpt": "Where psi n is the nth eigenvector of the Hamiltonian.",
+      "segment_start_seconds": 2312.38,
+      "segment_start_hhmmss": "00:38:32.380",
+      "segment_end_seconds": 2317.38,
+      "segment_end_hhmmss": "00:38:37.380",
+      "caption_hint": "Expansion in Hamiltonian eigenvectors"
+    }
+  ]
+}
