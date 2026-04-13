@@ -1,0 +1,80 @@
+{
+  "course_rel": "supplementary/quantum_entanglement/2006_fall_part_1",
+  "transcript_rel": "supplementary/quantum_entanglement/2006_fall_part_1/048 - Lecture 1 \uff5c Quantum Entanglements, Part 1 (Stanford) [0Eeuqh9QfNI].md",
+  "video_rel": "supplementary/quantum_entanglement/2006_fall_part_1/048 - Lecture 1 \uff5c Quantum Entanglements, Part 1 (Stanford) [0Eeuqh9QfNI].webm",
+  "lecture_number": 1,
+  "lecture_slug": "lecture_01",
+  "lecture_title": "Lecture 1 : Quantum Entanglements, Part 1 (Stanford)",
+  "assets": [
+    {
+      "name": "lecture_01_figure_01.png",
+      "timestamp_seconds": 0.0,
+      "timestamp_hhmmss": "00:00:00.000",
+      "source_candidate": "lecture_01_window_01_candidate_03_000009390.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "All four candidates are effectively the same Stanford University title-card bumper. None contains blackboard mathematics, a diagram, or lecture layout useful for note writing, and title cards should be rejected for this workflow.",
+      "subtitle_excerpt": "This program is brought to you by Stanford University.",
+      "segment_start_seconds": 7.44,
+      "segment_start_hhmmss": "00:00:07.440",
+      "segment_end_seconds": 10.44,
+      "segment_end_hhmmss": "00:00:10.440",
+      "caption_hint": "Stanford title card"
+    },
+    {
+      "name": "lecture_01_figure_02.png",
+      "timestamp_seconds": 3201.436,
+      "timestamp_hhmmss": "00:53:21.436",
+      "source_candidate": "lecture_01_window_02_candidate_03_005321436.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame gives the clearest and most settled view of the board while keeping the relevant diagram cluster visible. The upper-right sketch and the handwritten \"unitarity\" label are legible, the top-left loop is intact, and Susskind\u2019s hand is less obstructive than in the earlier candidates. It is the most useful frame for reconstructing the board layout in clean notes.",
+      "subtitle_excerpt": "just could start drawing some diagrams",
+      "segment_start_seconds": 3199.96,
+      "segment_start_hhmmss": "00:53:19.960",
+      "segment_end_seconds": 3202.23,
+      "segment_end_hhmmss": "00:53:22.230",
+      "caption_hint": "diagram sketches for unitarity"
+    },
+    {
+      "name": "lecture_01_figure_03.png",
+      "timestamp_seconds": 4619.498,
+      "timestamp_hhmmss": "01:16:59.498",
+      "source_candidate": "lecture_01_window_04_candidate_04_011659498.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the clearest and most settled frame in the window. By this point Susskind has stepped away enough that the right-hand parenthesized column vector is visible with minimal occlusion, whereas the earlier frames are in-progress and the left-hand marks are being erased or are too transient to be reliably useful. For note writing, this final frame best preserves the board layout that supports the discussion of a matrix acting on a vector.",
+      "subtitle_excerpt": "matrix is an operation on a vector which",
+      "segment_start_seconds": 4616.559,
+      "segment_start_hhmmss": "01:16:56.559",
+      "segment_end_seconds": 4619.899,
+      "segment_end_hhmmss": "01:16:59.899",
+      "caption_hint": "column-vector sketch"
+    },
+    {
+      "name": "lecture_01_figure_04.png",
+      "timestamp_seconds": 4934.288,
+      "timestamp_hhmmss": "01:22:14.288",
+      "source_candidate": "lecture_01_window_05_candidate_03_012214288.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the best balance of completeness and readability. The lecturer is low enough in the frame that the board is largely unobstructed, and the main visual ingredients for the discussion are all visible together: a central matrix-like array, a secondary matrix sketch, and a parenthesized column vector at the right. Later frames are slightly wider but make the board content smaller, while earlier frames do not improve the mathematics.",
+      "subtitle_excerpt": "matrix algebra, matrices multiplying vectors.",
+      "segment_start_seconds": 4931.48,
+      "segment_start_hhmmss": "01:22:11.480",
+      "segment_end_seconds": 4935.8,
+      "segment_end_hhmmss": "01:22:15.800",
+      "caption_hint": "matrix multiplying a vector"
+    },
+    {
+      "name": "lecture_01_figure_05.png",
+      "timestamp_seconds": 5190.4800000000005,
+      "timestamp_hhmmss": "01:26:30.480",
+      "source_candidate": "lecture_01_window_06_candidate_03_012630480.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "Multiply this matrix by this vector, put it over here.",
+      "segment_start_seconds": 5187.88,
+      "segment_start_hhmmss": "01:26:27.880",
+      "segment_end_seconds": 5191.88,
+      "segment_end_hhmmss": "01:26:31.880",
+      "caption_hint": "Multiply this matrix by this vector, put it over here."
+    }
+  ]
+}
