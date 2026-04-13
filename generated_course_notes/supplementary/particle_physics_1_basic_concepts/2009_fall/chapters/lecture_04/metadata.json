@@ -1,0 +1,80 @@
+{
+  "course_rel": "supplementary/particle_physics_1_basic_concepts/2009_fall",
+  "transcript_rel": "supplementary/particle_physics_1_basic_concepts/2009_fall/078 - Lecture 4 \uff5c New Revolutions in Particle Physics\uff1a Basic Concepts [eA8X8IU_fWY].md",
+  "video_rel": "supplementary/particle_physics_1_basic_concepts/2009_fall/078 - Lecture 4 \uff5c New Revolutions in Particle Physics\uff1a Basic Concepts [eA8X8IU_fWY].mkv",
+  "lecture_number": 4,
+  "lecture_slug": "lecture_04",
+  "lecture_title": "Lecture 4 : New Revolutions in Particle Physics\uff1a Basic Concepts",
+  "assets": [
+    {
+      "name": "lecture_04_figure_02.png",
+      "timestamp_seconds": 349.68,
+      "timestamp_hhmmss": "00:05:49.680",
+      "source_candidate": "lecture_04_window_02_candidate_01_000549680.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame is the clearest and most complete of the set. It preserves the essential blackboard content at this moment: the sketched delta-function spike centered at y=a, the horizontal y-axis, and the nearby integral notation involving \\delta(y-a). In the later candidates Susskind moves further right and begins writing additional material, but the new writing is not yet complete and the overall layout becomes less useful as documentary evidence.",
+      "subtitle_excerpt": "the derivative, the integral with respect to y,",
+      "segment_start_seconds": 349.44,
+      "segment_start_hhmmss": "00:05:49.440",
+      "segment_end_seconds": 351.44,
+      "segment_end_hhmmss": "00:05:51.440",
+      "caption_hint": "Delta-function spike at y=a"
+    },
+    {
+      "name": "lecture_04_figure_03.png",
+      "timestamp_seconds": 2216.34,
+      "timestamp_hhmmss": "00:36:56.340",
+      "source_candidate": "lecture_04_window_03_candidate_02_003656340.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the clearest view of the board content with the least occlusion. The key notation is already written and legible: the unit choice \\hbar=1 and the vector relation between momentum and wave vector. Candidate 01 is partially blocked by the eraser and hand, while the later frames are more lecturer-dominant without adding more mathematical content.",
+      "subtitle_excerpt": "between the momentum, the wave vector k,",
+      "segment_start_seconds": 2214.44,
+      "segment_start_hhmmss": "00:36:54.440",
+      "segment_end_seconds": 2219.44,
+      "segment_end_hhmmss": "00:36:59.440",
+      "caption_hint": "Unit choice and momentum-wave-vector relation"
+    },
+    {
+      "name": "lecture_04_figure_04.png",
+      "timestamp_seconds": 2488.34,
+      "timestamp_hhmmss": "00:41:28.340",
+      "source_candidate": "lecture_04_window_04_candidate_02_004128340.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the cleanest and most complete view of the board equations with minimal occlusion. The unit choice and both relations are fully legible. Candidate 01 is partially obstructed by Susskind's pointing hand, while the later frames add no new board content and are more lecturer-dominant.",
+      "subtitle_excerpt": "energy is frequency, and momentum is wave number.",
+      "segment_start_seconds": 2486.44,
+      "segment_start_hhmmss": "00:41:26.440",
+      "segment_end_seconds": 2491.44,
+      "segment_end_hhmmss": "00:41:31.440",
+      "caption_hint": "Energy-frequency and momentum-wave-number relations"
+    },
+    {
+      "name": "lecture_04_figure_05.png",
+      "timestamp_seconds": 2603.16,
+      "timestamp_hhmmss": "00:43:23.160",
+      "source_candidate": "lecture_04_window_05_candidate_01_004323160.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the clearest and most useful board layout at the start of the time-derivative discussion. The right board already shows the setup equation for \\Psi(x,t) as a sum over modes, and it is less occluded than in the later frames. Candidate 02 partially blocks the equation with a pointing gesture, and candidate 04 begins new writing that is still unfinished.",
+      "subtitle_excerpt": "So let's consider first the time derivative of psi.",
+      "segment_start_seconds": 2602.44,
+      "segment_start_hhmmss": "00:43:22.440",
+      "segment_end_seconds": 2608.44,
+      "segment_end_hhmmss": "00:43:28.440",
+      "caption_hint": "Field expansion before taking the time derivative"
+    },
+    {
+      "name": "lecture_04_figure_06.png",
+      "timestamp_seconds": 2945.974,
+      "timestamp_hhmmss": "00:49:05.974",
+      "source_candidate": "lecture_04_window_06_candidate_01_004905974.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame preserves the most complete mathematical layout at the moment of the correction. It shows the field expansion across the top, the line beginning with the corrected \\(-i\\dot\\Psi\\), and the continuation below, all before the later frames become more tightly cropped and more heavily blocked by Susskind's body as he writes on the right-hand side.",
+      "subtitle_excerpt": "the right equation should be minus i psi dot,",
+      "segment_start_seconds": 2945.259,
+      "segment_start_hhmmss": "00:49:05.259",
+      "segment_end_seconds": 2951.22,
+      "segment_end_hhmmss": "00:49:11.220",
+      "caption_hint": "Corrected time-derivative equation for psi"
+    }
+  ]
+}
