@@ -18,6 +18,8 @@ This repository is a physics-study archive centered on Leonard Susskind lectures
 It combines lecture transcriptions, subtitle files, generated TeX notes, compiled PDFs, and hand-maintained course folders in a stable directory structure.
 
 > 📘 Full lecture transcriptions, subtitle files, generated TeX note workflows, and published course PDFs are maintained here in one archive.
+>
+> 🛠️ The download, transcription, and subtitle-to-notes automation used here is maintained in the companion tool repo [Video2Book](https://github.com/lachlanchen/Video2Book), which is included in this repository as the `Video2Book/` submodule.
 
 ## ✨ What This Repo Provides
 
