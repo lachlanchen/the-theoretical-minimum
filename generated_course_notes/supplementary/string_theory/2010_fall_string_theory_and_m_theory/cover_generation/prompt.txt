@@ -1,11 +1,22 @@
-Design flat front-cover artwork for a serious physics lecture-note book titled "String Theory and M-Theory".
-This must be a flat edge-to-edge cover image only, not a photographed or rendered physical book object, not a mockup, and not a poster.
-Portrait composition with aspect ratio 2:3.
-Overall tone: elegant, deep, editorial, mathematically serious, slightly cosmic.
-Use a restrained palette of black, deep indigo, cream, and a subtle magenta-gold accent.
-Show vibrating strings, higher-dimensional curvature, brane-like surfaces, and clean geometric depth, abstract and refined rather than sci-fi spectacle.
-Reserve strong clean negative space for later LaTeX title overlay.
-Absolutely no text, no title lettering, no pseudo-letters, no glyphs, no readable words, and no fake typography anywhere in the image.
-Do not show a book standing on a table, no spine, no bevel, no drop shadow, no product mockup, and no cover held in a scene.
-Avoid stock-photo cliches, lecture screenshots, YouTube aesthetics, clutter, watermarks, and equations sprayed everywhere.
-Front cover art only. No spine. No back cover. No watermark.
+Design clean, text-free, full-bleed front-cover artwork for a serious lecture-note book on string theory and M-theory.
+
+This must be flat cover art only, not a photographed or rendered physical book, not a mockup, and not a poster.
+
+Visual direction:
+- Japanese editorial minimalism with abstract geometric elegance
+- one string-theory idea only: sparse string-like curves, clean brane-like planes, or higher-dimensional surface deformation
+- clearer lines, more negative space, fewer layered elements
+- keep it refined and quiet rather than busy or cosmic
+- reserve broad quiet negative space in the upper portion for later LaTeX title overlay
+
+Palette:
+- cream, charcoal, midnight blue, and one restrained violet, magenta, or gold accent
+
+Composition:
+- portrait 5:7 for a full printed page
+- edge-to-edge cover art
+- one clean central visual metaphor
+
+Absolutely avoid:
+- any text, letters, numbers, or pseudo-typography
+- sci-fi poster clutter, fake equations, noisy line tangles, stock-photo clichés, lecture screenshots, watermarks, or 3D shadows

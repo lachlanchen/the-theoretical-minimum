@@ -1,11 +1,23 @@
-Design flat front-cover artwork for a serious physics lecture-note book titled "Advanced Quantum Mechanics".
-This must be a flat edge-to-edge cover image only, not a photographed or rendered physical book object, not a mockup, and not a poster.
-Portrait composition with aspect ratio 2:3.
-Overall tone: elegant, rigorous, modern, editorial, academically serious.
-Use a restrained palette of deep indigo, charcoal, parchment, and a faint electric-cyan accent.
-Show abstract quantum structure: interference bands, operator-like geometry, spectral traces, and luminous wave structure without becoming a literal textbook diagram.
-Reserve strong clean negative space for later LaTeX title overlay.
-Absolutely no text, no title lettering, no pseudo-letters, no glyphs, no readable words, and no fake typography anywhere in the image.
-Do not show a book standing on a table, no spine, no bevel, no drop shadow, no product mockup, and no cover held in a scene.
-Avoid stock-photo cliches, lecture screenshots, YouTube aesthetics, clutter, watermarks, and equations sprayed everywhere.
-Front cover art only. No spine. No back cover. No watermark.
+Design clean, text-free, full-bleed front-cover artwork for a serious lecture-note book on advanced quantum mechanics.
+
+This must be flat cover art only, not a photographed or rendered physical book, not a mockup, and not a poster.
+
+Visual direction:
+- Japanese editorial minimalism with scientific elegance
+- one clear quantum motif: spectral traces, interference structure, operator geometry, or controlled wave pattern
+- crisp linework and luminous structure, but keep it sparse and legible
+- simpler is better than busy; avoid too many plots or overlapping curves
+- reserve generous quiet negative space in the upper portion for later LaTeX title overlay
+
+Palette:
+- deep indigo, charcoal, parchment, soft gray, and a restrained cyan accent
+
+Composition:
+- portrait 5:7 for a full printed page
+- edge-to-edge cover art
+- clean central organization with strong visual hierarchy
+
+Absolutely avoid:
+- any text, glyphs, numbers, or pseudo-typography
+- noisy scientific plotting, dense line tangles, fake equations, or clutter
+- stock-photo clichés, lecture screenshots, YouTube aesthetics, watermarks, or 3D shadows

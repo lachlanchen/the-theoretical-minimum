@@ -1,11 +1,22 @@
-Design flat front-cover artwork for a serious physics lecture-note book titled "Particle Physics 1: Basic Concepts".
-This must be a flat edge-to-edge cover image only, not a photographed or rendered physical book object, not a mockup, and not a poster.
-Portrait composition with aspect ratio 2:3.
-Overall tone: foundational, crisp, elegant, editorial, mathematically serious.
-Use a restrained palette of deep navy, charcoal, cream, and a small copper accent.
-Show wave packets, particle tracks, symmetry motifs, and a sparse field-like geometry, suggesting first principles rather than advanced formalism.
-Reserve strong clean negative space for later LaTeX title overlay.
-Absolutely no text, no title lettering, no pseudo-letters, no glyphs, no readable words, and no fake typography anywhere in the image.
-Do not show a book standing on a table, no spine, no bevel, no drop shadow, no product mockup, and no cover held in a scene.
-Avoid stock-photo cliches, lecture screenshots, YouTube aesthetics, clutter, watermarks, and equations sprayed everywhere.
-Front cover art only. No spine. No back cover. No watermark.
+Design clean, text-free, full-bleed front-cover artwork for a serious lecture-note book on particle physics basic concepts.
+
+This must be flat cover art only, not a photographed or rendered physical book, not a mockup, and not a poster.
+
+Visual direction:
+- Japanese editorial minimalism with precise scientific clarity
+- one simple particle-physics motif only: a clean interaction vertex, sparse scattering paths, detector rings, or controlled geometric traces
+- crisp linework, legible spacing, and fewer plotted elements
+- prefer strong geometry over cluttered scientific busyness
+- reserve broad quiet negative space in the upper portion for later LaTeX title overlay
+
+Palette:
+- warm cream, charcoal, steel blue, and one muted amber accent
+
+Composition:
+- portrait 5:7 for a full printed page
+- edge-to-edge cover art
+- one coherent central structure
+
+Absolutely avoid:
+- any text, letters, numbers, or pseudo-typography
+- dense detector clutter, fake equations, tangled linework, stock-photo clichés, lecture screenshots, watermarks, or 3D shadows

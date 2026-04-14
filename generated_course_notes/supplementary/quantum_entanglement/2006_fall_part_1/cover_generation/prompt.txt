@@ -1,11 +1,22 @@
-Design flat front-cover artwork for a serious physics lecture-note book titled "Quantum Entanglement Part 1".
-This must be a flat edge-to-edge cover image only, not a photographed or rendered physical book object, not a mockup, and not a poster.
-Portrait composition with aspect ratio 2:3.
-Overall tone: precise, intimate, mysterious, editorial, intellectually serious.
-Use a restrained palette of charcoal, deep blue, cream, and a subtle red accent.
-Show paired quantum states, correlation across space, and delicate geometric linkage, abstract rather than illustrative.
-Reserve strong clean negative space for later LaTeX title overlay.
-Absolutely no text, no title lettering, no pseudo-letters, no glyphs, no readable words, and no fake typography anywhere in the image.
-Do not show a book standing on a table, no spine, no bevel, no drop shadow, no product mockup, and no cover held in a scene.
-Avoid stock-photo cliches, lecture screenshots, YouTube aesthetics, clutter, watermarks, and equations sprayed everywhere.
-Front cover art only. No spine. No back cover. No watermark.
+Design clean, text-free, full-bleed front-cover artwork for a serious lecture-note book on quantum entanglement, part 1.
+
+This must be flat cover art only, not a photographed or rendered physical book, not a mockup, and not a poster.
+
+Visual direction:
+- Japanese editorial minimalism with quiet intellectual tension
+- one entanglement idea only: paired states, mirrored structure, linked traces, or nonlocal correlation
+- crisp sparse linework and clear spatial balance
+- simpler is better than busy; avoid overdrawn curves
+- reserve broad quiet negative space in the upper portion for later LaTeX title overlay
+
+Palette:
+- parchment, charcoal, deep blue, and one restrained teal or silver accent
+
+Composition:
+- portrait 5:7 for a full printed page
+- edge-to-edge cover art
+- one clean relational structure, not a crowded collage
+
+Absolutely avoid:
+- any text, letters, numbers, or pseudo-typography
+- fake equations, noisy plotting, tangled lines, stock-photo clichés, lecture screenshots, watermarks, or 3D shadows

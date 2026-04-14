@@ -1,11 +1,22 @@
-Design flat front-cover artwork for a serious physics lecture-note book titled "Particle Physics 2: Standard Model".
-This must be a flat edge-to-edge cover image only, not a photographed or rendered physical book object, not a mockup, and not a poster.
-Portrait composition with aspect ratio 2:3.
-Overall tone: structured, modern, elegant, editorial, intellectually dense but clean.
-Use a restrained palette of graphite, deep cobalt, cream, and a muted crimson accent.
-Show a conceptual network of gauge structure, symmetry, and interacting fields, abstract and balanced rather than a literal particle chart.
-Reserve strong clean negative space for later LaTeX title overlay.
-Absolutely no text, no title lettering, no pseudo-letters, no glyphs, no readable words, and no fake typography anywhere in the image.
-Do not show a book standing on a table, no spine, no bevel, no drop shadow, no product mockup, and no cover held in a scene.
-Avoid stock-photo cliches, lecture screenshots, YouTube aesthetics, clutter, watermarks, and equations sprayed everywhere.
-Front cover art only. No spine. No back cover. No watermark.
+Design clean, text-free, full-bleed front-cover artwork for a serious lecture-note book on the Standard Model.
+
+This must be flat cover art only, not a photographed or rendered physical book, not a mockup, and not a poster.
+
+Visual direction:
+- Japanese editorial minimalism with structural clarity
+- one Standard Model idea only: gauge symmetry structure, particle-family organization, or clean interaction geometry
+- clear line hierarchy and sparse forms
+- simpler is better than busy; avoid chart-like clutter
+- reserve broad quiet negative space in the upper portion for later LaTeX title overlay
+
+Palette:
+- warm paper, graphite, deep blue, and one controlled crimson or gold accent
+
+Composition:
+- portrait 5:7 for a full printed page
+- edge-to-edge cover art
+- one organized central motif, not many competing diagrams
+
+Absolutely avoid:
+- any text, letters, numbers, or pseudo-typography
+- dense charts, fake equations, tangled linework, stock-photo clichés, lecture screenshots, watermarks, or 3D shadows

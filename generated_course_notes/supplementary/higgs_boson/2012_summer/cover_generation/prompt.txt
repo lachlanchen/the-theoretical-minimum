@@ -1,11 +1,22 @@
-Design flat front-cover artwork for a serious physics lecture-note book titled "Demystifying the Higgs Boson".
-This must be a flat edge-to-edge cover image only, not a photographed or rendered physical book object, not a mockup, and not a poster.
-Portrait composition with aspect ratio 2:3.
-Overall tone: clear, modern, elegant, explanatory, editorial nonfiction.
-Use a restrained palette of dark graphite, cream, muted emerald, and a small amber accent.
-Show a conceptual field landscape suggesting symmetry breaking and mass generation, with a refined abstract central form rather than literal particle icons.
-Reserve strong clean negative space for later LaTeX title overlay.
-Absolutely no text, no title lettering, no pseudo-letters, no glyphs, no readable words, and no fake typography anywhere in the image.
-Do not show a book standing on a table, no spine, no bevel, no drop shadow, no product mockup, and no cover held in a scene.
-Avoid stock-photo cliches, lecture screenshots, YouTube aesthetics, clutter, watermarks, and equations sprayed everywhere.
-Front cover art only. No spine. No back cover. No watermark.
+Design clean, text-free, full-bleed front-cover artwork for a serious lecture-note book on the Higgs boson.
+
+This must be flat cover art only, not a photographed or rendered physical book, not a mockup, and not a poster.
+
+Visual direction:
+- Japanese editorial minimalism, clean and clear
+- one simple symmetry-breaking idea only: a field landscape, Mexican-hat potential, or elegant deformation around a central well
+- clearer curves, fewer layers, fewer plotted lines
+- prefer simplicity and strong silhouette over decorative complexity
+- reserve broad quiet negative space in the upper portion for later LaTeX title overlay
+
+Palette:
+- cream, charcoal, deep green, soft gray, with one restrained gold accent
+
+Composition:
+- portrait 5:7 for a full printed page
+- edge-to-edge cover art
+- one central visual concept, not collage clutter
+
+Absolutely avoid:
+- any text, letters, numbers, or pseudo-typography
+- fake equations, dense plotting noise, messy curves, stock-photo clichés, lecture screenshots, watermarks, or 3D shadows
