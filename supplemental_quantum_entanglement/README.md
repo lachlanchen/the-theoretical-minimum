@@ -1,36 +1,42 @@
-# 🧭 Supplemental Quantum Entanglement
+# 🔗 Supplemental Quantum Entanglement
 
-This folder is the canonical publication surface for the generated notes from the finished `2006_fall_part_1` run. Additional parts can be added here later without clashing with the published Part 1 filenames.
+This folder is the canonical publication surface for the generated notes from Leonard Susskind's supplemental quantum entanglement lecture runs currently completed in this archive.
 
-## 📘 Published PDFs
+## 📘 Published Books
 
-- `quantum_entanglement_part_1.pdf`: merged full-course book for Part 1
-- `part_1_lecture_01.pdf` to `part_1_lecture_09.pdf`: lecture-by-lecture PDFs for Part 1
+- `quantum_entanglement_part_1.pdf`: merged book for `2006_fall_part_1`
+- `quantum_entanglement_part_3.pdf`: merged book for `2006_fall_part_3`
 
-These top-level PDFs are the canonical published artifacts currently available in this folder.
+## 🧩 Lecture PDFs
+
+### Part 1
+
+- `part_1_lecture_01.pdf` to `part_1_lecture_09.pdf`
+
+### Part 3
+
+- `part_3_lecture_01.pdf`
+- `part_3_lecture_02_03.pdf`
+- `part_3_lecture_04.pdf`
+- `part_3_lecture_05.pdf`
+- `part_3_lecture_06.pdf`
+- `part_3_lecture_07.pdf`
+- `part_3_lecture_08.pdf`
+- `part_3_lecture_09.pdf`
 
 ## 📊 Course Snapshot
 
-| Item | Status |
-|---|---|
-| Course run | `supplementary/quantum_entanglement/2006_fall_part_1` |
-| Merged course PDF | `quantum_entanglement_part_1.pdf` |
-| Lecture PDFs | `9 / 9` present |
-| Source transcripts | `markdown/supplementary/quantum_entanglement/2006_fall_part_1/` |
-| Source subtitles | `subtitles/supplementary/quantum_entanglement/2006_fall_part_1/` |
-| Generated-note source | `generated_course_notes/supplementary/quantum_entanglement/2006_fall_part_1/` |
+| Run | Merged PDF | Lecture PDFs | Transcript path | Generated-note source |
+|---|---|---:|---|---|
+| `2006_fall_part_1` | `quantum_entanglement_part_1.pdf` | `9 / 9` | `markdown/supplementary/quantum_entanglement/2006_fall_part_1/` | `generated_course_notes/supplementary/quantum_entanglement/2006_fall_part_1/` |
+| `2006_fall_part_3` | `quantum_entanglement_part_3.pdf` | `8 / 8` | `markdown/supplementary/quantum_entanglement/2006_fall_part_3/` | `generated_course_notes/supplementary/quantum_entanglement/2006_fall_part_3/` |
 
-## 🧭 Reading Layout
+## 🗂️ Publication Notes
 
-1. Start with `quantum_entanglement_part_1.pdf` for the full compiled notes.
-2. Use `part_1_lecture_01.pdf` through `part_1_lecture_09.pdf` for lecture-sized reading.
-3. Consult `generated_course_notes/...` for LaTeX sources, figures, and intermediate note assets.
-
-## 🔗 Publication Notes
-
-- The PDFs in this folder currently mirror the generated outputs through hard links.
-- Part-specific filenames are used so later runs such as Part 3 can be added without collisions.
-- If the generated PDFs are rebuilt later, the hard links may need to be refreshed.
+- The PDFs in this folder are published as top-level reader-facing artifacts.
+- Part-specific filenames avoid collisions between runs.
+- The files are currently refreshed from the generated-note outputs through hard links.
+- If the generated PDFs are rebuilt later, the hard links may need to be refreshed again.
 
 ## 🙏 Credits
 
