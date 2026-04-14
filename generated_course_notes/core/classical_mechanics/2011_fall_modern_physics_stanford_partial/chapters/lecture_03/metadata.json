@@ -1,0 +1,52 @@
+{
+  "course_rel": "core/classical_mechanics/2011_fall_modern_physics_stanford_partial",
+  "transcript_rel": "core/classical_mechanics/2011_fall_modern_physics_stanford_partial/023 - Lecture 3 \uff5c Modern Physics\uff1a Classical Mechanics (Stanford) [3YARPNZrcIY].md",
+  "video_rel": "core/classical_mechanics/2011_fall_modern_physics_stanford_partial/023 - Lecture 3 \uff5c Modern Physics\uff1a Classical Mechanics (Stanford) [3YARPNZrcIY].mp4",
+  "lecture_number": 3,
+  "lecture_slug": "lecture_03",
+  "lecture_title": "Lecture 3 : Modern Physics\uff1a Classical Mechanics (Stanford)",
+  "assets": [
+    {
+      "name": "lecture_03_figure_02.png",
+      "timestamp_seconds": 2702.521,
+      "timestamp_hhmmss": "00:45:02.521",
+      "source_candidate": "lecture_03_window_03_candidate_03_004502521.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame gives the clearest view of the left-board equation with the least occlusion from Susskind's hand, while still preserving the nearby trajectory sketch on the right board. The equation is more legible and settled here than in the earlier pointing frame, and less covered than in the later frame where his hand comes back toward the writing.",
+      "subtitle_excerpt": "the derivative of the Lagrangian with",
+      "segment_start_seconds": 2701.494,
+      "segment_start_hhmmss": "00:45:01.494",
+      "segment_end_seconds": 2703.074,
+      "segment_end_hhmmss": "00:45:03.074",
+      "caption_hint": "time derivative of the momentum-like Lagrangian term"
+    },
+    {
+      "name": "lecture_03_figure_03.png",
+      "timestamp_seconds": 2792.879,
+      "timestamp_hhmmss": "00:46:32.879",
+      "source_candidate": "lecture_03_window_04_candidate_01_004632879.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the clearest overall reading of the new equation. Susskind's hand points near the left side without significantly covering the derivative itself, whereas the later frames place his finger directly over the numerator or denominator of the partial derivative.",
+      "subtitle_excerpt": "that's related to the derivative of the Lagrangian with",
+      "segment_start_seconds": 2792.564,
+      "segment_start_hhmmss": "00:46:32.564",
+      "segment_end_seconds": 2795.189,
+      "segment_end_hhmmss": "00:46:35.189",
+      "caption_hint": "canonical momentum from the Lagrangian"
+    },
+    {
+      "name": "lecture_03_figure_04.png",
+      "timestamp_seconds": 4515.372,
+      "timestamp_hhmmss": "01:15:15.372",
+      "source_candidate": "lecture_03_window_05_candidate_03_011515372.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame gives the best balance of legibility and completeness. The top kinetic-energy expression is the clearest here, the simple coordinate sketch on the left is fully visible, and Susskind has shifted far enough right that the already-written mathematics is less blocked than in the earlier frames while the later frame is more dominated by fresh in-progress writing.",
+      "subtitle_excerpt": "the potential energy is equal",
+      "segment_start_seconds": 4513.714,
+      "segment_start_hhmmss": "01:15:13.714",
+      "segment_end_seconds": 4516.264,
+      "segment_end_hhmmss": "01:15:16.264",
+      "caption_hint": "two-coordinate kinetic term with setup sketch"
+    }
+  ]
+}
