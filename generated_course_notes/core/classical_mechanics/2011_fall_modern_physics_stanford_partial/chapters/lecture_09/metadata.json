@@ -1,0 +1,38 @@
+{
+  "course_rel": "core/classical_mechanics/2011_fall_modern_physics_stanford_partial",
+  "transcript_rel": "core/classical_mechanics/2011_fall_modern_physics_stanford_partial/029 - Lecture 9 \uff5c Modern Physics\uff1a Classical Mechanics (Stanford) [NhNBW8a8-lI].md",
+  "video_rel": "core/classical_mechanics/2011_fall_modern_physics_stanford_partial/029 - Lecture 9 \uff5c Modern Physics\uff1a Classical Mechanics (Stanford) [NhNBW8a8-lI].mp4",
+  "lecture_number": 9,
+  "lecture_slug": "lecture_09",
+  "lecture_title": "Lecture 9 : Modern Physics\uff1a Classical Mechanics (Stanford)",
+  "assets": [
+    {
+      "name": "lecture_09_figure_02.png",
+      "timestamp_seconds": 907.1685,
+      "timestamp_hhmmss": "00:15:07.168",
+      "source_candidate": "lecture_09_window_03_candidate_03_001507168.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "That follows from the anti-symmetry P with P is equal to minus",
+      "segment_start_seconds": 904.302,
+      "segment_start_hhmmss": "00:15:04.302",
+      "segment_end_seconds": 908.712,
+      "segment_end_hhmmss": "00:15:08.712",
+      "caption_hint": "That follows from the anti-symmetry P with P is equal to minus"
+    },
+    {
+      "name": "lecture_09_figure_03.png",
+      "timestamp_seconds": 1173.8345,
+      "timestamp_hhmmss": "00:19:33.834",
+      "source_candidate": "lecture_09_window_04_candidate_03_001933834.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "That is equal to the derivative",
+      "segment_start_seconds": 1172.762,
+      "segment_start_hhmmss": "00:19:32.762",
+      "segment_end_seconds": 1174.412,
+      "segment_end_hhmmss": "00:19:34.412",
+      "caption_hint": "That is equal to the derivative"
+    }
+  ]
+}
