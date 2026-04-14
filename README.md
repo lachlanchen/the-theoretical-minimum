@@ -131,6 +131,7 @@ Open the PDFs in the relevant course folder, for example:
 - `supplemental_particle_physics_3/particle_physics_3_supersymmetry_and_grand_unification.pdf`
 - `supplemental_quantum_entanglement/quantum_entanglement_part_1.pdf`
 - `supplemental_quantum_entanglement/quantum_entanglement_part_3.pdf`
+- `supplemental_string_theory/string_theory_and_m_theory.pdf`
 
 ### 📝 Read transcripts directly
 
