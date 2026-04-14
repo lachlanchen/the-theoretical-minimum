@@ -7,20 +7,6 @@
   "lecture_title": "Lecture 6 : String Theory and M-Theory",
   "assets": [
     {
-      "name": "lecture_06_figure_01.png",
-      "timestamp_seconds": 6.4,
-      "timestamp_hhmmss": "00:00:06.400",
-      "source_candidate": "lecture_06_window_01_candidate_04_000006400.png",
-      "recommended_use": "screenshot_only",
-      "rationale": "None of the candidates contain blackboard mathematics, diagrams, or lecture-room layout useful for note writing. They are introductory campus and title visuals only, so this subtitle window should be rejected from the chapter\u2019s visual evidence set.",
-      "subtitle_excerpt": "Stanford University.",
-      "segment_start_seconds": 0.0,
-      "segment_start_hhmmss": "00:00:00.000",
-      "segment_end_seconds": 7.0,
-      "segment_end_hhmmss": "00:00:07.000",
-      "caption_hint": "Stanford title card"
-    },
-    {
       "name": "lecture_06_figure_02.png",
       "timestamp_seconds": 189.76,
       "timestamp_hhmmss": "00:03:09.760",
@@ -64,17 +50,17 @@
     },
     {
       "name": "lecture_06_figure_05.png",
-      "timestamp_seconds": 2942.962,
-      "timestamp_hhmmss": "00:49:02.962",
-      "source_candidate": "lecture_06_window_06_candidate_03_004902962.png",
+      "timestamp_seconds": 2943.606,
+      "timestamp_hhmmss": "00:49:03.606",
+      "source_candidate": "lecture_06_window_06_candidate_04_004903606.png",
       "recommended_use": "screenshot_plus_equation",
-      "rationale": "",
+      "rationale": "This frame shows the equation in its completed form, including the final equals-zero condition, and the lecturer has moved far enough away that the expression is minimally occluded. It is the clearest and most useful frame for note writing in this subtitle window.",
       "subtitle_excerpt": "d sigma squared equals zero.",
       "segment_start_seconds": 2941.142,
       "segment_start_hhmmss": "00:49:01.142",
       "segment_end_seconds": 2943.942,
       "segment_end_hhmmss": "00:49:03.942",
-      "caption_hint": "d sigma squared equals zero."
+      "caption_hint": "Worldsheet wave equation"
     }
   ]
 }
