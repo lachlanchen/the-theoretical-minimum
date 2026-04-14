@@ -1,0 +1,11 @@
+Design flat front-cover artwork for a serious physics lecture-note book titled "String Theory and M-Theory".
+This must be a flat edge-to-edge cover image only, not a photographed or rendered physical book object, not a mockup, and not a poster.
+Portrait composition with aspect ratio 2:3.
+Overall tone: elegant, deep, editorial, mathematically serious, slightly cosmic.
+Use a restrained palette of black, deep indigo, cream, and a subtle magenta-gold accent.
+Show vibrating strings, higher-dimensional curvature, brane-like surfaces, and clean geometric depth, abstract and refined rather than sci-fi spectacle.
+Reserve strong clean negative space for later LaTeX title overlay.
+Absolutely no text, no title lettering, no pseudo-letters, no glyphs, no readable words, and no fake typography anywhere in the image.
+Do not show a book standing on a table, no spine, no bevel, no drop shadow, no product mockup, and no cover held in a scene.
+Avoid stock-photo cliches, lecture screenshots, YouTube aesthetics, clutter, watermarks, and equations sprayed everywhere.
+Front cover art only. No spine. No back cover. No watermark.

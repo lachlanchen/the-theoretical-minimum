@@ -1,0 +1,11 @@
+Design flat front-cover artwork for a serious physics lecture-note book titled "Quantum Entanglement Part 1".
+This must be a flat edge-to-edge cover image only, not a photographed or rendered physical book object, not a mockup, and not a poster.
+Portrait composition with aspect ratio 2:3.
+Overall tone: precise, intimate, mysterious, editorial, intellectually serious.
+Use a restrained palette of charcoal, deep blue, cream, and a subtle red accent.
+Show paired quantum states, correlation across space, and delicate geometric linkage, abstract rather than illustrative.
+Reserve strong clean negative space for later LaTeX title overlay.
+Absolutely no text, no title lettering, no pseudo-letters, no glyphs, no readable words, and no fake typography anywhere in the image.
+Do not show a book standing on a table, no spine, no bevel, no drop shadow, no product mockup, and no cover held in a scene.
+Avoid stock-photo cliches, lecture screenshots, YouTube aesthetics, clutter, watermarks, and equations sprayed everywhere.
+Front cover art only. No spine. No back cover. No watermark.
