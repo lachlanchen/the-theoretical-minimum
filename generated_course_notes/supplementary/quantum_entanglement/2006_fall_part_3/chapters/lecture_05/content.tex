@@ -1,0 +1,473 @@
+\chapter{From Heavy-Ion Fireballs to Four-Vectors}
+
+These notes follow Leonard Susskind's lecture, with curation by LazyingArt LLC, and keep close to the order in which the lecture actually unfolds. We begin in the middle of a discussion about heavy-ion collisions and a five-dimensional black-hole picture of QCD. Only after that detour has done its motivational work does the lecture pivot back to special relativity. From there the progression is deliberate: a paradox about simultaneity, a cleanup of spacetime notation, rotations and Lorentz transformations in matrix form, the composition of boosts, and finally the relativistic replacement for ordinary velocity, together with the first appearance of proper acceleration and four-momentum.
+
+\section{Heavy-Ion Collisions, Horizons, and the Fifth-Dimensional Picture}
+
+The lecture does not open from a formal beginning. It opens with a question about the complexity of the black hole that is supposed to describe the aftermath of a violent hadronic collision. Susskind answers not with a formula, but with a picture.
+
+We are asked to imagine a fifth dimension extending between a floor and a ceiling. There is a gravitational field in that fifth-dimensional direction, and it pulls excitations downward toward the floor. The excitations may be thought of schematically as little strings. When they settle near the floor, they are hadrons: protons, neutrons, mesons, the large composite objects of QCD. If they remain near the ceiling, they are more elementary excitations: gravitons, photons, and other non-hadronic degrees of freedom. In that simple geometric language, the distinction between composite hadrons and more elementary quanta is encoded in where they live along the extra dimension.
+
+Now collide two hadrons. In the five-dimensional picture this means colliding two objects that live near the floor. They do not produce a small rigid remnant. They produce a large splash of energy, a puddle or lump deposited in the gravitational field. That lump spreads, settles, and is usefully described as a black-hole-like object. Susskind is careful about what kind of black hole this is. It is not an astronomical four-dimensional black hole, nor the Planckian object one might imagine hanging from the ceiling. It is a five-dimensional horizon-bearing lump sitting on the floor. It has a horizon, temperature, entropy, and the familiar thermodynamic attributes of black holes.
+
+At very high energies the incoming hadrons are Lorentz contracted into thin pancakes. Two such pancakes collide and produce a large hot region, more like a fluid lump than a rigid body. The gravitational field pulls this lump down and spreads it until it comes to something like equilibrium. If that were the whole story, the lump would simply sit there. But it radiates. In this picture the outgoing hadrons are identified with Hawking radiation emitted from the black-hole-like object. The swarm of particles seen in the detector is the field-theoretic image of horizon radiation.
+
+The lecture then pauses over the status of this picture. One can take the fifth dimension literally, or one can regard it as a mathematically equivalent description of strongly coupled QCD, useful precisely because it turns impossible quantum-field-theoretic calculations into more tractable gravitational ones. Susskind leaves the ontological question open, but he does not leave the practical point open: the dual picture captures real features of the quark-gluon plasma, especially its unexpectedly low viscosity, in a way that was not anticipated in the older weak-coupling mindset. In that sense the picture has already earned its keep.
+
+\section{Collider Energetics and Why Beam Geometry Matters}
+
+The discussion then shifts, under pressure from the room, from conceptual interpretation to collider practice. Why collide two beams head-on instead of firing one beam into a stationary target? Why must accelerators be so large? Why does beam geometry matter so much? These questions are not yet the main subject of the lecture, but they motivate the return to relativity by forcing us to think about energy in the center-of-mass frame.
+
+For two highly relativistic particles with equal and opposite momenta \(p\), the lecture-level estimate is that the center-of-mass energy is simply
+\begin{equation}
+E_{\mathrm{cm}}^{\mathrm{head\text{-}on}} \approx 2p
+\qquad (c=1).
+\end{equation}
+Here we are using the relativistic fact that, for very energetic particles, energy and momentum are approximately equal in \(c=1\) units.
+
+If instead a fast beam of momentum \(p\) strikes a stationary target of mass \(m\), the center-of-mass energy is much smaller. The lecture gives the rough scaling
+\begin{equation}
+E_{\mathrm{cm}}^{\mathrm{fixed\ target}} \sim \sqrt{mp}
+\qquad (c=1),
+\end{equation}
+to emphasize that a tremendous amount of beam energy is wasted when one of the two participants is left at rest. The purpose of the estimate is not to provide a careful invariant-mass derivation, but to make the practical point vivid: a head-on collider is enormously more efficient at concentrating energy into the interaction region.
+
+That is the first engineering lesson. The second concerns size. Electric and magnetic fields can only be made so strong before engineering and material constraints intervene. In a linear accelerator one gives the particle repeated pushes as it moves along. More distance means more pushes and therefore more energy. In that approximate sense the energy of the machine scales with the useful accelerating length.
+
+There is also a second limitation, and the lecture stresses that it is very important. Charged particles moving in circles are accelerated even when their speed is constant, simply because their direction is changing. The tighter the circle, the larger the acceleration. Large acceleration produces radiation, and radiation means energy loss. If the circular path is too tight, the machine pours energy into the beam only to have the beam radiate it away.
+
+That is why, if the goal is to dump a large amount of energy into a small volume and see what comes out, one would like to accelerate particles as nearly in a straight line as possible. Circular machines survive because one can use the same bending magnets over and over again, repeatedly pushing the beam around the ring; but the price is synchrotron radiation.
+
+The electron--proton contrast fits naturally into this picture. Electrons are much lighter than protons. To carry a given energy they must be pushed much closer to the speed of light, and in a circular machine that means greater acceleration and greater radiative loss. Protons, being much heavier, can circulate with much less energy loss at the same speed and therefore carry much more useful energy in a circular collider. The lecture's point is not to turn this into accelerator design theory, but to clear away the practical questions before making the announced return to relativity.
+
+That announcement is explicit. Having answered the room, Susskind says, in effect: now let us get back to the special theory of relativity.
+
+\section{Relativity of Simultaneity Through a Spacetime Diagram}
+
+The re-entry point is not formalism but paradox. Special relativity, as Susskind presents it here, is best entered by confronting the conceptual mistake that repeatedly causes trouble: we carry into relativity a pre-relativistic idea of simultaneity, and then we are surprised when the answers seem contradictory.
+
+The example is the garage-and-limousine puzzle. A short garage and a long limousine approach one another. In the garage frame the moving limousine is Lorentz contracted, so one expects that it can fit. In the limousine frame the moving garage is Lorentz contracted, so one expects that it cannot fit. The puzzle is designed to force us to ask exactly what we mean when we say that the whole limousine is inside the garage.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.}
+Can the limousine ever fit entirely inside the garage?
+
+\paragraph{Answer.}
+The lecture first makes a practical adjustment: open the back door of the garage. We are not interested in crashing the driver into the rear wall. We want only to know whether there is any instant at which the whole car is inside.
+
+Now draw a spacetime diagram. Time is vertical, space is horizontal, and because we work in one spatial dimension here, \(x\) is the only spatial coordinate we need. In units with \(c=1\), light rays travel on lines at \(45^\circ\), so the light cone gives the geometry its basic orientation. The garage frame has the ordinary \(t\)-axis and \(x\)-axis. The moving frame has a tilted \(t'\)-axis and a tilted \(x'\)-axis. Those tilted axes are the visual representation of the fact that the moving observer's notion of simultaneity is different from that of the stationary observer.
+
+The front and back ends of the garage are at fixed positions in the garage frame, so their worldlines are vertical. The front and back ends of the limousine are moving, so their worldlines are slanted and parallel. The question ``Is the whole limousine inside the garage?'' means: is there a slice of simultaneity on which both the front and rear ends of the limousine lie between the two garage worldlines?
+
+In the garage frame the answer is yes. There are horizontal lines---constant \(t\) slices---for which the back end of the limousine has already entered and the front end has not yet emerged. On such a slice the whole Lorentz-contracted limousine lies inside the garage.
+
+In the limousine frame the answer is no. There, simultaneity is measured along lines parallel to the \(x'\)-axis, not along horizontal lines. If we take the event at which the rear end enters and draw the moving observer's simultaneous slice through it, that slice meets the front worldline only after the front has already gone out the back. On the limousine's own slice of simultaneity, the whole car is never inside at once.
+
+There is therefore no contradiction. The hidden word was ``simultaneously.'' Once we distinguish the stationary observer's simultaneity from the moving observer's simultaneity, the paradox evaporates. The lecture then adds an important geometric remark: the segment cut out of the limousine by a horizontal slice is its Lorentz-contracted length in the garage frame, while the proper length of the limousine is measured on a slice simultaneous in the limousine frame. Those are not the same slice. The paradox lives in that difference.
+
+This little puzzle is not peripheral to the chapter. It is the lecture's deliberate way back into relativity. Diagram first, moral second: simultaneity is frame-dependent, and many apparent contradictions are nothing more than a failure to say in which frame the word ``simultaneous'' is being used.
+
+\section{Four Coordinates, Covariant Notation, and the Invariant Interval}
+
+Only now does the lecture turn to the formal machinery, and even here Susskind insists that most of the mathematics is merely notation. The point of the notation is not abstraction for its own sake. The point is to package the four coordinates in a way that keeps control of the minus signs.
+
+We begin with the four coordinates of spacetime. In the lecture these are lumped together into a single object, with the slightly idiosyncratic convention that the time coordinate is the \(0\)-component even though it is often written last:
+\begin{equation}
+X^1 = x,\qquad X^2 = y,\qquad X^3 = z,\qquad X^0 = t.
+\end{equation}
+Thus, schematically,
+\begin{equation}
+X^\mu = (x,y,z,t),
+\end{equation}
+with the understanding that the final entry is really \(X^0\).
+
+Susskind then introduces the covariant form of the same object. Nothing new has been added physically. We are describing the same spacetime point, but in a notation that flips the sign of the spatial components:
+\begin{equation}
+X_\mu = (-x,-y,-z,t).
+\end{equation}
+This is the lecture's sign convention. In modern language, it is the signature \(+---\), but the lecture does not need that phrase. It needs only the operational rule: lower the index and the first three components change sign.
+
+A quick example, very much in the spirit of the lecture, is useful. If a point has coordinates
+\begin{equation}
+(x,y,z,t)=(3,2,4,10),
+\end{equation}
+then
+\begin{equation}
+X^\mu=(3,2,4,10),
+\qquad
+X_\mu=(-3,-2,-4,10).
+\end{equation}
+This is not a different point. It is the same point written in a notation that is designed to make invariant expressions come out cleanly.
+
+The main invariant then appears immediately:
+\begin{equation}
+X_\mu X^\mu = t^2 - x^2 - y^2 - z^2.
+\end{equation}
+This is exactly the proper interval from the origin to the point \((x,y,z,t)\). In differential form,
+\begin{equation}
+d\tau^2 = dt^2 - dx^2 - dy^2 - dz^2,
+\end{equation}
+again in \(c=1\) units. Along a timelike worldline, \(d\tau\) is the proper time measured by a clock moving with the particle.
+
+At this point Einstein's summation convention becomes useful. Since expressions of the form ``sum over one time component with a plus sign and three spatial components with minus signs'' occur constantly in relativity, we adopt the rule that whenever an index appears once upstairs and once downstairs, we sum over it. Thus we no longer write the summation sign explicitly; we simply write
+\begin{equation}
+X_\mu X^\mu,
+\end{equation}
+and the sum over \(\mu=0,1,2,3\) is understood.
+
+This is the lecture's real point about notation. Relativity generates many expressions of this kind, and without a compact device the algebra becomes cluttered with repeated sums and signs. The notation does not replace the geometry; it stabilizes it.
+
+\section{Rotations, Matrices, and the Structure of Lorentz Transformations}
+
+The lecture now shifts to transformation laws in general. Before mixing time and space, Susskind takes the easier symmetry first: ordinary spatial rotations. This is not a digression. It is a pedagogical ramp. One learns how a transformation acts on components in a familiar case before returning to Lorentz transformations.
+
+Consider a rotation about the \(z\)-axis by an angle \(\theta\). Then
+\begin{align}
+x' &= x\cos\theta + y\sin\theta, \\
+y' &= -x\sin\theta + y\cos\theta, \\
+z' &= z.
+\end{align}
+The point of the example is not just the formula itself. It is what the formula preserves. The squared distance from the origin remains unchanged. We can verify this directly:
+\begin{align}
+x'^2 + y'^2
+&= (x\cos\theta + y\sin\theta)^2 + (-x\sin\theta + y\cos\theta)^2 \\
+&= x^2(\cos^2\theta+\sin^2\theta)
+   + y^2(\sin^2\theta+\cos^2\theta) \nonumber\\
+&\qquad + 2xy\sin\theta\cos\theta - 2xy\sin\theta\cos\theta \\
+&= x^2 + y^2.
+\end{align}
+Since \(z'=z\), we conclude that
+\begin{equation}
+x'^2+y'^2+z'^2 = x^2+y^2+z^2.
+\end{equation}
+That is the lecture's template for symmetry: the components change, but a geometrically meaningful quantity remains invariant.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.82\textwidth]{lecture_05_figure_03.png}
+\caption{Rotation matrix acting on spatial coordinates.}
+\end{figure}
+
+The lecture then rewrites the same transformation in matrix language. That board layout is important and should be preserved. On the left is the vector relation, on the right the explicit matrix:
+\begin{equation}
+\begin{pmatrix}
+x'\\
+y'\\
+z'
+\end{pmatrix}
+=
+M
+\begin{pmatrix}
+x\\
+y\\
+z
+\end{pmatrix},
+\qquad
+M=
+\begin{pmatrix}
+\cos\theta & \sin\theta & 0 \\
+-\sin\theta & \cos\theta & 0 \\
+0 & 0 & 1
+\end{pmatrix}.
+\end{equation}
+Beneath the vector equation the board shows an indexed form, partly hidden by Susskind's arm. The natural cleaned reconstruction is
+\begin{equation}
+x'^i = M^i{}_{j}\,x^j,
+\end{equation}
+with \(i,j=1,2,3\). We should regard this as a cautious normalization of the board line rather than a letter-for-letter transcription.
+
+Once this is in hand, the move to Lorentz transformations becomes natural. A boost along the \(x\)-axis mixes \(x\) and \(t\), while leaving \(y\) and \(z\) untouched. In the lecture's \(c=1\) units,
+\begin{align}
+x' &= \frac{x-vt}{\sqrt{1-v^2}}, \\
+y' &= y, \\
+z' &= z, \\
+t' &= \frac{t-vx}{\sqrt{1-v^2}}.
+\end{align}
+It is convenient here to write
+\begin{equation}
+\gamma = \frac{1}{\sqrt{1-v^2}}
+\qquad (c=1),
+\end{equation}
+so that the boost takes the compact form
+\begin{align}
+x' &= \gamma(x-vt), \\
+t' &= \gamma(t-vx).
+\end{align}
+In matrix form,
+\begin{equation}
+\begin{pmatrix}
+x'\\
+y'\\
+z'\\
+t'
+\end{pmatrix}
+=
+\begin{pmatrix}
+\gamma & 0 & 0 & -\gamma v \\
+0 & 1 & 0 & 0 \\
+0 & 0 & 1 & 0 \\
+-\gamma v & 0 & 0 & \gamma
+\end{pmatrix}
+\begin{pmatrix}
+x\\
+y\\
+z\\
+t
+\end{pmatrix}.
+\end{equation}
+This is the cleaned standard form of the board calculation. The spoken algebra in the lecture is somewhat messy, but the intended object is clear: a Lorentz transformation is also a matrix acting linearly on a column of components.
+
+At this stage the lecture makes another conceptual point. Rotations and boosts together generate all inertial frames related by uniform motion. If the relative motion is not along one of the original coordinate axes, we first rotate the spatial axes until the motion lies along the new \(x\)-direction, then perform the boost there. That is why the rotation section is not ornamental. It is part of the general structure of relativistic symmetry.
+
+The first substantial payoff of the matrix language comes from composing boosts. Suppress the inert \(y\) and \(z\) directions and write the \(x\)-\(t\) boost as
+\begin{equation}
+B(v)=\gamma_v
+\begin{pmatrix}
+1 & -v \\
+-v & 1
+\end{pmatrix},
+\qquad
+\gamma_v=\frac{1}{\sqrt{1-v^2}}
+\qquad (c=1).
+\end{equation}
+Now compose a boost of velocity \(v\) with a boost of velocity \(u\):
+\begin{align}
+B(u)B(v)
+&=
+\gamma_u\gamma_v
+\begin{pmatrix}
+1 & -u \\
+-u & 1
+\end{pmatrix}
+\begin{pmatrix}
+1 & -v \\
+-v & 1
+\end{pmatrix} \\
+&=
+\gamma_u\gamma_v
+\begin{pmatrix}
+1+uv & -(u+v) \\
+-(u+v) & 1+uv
+\end{pmatrix}.
+\end{align}
+Susskind's lecture does not insist on proving immediately that this composite matrix has exactly the standard boost form. Instead, he uses the easier observation: if it is a boost, then the effective velocity is read off from the ratio of the off-diagonal entry to the diagonal entry. Thus
+\begin{equation}
+w=\frac{u+v}{1+uv}
+\qquad (c=1).
+\end{equation}
+Restoring the speed of light gives the standard relativistic addition law,
+\begin{equation}
+w=\frac{u+v}{1+uv/c^2}.
+\end{equation}
+Newton would have written \(w=u+v\). Einstein inserts the denominator.
+
+The lecture immediately checks the moral of the formula. If \(u\) and \(v\) are both close to the speed of light, the numerator tries to become \(2c\), but the denominator simultaneously approaches \(2\). The result does not exceed \(c\). Even at the extreme edge, the composition of subluminal velocities remains subluminal.
+
+\section{Proper Velocity as a Four-Vector and as a Tangent Vector}
+
+At this point the lecture changes gears again. We have learned how coordinates transform; now we ask what kinds of physical quantities transform naturally with them. Susskind says explicitly that before speaking about velocity we should speak about four-vectors in general.
+
+A four-vector \(v^\mu\) is any object that transforms under Lorentz transformations in the same way the coordinate vector \(X^\mu\) transforms. It has four components, not merely three. Its covariant form is obtained, exactly as before, by changing the signs of the spatial components:
+\begin{equation}
+v_\mu = (-v^1,-v^2,-v^3,v^0).
+\end{equation}
+Its invariant norm is
+\begin{equation}
+v_\mu v^\mu = (v^0)^2-(v^1)^2-(v^2)^2-(v^3)^2,
+\end{equation}
+and for two four-vectors \(w^\mu\) and \(v^\mu\), the invariant contraction is
+\begin{equation}
+w_\mu v^\mu = w^0v^0-w^1v^1-w^2v^2-w^3v^3.
+\end{equation}
+These are the relativistic analogs of the norm and dot product in ordinary Euclidean geometry. Their key property is invariance: the components change from frame to frame, but the contraction does not.
+
+Only now does the lecture ask what relativistic velocity ought to be.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.}
+Why is the ordinary velocity \(\bigl(dx/dt,dy/dt,dz/dt\bigr)\) not the right relativistic vector?
+
+\paragraph{Answer.}
+It is a perfectly good classical quantity, but it does not extend naturally to a four-vector. If we try to append a time component in the obvious way, we get
+\begin{equation}
+\frac{dt}{dt}=1,
+\end{equation}
+which is trivial. More importantly, the resulting object does not transform simply under Lorentz transformations. The lecture's point is not that ordinary velocity is meaningless, but that it is not the object that behaves most cleanly in relativistic geometry.
+
+The cure is to divide not by coordinate time, which depends on the frame, but by proper time, which does not.
+
+Thus the relativistic velocity is defined by
+\begin{equation}
+u^\mu = \frac{dX^\mu}{d\tau}.
+\end{equation}
+The lecture calls this the proper velocity. The word ``proper'' refers to the parameter in the denominator: the derivative is taken with respect to proper time along the worldline.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.82\textwidth]{lecture_05_figure_04.png}
+\caption{Four-velocity and the tangent-vector construction.}
+\end{figure}
+
+The board evidence is especially helpful here because it shows the defining equation placed beside a large curve on the board. The lecture is already telling us that the object is not merely algebraic. It is geometric.
+
+The chain rule gives the first connection to the old three-velocity:
+\begin{equation}
+\frac{dx}{d\tau}
+=
+\frac{dx}{dt}\frac{dt}{d\tau},
+\end{equation}
+and similarly for the \(y\)- and \(z\)-components. The time component is simply
+\begin{equation}
+u^0=\frac{dt}{d\tau}.
+\end{equation}
+Thus everything depends on the single factor \(dt/d\tau\).
+
+To find it, start from the invariant interval:
+\begin{equation}
+d\tau^2 = dt^2 - dx^2 - dy^2 - dz^2.
+\end{equation}
+Now divide by \(dt^2\):
+\begin{align}
+\left(\frac{d\tau}{dt}\right)^2
+&=
+1-\left(\frac{dx}{dt}\right)^2-\left(\frac{dy}{dt}\right)^2-\left(\frac{dz}{dt}\right)^2
+\qquad (c=1) \\
+&=
+1-\frac{v^2}{c^2},
+\end{align}
+where in the second line we have restored \(c\) to make the units explicit. Hence
+\begin{equation}
+\frac{d\tau}{dt}=\sqrt{1-\frac{v^2}{c^2}},
+\qquad
+\frac{dt}{d\tau}
+=
+\gamma
+=
+\frac{1}{\sqrt{1-v^2/c^2}}.
+\end{equation}
+Substituting this back into the chain-rule relation gives the cleaned component form
+\begin{equation}
+u^i=\gamma v^i,
+\qquad
+u^0=\gamma.
+\end{equation}
+So the spatial pieces of the proper velocity are the ordinary velocity components multiplied by \(\gamma\), and the time component is the same \(\gamma\). At small velocities \(\gamma\approx 1\), so \(u^i\approx v^i\) and \(u^0\approx 1\). At relativistic velocities the difference becomes substantial, exactly as the lecture stresses.
+
+The lecture then gives the geometric interpretation that makes this definition feel inevitable. In ordinary Euclidean geometry, if a curve has length element
+\begin{equation}
+ds^2 = dx^2 + dy^2 + dz^2,
+\end{equation}
+then its unit tangent vector is obtained by dividing the differential displacement by the arc length:
+\begin{equation}
+\left(
+\frac{dx}{ds},
+\frac{dy}{ds},
+\frac{dz}{ds}
+\right).
+\end{equation}
+This is a unit vector because
+\begin{equation}
+\left(\frac{dx}{ds}\right)^2
++
+\left(\frac{dy}{ds}\right)^2
++
+\left(\frac{dz}{ds}\right)^2
+=
+1.
+\end{equation}
+The relativistic construction is the same idea with one crucial substitution: replace Euclidean arc length \(ds\) by proper time \(d\tau\). Then
+\begin{equation}
+u^\mu=\frac{dX^\mu}{d\tau}
+\end{equation}
+is the tangent vector to the worldline of the particle in spacetime.
+
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}[scale=1.0]
+\draw[line width=0.9pt] (0,0) .. controls (0.9,0.8) and (1.9,2.0) .. (3.0,4.6);
+\fill (1.9,2.15) circle (1.2pt);
+\draw[->,line width=0.9pt] (1.9,2.15) -- (2.62,3.28);
+\end{tikzpicture}
+\caption{A schematic curve with its tangent vector, the Euclidean model for the relativistic construction.}
+\end{figure}
+
+This is where the lecture briefly pauses over terminology. In ordinary geometry, \(s\) is simply the distance measured along the curve. In relativity, the analogous parameter is \(d\tau\), and because the interval carries the Lorentzian minus signs, one should not blur away the distinction between proper time and ordinary Euclidean distance merely by setting \(c=1\). The role is analogous; the geometry is not identical.
+
+The next step then comes almost automatically. If \(u^\mu\) is the tangent vector, its derivative with respect to proper time is the curvature data of the worldline:
+\begin{equation}
+a^\mu = \frac{du^\mu}{d\tau}.
+\end{equation}
+This is the proper acceleration. The lecture does not yet build the full relativistic mechanics, but it clearly announces the direction: the analog of Newton's \(F=ma\) must be phrased in terms of proper acceleration, not in terms of the second derivative with respect to coordinate time.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.60\textwidth]{lecture_05_figure_05.png}
+\caption{Curved trajectory for the transition from proper velocity to proper acceleration.}
+\end{figure}
+
+\section{Momentum, Energy, and the Threshold of Mechanics}
+
+Having reached proper velocity, the lecture takes one further step into mechanics and then stops. The quantity chosen is momentum, because momentum is the basic conserved object in collision problems, and the lecture wants to hand that machinery to the next chapter rather than complete it here.
+
+In Newtonian mechanics, one writes
+\begin{equation}
+\mathbf{p}=m\mathbf{v}.
+\end{equation}
+Susskind pauses to stress a modern convention: mass is not treated as a velocity-dependent quantity. It is an intrinsic characteristic of the particle, what used to be called the rest mass. What changes relativistically is not the mass, but the velocity factor that must be used.
+
+The correct relativistic definition is
+\begin{equation}
+p^\mu = m u^\mu.
+\end{equation}
+The first three components are therefore
+\begin{equation}
+p^i = m u^i = \frac{m v^i}{\sqrt{1-v^2/c^2}}.
+\end{equation}
+For small velocities the denominator is essentially \(1\), so we recover the ordinary momentum \(p^i\approx mv^i\). At larger velocities the momentum grows faster than the Newtonian formula would suggest.
+
+The time component is the genuinely new piece:
+\begin{equation}
+p^0 = \frac{m}{\sqrt{1-v^2/c^2}}.
+\end{equation}
+Because the lecture is using \(t\) rather than \(ct\) as the time coordinate, the conventional energy is
+\begin{equation}
+E = c^2 p^0 = \frac{mc^2}{\sqrt{1-v^2/c^2}}.
+\end{equation}
+That is the careful version of the lecture's claim that the fourth component of momentum is energy: strictly speaking, one multiplies by \(c^2\) to get the usual energy units.
+
+Susskind then works this out in the low-velocity limit. Let
+\begin{equation}
+\epsilon = \frac{v^2}{c^2},
+\end{equation}
+so that
+\begin{equation}
+E = mc^2(1-\epsilon)^{-1/2}.
+\end{equation}
+Using the binomial approximation
+\begin{equation}
+(1-\epsilon)^p \approx 1-p\epsilon
+\end{equation}
+for small \(\epsilon\), and taking \(p=-1/2\), we obtain
+\begin{align}
+(1-\epsilon)^{-1/2}
+&\approx 1+\frac{1}{2}\epsilon.
+\end{align}
+Therefore
+\begin{align}
+E
+&\approx mc^2\left(1+\frac{1}{2}\frac{v^2}{c^2}\right) \\
+&\approx mc^2 + \frac{1}{2}mv^2.
+\end{align}
+The first term is the rest energy; the second is the ordinary Newtonian kinetic energy. In that way the time component of the four-momentum reproduces familiar mechanics in the nonrelativistic limit.
+
+This is the lecture's final conceptual ascent. Energy and momentum are not two separate conserved quantities that merely coexist. They are components of a single four-vector. Conservation of four-momentum is conservation of momentum and energy together. More than that: under Lorentz transformations the components mix. What looks like pure energy in one frame becomes a combination of energy and momentum in another. That is why the relativistic language is the right one for collisions, decays, and mechanics in general.
+
+The lecture stops there on purpose. Proper acceleration has been named, four-momentum has been defined, and the low-velocity limit has been tied back to Newtonian mechanics. The real use of these tools is postponed to the next stage.
+
+\section{Summary}
+
+The lecture begins with a five-dimensional picture of heavy-ion collisions and ends at the threshold of relativistic mechanics. That is not a loose collection of topics; it is a guided progression. First the black-hole analogy is stabilized and defended as either a genuine extra-dimensional description or a mathematically equivalent avatar of QCD. Then collider practice forces us to think about effective energy and radiation loss. Only after that physical motivation is in place does the lecture return to relativity.
+
+From there the structure is exact and deliberate. The garage paradox isolates simultaneity as the hidden source of confusion. Covariant notation is then introduced as a disciplined way to write the invariant interval. Rotations provide the easy model for transformation laws, matrices make the structure manageable, and the composition of boosts yields the relativistic addition of velocities. Finally, ordinary velocity is rejected as the wrong relativistic object, proper velocity appears as the tangent vector to the worldline, and four-momentum packages momentum and energy into a single conserved whole. The lecture closes not with completion, but with a threshold: the machinery of relativistic mechanics is now in place, and the next step is to use it.
