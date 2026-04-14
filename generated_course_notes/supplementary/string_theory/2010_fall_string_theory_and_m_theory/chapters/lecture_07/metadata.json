@@ -1,0 +1,66 @@
+{
+  "course_rel": "supplementary/string_theory/2010_fall_string_theory_and_m_theory",
+  "transcript_rel": "supplementary/string_theory/2010_fall_string_theory_and_m_theory/101 - Lecture 7 \uff5c String Theory and M-Theory [V8XBsPIPKDg].md",
+  "video_rel": "supplementary/string_theory/2010_fall_string_theory_and_m_theory/101 - Lecture 7 \uff5c String Theory and M-Theory [V8XBsPIPKDg].mkv",
+  "lecture_number": 7,
+  "lecture_slug": "lecture_07",
+  "lecture_title": "Lecture 7 : String Theory and M-Theory",
+  "assets": [
+    {
+      "name": "lecture_07_figure_02.png",
+      "timestamp_seconds": 1691.32,
+      "timestamp_hhmmss": "00:28:11.320",
+      "source_candidate": "lecture_07_window_02_candidate_04_002811320.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the clearest and most complete of the four near-identical frames. It preserves the visible left-hand derivative term, the minus sign, and more of the second squared term than the earlier candidates, while staying sharp enough to be useful for note writing. The lecturer still occludes the middle of the board, so the frame is best used as evidence for the equation layout rather than as a sole transcription source.",
+      "subtitle_excerpt": "integrals before anybody heard of string theory, you wouldn't have any sigma.",
+      "segment_start_seconds": 1688.68,
+      "segment_start_hhmmss": "00:28:08.680",
+      "segment_end_seconds": 1691.68,
+      "segment_end_hhmmss": "00:28:11.680",
+      "caption_hint": "worldsheet derivative terms with sigma"
+    },
+    {
+      "name": "lecture_07_figure_03.png",
+      "timestamp_seconds": 2610.62,
+      "timestamp_hhmmss": "00:43:30.620",
+      "source_candidate": "lecture_07_window_03_candidate_04_004330620.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This is the strongest frame because Susskind has fully moved out of view, leaving both the handwritten equation and the lower geometric sketch unobstructed. It is sharper and more complete than the earlier candidates, which are partially blocked by his body. The frame is directly useful for both equation evidence and a simple redraw of the horizontal line with marked subdivisions.",
+      "subtitle_excerpt": "now. Just to give you a geometric picture of what this equation means.",
+      "segment_start_seconds": 2605.72,
+      "segment_start_hhmmss": "00:43:25.720",
+      "segment_end_seconds": 2611.22,
+      "segment_end_hhmmss": "00:43:31.220",
+      "caption_hint": "wave equation with discrete string line"
+    },
+    {
+      "name": "lecture_07_figure_04.png",
+      "timestamp_seconds": 2751.21,
+      "timestamp_hhmmss": "00:45:51.210",
+      "source_candidate": "lecture_07_window_04_candidate_02_004551210.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame gives the cleanest unobstructed view of the full board content at this moment. It preserves the partial differential equation, the discretized horizontal line with labeled points, the small grid sketch, and the finite-difference expression on the right, all without Susskind's hand blocking any part of the mathematics. It is the most useful candidate for note writing because it captures both the equation and the geometric/discrete interpretation he is introducing.",
+      "subtitle_excerpt": "geometrically identify what this equation means.",
+      "segment_start_seconds": 2749.88,
+      "segment_start_hhmmss": "00:45:49.880",
+      "segment_end_seconds": 2753.38,
+      "segment_end_hhmmss": "00:45:53.380",
+      "caption_hint": "finite-difference picture of the wave equation"
+    },
+    {
+      "name": "lecture_07_figure_06.png",
+      "timestamp_seconds": 4767.079,
+      "timestamp_hhmmss": "01:19:27.079",
+      "source_candidate": "lecture_07_window_06_candidate_01_011927079.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame gives the clearest overall view of both board diagrams before Susskind's arm begins to sweep across them in the later candidates. The upper and lower sketches are both readable here, which matters because the point of the moment is the comparison of left-right and up-down symmetry rather than any single isolated stroke.",
+      "subtitle_excerpt": "we just say the integral was symmetric under S",
+      "segment_start_seconds": 4766.58,
+      "segment_start_hhmmss": "01:19:26.580",
+      "segment_end_seconds": 4770.74,
+      "segment_end_hhmmss": "01:19:30.740",
+      "caption_hint": "paired symmetric interaction sketches"
+    }
+  ]
+}
