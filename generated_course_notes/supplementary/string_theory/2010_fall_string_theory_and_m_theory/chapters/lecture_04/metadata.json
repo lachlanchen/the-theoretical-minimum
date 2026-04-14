@@ -1,0 +1,66 @@
+{
+  "course_rel": "supplementary/string_theory/2010_fall_string_theory_and_m_theory",
+  "transcript_rel": "supplementary/string_theory/2010_fall_string_theory_and_m_theory/098 - Lecture 4 \uff5c String Theory and M-Theory [CdgDLaxe2Q4].md",
+  "video_rel": "supplementary/string_theory/2010_fall_string_theory_and_m_theory/098 - Lecture 4 \uff5c String Theory and M-Theory [CdgDLaxe2Q4].mkv",
+  "lecture_number": 4,
+  "lecture_slug": "lecture_04",
+  "lecture_title": "Lecture 4 : String Theory and M-Theory",
+  "assets": [
+    {
+      "name": "lecture_04_figure_02.png",
+      "timestamp_seconds": 408.64,
+      "timestamp_hhmmss": "00:06:48.640",
+      "source_candidate": "lecture_04_window_02_candidate_04_000648640.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This is the clearest and most useful frame for note writing. The closed-string contour is fully drawn, the marked point labeled \\(\\sigma=0\\) is unobscured, and the auxiliary \\(x\\)-\\(y\\) axes at the right are visible. Earlier candidates are either less complete or have Susskind's arm and hand covering the marked point.",
+      "subtitle_excerpt": "string, we would mark it as sigma equals 0 over there.",
+      "segment_start_seconds": 406.0,
+      "segment_start_hhmmss": "00:06:46.000",
+      "segment_end_seconds": 409.0,
+      "segment_end_hhmmss": "00:06:49.000",
+      "caption_hint": "Closed string with marked \\(\\sigma=0\\) point"
+    },
+    {
+      "name": "lecture_04_figure_03.png",
+      "timestamp_seconds": 3310.78,
+      "timestamp_hhmmss": "00:55:10.780",
+      "source_candidate": "lecture_04_window_04_candidate_04_005510780.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame gives the most complete and usable board view. The closed-string loop at left is fully visible, the discretized-point picture is intact, and the accompanying notation \\(X(\\sigma)\\), \\(X_i\\), \\(Y_i\\), and \\(i=1,\\ldots,N\\) is readable. It also preserves the wavefunction block on the right that appears to encode cyclic relabeling. Earlier candidates either crop the diagram more tightly or have Susskind's hand occluding the distinguished starting point.",
+      "subtitle_excerpt": "about the point that starts out that sigma equals 0.",
+      "segment_start_seconds": 3306.6,
+      "segment_start_hhmmss": "00:55:06.600",
+      "segment_end_seconds": 3311.35,
+      "segment_end_hhmmss": "00:55:11.350",
+      "caption_hint": "Closed string discretization and cyclic symmetry"
+    },
+    {
+      "name": "lecture_04_figure_04.png",
+      "timestamp_seconds": 3691.362,
+      "timestamp_hhmmss": "01:01:31.362",
+      "source_candidate": "lecture_04_window_05_candidate_03_010131362.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the clearest unobstructed frame of the board equation. The hand that begins to enter in one nearby candidate is absent here, and the close-up cleanly preserves both the shifted argument \\(X(\\sigma+\\epsilon)\\) and the derivative term below it. It is the most stable frame for reconstructing the small-\\(\\epsilon\\) expansion used in the discussion of sigma-shift invariance.",
+      "subtitle_excerpt": "do? Is this a separate equation for each Sigma?",
+      "segment_start_seconds": 3690.199,
+      "segment_start_hhmmss": "01:01:30.199",
+      "segment_end_seconds": 3691.989,
+      "segment_end_hhmmss": "01:01:31.989",
+      "caption_hint": "Wavefunctional shift by \\(\\sigma\\to\\sigma+\\epsilon\\)"
+    },
+    {
+      "name": "lecture_04_figure_05.png",
+      "timestamp_seconds": 3877.282,
+      "timestamp_hhmmss": "01:04:37.282",
+      "source_candidate": "lecture_04_window_06_candidate_01_010437282.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the best frame because it preserves the most complete board state before Susskind starts erasing. The discrete relabeling cue \\(X_i \\to X_{i+1}\\) is clearly visible, and the lower constraint line still shows the leading symbol, the equals sign, and the beginning of the integral expression. Later candidates are dominated by the erasure and therefore lose mathematical content.",
+      "subtitle_excerpt": "certain integral P of Sigma times the X D Sigma is equal to zero.",
+      "segment_start_seconds": 3876.91,
+      "segment_start_hhmmss": "01:04:36.910",
+      "segment_end_seconds": 3880.01,
+      "segment_end_hhmmss": "01:04:40.010",
+      "caption_hint": "Constraint from reparameterization symmetry"
+    }
+  ]
+}
