@@ -1,0 +1,422 @@
+\chapter{Symmetry and Conservation Laws}
+
+This lecture is a reset. We have already met stationary action and the Euler--Lagrange equations; now Susskind places symmetry and conservation laws beside them as the real heart of classical mechanics, with the Hamiltonian half of the subject deliberately deferred. The argument is meant to unfold in stages: first the language of infinitesimal variation, then a few concrete conservation laws found almost accidentally, and only after that the general explanation of why they occur.
+
+\section{Why Symmetry and Conservation Sit at the Center}
+
+The lecture opens with a warning and a promise. The warning is that there is no honest way to do this subject without equations. The promise is that the equations are not complicated; they are simply the minimum machinery needed to expose the structure. In Susskind's framing, the principle of stationary action, the Euler--Lagrange equations, and the symmetry--conservation connection are one half of the heart of mechanics. The Hamiltonian formulation is the other half, but it will wait.
+
+There is also a conceptual claim already on the table: conservation laws are connected with symmetries. The whole lecture is devoted to making that statement precise inside the Lagrangian formulation.
+
+\section{Infinitesimal Variations and the Stationary-Action Recap}
+
+Before we talk about the mechanics itself, we rehearse the piece of mathematics that will be used over and over. Introduce a universal small parameter \(\delta\). We treat it as an infinitesimal: it is not zero, but we keep only first-order terms and drop terms of order \(\delta^2\) and higher. For an ordinary function \(f(x,y)\), the first-order variation is
+\begin{equation}
+\delta f
+=
+\frac{\partial f}{\partial x}\,\delta x
++
+\frac{\partial f}{\partial y}\,\delta y.
+\end{equation}
+The condition for a stationary point is
+\begin{equation}
+\delta f=0.
+\end{equation}
+This is not new mathematics; it is simply the working language of the lecture.
+
+The same idea is then applied to the action. For generalized coordinates \(q_i(t)\),
+\begin{equation}
+S=\int_{t_1}^{t_2}L(q,\dot q,t)\,dt.
+\end{equation}
+We vary the path while keeping the endpoints fixed, and require the first-order change in the action to vanish:
+\begin{equation}
+\delta S=0.
+\end{equation}
+In clean form, the variation of the action is
+\begin{equation}
+\delta S
+=
+\int_{t_1}^{t_2} dt
+\sum_i
+\left(
+\frac{\partial L}{\partial q_i}\,\delta q_i
++
+\frac{\partial L}{\partial \dot q_i}\,\delta \dot q_i
+\right).
+\end{equation}
+There are two contributions, exactly as Susskind emphasizes on the board: one from shifting the coordinates and one from shifting the velocities. Requiring stationarity for arbitrary endpoint-fixed variations leads to the Euler--Lagrange equations,
+\begin{equation}
+\frac{d}{dt}\frac{\partial L}{\partial \dot q_i}
+-
+\frac{\partial L}{\partial q_i}
+=0.
+\end{equation}
+Already here he corrects the standard slogan. It is better to say \emph{stationary action} than \emph{least action}; the stronger statement will fail later in the lecture, and he wants us to keep that distinction in mind.
+
+\section{Generalized Coordinates and Canonical Momentum}
+
+The next move is a change of notation, but it is not merely cosmetic. We do not want to tie the formalism to Cartesian coordinates for particles in space. A mechanical system may be described by angles or by any other convenient coordinates. So we pass from \(x_i\) to generalized coordinates \(q_i\).
+
+With that notation, the momentum conjugate to \(q_i\) is defined by
+\begin{equation}
+p_i=\frac{\partial L}{\partial \dot q_i}.
+\end{equation}
+The Euler--Lagrange equations become
+\begin{equation}
+\dot p_i=\frac{\partial L}{\partial q_i}.
+\end{equation}
+If a coordinate does not appear in the Lagrangian, then the right-hand side vanishes and the corresponding momentum is conserved. That is the familiar story of cyclic coordinates. But the lecture is headed toward a more general mechanism, one that does not require an obviously cyclic coordinate in the variables we happen to be using.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.72\textwidth]{lecture_04_figure_02.png}
+\caption{One-dimensional Lagrangian in kinetic-minus-potential form.}
+\end{figure}
+
+To make the definition concrete, Susskind immediately checks it on the simplest particle Lagrangian. The frame shows the kinetic-minus-potential expression; the leading \(L=\) is supplied from context:
+\begin{equation}
+L=\frac{m\dot x^2}{2}-V(x).
+\end{equation}
+Then
+\begin{equation}
+\frac{\partial L}{\partial \dot x}=m\dot x.
+\end{equation}
+So in this example the canonical momentum is just the ordinary momentum. The notation is abstract, but its meaning is familiar.
+
+\section{Two Coupled Coordinates: Conservation Laws Before the Explanation}
+
+Now Susskind does what he often does: instead of announcing the theorem, he first lets us stumble into a few conservation laws and feel the need for an explanation.
+
+Take
+\begin{equation}
+L=\frac{\dot q_1^2+\dot q_2^2}{2}-V(q_1-q_2).
+\end{equation}
+He asks us to think of \(q_1\) and \(q_2\) as two particles on a line. The potential depends only on their separation.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.78\textwidth]{lecture_04_figure_03.png}
+\caption{Two-coordinate Lagrangian with interaction \(V(q_1-q_2)\) and the start of the \(P_1\) equation.}
+\end{figure}
+
+The board image preserves the rhythm of the calculation: first the coupled Lagrangian on the upper line, then the lower line beginning the momentum equation. Using the momentum form of the equations of motion,
+\begin{equation}
+\dot P_i=\frac{\partial L}{\partial q_i},
+\end{equation}
+we get
+\begin{equation}
+\dot P_1=-V'(q_1-q_2).
+\end{equation}
+Here \(V'(\,\cdot\,)\) means derivative with respect to the argument of \(V\). If \(V(u)=u^2\), then \(V'(u)=2u\).
+
+The subtle point is the \(q_2\) derivative. A positive shift of \(q_2\) makes \(q_1-q_2\) decrease, so differentiating the argument contributes an extra minus sign. The second line is not fully legible in the frame, but the chain rule fixes it unambiguously:
+\begin{equation}
+\dot P_2=+V'(q_1-q_2).
+\end{equation}
+Therefore
+\begin{equation}
+\frac{d}{dt}(P_1+P_2)=0.
+\end{equation}
+So \(P_1+P_2\) is conserved.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.78\textwidth]{lecture_04_figure_04.png}
+\caption{The \(q_1\) equation of motion and the derivative \(V'(q_1-q_2)\).}
+\end{figure}
+
+The later board frame makes the sign issue visible. The upper line is unchanged, and the lower line shows
+\begin{equation}
+\dot P_1=-V'(q_1-q_2),
+\qquad
+\dot P_2=+V'(q_1-q_2).
+\end{equation}
+The second equation is a careful completion from the surrounding derivation, not a direct transcription of the cropped lower line.
+
+He then does the same thing with a more general potential,
+\begin{equation}
+L=\frac{\dot q_1^2+\dot q_2^2}{2}-V(Aq_1+Bq_2),
+\end{equation}
+where \(A\) and \(B\) are constants. Now
+\begin{align}
+\dot P_1 &= -A\,V'(Aq_1+Bq_2),\\
+\dot P_2 &= -B\,V'(Aq_1+Bq_2).
+\end{align}
+The total momentum is no longer conserved, but if we multiply the first equation by \(B\), the second by \(A\), and subtract, the right-hand sides cancel:
+\begin{equation}
+\frac{d}{dt}(B P_1-A P_2)=0.
+\end{equation}
+So a different linear combination is conserved.
+
+At this point the lecture pauses. We have seen conservation laws, but not yet the reason for them. Perhaps some hidden change of variables would exhibit an ordinary cyclic coordinate. Perhaps not. Susskind explicitly tells us not to lean on that. In the variables written on the board there is no obvious cyclic coordinate, and yet a conserved quantity has emerged. That is the puzzle.
+
+He briefly shows how constants of the form \(A\) and \(B\) arise naturally. Start from two particles of unequal masses,
+\begin{equation}
+L=\frac{m\dot X^2}{2}+\frac{M\dot Y^2}{2}-V(X-Y),
+\end{equation}
+and rescale coordinates by
+\begin{equation}
+Q_1=\sqrt m\,X,
+\qquad
+Q_2=\sqrt M\,Y.
+\end{equation}
+Then the kinetic term simplifies to
+\begin{equation}
+L=\frac{\dot Q_1^{\,2}}{2}+\frac{\dot Q_2^{\,2}}{2}
+-
+V\!\left(\frac{Q_1}{\sqrt m}-\frac{Q_2}{\sqrt M}\right).
+\end{equation}
+If one prefers a plus sign in the argument, one may just redefine \(Q_2\to -Q_2\), giving
+\begin{equation}
+V\!\left(\frac{Q_1}{\sqrt m}+\frac{Q_2}{\sqrt M}\right).
+\end{equation}
+So the general linear combination is not artificial; it is what appears after a perfectly natural change of variables.
+
+\section{What a Symmetry Transformation Is}
+
+Only after these examples does the lecture turn to the notion of symmetry itself.
+
+The first case is the free particle,
+\begin{equation}
+L=\frac{\dot q^2}{2}.
+\end{equation}
+A translation is
+\begin{equation}
+q\mapsto q+\delta,
+\qquad
+\dot q\mapsto \dot q,
+\end{equation}
+because \(\delta\) is constant in time. Therefore
+\begin{equation}
+\delta L=0.
+\end{equation}
+That is what we mean by a symmetry: a change in the variables that leaves the Lagrangian unchanged.
+
+Susskind spends a moment distinguishing active and passive language. We can think of moving the particle while keeping the axes fixed, or of shifting the coordinate frame while leaving the particle where it is. For these notes it is cleaner, and truer to the end of the lecture, to keep the active picture in the foreground: we imagine actually moving the system and asking whether the Lagrangian notices.
+
+The two-coordinate example now becomes transparent. If
+\begin{equation}
+L=\frac{\dot q_1^2+\dot q_2^2}{2}-V(q_1-q_2),
+\end{equation}
+then the simultaneous shift
+\begin{equation}
+q_1\mapsto q_1+\delta,
+\qquad
+q_2\mapsto q_2+\delta
+\end{equation}
+changes neither the velocities nor the difference \(q_1-q_2\). So the Lagrangian is invariant. Likewise, for
+\begin{equation}
+L=\frac{\dot q_1^2+\dot q_2^2}{2}-V(Aq_1+Bq_2),
+\end{equation}
+the transformation
+\begin{equation}
+q_1\mapsto q_1+B\,\delta,
+\qquad
+q_2\mapsto q_2-A\,\delta
+\end{equation}
+leaves the kinetic term unchanged and also preserves the argument of the potential:
+\begin{equation}
+A(q_1+B\delta)+B(q_2-A\delta)=Aq_1+Bq_2.
+\end{equation}
+So again there is a symmetry.
+
+The third example is more interesting because the shift is no longer constant. Consider a particle in the plane with
+\begin{equation}
+L=\frac{m}{2}\big(\dot x^2+\dot y^2\big)-V(x^2+y^2).
+\end{equation}
+This is a central potential. The natural symmetry is rotation. The lecture carefully distinguishes a \emph{rotated} coordinate system from a coordinate system that is rotating in time; the parameter is taken to be time independent. With a consistent sign convention for the finite rotation,
+\begin{equation}
+x'=x\cos\theta+y\sin\theta,
+\qquad
+y'=-x\sin\theta+y\cos\theta.
+\end{equation}
+Now set \(\theta=\delta\) small. Since
+\begin{equation}
+\cos\delta \simeq 1,
+\qquad
+\sin\delta \simeq \delta,
+\end{equation}
+the infinitesimal form is
+\begin{equation}
+\delta x=y\,\delta,
+\qquad
+\delta y=-x\,\delta.
+\end{equation}
+Differentiating gives
+\begin{equation}
+\delta\dot x=\dot y\,\delta,
+\qquad
+\delta\dot y=-\dot x\,\delta.
+\end{equation}
+
+Now the symmetry can be checked directly:
+\begin{equation}
+\delta(x^2+y^2)=2x\,\delta x+2y\,\delta y=0,
+\end{equation}
+and by exactly the same calculation,
+\begin{equation}
+\delta(\dot x^2+\dot y^2)=0.
+\end{equation}
+So both the potential and the kinetic term are invariant.
+
+This is the point where the lecture becomes more general. In the translation examples, the changes in the coordinates were constants. In the rotational example, the changes depend on where the particle is. That is the new ingredient.
+
+\section{From Infinitesimal Symmetry to Conserved Quantity}
+
+Now we have enough to write the general form of the argument. A symmetry transformation is taken to be an infinitesimal shift
+\begin{equation}
+\delta q_i=\delta\,f_i(q),
+\end{equation}
+where \(\delta\) is a small time-independent parameter and the functions \(f_i(q)\) may depend on the coordinates. The corresponding velocity variation is
+\begin{equation}
+\delta\dot q_i=\frac{d}{dt}\,\delta q_i.
+\end{equation}
+
+The first-order change in the Lagrangian is therefore
+\begin{equation}
+\delta L
+=
+\sum_i \frac{\partial L}{\partial q_i}\,\delta q_i
++
+\sum_i \frac{\partial L}{\partial \dot q_i}\,\delta\dot q_i.
+\end{equation}
+Now assume the motion satisfies the equations of motion. Then
+\begin{equation}
+\frac{\partial L}{\partial \dot q_i}=p_i,
+\qquad
+\frac{\partial L}{\partial q_i}=\dot p_i,
+\end{equation}
+and so
+\begin{align}
+\delta L
+&=
+\sum_i \dot p_i\,\delta q_i
++
+\sum_i p_i\,\delta\dot q_i \\
+&=
+\frac{d}{dt}\sum_i p_i\,\delta q_i \\
+&=
+\delta\,\frac{d}{dt}\sum_i p_i f_i(q).
+\end{align}
+The middle step is just the product rule, recognized in exactly the ordinary way. If the transformation is a symmetry, then \(\delta L=0\), and since \(\delta\) is only an overall factor we conclude that
+\begin{equation}
+\frac{d}{dt}\sum_i p_i f_i(q)=0.
+\end{equation}
+Thus the conserved quantity is
+\begin{equation}
+Q=\sum_i p_i f_i(q).
+\end{equation}
+
+This is the classical-mechanics core of Emmy Noether's theorem in the form used in the lecture.
+
+The earlier examples are now unified. For the common translation of two coordinates,
+\begin{equation}
+\delta q_1=\delta,
+\qquad
+\delta q_2=\delta,
+\end{equation}
+so \(f_1=f_2=1\), and
+\begin{equation}
+Q=P_1+P_2.
+\end{equation}
+For the asymmetric symmetry of the \(Aq_1+Bq_2\) example,
+\begin{equation}
+\delta q_1=B\,\delta,
+\qquad
+\delta q_2=-A\,\delta,
+\end{equation}
+so \(f_1=B\), \(f_2=-A\), and
+\begin{equation}
+Q=BP_1-AP_2.
+\end{equation}
+For rotation,
+\begin{equation}
+\delta x=y\,\delta,
+\qquad
+\delta y=-x\,\delta,
+\end{equation}
+so \(f_x=y\), \(f_y=-x\), and the lecture's conserved combination is
+\begin{equation}
+Q_{\mathrm{rot}}=p_x\,y-p_y\,x.
+\end{equation}
+Equivalently, using the standard convention, we may write the conserved angular momentum as
+\begin{equation}
+J=xp_y-yp_x.
+\end{equation}
+The sign convention is a choice; the conservation law is the point.
+
+Susskind also remarks that if many particles interact through a rotationally invariant Lagrangian, then one rotates \emph{all} of them together, and the corresponding conserved quantity is the total angular momentum.
+
+\section{Late Questions and the Harmonic Oscillator}
+
+\subsection{The Harmonic Oscillator in \(p\)-\(q\) Space}
+
+After the main theorem the lecture loosens its grip a little. Susskind turns to the harmonic oscillator, not because it adds a new principle, but because it makes the variables \(p\) and \(q\) feel concrete. With mass and spring constant set equal to one,
+\begin{equation}
+L=\frac{\dot q^2}{2}-\frac{q^2}{2}.
+\end{equation}
+The momentum is
+\begin{equation}
+p=\frac{\partial L}{\partial \dot q}=\dot q,
+\end{equation}
+and the equation of motion is
+\begin{equation}
+\dot p=\frac{\partial L}{\partial q}=-q.
+\end{equation}
+Together with \(p=\dot q\), this gives the pair
+\begin{equation}
+\dot q=p,
+\qquad
+\dot p=-q.
+\end{equation}
+So the motion in the \(p\)-\(q\) plane is circular. The oscillator in real space is just the projection of that circular motion onto the \(q\)-axis.
+
+The lecture even pauses over the direction of motion. If we put \(q\) on the vertical axis and \(p\) on the horizontal axis, then at maximal positive \(q\) we have \(\dot p=-q<0\), so the motion is downward there. Hence the orbit is clockwise in that convention. Susskind enjoys discovering, on the spot, that the axis convention matters.
+
+He also notes that these equations already look like Hamilton's equations. That is true, but the lecture is not yet switching formalisms. They are still just the equations of motion written in terms of the Lagrangian momentum.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} If reflection leaves the Lagrangian unchanged, why does this argument not produce a conserved quantity?
+
+\paragraph{Answer.} Because the derivation was built entirely out of infinitesimal transformations. A reflection is
+\begin{equation}
+q\mapsto -q,
+\qquad
+\dot q\mapsto -\dot q.
+\end{equation}
+For a symmetric potential, the Lagrangian may indeed be unchanged. But this is a discrete symmetry, not a continuous one. It is not assembled from arbitrarily small steps. Rotations and translations can be built up from infinitesimal motions; reflections cannot. The whole calculation above passes through the first-order variation \(\delta L\), and for a discrete flip that language simply does not apply. That is why this argument yields a conservation law for continuous symmetries and not for discrete ones.
+
+\paragraph{Question.} Is symmetry by itself enough to imply conservation?
+
+\paragraph{Answer.} No. The connection requires the stationary-action framework. Susskind makes this sharp with the viscous-drag equation
+\begin{equation}
+m\ddot x=-c\dot x.
+\end{equation}
+As an equation, it is translation invariant: replacing \(x\) by \(x+\delta\) does not change \(\dot x\) or \(\ddot x\). But momentum is not conserved. If \(p=m\dot x\), then
+\begin{equation}
+\dot p=-\frac{c}{m}\,p,
+\end{equation}
+so
+\begin{equation}
+p(t)\propto e^{-ct/m}.
+\end{equation}
+The momentum decays exponentially. This is not a counterexample to Noether's theorem. It is a counterexample to the naive slogan that any symmetry of any equation must imply a conserved quantity. The missing ingredient is that the viscous-drag equation is not the equation of a closed system arising from a stationary-action principle for the single variable \(x\).
+
+\paragraph{Question.} Should we think of a symmetry actively or passively?
+
+\paragraph{Answer.} Either viewpoint works, but by the end of the lecture Susskind clearly prefers the active one. Instead of saying we merely changed coordinates, it is cleaner to imagine that we actually moved the system and asked whether the Lagrangian changed. In passive language one says the \emph{form} of the Lagrangian is unchanged; in active language one says the Lagrangian does not care that everything has been translated or rotated. For this lecture, the active viewpoint keeps the idea sharper.
+
+\paragraph{Stationary, not least.} The final return is to the action principle itself. The physical path is generally not the one that minimizes the action. It makes the action stationary. Most often the action is a saddle point. The harmonic oscillator is enough to see the point. One may imagine a nearby path that spends a long time slightly displaced and only briefly makes up the change with extra velocity. Because the Lagrangian contains \(\dot q^2-q^2\), such deformations can lower the action in some directions and raise it in others. So the right phrase is not \emph{least action}, but \emph{stationary action}.
+
+\section{Summary}
+
+The lecture proceeds exactly the way Susskind likes to build an idea. We begin with infinitesimal variation, pass from \(x_i\) to generalized coordinates \(q_i\), define canonical momentum, and then discover a few conservation laws before we know why they are there. Only after translations and rotations have been worked out concretely do we extract the general rule
+\begin{equation}
+Q=\sum_i p_i f_i(q),
+\qquad
+\frac{dQ}{dt}=0,
+\end{equation}
+for a continuous infinitesimal symmetry.
+
+The reward is a unified picture. Linear momentum and angular momentum are no longer separate miracles; they are instances of one pattern. The late questions sharpen the statement rather than weakening it: discrete symmetries lie outside this infinitesimal argument, and symmetry is tied to conservation only inside the stationary-action framework. The lecture then points directly forward. Conservation of energy and the Hamiltonian point of view are next.
