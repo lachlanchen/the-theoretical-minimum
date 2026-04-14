@@ -1,0 +1,66 @@
+{
+  "course_rel": "core/classical_mechanics/2011_fall_modern_physics_stanford_partial",
+  "transcript_rel": "core/classical_mechanics/2011_fall_modern_physics_stanford_partial/028 - Lecture 8 \uff5c Modern Physics\uff1a Classical Mechanics (Stanford) [gUUbl444r74].md",
+  "video_rel": "core/classical_mechanics/2011_fall_modern_physics_stanford_partial/028 - Lecture 8 \uff5c Modern Physics\uff1a Classical Mechanics (Stanford) [gUUbl444r74].mp4",
+  "lecture_number": 8,
+  "lecture_slug": "lecture_08",
+  "lecture_title": "Lecture 8 : Modern Physics\uff1a Classical Mechanics (Stanford)",
+  "assets": [
+    {
+      "name": "lecture_08_figure_03.png",
+      "timestamp_seconds": 897.99,
+      "timestamp_hhmmss": "00:14:57.990",
+      "source_candidate": "lecture_08_window_03_candidate_04_001457990.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the clearest and least occluded frame of the equation in this subtitle window. The full expression is visible after the lecturer has moved aside, whereas the earlier candidates still include more hand or body interference during the writing motion.",
+      "subtitle_excerpt": "times the derivative of the potential energy function.",
+      "segment_start_seconds": 897.18,
+      "segment_start_hhmmss": "00:14:57.180",
+      "segment_end_seconds": 898.1,
+      "segment_end_hhmmss": "00:14:58.100",
+      "caption_hint": "force from the potential"
+    },
+    {
+      "name": "lecture_08_figure_04.png",
+      "timestamp_seconds": 1039.42,
+      "timestamp_hhmmss": "00:17:19.420",
+      "source_candidate": "lecture_08_window_04_candidate_04_001719420.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame is the clearest and most complete mathematical board view in the subtitle window. It cleanly shows the vector-potential relation together with the force and potential-energy lines on the adjacent board, whereas candidate 1 is too cropped, candidate 2 captures only the Lorentz-force equation, and candidate 3 is split awkwardly by the wall and more occluded.",
+      "subtitle_excerpt": "to this equation requires you to use the vector potential.",
+      "segment_start_seconds": 1034.829,
+      "segment_start_hhmmss": "00:17:14.829",
+      "segment_end_seconds": 1040.02,
+      "segment_end_hhmmss": "00:17:20.020",
+      "caption_hint": "vector potential and force relations"
+    },
+    {
+      "name": "lecture_08_figure_05.png",
+      "timestamp_seconds": 1357.819,
+      "timestamp_hhmmss": "00:22:37.819",
+      "source_candidate": "lecture_08_window_05_candidate_01_002237819.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the cleanest overall view of the board at the moment the action is being described as the integral of a Lagrangian. It preserves the Lorentz-force equation at the top and the action-like integral expression below, with slightly less body motion and obstruction than the later candidates.",
+      "subtitle_excerpt": "the integral of a Lagrangian,",
+      "segment_start_seconds": 1357.56,
+      "segment_start_hhmmss": "00:22:37.560",
+      "segment_end_seconds": 1359.72,
+      "segment_end_hhmmss": "00:22:39.720",
+      "caption_hint": "action written as a Lagrangian integral"
+    },
+    {
+      "name": "lecture_08_figure_06.png",
+      "timestamp_seconds": 1883.857,
+      "timestamp_hhmmss": "00:31:23.857",
+      "source_candidate": "lecture_08_window_06_candidate_03_003123857.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "is equal to the derivative of the Lagrangian",
+      "segment_start_seconds": 1882.18,
+      "segment_start_hhmmss": "00:31:22.180",
+      "segment_end_seconds": 1884.76,
+      "segment_end_hhmmss": "00:31:24.760",
+      "caption_hint": "is equal to the derivative of the Lagrangian"
+    }
+  ]
+}
