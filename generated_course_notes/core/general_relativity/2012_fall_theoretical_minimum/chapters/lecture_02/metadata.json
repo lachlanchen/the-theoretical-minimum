@@ -1,0 +1,52 @@
+{
+  "course_rel": "core/general_relativity/2012_fall_theoretical_minimum",
+  "transcript_rel": "core/general_relativity/2012_fall_theoretical_minimum/156 - General Relativity Lecture 2 [5VKyRVLMMQ4].md",
+  "video_rel": "core/general_relativity/2012_fall_theoretical_minimum/156 - General Relativity Lecture 2 [5VKyRVLMMQ4].webm",
+  "lecture_number": 2,
+  "lecture_slug": "lecture_02",
+  "lecture_title": "General Relativity Lecture 2",
+  "assets": [
+    {
+      "name": "lecture_02_figure_02.png",
+      "timestamp_seconds": 3258.357,
+      "timestamp_hhmmss": "00:54:18.357",
+      "source_candidate": "lecture_02_window_02_candidate_04_005418357.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 04 is the clearest and most complete frame. By this point Susskind has moved far enough to the right that the full board equation is visible with minimal occlusion, including both the left-hand subtraction and the right-hand \u2018(T-S)\u2019 expression. Earlier candidates are more obstructed by his body and hand, especially around the middle term, so they are less useful for note writing.",
+      "subtitle_excerpt": "T minus S equals zero is a tensor equation",
+      "segment_start_seconds": 3254.96,
+      "segment_start_hhmmss": "00:54:14.960",
+      "segment_end_seconds": 3258.82,
+      "segment_end_hhmmss": "00:54:18.820",
+      "caption_hint": "Tensor subtraction as a tensor equation"
+    },
+    {
+      "name": "lecture_02_figure_03.png",
+      "timestamp_seconds": 5210.103,
+      "timestamp_hhmmss": "01:26:50.103",
+      "source_candidate": "lecture_02_window_03_candidate_03_012650103.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "is given by the metric tensor in the unprimed frame,",
+      "segment_start_seconds": 5207.49,
+      "segment_start_hhmmss": "01:26:47.490",
+      "segment_end_seconds": 5211.51,
+      "segment_end_hhmmss": "01:26:51.510",
+      "caption_hint": "is given by the metric tensor in the unprimed frame,"
+    },
+    {
+      "name": "lecture_02_figure_06.png",
+      "timestamp_seconds": 5996.177,
+      "timestamp_hhmmss": "01:39:56.177",
+      "source_candidate": "lecture_02_window_06_candidate_01_013956177.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "All four candidates are nearly identical, but candidate 01 is the cleanest early frame of the stable board state. It preserves the full mathematical layout: the transformed line element at the top, the inverse-metric identity at left, and the explicit small matrix example below that motivates the statement that the metric matrix is symmetric. Later candidates do not add useful content.",
+      "subtitle_excerpt": "And that's why the matrix is going to be symmetric.",
+      "segment_start_seconds": 5995.93,
+      "segment_start_hhmmss": "01:39:55.930",
+      "segment_end_seconds": 5997.99,
+      "segment_end_hhmmss": "01:39:57.990",
+      "caption_hint": "Symmetric metric matrix example"
+    }
+  ]
+}
