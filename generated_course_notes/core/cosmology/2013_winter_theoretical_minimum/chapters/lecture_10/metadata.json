@@ -1,0 +1,66 @@
+{
+  "course_rel": "core/cosmology/2013_winter_theoretical_minimum",
+  "transcript_rel": "core/cosmology/2013_winter_theoretical_minimum/174 - Cosmology Lecture 10 [NZ_CvI9Ying].md",
+  "video_rel": "core/cosmology/2013_winter_theoretical_minimum/174 - Cosmology Lecture 10 [NZ_CvI9Ying].mkv",
+  "lecture_number": 10,
+  "lecture_slug": "lecture_10",
+  "lecture_title": "Cosmology Lecture 10",
+  "assets": [
+    {
+      "name": "lecture_10_figure_02.png",
+      "timestamp_seconds": 4637.865,
+      "timestamp_hhmmss": "01:17:17.865",
+      "source_candidate": "lecture_10_window_03_candidate_04_011717865.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "Candidate 04 preserves the most useful combination of board content in this window: the left-side potential sketch is still visible, including its long shallow region and sharp drop, while on the right the second-derivative notation has progressed furthest. The equation is still incomplete and partly occluded by the writing hand, so it should be paired with a cleaned typeset equation, but this frame gives the best documentary record of the lecture\u2019s transition from the potential picture to the wave-equation form.",
+      "subtitle_excerpt": "It's a wave equation and it",
+      "segment_start_seconds": 4634.574,
+      "segment_start_hhmmss": "01:17:14.574",
+      "segment_end_seconds": 4638.314,
+      "segment_end_hhmmss": "01:17:18.314",
+      "caption_hint": "Potential sketch with wave-equation term"
+    },
+    {
+      "name": "lecture_10_figure_03.png",
+      "timestamp_seconds": 4737.554,
+      "timestamp_hhmmss": "01:18:57.554",
+      "source_candidate": "lecture_10_window_04_candidate_04_011857554.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "Candidate 04 gives the best combined record of this moment. It preserves the left-hand potential sketch, includes the pointing gesture that matches the subtitle\u2019s reference to the potential energy 'here,' and keeps the right-hand wave-equation terms legible, including the partially developed friction term with 3H. It is the most useful frame for pairing the visual argument with a cleaned typeset equation.",
+      "subtitle_excerpt": "H is determined by the amount of potential energy here.",
+      "segment_start_seconds": 4729.373,
+      "segment_start_hhmmss": "01:18:49.373",
+      "segment_end_seconds": 4738.154,
+      "segment_end_hhmmss": "01:18:58.154",
+      "caption_hint": "Potential controls the Hubble term"
+    },
+    {
+      "name": "lecture_10_figure_04.png",
+      "timestamp_seconds": 6328.476,
+      "timestamp_hhmmss": "01:45:28.476",
+      "source_candidate": "lecture_10_window_05_candidate_01_014528476.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "Candidate 01 gives the clearest overall record of the board layout in this window. It preserves both the long irregular wave-like sketch across the board and the smaller damped-oscillation sketch on the right with the visible 3H label, while the lecturer is not actively pointing into or writing over the key lines. The later candidates add gestures but do not add more finished mathematical content.",
+      "subtitle_excerpt": "H is basically the square root of the potential energy.",
+      "segment_start_seconds": 6328.094,
+      "segment_start_hhmmss": "01:45:28.094",
+      "segment_end_seconds": 6331.274,
+      "segment_end_hhmmss": "01:45:31.274",
+      "caption_hint": "Irregular mode sketch with 3H damping"
+    },
+    {
+      "name": "lecture_10_figure_05.png",
+      "timestamp_seconds": 6654.502,
+      "timestamp_hhmmss": "01:50:54.502",
+      "source_candidate": "lecture_10_window_06_candidate_04_015054502.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "Candidate 04 is the clearest and least occluded record of the board in this window. It preserves the full schematic layout, including the long horizontal reference line, the interior region markers, and the tall narrow hatched barrier on the far right. Earlier candidates include the upward pointing gesture that matches the subtitle, but the raised arm blocks part of the diagram and does not add more usable mathematical content.",
+      "subtitle_excerpt": "to the potential energy up there?",
+      "segment_start_seconds": 6653.094,
+      "segment_start_hhmmss": "01:50:53.094",
+      "segment_end_seconds": 6654.694,
+      "segment_end_hhmmss": "01:50:54.694",
+      "caption_hint": "Potential barrier at the right edge"
+    }
+  ]
+}
