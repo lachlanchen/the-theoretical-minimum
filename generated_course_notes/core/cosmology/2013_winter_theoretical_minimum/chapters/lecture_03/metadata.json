@@ -1,0 +1,66 @@
+{
+  "course_rel": "core/cosmology/2013_winter_theoretical_minimum",
+  "transcript_rel": "core/cosmology/2013_winter_theoretical_minimum/167 - Cosmology Lecture 3 [nJlWYDcGr8U].md",
+  "video_rel": "core/cosmology/2013_winter_theoretical_minimum/167 - Cosmology Lecture 3 [nJlWYDcGr8U].mkv",
+  "lecture_number": 3,
+  "lecture_slug": "lecture_03",
+  "lecture_title": "Cosmology Lecture 3",
+  "assets": [
+    {
+      "name": "lecture_03_figure_02.png",
+      "timestamp_seconds": 313.138,
+      "timestamp_hhmmss": "00:05:13.138",
+      "source_candidate": "lecture_03_window_02_candidate_03_000513138.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the clearest and most balanced frame in the set. The full equation is already written, centered, and sharp, with no meaningful lecturer occlusion or distracting edge intrusion. It gives the cleanest documentary record of the lecture's opening example of a metric tensor.",
+      "subtitle_excerpt": "by giving their metric tensor,",
+      "segment_start_seconds": 311.76,
+      "segment_start_hhmmss": "00:05:11.760",
+      "segment_end_seconds": 313.88,
+      "segment_end_hhmmss": "00:05:13.880",
+      "caption_hint": "flat-space metric line element"
+    },
+    {
+      "name": "lecture_03_figure_03.png",
+      "timestamp_seconds": 517.254,
+      "timestamp_hhmmss": "00:08:37.254",
+      "source_candidate": "lecture_03_window_03_candidate_03_000837254.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame gives the best combined record of the mathematics and the supporting board sketch. The equation is fully written and legible, the small polar-coordinate diagram with the angle marker is still visible, and the lecturer is mostly out of the way. Earlier frames are more occluded by Susskind while the last frame crops the sketch more tightly.",
+      "subtitle_excerpt": "It just stands for the metric of a unit circle.",
+      "segment_start_seconds": 514.679,
+      "segment_start_hhmmss": "00:08:34.679",
+      "segment_end_seconds": 518.64,
+      "segment_end_hhmmss": "00:08:38.640",
+      "caption_hint": "flat metric in polar form"
+    },
+    {
+      "name": "lecture_03_figure_04.png",
+      "timestamp_seconds": 634.205,
+      "timestamp_hhmmss": "00:10:34.205",
+      "source_candidate": "lecture_03_window_04_candidate_02_001034205.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame gives the clearest comparison layout for the moment: the ordinary circle at top and the distorted metric unit circle below are both fully visible, the radius label on the upper sketch is still readable, and Susskind is off to the right rather than covering the diagrams. It is the most useful documentary frame for a later clean redraw.",
+      "subtitle_excerpt": "unit circle in the metric system.",
+      "segment_start_seconds": 633.59,
+      "segment_start_hhmmss": "00:10:33.590",
+      "segment_end_seconds": 635.02,
+      "segment_end_hhmmss": "00:10:35.020",
+      "caption_hint": "Euclidean and metric unit circles"
+    },
+    {
+      "name": "lecture_03_figure_05.png",
+      "timestamp_seconds": 971.701,
+      "timestamp_hhmmss": "00:16:11.701",
+      "source_candidate": "lecture_03_window_05_candidate_01_001611701.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame preserves the main mathematical statement most clearly: the flat-space polar form is fully legible, the nearby concentric-circle sketch with a radial ray and angle marker is visible, and the lecturer is not yet blocking the equation with his arm. Later candidates lose more of the equation or diagram to gesture occlusion.",
+      "subtitle_excerpt": "Times the metric of a circle,",
+      "segment_start_seconds": 971.36,
+      "segment_start_hhmmss": "00:16:11.360",
+      "segment_end_seconds": 974.2,
+      "segment_end_hhmmss": "00:16:14.200",
+      "caption_hint": "radial metric times circle metric"
+    }
+  ]
+}
