@@ -1,0 +1,38 @@
+{
+  "course_rel": "core/cosmology/2009_winter_legacy_cosmology",
+  "transcript_rel": "core/cosmology/2009_winter_legacy_cosmology/044 - Cosmology \uff5c Lecture 5 [H3D5HGZIP4s].md",
+  "video_rel": "core/cosmology/2009_winter_legacy_cosmology/044 - Cosmology \uff5c Lecture 5 [H3D5HGZIP4s].mkv",
+  "lecture_number": 5,
+  "lecture_slug": "lecture_05",
+  "lecture_title": "Cosmology : Lecture 5",
+  "assets": [
+    {
+      "name": "lecture_05_figure_02.png",
+      "timestamp_seconds": 4698.044,
+      "timestamp_hhmmss": "01:18:18.044",
+      "source_candidate": "lecture_05_window_03_candidate_02_011818044.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the clearest and most useful frame of the four. It preserves the visible spatial metric fragment on the left board, including the bracketed layout and adjacent continuation text, while keeping Susskind's gesture out of the main equation area. Candidate 1 is more lecturer-dominant, candidate 3 is very similar but slightly more occluded by his body, and candidate 4 places his hand directly over the written term.",
+      "subtitle_excerpt": "and the general relativity of these different metrics.",
+      "segment_start_seconds": 4696.22,
+      "segment_start_hhmmss": "01:18:16.220",
+      "segment_end_seconds": 4701.02,
+      "segment_end_hhmmss": "01:18:21.020",
+      "caption_hint": "spatial metric term on board"
+    },
+    {
+      "name": "lecture_05_figure_05.png",
+      "timestamp_seconds": 5454.889,
+      "timestamp_hhmmss": "01:30:54.889",
+      "source_candidate": "lecture_05_window_06_candidate_04_013054889.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame is the most useful because it preserves the fully written top equation with the energy-momentum tensor on the right-hand side while also keeping the lower 00-component line readable. Susskind's hand is no longer obscuring the symbols, and the board content is more complete than in the earlier pointing frames.",
+      "subtitle_excerpt": "You calculate the energy momentum tensor",
+      "segment_start_seconds": 5452.759,
+      "segment_start_hhmmss": "01:30:52.759",
+      "segment_end_seconds": 5455.18,
+      "segment_end_hhmmss": "01:30:55.180",
+      "caption_hint": "Einstein equation and 00 component"
+    }
+  ]
+}
