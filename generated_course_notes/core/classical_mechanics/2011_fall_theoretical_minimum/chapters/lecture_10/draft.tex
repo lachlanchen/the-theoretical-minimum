@@ -1,0 +1,445 @@
+\chapter{Lecture 10: Magnetic Fields, Gauge Invariance, and Circular Motion}
+
+These notes follow Leonard Susskind's tenth lecture on charged particles in magnetic fields, keeping close to the order in which the ideas are introduced and checked. Preserved lecture frames, assembled through LazyingArt LLC and Video2Book, are used where the board layout or a live derivation matters, but the transcript remains the primary guide. The lecture moves from the constraint \(\nabla\!\cdot\!\mathbf B=0\), to the vector potential and gauge invariance, to the magnetic Lagrangian, the emergence of the Lorentz force, the Hamiltonian description, and finally the circular motion of a charged particle in a uniform magnetic field.
+
+\section{Magnetic Fields, Constraints, and the Static Setup}
+
+We begin the way the lecture begins: magnetic fields are vector fields. They depend on position, they have magnitude and direction, and it is often convenient to write either \(\mathbf B(\mathbf x)\) or its components \(B_i(\mathbf x)\), namely \(B_x,B_y,B_z\). For the purposes of this lecture we also make a simplifying assumption: the electric and magnetic fields are static, so there is no explicit time dependence in the background fields.
+
+The first real fact is not a force law but a constraint. In ordinary classical electrodynamics there are no magnetic sources, no magnetic monopoles, and so the magnetic field must satisfy
+\begin{align}
+\nabla\!\cdot\!\mathbf B &= 0.
+\end{align}
+This is a restriction on the allowed magnetic fields. Not every vector field qualifies as a magnetic field; only those with zero divergence do.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.78\textwidth]{lecture_10_figure_02.png}
+\caption{Divergence-free magnetic field and vector potential.}
+\end{figure}
+
+At this point the lecture makes its first conceptual pivot. It would be awkward to keep checking \(\nabla\!\cdot\!\mathbf B=0\) by hand every time we write down a magnetic field, so we introduce a representation in which the constraint is automatic:
+\begin{align}
+\mathbf B &= \nabla\times \mathbf A.
+\end{align}
+The reason is the elementary identity
+\begin{align}
+\nabla\!\cdot\!(\nabla\times \mathbf A) = 0.
+\end{align}
+Thus the vector potential \(\mathbf A\) is not introduced because it is more directly physical than \(\mathbf B\). It is introduced because it solves the constraint once and for all.
+
+\section{Vector Potential and Gauge Freedom}
+
+The price of writing \(\mathbf B\) as a curl is that \(\mathbf A\) is not unique. If \(S(\mathbf x)\) is any scalar field, then
+\begin{align}
+\mathbf A \longrightarrow \mathbf A + \nabla S
+\end{align}
+does not change the magnetic field, because
+\begin{align}
+\nabla\times (\nabla S)=0.
+\end{align}
+So two vector potentials related by the addition of a gradient describe the same magnetic field. This is the electromagnetic gauge transformation, and the demand that physical quantities not depend on the choice of representative becomes the principle of gauge invariance.
+
+The lecture does not leave this at the level of slogan. It immediately turns to a uniform magnetic field, corrected from the speaker's momentary self-corrections to the intended example
+\begin{align}
+\mathbf B = (0,0,B)=B\,\hat z.
+\end{align}
+One convenient vector potential is
+\begin{align}
+A_x &= 0, & A_y &= Bx, & A_z &= 0.
+\end{align}
+Indeed,
+\begin{align}
+B_z=\frac{\partial A_y}{\partial x}-\frac{\partial A_x}{\partial y}=B.
+\end{align}
+A second gauge is
+\begin{align}
+A_x &= -By, & A_y &= 0, & A_z &= 0,
+\end{align}
+for which again
+\begin{align}
+B_z=\frac{\partial A_y}{\partial x}-\frac{\partial A_x}{\partial y}=0-(-B)=B.
+\end{align}
+
+Now let us see explicitly how one passes from one gauge to the other. Take
+\begin{align}
+S=Cxy.
+\end{align}
+Then
+\begin{align}
+\nabla S = (Cy,Cx,0).
+\end{align}
+Starting from \(A_x=0\), \(A_y=Bx\), \(A_z=0\), the transformed potential is
+\begin{align}
+A_x' &= Cy, &
+A_y' &= (B+C)x, &
+A_z' &= 0.
+\end{align}
+If we choose \(C=-B\), we obtain
+\begin{align}
+A_x'=-By,\qquad A_y'=0,\qquad A_z'=0.
+\end{align}
+If instead we choose \(C=-\frac{B}{2}\), we obtain the more symmetric representative
+\begin{align}
+A_x=-\frac{B}{2}y,\qquad A_y=\frac{B}{2}x,\qquad A_z=0.
+\end{align}
+The lecture only half-spells out this third gauge, but it is the natural completion of the computation already underway.
+
+This is more than a formal ambiguity. Different gauges can make different features manifest. The lecture explicitly pauses to stress this point: one gauge may make one symmetry obvious, another gauge a different symmetry. That practical advantage will be used later.
+
+\section{The Magnetic Lagrangian and Gauge Invariance of the Action}
+
+We now return from field kinematics to particle mechanics. The lecture writes down the Lagrangian for a point particle moving in a fixed static magnetic field. It is not yet the action for the electromagnetic field itself; it is only the action for the particle in a prescribed background:
+\begin{align}
+L
+=
+\frac{1}{2}m\left(\dot x^2+\dot y^2+\dot z^2\right)
++\frac{e}{c}\left(A_x\dot x+A_y\dot y+A_z\dot z\right).
+\end{align}
+Equivalently,
+\begin{align}
+L=\frac{1}{2}mv^2+\frac{e}{c}\,\mathbf A\cdot \mathbf v.
+\end{align}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.86\textwidth]{lecture_10_figure_03.png}
+\caption{Lagrangian with vector-potential coupling.}
+\end{figure}
+
+The form of the interaction term matters. The lecture insists on writing it in components, not because the dot product is mysterious, but because later the component structure is exactly what will feed the Euler--Lagrange calculation.
+
+Let us now check gauge invariance at the level of the action. Under
+\begin{align}
+A_i \longrightarrow A_i+\partial_i S,
+\end{align}
+the change in the action is
+\begin{align}
+\delta I
+&=
+\frac{e}{c}\int \partial_i S\,\dot x^i\,dt.
+\end{align}
+But along the trajectory,
+\begin{align}
+\frac{dS}{dt}=\partial_i S\,\dot x^i,
+\end{align}
+so
+\begin{align}
+\delta I
+=
+\frac{e}{c}\int \frac{dS}{dt}\,dt
+=
+\frac{e}{c}\big(S_f-S_i\big).
+\end{align}
+The action therefore changes, but only by an endpoint term.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} If the action changes under a gauge transformation, why are the equations of motion still gauge invariant?
+
+\paragraph{Answer.} In the variational principle the endpoints are fixed. We compare nearby trajectories that begin and end at the same spacetime points. The quantity \(S_f-S_i\) is therefore the same for every allowed variation, so adding it to the action cannot change which trajectory makes the action stationary. The action is not strictly gauge invariant, but the stationary path is. This is the sense in which the equations of motion are gauge invariant.
+
+The lecture then says what this ought to mean before the algebra begins: when we work out the equations of motion, the vector potential should disappear except through combinations that we recognize as components of \(\mathbf B\).
+
+\section{Canonical Momentum and the Lorentz Force}
+
+At this point the lecture slows down deliberately. We are told to be concrete and pedantic, and that is the right tempo here. The Euler--Lagrange equations are
+\begin{align}
+\dot p_i=\frac{\partial L}{\partial x^i},
+\qquad
+p_i=\frac{\partial L}{\partial \dot x^i}.
+\end{align}
+Now the distinction between two notions of momentum becomes unavoidable. The mechanical momentum is simply
+\begin{align}
+\mathbf p_{\mathrm{mech}}=m\mathbf v.
+\end{align}
+But the canonical momentum is defined by the Lagrangian. For the \(x\)-component,
+\begin{align}
+p_x=\frac{\partial L}{\partial \dot x}=m\dot x+\frac{e}{c}A_x.
+\end{align}
+Similarly,
+\begin{align}
+p_i=m\dot x^i+\frac{e}{c}A_i.
+\end{align}
+Thus in a magnetic field the canonical momentum and the mechanical momentum are not the same object.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.74\textwidth]{lecture_10_figure_04.png}
+\caption{Canonical momentum from the magnetic Lagrangian.}
+\end{figure}
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Is the term \(\frac{e}{c}\mathbf A\cdot \mathbf v\) kinetic energy or potential energy?
+
+\paragraph{Answer.} In the lecture the answer is: neither. It is a velocity-dependent interaction term. One can try various signs and forms, but the point of the calculation is precisely to see what this term does. What matters is that with this choice the resulting equations of motion come out gauge invariant and reproduce the magnetic force law.
+
+Now let us derive the \(x\)-equation carefully. Taking the time derivative of \(p_x\) gives
+\begin{align}
+\dot p_x
+&=
+m\ddot x+\frac{e}{c}\frac{dA_x}{dt}.
+\end{align}
+Since \(A_x\) depends on position, and the particle moves through space,
+\begin{align}
+\frac{dA_x}{dt}
+=
+\frac{\partial A_x}{\partial x}\dot x
++
+\frac{\partial A_x}{\partial y}\dot y
++
+\frac{\partial A_x}{\partial z}\dot z.
+\end{align}
+Therefore
+\begin{align}
+\dot p_x
+=
+m\ddot x
++
+\frac{e}{c}
+\left(
+\frac{\partial A_x}{\partial x}\dot x
++
+\frac{\partial A_x}{\partial y}\dot y
++
+\frac{\partial A_x}{\partial z}\dot z
+\right).
+\end{align}
+On the other hand,
+\begin{align}
+\frac{\partial L}{\partial x}
+=
+\frac{e}{c}
+\left(
+\frac{\partial A_x}{\partial x}\dot x
++
+\frac{\partial A_y}{\partial x}\dot y
++
+\frac{\partial A_z}{\partial x}\dot z
+\right).
+\end{align}
+Setting \(\dot p_x=\partial L/\partial x\), the terms proportional to \(\partial_x A_x\,\dot x\) cancel, and we are left with
+\begin{align}
+m a_x
+&=
+\frac{e}{c}
+\left[
+\left(
+-\frac{\partial A_x}{\partial y}
++\frac{\partial A_y}{\partial x}
+\right)\dot y
++
+\left(
+\frac{\partial A_z}{\partial x}
+-\frac{\partial A_x}{\partial z}
+\right)\dot z
+\right].
+\end{align}
+The lecture checks the signs on the board in real time; in the final notes it is best to regularize them by the standard conventions
+\begin{align}
+B_z&=\frac{\partial A_y}{\partial x}-\frac{\partial A_x}{\partial y},
+&
+B_y&=\frac{\partial A_x}{\partial z}-\frac{\partial A_z}{\partial x}.
+\end{align}
+With those identifications,
+\begin{align}
+m a_x
+&=
+\frac{e}{c}\left(B_z\dot y-B_y\dot z\right)
+=
+\frac{e}{c}(\mathbf v\times \mathbf B)_x.
+\end{align}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.78\textwidth]{lecture_10_figure_05.png}
+\caption{\(x\)-component of the Lorentz-force derivation.}
+\end{figure}
+
+The same computation in the other components yields the full force law
+\begin{align}
+m\mathbf a=\frac{e}{c}\,\mathbf v\times \mathbf B.
+\end{align}
+This is the Newton--Lorentz equation in the language of the lecture.
+
+A final structural point is made here. If one wants an action principle for a charged particle in a magnetic field, one is forced to work with \(\mathbf A\), not with \(\mathbf B\) alone. If one tried to build the Lagrangian directly from \(\mathbf B\) in the same style, the Euler--Lagrange machinery would naturally produce derivatives of \(\mathbf B\), not the Lorentz force law.
+
+\section{Hamiltonian, Energy, and Constant Speed}
+
+Having obtained the equations of motion, the lecture turns to the Hamiltonian. First we list the canonical momenta:
+\begin{align}
+p_x&=m\dot x+\frac{e}{c}A_x,
+&
+p_y&=m\dot y+\frac{e}{c}A_y,
+&
+p_z&=m\dot z+\frac{e}{c}A_z.
+\end{align}
+The Hamiltonian is defined by
+\begin{align}
+H=\sum_i p_i\dot x^i-L.
+\end{align}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.84\textwidth]{lecture_10_figure_06.png}
+\caption{Hamiltonian from canonical momenta.}
+\end{figure}
+
+We now solve the momentum equations for the velocities:
+\begin{align}
+\dot x&=\frac{1}{m}\left(p_x-\frac{e}{c}A_x\right),
+&
+\dot y&=\frac{1}{m}\left(p_y-\frac{e}{c}A_y\right),
+&
+\dot z&=\frac{1}{m}\left(p_z-\frac{e}{c}A_z\right).
+\end{align}
+Substituting these into the defining expression for \(H\), and cleaning up the repetitive board algebra, one finds
+\begin{align}
+H
+&=
+\frac{1}{2m}\left(p_x-\frac{e}{c}A_x\right)^2
++
+\frac{1}{2m}\left(p_y-\frac{e}{c}A_y\right)^2
++
+\frac{1}{2m}\left(p_z-\frac{e}{c}A_z\right)^2 \\
+&=
+\frac{1}{2m}\left(\mathbf p-\frac{e}{c}\mathbf A\right)^2.
+\end{align}
+This is the Hamiltonian expressed in canonical variables. But if we rewrite it in terms of the actual velocities, the same quantity is simply
+\begin{align}
+H=\frac{1}{2}m\left(\dot x^2+\dot y^2+\dot z^2\right)=\frac{1}{2}mv^2.
+\end{align}
+
+This is the conceptual twist emphasized in the lecture. The Hamiltonian as a function of \((\mathbf x,\mathbf p)\) is changed by the magnetic coupling, and therefore Hamilton's equations are changed. But the numerical value of the energy, once written in terms of the physical velocity, is still just the ordinary kinetic energy. Hence the speed is conserved.
+
+This fits the force law. Since \(\mathbf v\times \mathbf B\) is perpendicular to \(\mathbf v\), the magnetic field changes the direction of motion but not the magnitude of the velocity.
+
+\section{Uniform Magnetic Field: Gauge Choice and Circular Motion}
+
+After the break the lecture returns to the uniform field \(\mathbf B=B\hat z\) and puts the earlier gauges to work.
+
+Take first the gauge
+\begin{align}
+A_x=0,\qquad A_y=Bx,\qquad A_z=0.
+\end{align}
+Then the Lagrangian becomes
+\begin{align}
+L
+=
+\frac{1}{2}m\left(\dot x^2+\dot y^2+\dot z^2\right)
++
+\frac{e}{c}Bx\,\dot y.
+\end{align}
+This depends on \(x\), but not on \(y\) or \(z\). Therefore \(y\) and \(z\) are cyclic coordinates, and the corresponding canonical momenta are conserved.
+
+For \(z\),
+\begin{align}
+p_z=m\dot z,
+\qquad
+\dot p_z=0,
+\end{align}
+so
+\begin{align}
+a_z=0.
+\end{align}
+Thus there is no acceleration along the magnetic field.
+
+For \(y\),
+\begin{align}
+p_y=m\dot y+\frac{e}{c}Bx,
+\qquad
+\dot p_y=0,
+\end{align}
+and therefore
+\begin{align}
+m a_y+\frac{e}{c}B v_x=0,
+\end{align}
+or
+\begin{align}
+m a_y=-\frac{e}{c}B v_x.
+\end{align}
+
+Now the lecture performs the neat trick it promised earlier: switch gauges. In the gauge
+\begin{align}
+A_x=-By,\qquad A_y=0,\qquad A_z=0,
+\end{align}
+the Lagrangian becomes
+\begin{align}
+L
+=
+\frac{1}{2}m\left(\dot x^2+\dot y^2+\dot z^2\right)
+-
+\frac{e}{c}By\,\dot x.
+\end{align}
+Now it is \(x\) that is cyclic. Hence
+\begin{align}
+p_x=m\dot x-\frac{e}{c}By,
+\qquad
+\dot p_x=0,
+\end{align}
+which gives
+\begin{align}
+m a_x-\frac{e}{c}B v_y=0,
+\end{align}
+or
+\begin{align}
+m a_x=\frac{e}{c}B v_y.
+\end{align}
+Together with \(a_z=0\), these are exactly the components of the Lorentz force law for a uniform magnetic field in the \(z\)-direction. The point is not that this is a new force law; the point is that a judicious choice of gauge can make different conservation laws immediate.
+
+We can now forget the formal machinery and return to the geometry of the motion. In the \(xy\)-plane, with \(\mathbf B=B\hat z\),
+\begin{align}
+m\mathbf a=\frac{e}{c}\,\mathbf v\times \mathbf B.
+\end{align}
+The acceleration is perpendicular to \(\mathbf v\), and from the previous section the speed \(v\) is constant. Since \(|\mathbf B|\) is also constant, the magnitude of the acceleration is constant as well. Motion with constant speed and acceleration always perpendicular to the velocity is uniform circular motion.
+
+Let \(r\) be the radius of the orbit. Then
+\begin{align}
+|\mathbf a|=\frac{v^2}{r},
+\qquad
+|\mathbf v\times \mathbf B|=vB,
+\end{align}
+so the force law gives
+\begin{align}
+m\frac{v^2}{r}=\frac{e}{c}vB.
+\end{align}
+Canceling one power of \(v\), we obtain
+\begin{align}
+r=\frac{mcv}{eB}.
+\end{align}
+The lecture briefly drops the factor of \(c\) and then restores it; with the convention \(m\mathbf a=\frac{e}{c}\mathbf v\times\mathbf B\), this is the consistent final form.
+
+The center of the circle is not fixed by the force law. Any point in the plane can serve as the center of a circular orbit, and different speeds correspond to different radii. What the field determines is the relation between \(r\) and \(v\), not the location of the guiding center.
+
+\section{Limits of the Formalism}
+
+The late questions in the lecture are worth preserving, but they belong at the edge of the chapter rather than in its algebraic spine.
+
+First, canonical momentum is not itself directly measurable. The gauge-invariant and directly physical quantity is the mechanical momentum \(m\mathbf v\). Nevertheless the canonical momentum is indispensable: it is the momentum that enters Hamilton's equations and the formal phase-space machinery.
+
+Second, Maxwell's equations are not being derived here. The fields are treated as fixed backgrounds. To incorporate the dynamics of the electromagnetic field itself, one must enlarge the action by terms involving the field degrees of freedom. Only then does gauge symmetry take on its full dynamical role.
+
+Third, if \(\nabla\!\cdot\!\mathbf B\neq 0\), then the simple vector-potential construction breaks down. One could still postulate the Lorentz force law
+\begin{align}
+m\mathbf a=\frac{e}{c}\mathbf v\times\mathbf B
+\end{align}
+as an equation of motion, but one would no longer have the same elementary Lagrangian formulation in terms of a globally defined vector potential. Classically one might shrug and keep the equation of motion. For the deeper formalism, and especially for quantum mechanics, that loss is much more serious.
+
+Finally, the lecture widens into remarks about magnetic monopoles and quaternions. The monopole discussion serves mainly as a reminder that the condition \(\nabla\!\cdot\!\mathbf B=0\) is an empirical and theoretical input of ordinary classical electrodynamics, not a logical necessity. The quaternion discussion is historical and separate from the present derivation.
+
+\section{Summary}
+
+The lecture begins not with a force law but with a constraint: \(\nabla\!\cdot\!\mathbf B=0\). From there it introduces the vector potential as the automatic solution of that constraint, accepts the resulting gauge ambiguity, and turns that ambiguity into the principle of gauge invariance. The particle Lagrangian
+\begin{align}
+L=\frac{1}{2}mv^2+\frac{e}{c}\mathbf A\cdot \mathbf v
+\end{align}
+then leads, through a careful component calculation, to the Lorentz force law
+\begin{align}
+m\mathbf a=\frac{e}{c}\mathbf v\times\mathbf B.
+\end{align}
+The Hamiltonian formulation shows that the numerical energy is still \(\frac{1}{2}mv^2\), so the magnetic field bends the trajectory without changing the speed. In the uniform field example, different gauges expose different cyclic coordinates, and together they lead us back to the same conclusion: in the plane transverse to the field, the orbit is circular, with radius
+\begin{align}
+r=\frac{mcv}{eB}.
+\end{align}
+The argument is characteristic of the lecture as a whole: introduce a device, pay its price, discover the invariant content, and then cash it out in a concrete motion we can visualize.
