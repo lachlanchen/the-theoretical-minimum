@@ -1,0 +1,80 @@
+{
+  "course_rel": "core/cosmology/2009_winter_legacy_cosmology",
+  "transcript_rel": "core/cosmology/2009_winter_legacy_cosmology/047 - Cosmology \uff5c Lecture 8 [9R57sdG61tA].md",
+  "video_rel": "core/cosmology/2009_winter_legacy_cosmology/047 - Cosmology \uff5c Lecture 8 [9R57sdG61tA].mkv",
+  "lecture_number": 8,
+  "lecture_slug": "lecture_08",
+  "lecture_title": "Cosmology : Lecture 8",
+  "assets": [
+    {
+      "name": "lecture_08_figure_01.png",
+      "timestamp_seconds": 8.63865,
+      "timestamp_hhmmss": "00:00:08.639",
+      "source_candidate": "lecture_08_window_01_candidate_03_000008639.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "None of the candidate frames are useful for lecture-note figures. They are all Stanford University title cards with no blackboard mathematics, diagram, or classroom layout, and the instructions explicitly say to reject title cards even when visually clean.",
+      "subtitle_excerpt": "This program is brought to you by Stanford University.",
+      "segment_start_seconds": 6.779,
+      "segment_start_hhmmss": "00:00:06.779",
+      "segment_end_seconds": 9.64,
+      "segment_end_hhmmss": "00:00:09.640",
+      "caption_hint": "Stanford title card"
+    },
+    {
+      "name": "lecture_08_figure_02.png",
+      "timestamp_seconds": 1594.298,
+      "timestamp_hhmmss": "00:26:34.298",
+      "source_candidate": "lecture_08_window_03_candidate_03_002634298.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "But its potential energy can't go anywhere.",
+      "segment_start_seconds": 1592.66,
+      "segment_start_hhmmss": "00:26:32.660",
+      "segment_end_seconds": 1595.18,
+      "segment_end_hhmmss": "00:26:35.180",
+      "caption_hint": "But its potential energy can't go anywhere."
+    },
+    {
+      "name": "lecture_08_figure_03.png",
+      "timestamp_seconds": 2603.409,
+      "timestamp_hhmmss": "00:43:23.409",
+      "source_candidate": "lecture_08_window_04_candidate_02_004323409.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame is the clearest and most useful for note writing because it preserves the full qualitative shape of the potential with minimal occlusion. The long left plateau, sharp drop, local minimum, and rising right-hand branch are all visible at once, while the lecturer\u2019s hand sits low enough that it does not cover the essential turning points of the curve. The neighboring frames are similar, but this one is the most balanced and readable.",
+      "subtitle_excerpt": "then the value of the potential energy",
+      "segment_start_seconds": 2602.52,
+      "segment_start_hhmmss": "00:43:22.520",
+      "segment_end_seconds": 2604.86,
+      "segment_end_hhmmss": "00:43:24.860",
+      "caption_hint": "Potential-energy sketch with plateau and minimum"
+    },
+    {
+      "name": "lecture_08_figure_04.png",
+      "timestamp_seconds": 3261.665,
+      "timestamp_hhmmss": "00:54:21.665",
+      "source_candidate": "lecture_08_window_05_candidate_03_005421665.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "the equation of motion for Lagrangian?",
+      "segment_start_seconds": 3260.56,
+      "segment_start_hhmmss": "00:54:20.560",
+      "segment_end_seconds": 3262.26,
+      "segment_end_hhmmss": "00:54:22.260",
+      "caption_hint": "the equation of motion for Lagrangian?"
+    },
+    {
+      "name": "lecture_08_figure_05.png",
+      "timestamp_seconds": 3430.5935,
+      "timestamp_hhmmss": "00:57:10.594",
+      "source_candidate": "lecture_08_window_06_candidate_03_005710594.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "the derivative of the potential energy.",
+      "segment_start_seconds": 3429.43,
+      "segment_start_hhmmss": "00:57:09.430",
+      "segment_end_seconds": 3431.22,
+      "segment_end_hhmmss": "00:57:11.220",
+      "caption_hint": "the derivative of the potential energy."
+    }
+  ]
+}
