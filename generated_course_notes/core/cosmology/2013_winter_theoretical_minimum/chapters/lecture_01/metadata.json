@@ -1,0 +1,80 @@
+{
+  "course_rel": "core/cosmology/2013_winter_theoretical_minimum",
+  "transcript_rel": "core/cosmology/2013_winter_theoretical_minimum/165 - Cosmology Lecture 1 [P-medYaqVak].md",
+  "video_rel": "core/cosmology/2013_winter_theoretical_minimum/165 - Cosmology Lecture 1 [P-medYaqVak].webm",
+  "lecture_number": 1,
+  "lecture_slug": "lecture_01",
+  "lecture_title": "Cosmology Lecture 1",
+  "assets": [
+    {
+      "name": "lecture_01_figure_02.png",
+      "timestamp_seconds": 3537.091,
+      "timestamp_hhmmss": "00:58:57.091",
+      "source_candidate": "lecture_01_window_02_candidate_02_005857091.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the clearest and most stable frame of the set. The visible board content is fully legible, with the mass sketch at left and the kinetic-energy expression at right unobscured by motion or pointing gestures. Candidate 1 has more body occlusion, and candidates 3 and 4 introduce hand motion that makes the frame less clean for note writing.",
+      "subtitle_excerpt": "But what about the potential energy?",
+      "segment_start_seconds": 3536.24,
+      "segment_start_hhmmss": "00:58:56.240",
+      "segment_end_seconds": 3538.48,
+      "segment_end_hhmmss": "00:58:58.480",
+      "caption_hint": "Moving mass and kinetic-energy term"
+    },
+    {
+      "name": "lecture_01_figure_03.png",
+      "timestamp_seconds": 3697.316,
+      "timestamp_hhmmss": "01:01:37.316",
+      "source_candidate": "lecture_01_window_03_candidate_03_010137316.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame captures the most complete and useful board state in the window. It keeps both boxed cosmology equations legible on the left and center while also preserving the right-side Newtonian sketch and force-law notation tied to the zero-energy discussion. Candidate 1 is more occluded, candidate 2 hides more of the central boxed equation, and candidate 4 is slightly less clean because of the larger hand gesture.",
+      "subtitle_excerpt": "Energy equals zero is a",
+      "segment_start_seconds": 3695.6,
+      "segment_start_hhmmss": "01:01:35.600",
+      "segment_end_seconds": 3698.24,
+      "segment_end_hhmmss": "01:01:38.240",
+      "caption_hint": "Boxed acceleration equations and zero-energy sketch"
+    },
+    {
+      "name": "lecture_01_figure_04.png",
+      "timestamp_seconds": 3854.088,
+      "timestamp_hhmmss": "01:04:14.088",
+      "source_candidate": "lecture_01_window_04_candidate_02_010414088.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This is the clearest and most balanced frame in the set. The right-side inverse-square force equation and the accompanying particle-on-a-line sketch are both fully legible, while enough of the adjacent boxed cosmology work remains visible to preserve the board context. Candidate 1 is similar but slightly less settled, candidate 3 has more head-turn motion, and candidate 4 loses more of the left-board context while the lecturer is in mid-step.",
+      "subtitle_excerpt": "the potential energy of this particle,",
+      "segment_start_seconds": 3853.32,
+      "segment_start_hhmmss": "01:04:13.320",
+      "segment_end_seconds": 3855.34,
+      "segment_end_hhmmss": "01:04:15.340",
+      "caption_hint": "Particle force law and radial sketch"
+    },
+    {
+      "name": "lecture_01_figure_05.png",
+      "timestamp_seconds": 3972.299,
+      "timestamp_hhmmss": "01:06:12.299",
+      "source_candidate": "lecture_01_window_05_candidate_01_010612299.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the clearest frame for note writing because the full visible energy expression and the mass labels are unobscured. The later candidates add a pointing gesture that helps rhetorically, but the hand and shadow begin to cover the very term being identified as the potential energy. For documenting the mathematics, this first frame is the cleanest witness.",
+      "subtitle_excerpt": "That's the potential energy.",
+      "segment_start_seconds": 3972.1,
+      "segment_start_hhmmss": "01:06:12.100",
+      "segment_end_seconds": 3973.76,
+      "segment_end_hhmmss": "01:06:13.760",
+      "caption_hint": "Kinetic and potential energy terms"
+    },
+    {
+      "name": "lecture_01_figure_06.png",
+      "timestamp_seconds": 4484.124,
+      "timestamp_hhmmss": "01:14:44.124",
+      "source_candidate": "lecture_01_window_06_candidate_01_011444124.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the cleanest frame for note writing. The two displayed relations involving \\((\\dot a/a)^2\\) are both clearly visible, and the lecturer is not yet making a larger gesture that would add motion or shadow without adding board information. The later candidates are more gestural but do not improve the mathematical content.",
+      "subtitle_excerpt": "a dot equals 0 would be the universe turning around.",
+      "segment_start_seconds": 4483.68,
+      "segment_start_hhmmss": "01:14:43.680",
+      "segment_end_seconds": 4487.38,
+      "segment_end_hhmmss": "01:14:47.380",
+      "caption_hint": "Matter-dominated Friedmann scaling"
+    }
+  ]
+}
