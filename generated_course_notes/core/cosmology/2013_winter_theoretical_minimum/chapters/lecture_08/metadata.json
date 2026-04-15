@@ -1,0 +1,66 @@
+{
+  "course_rel": "core/cosmology/2013_winter_theoretical_minimum",
+  "transcript_rel": "core/cosmology/2013_winter_theoretical_minimum/172 - Cosmology Lecture 8 [gdFldkitkJA].md",
+  "video_rel": "core/cosmology/2013_winter_theoretical_minimum/172 - Cosmology Lecture 8 [gdFldkitkJA].mkv",
+  "lecture_number": 8,
+  "lecture_slug": "lecture_08",
+  "lecture_title": "Cosmology Lecture 8",
+  "assets": [
+    {
+      "name": "lecture_08_figure_02.png",
+      "timestamp_seconds": 851.37,
+      "timestamp_hhmmss": "00:14:11.370",
+      "source_candidate": "lecture_08_window_02_candidate_04_001411370.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "Candidate 04 is the clearest frame in this window because the initial diagram element is the most finished: the top horizontal line and the label 'P' are fully visible, and Susskind's writing hand has moved away. Earlier candidates are more in-progress and more occluded. The diagram is still only beginning here, so the frame is best used as board evidence alongside a later transcript-backed redraw.",
+      "subtitle_excerpt": "I'll draw it as a kind of Feynman diagram.",
+      "segment_start_seconds": 849.98,
+      "segment_start_hhmmss": "00:14:09.980",
+      "segment_end_seconds": 851.56,
+      "segment_end_hhmmss": "00:14:11.560",
+      "caption_hint": "Start of proton Feynman-style sketch"
+    },
+    {
+      "name": "lecture_08_figure_03.png",
+      "timestamp_seconds": 1223.28,
+      "timestamp_hhmmss": "00:20:23.280",
+      "source_candidate": "lecture_08_window_03_candidate_04_002023280.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 04 is the most useful frame because the notation for the new symmetry is the most developed: the line beginning 'C =' has progressed far enough to clearly indicate charge conjugation, while the earlier baryon-number formula above it remains legible. Earlier candidates are sharper only in the sense of being less written; they are too incomplete to serve note writing as well as this one.",
+      "subtitle_excerpt": "this is called C equals charge conjugation symmetry,",
+      "segment_start_seconds": 1218.4,
+      "segment_start_hhmmss": "00:20:18.400",
+      "segment_end_seconds": 1223.88,
+      "segment_end_hhmmss": "00:20:23.880",
+      "caption_hint": "Charge conjugation notation on board"
+    },
+    {
+      "name": "lecture_08_figure_04.png",
+      "timestamp_seconds": 1465.537,
+      "timestamp_hhmmss": "00:24:25.537",
+      "source_candidate": "lecture_08_window_04_candidate_04_002425537.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "Candidate 04 is the best frame because it preserves the most complete visible form of the equation being written while also keeping the pre-existing circular arrow diagram on the right clearly in view. Earlier frames show less of the equation. Although Susskind's hand still covers part of the final writing stroke, this frame is the strongest combined record of the equation cue and the board sketch.",
+      "subtitle_excerpt": "i d psi by dt equals,",
+      "segment_start_seconds": 1463.02,
+      "segment_start_hhmmss": "00:24:23.020",
+      "segment_end_seconds": 1465.88,
+      "segment_end_hhmmss": "00:24:25.880",
+      "caption_hint": "Time-evolution equation with loop sketch"
+    },
+    {
+      "name": "lecture_08_figure_06.png",
+      "timestamp_seconds": 5709.513,
+      "timestamp_hhmmss": "01:35:09.513",
+      "source_candidate": "lecture_08_window_06_candidate_02_013509513.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 02 is the clearest frame for this subtitle window because it shows the relevant equation pair most fully and legibly: the potential written as a function of the field and the force identified with minus its derivative. Earlier and later frames either obscure part of the formula or shift attention toward other board material that is less directly tied to the subtitle.",
+      "subtitle_excerpt": "The derivative of the potential is the",
+      "segment_start_seconds": 5708.7,
+      "segment_start_hhmmss": "01:35:08.700",
+      "segment_end_seconds": 5710.84,
+      "segment_end_hhmmss": "01:35:10.840",
+      "caption_hint": "Potential derivative and force relation"
+    }
+  ]
+}
