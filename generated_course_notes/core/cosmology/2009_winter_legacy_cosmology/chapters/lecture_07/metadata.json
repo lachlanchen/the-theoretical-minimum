@@ -1,0 +1,52 @@
+{
+  "course_rel": "core/cosmology/2009_winter_legacy_cosmology",
+  "transcript_rel": "core/cosmology/2009_winter_legacy_cosmology/046 - Cosmology \uff5c Lecture 7 [KATSfJjZGVQ].md",
+  "video_rel": "core/cosmology/2009_winter_legacy_cosmology/046 - Cosmology \uff5c Lecture 7 [KATSfJjZGVQ].mkv",
+  "lecture_number": 7,
+  "lecture_slug": "lecture_07",
+  "lecture_title": "Cosmology : Lecture 7",
+  "assets": [
+    {
+      "name": "lecture_07_figure_02.png",
+      "timestamp_seconds": 1837.939,
+      "timestamp_hhmmss": "00:30:37.939",
+      "source_candidate": "lecture_07_window_02_candidate_02_003037939.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the clearest and most balanced frame of the four. The right-board equation \\(D=c/H\\) is fully legible, the partial heading above it remains visible, and there is slightly less motion and occlusion than in the later turning frame. It also preserves enough of the left-board context to document the board layout without letting the lecturer dominate the image.",
+      "subtitle_excerpt": "Hamiltonians and energy to Einstein's field equations...",
+      "segment_start_seconds": 1836.97,
+      "segment_start_hhmmss": "00:30:36.970",
+      "segment_end_seconds": 1839.52,
+      "segment_end_hhmmss": "00:30:39.520",
+      "caption_hint": "Hubble distance relation"
+    },
+    {
+      "name": "lecture_07_figure_03.png",
+      "timestamp_seconds": 2828.822,
+      "timestamp_hhmmss": "00:47:08.822",
+      "source_candidate": "lecture_07_window_03_candidate_04_004708822.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This is the best frame because it captures the full teaching point of the subtitle window: not just the notation \\(\\phi\\) and \\(V(\\phi)\\), but also the plotted potential profile showing how the potential varies with position in field space. Compared with the earlier candidates, the graph is more complete and the board layout is more informative for note writing, while the lecturer\u2019s hand does not obscure the essential shape of the curve.",
+      "subtitle_excerpt": "And the potential energy can vary from point to point.",
+      "segment_start_seconds": 2825.46,
+      "segment_start_hhmmss": "00:47:05.460",
+      "segment_end_seconds": 2829.28,
+      "segment_end_hhmmss": "00:47:09.280",
+      "caption_hint": "Potential $V(\\phi)$ sketch"
+    },
+    {
+      "name": "lecture_07_figure_04.png",
+      "timestamp_seconds": 3750.27,
+      "timestamp_hhmmss": "01:02:30.270",
+      "source_candidate": "lecture_07_window_05_candidate_04_010230270.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This is the clearest and most useful frame for note writing. The lecturer has stepped away enough that the full qualitative shape of the potential is visible: a high left plateau, a long nearly flat section, and a steep drop toward the right-hand minimum. The earlier candidates show the same sketch while it is being actively pointed at or traced, which obscures the plateau and makes the profile harder to read.",
+      "subtitle_excerpt": "that the potential energy up here was very much larger",
+      "segment_start_seconds": 3747.41,
+      "segment_start_hhmmss": "01:02:27.410",
+      "segment_end_seconds": 3750.66,
+      "segment_end_hhmmss": "01:02:30.660",
+      "caption_hint": "High plateau of the potential"
+    }
+  ]
+}
