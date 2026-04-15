@@ -1,0 +1,80 @@
+{
+  "course_rel": "core/general_relativity/2012_fall_theoretical_minimum",
+  "transcript_rel": "core/general_relativity/2012_fall_theoretical_minimum/162 - General Relativity Lecture 8 [q6j180O9H84].md",
+  "video_rel": "core/general_relativity/2012_fall_theoretical_minimum/162 - General Relativity Lecture 8 [q6j180O9H84].mkv",
+  "lecture_number": 8,
+  "lecture_slug": "lecture_08",
+  "lecture_title": "General Relativity Lecture 8",
+  "assets": [
+    {
+      "name": "lecture_08_figure_01.png",
+      "timestamp_seconds": 0.0,
+      "timestamp_hhmmss": "00:00:00.000",
+      "source_candidate": "lecture_08_window_01_candidate_03_000005800.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "All four candidates are opening title-card frames showing the Stanford University logo on a dark background. None contains blackboard mathematics, diagrams, lecture layout, or any note-writing evidence, so this subtitle window should be rejected for the visual archive.",
+      "subtitle_excerpt": "Stanford University.",
+      "segment_start_seconds": 5.139,
+      "segment_start_hhmmss": "00:00:05.139",
+      "segment_end_seconds": 6.26,
+      "segment_end_hhmmss": "00:00:06.260",
+      "caption_hint": "Stanford University title card"
+    },
+    {
+      "name": "lecture_08_figure_02.png",
+      "timestamp_seconds": 174.446,
+      "timestamp_hhmmss": "00:02:54.446",
+      "source_candidate": "lecture_08_window_03_candidate_02_000254446.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This is the clearest and least occluded frame. The lecturer has moved almost entirely out of the shot, while the full crossed blue null lines, all four region labels, and the family of red curved lines on the right are visible at once. The other candidates are either slightly more occluded by the lecturer or offer no additional diagrammatic information.",
+      "subtitle_excerpt": "near the horizon of the black hole.",
+      "segment_start_seconds": 173.8,
+      "segment_start_hhmmss": "00:02:53.800",
+      "segment_end_seconds": 175.5,
+      "segment_end_hhmmss": "00:02:55.500",
+      "caption_hint": "Four-region black hole diagram near the horizon"
+    },
+    {
+      "name": "lecture_08_figure_03.png",
+      "timestamp_seconds": 1198.008,
+      "timestamp_hhmmss": "00:19:58.008",
+      "source_candidate": "lecture_08_window_04_candidate_03_001958008.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "So let's write T plus equals T minus.",
+      "segment_start_seconds": 1196.5,
+      "segment_start_hhmmss": "00:19:56.500",
+      "segment_end_seconds": 1198.82,
+      "segment_end_hhmmss": "00:19:58.820",
+      "caption_hint": "So let's write T plus equals T minus."
+    },
+    {
+      "name": "lecture_08_figure_04.png",
+      "timestamp_seconds": 2279.315,
+      "timestamp_hhmmss": "00:37:59.315",
+      "source_candidate": "lecture_08_window_05_candidate_02_003759315.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame is the cleanest and most stable view of the completed board sketch. The red top label \"singularity\" is legible, the left black diamond and the right deformed red-black region are both visible, and the lecturer is not significantly occluding the important lines. Candidate 1 is more gesture-occluded, while candidates 3 and 4 do not improve the diagram\u2019s readability.",
+      "subtitle_excerpt": "diagram of a real black hole.",
+      "segment_start_seconds": 2278.67,
+      "segment_start_hhmmss": "00:37:58.670",
+      "segment_end_seconds": 2280.16,
+      "segment_end_hhmmss": "00:38:00.160",
+      "caption_hint": "Real black hole causal diagram with singularity"
+    },
+    {
+      "name": "lecture_08_figure_05.png",
+      "timestamp_seconds": 3146.43,
+      "timestamp_hhmmss": "00:52:26.430",
+      "source_candidate": "lecture_08_window_06_candidate_03_005226430.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "So let's redraw the Schwarzschild black hole to",
+      "segment_start_seconds": 3144.662,
+      "segment_start_hhmmss": "00:52:24.662",
+      "segment_end_seconds": 3147.382,
+      "segment_end_hhmmss": "00:52:27.382",
+      "caption_hint": "So let's redraw the Schwarzschild black hole to"
+    }
+  ]
+}
