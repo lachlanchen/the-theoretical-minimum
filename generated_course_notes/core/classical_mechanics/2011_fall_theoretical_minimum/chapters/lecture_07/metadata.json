@@ -12,7 +12,7 @@
       "timestamp_hhmmss": "00:07:29.737",
       "source_candidate": "lecture_07_window_03_candidate_03_000729737.png",
       "recommended_use": "screenshot_plus_equation",
-      "rationale": "This frame gives the cleanest, most legible view of the board. The Hamiltonian notation and the equation for the momentum derivative are both fully visible, and Susskind has moved far enough left that his hands no longer interfere with the formula. The neighboring frames are either partially occluded by his gesture or slightly more cluttered.",
+      "rationale": "This is the clearest and most useful frame in the window. The blackboard content is fully legible, the abstract setup is cleanly staged, and Susskind has moved far enough left that his hands no longer interfere with the equation. The neighboring frames are slightly more occluded or visually busier.",
       "subtitle_excerpt": "And there's a Hamiltonian equation",
       "segment_start_seconds": 448.32,
       "segment_start_hhmmss": "00:07:28.320",
@@ -26,13 +26,13 @@
       "timestamp_hhmmss": "01:00:11.107",
       "source_candidate": "lecture_07_window_04_candidate_01_010011107.png",
       "recommended_use": "screenshot_plus_equation",
-      "rationale": "This is the clearest and most complete frame in the window. The key equation is already written and fully legible, and Susskind is not yet blocking the board while adding the next line. The later candidates are dominated by the act of writing and leave the new material incomplete.",
+      "rationale": "This is the clearest and most complete frame in the window. The worked-example Hamiltonian is already written and the first phase-space velocity relation is fully legible, while Susskind is still far enough left not to block the board. The later candidates are dominated by the act of writing and leave the new material incomplete or more heavily occluded.",
       "subtitle_excerpt": "So the first equation is vp equals...",
       "segment_start_seconds": 3610.5,
       "segment_start_hhmmss": "01:00:10.500",
       "segment_end_seconds": 3615.56,
       "segment_end_hhmmss": "01:00:15.560",
-      "caption_hint": "first phase-space velocity equation"
+      "caption_hint": "Beginning the H=pq flow example"
     }
   ]
 }
