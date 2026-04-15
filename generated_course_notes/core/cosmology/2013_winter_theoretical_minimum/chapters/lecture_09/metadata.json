@@ -1,0 +1,80 @@
+{
+  "course_rel": "core/cosmology/2013_winter_theoretical_minimum",
+  "transcript_rel": "core/cosmology/2013_winter_theoretical_minimum/173 - Cosmology Lecture 9 [hADOY0TzLic].md",
+  "video_rel": "core/cosmology/2013_winter_theoretical_minimum/173 - Cosmology Lecture 9 [hADOY0TzLic].mkv",
+  "lecture_number": 9,
+  "lecture_slug": "lecture_09",
+  "lecture_title": "Cosmology Lecture 9",
+  "assets": [
+    {
+      "name": "lecture_09_figure_02.png",
+      "timestamp_seconds": 551.73,
+      "timestamp_hhmmss": "00:09:11.730",
+      "source_candidate": "lecture_09_window_02_candidate_04_000911730.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 04 is the best frame because it preserves the most finished visible board content while removing the lecturer\u2019s head and writing hand from the equation area. The fragment is still incomplete, but this frame is the sharpest and least occluded record of the board layout at this moment, making it the most useful screenshot to pair with a cleaned transcript-backed equation.",
+      "subtitle_excerpt": "derivative of a Lagrangian with respect to the potential",
+      "segment_start_seconds": 547.84,
+      "segment_start_hhmmss": "00:09:07.840",
+      "segment_end_seconds": 552.26,
+      "segment_end_hhmmss": "00:09:12.260",
+      "caption_hint": "Start of the Euler-Lagrange term"
+    },
+    {
+      "name": "lecture_09_figure_03.png",
+      "timestamp_seconds": 653.836,
+      "timestamp_hhmmss": "00:10:53.836",
+      "source_candidate": "lecture_09_window_03_candidate_04_001053836.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 04 is the strongest frame because the board content is the most developed and legible in a single shot. It preserves the visible potential notation on the left and the key equation on the right, where the derivative of the potential with respect to the field variable is most clearly written. Earlier candidates are slightly less finished and show less of the right-hand equation.",
+      "subtitle_excerpt": "derivative of the potential energy with respect to position,",
+      "segment_start_seconds": 651.61,
+      "segment_start_hhmmss": "00:10:51.610",
+      "segment_end_seconds": 654.14,
+      "segment_end_hhmmss": "00:10:54.140",
+      "caption_hint": "Potential derivative in the field equation"
+    },
+    {
+      "name": "lecture_09_figure_04.png",
+      "timestamp_seconds": 806.528,
+      "timestamp_hhmmss": "00:13:26.528",
+      "source_candidate": "lecture_09_window_04_candidate_04_001326528.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 04 is the most useful frame because it combines the potential sketch on the left with the most developed visible notation on the right at the moment Susskind discusses passing from the energy to the Lagrangian. Earlier candidates show less of the right-hand expressions or have more of the gesture blocking the mathematical content.",
+      "subtitle_excerpt": "When you go from the energy to the Lagrangian,",
+      "segment_start_seconds": 803.36,
+      "segment_start_hhmmss": "00:13:23.360",
+      "segment_end_seconds": 806.96,
+      "segment_end_hhmmss": "00:13:26.960",
+      "caption_hint": "Energy-to-Lagrangian sign change"
+    },
+    {
+      "name": "lecture_09_figure_05.png",
+      "timestamp_seconds": 1115.38,
+      "timestamp_hhmmss": "00:18:35.380",
+      "source_candidate": "lecture_09_window_05_candidate_01_001835380.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 01 is the best of a very similar set because it gives the clearest overall balance between the two blackboard regions: on the left the force term is already identified as the derivative of the potential, and on the right the expanding-universe version of the equation is visible with the Hubble-friction form below it. Later candidates do not add meaningful board content and are not visibly cleaner.",
+      "subtitle_excerpt": "That's just the derivative of the potential.",
+      "segment_start_seconds": 1115.12,
+      "segment_start_hhmmss": "00:18:35.120",
+      "segment_end_seconds": 1116.34,
+      "segment_end_hhmmss": "00:18:36.340",
+      "caption_hint": "Derivative of the potential and Hubble friction"
+    },
+    {
+      "name": "lecture_09_figure_06.png",
+      "timestamp_seconds": 2464.178,
+      "timestamp_hhmmss": "00:41:04.178",
+      "source_candidate": "lecture_09_window_06_candidate_04_004104178.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 04 is the best frame because it preserves the most useful combination of board material with the least obstruction: the Friedmann equation with scalar-field energy density is still legible above, while the boxed lower expression featuring V(\\phi) is the clearest and is being directly indicated by Susskind\u2019s hand. Earlier candidates either cover more of the coefficient or emphasize less complete parts of the board.",
+      "subtitle_excerpt": "It's the derivative of the potential",
+      "segment_start_seconds": 2462.4,
+      "segment_start_hhmmss": "00:41:02.400",
+      "segment_end_seconds": 2464.42,
+      "segment_end_hhmmss": "00:41:04.420",
+      "caption_hint": "Potential-dominated Friedmann term"
+    }
+  ]
+}
