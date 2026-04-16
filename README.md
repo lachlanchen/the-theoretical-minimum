@@ -45,6 +45,11 @@ It combines lecture transcriptions, subtitle files, generated TeX notes, compile
       <strong>Quantum Mechanics</strong><br>
       <sub>2012 Winter Theoretical Minimum</sub>
     </td>
+    <td align="center">
+      <a href="core_special_relativity/2012_spring_theoretical_minimum/special_relativity_theoretical_minimum.pdf"><img src="figs/readme-covers/special_relativity_theoretical_minimum.png" width="170" alt="Special Relativity cover"></a><br>
+      <strong>Special Relativity</strong><br>
+      <sub>2012 Spring Theoretical Minimum</sub>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -218,15 +223,14 @@ For generated notes, each course folder usually contains:
 
 Open the PDFs in the relevant course folder, for example:
 
-- `core_general_relativity/lesson_1.pdf`
-- `core_general_relativity/2012_fall_theoretical_minimum/general_relativity_theoretical_minimum.pdf`
-- `core_cosmology/lesson_1.pdf`
-- `core_cosmology/2013_winter_theoretical_minimum/cosmology_theoretical_minimum.pdf`
-- `core_cosmology/2009_winter_legacy_cosmology/cosmology_legacy.pdf`
-- `core_statistical_mechanics/lesson_1.pdf`
 - `core_classical_mechanics/2011_fall_theoretical_minimum/classical_mechanics_theoretical_minimum.pdf`
 - `core_classical_mechanics/2011_fall_modern_physics_stanford_partial/classical_mechanics_stanford_partial.pdf`
 - `core_quantum_mechanics/2012_winter_theoretical_minimum/quantum_mechanics_theoretical_minimum.pdf`
+- `core_special_relativity/2012_spring_theoretical_minimum/special_relativity_theoretical_minimum.pdf`
+- `core_general_relativity/2012_fall_theoretical_minimum/general_relativity_theoretical_minimum.pdf`
+- `core_cosmology/2013_winter_theoretical_minimum/cosmology_theoretical_minimum.pdf`
+- `core_cosmology/2009_winter_legacy_cosmology/cosmology_legacy.pdf`
+- `core_statistical_mechanics/lesson_1.pdf`
 - `supplemental_advanced_quantum/advanced_quantum_mechanics.pdf`
 - `supplemental_cosmology_and_black_holes/topics_in_string_theory.pdf`
 - `supplemental_higgs_boson/demystifying_the_higgs_boson.pdf`
