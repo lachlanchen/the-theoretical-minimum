@@ -1,0 +1,80 @@
+{
+  "course_rel": "core/special_relativity/2012_spring_theoretical_minimum",
+  "transcript_rel": "core/special_relativity/2012_spring_theoretical_minimum/142 - Special Relativity \uff5c Lecture 9 [sGyXdCb0l50].md",
+  "video_rel": "core/special_relativity/2012_spring_theoretical_minimum/142 - Special Relativity \uff5c Lecture 9 [sGyXdCb0l50].mkv",
+  "lecture_number": 9,
+  "lecture_slug": "lecture_09",
+  "lecture_title": "Special Relativity : Lecture 9",
+  "assets": [
+    {
+      "name": "lecture_09_figure_02.png",
+      "timestamp_seconds": 2006.343,
+      "timestamp_hhmmss": "00:33:26.343",
+      "source_candidate": "lecture_09_window_02_candidate_04_003326343.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the best board-evidence frame in the window because the full two-block layout is visible at once: the homogeneous equations on the left, the sourced equations on the right, and the covariant tensor forms along the bottom. The writing is complete, the board is unobstructed, and the later frame is the safest choice when the candidates are otherwise very similar.",
+      "subtitle_excerpt": "How do you get these equations from a Lagrangian?",
+      "segment_start_seconds": 2004.46,
+      "segment_start_hhmmss": "00:33:24.460",
+      "segment_end_seconds": 2006.6,
+      "segment_end_hhmmss": "00:33:26.600",
+      "caption_hint": "Maxwell equations in three-vector and covariant form"
+    },
+    {
+      "name": "lecture_09_figure_03.png",
+      "timestamp_seconds": 2412.283,
+      "timestamp_hhmmss": "00:40:12.283",
+      "source_candidate": "lecture_09_window_03_candidate_04_004012283.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the best frame because it preserves the setup already on the board and also captures the new step actually beginning: Susskind has started writing the partial-derivative expression involving the Lagrangian. The earlier candidates are either just the prior setup or show a less developed start to the new line.",
+      "subtitle_excerpt": "we begin with the partial derivative of the Lagrangian",
+      "segment_start_seconds": 2408.2,
+      "segment_start_hhmmss": "00:40:08.200",
+      "segment_end_seconds": 2412.84,
+      "segment_end_hhmmss": "00:40:12.840",
+      "caption_hint": "Beginning the variation with a partial derivative of the Lagrangian"
+    },
+    {
+      "name": "lecture_09_figure_04.png",
+      "timestamp_seconds": 3186.27,
+      "timestamp_hhmmss": "00:53:06.270",
+      "source_candidate": "lecture_09_window_04_candidate_04_005306270.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the best frame because it captures the most complete version of the new expression within the window: the Euler-Lagrange heading is visible, the numerator \\partial\\mathcal{L} is already written, and the denominator has begun, making the intended derivative with respect to the field clear. Earlier candidates are noticeably less developed.",
+      "subtitle_excerpt": "the derivative of the Lagrangian with respect to phi,",
+      "segment_start_seconds": 3181.94,
+      "segment_start_hhmmss": "00:53:01.940",
+      "segment_end_seconds": 3186.86,
+      "segment_end_hhmmss": "00:53:06.860",
+      "caption_hint": "Beginning the Euler-Lagrange derivative with respect to \\phi"
+    },
+    {
+      "name": "lecture_09_figure_05.png",
+      "timestamp_seconds": 5073.37,
+      "timestamp_hhmmss": "01:24:33.370",
+      "source_candidate": "lecture_09_window_05_candidate_03_012433370.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the best frame because it shows the key blackboard content most clearly: the interaction term involving the four-current and vector potential is visible and boxed, and the follow-up line below is also readable enough to support note writing. The other candidates are more dominated by Susskind's pose or leave the board slightly less settled.",
+      "subtitle_excerpt": "you can write Maxwell's equations in Lagrangian form.",
+      "segment_start_seconds": 5071.68,
+      "segment_start_hhmmss": "01:24:31.680",
+      "segment_end_seconds": 5074.28,
+      "segment_end_hhmmss": "01:24:34.280",
+      "caption_hint": "Interaction term for Maxwell theory in Lagrangian form"
+    },
+    {
+      "name": "lecture_09_figure_06.png",
+      "timestamp_seconds": 5495.992,
+      "timestamp_hhmmss": "01:31:35.992",
+      "source_candidate": "lecture_09_window_06_candidate_03_013135992.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the strongest frame in the window because it preserves the relevant blackboard structure most clearly: the source relation \\rho=\\nabla\\cdot\\vec E is visible on the left, intermediate dotted-\\rho lines appear in the center, and the boxed continuity equation on the right is readable. The lecturer is present but does not block the most important equations as much as in the neighboring frames.",
+      "subtitle_excerpt": "Lagrangian for the Maxwell's equations.",
+      "segment_start_seconds": 5495.01,
+      "segment_start_hhmmss": "01:31:35.010",
+      "segment_end_seconds": 5496.52,
+      "segment_end_hhmmss": "01:31:36.520",
+      "caption_hint": "Charge conservation on the way to the Maxwell Lagrangian"
+    }
+  ]
+}
