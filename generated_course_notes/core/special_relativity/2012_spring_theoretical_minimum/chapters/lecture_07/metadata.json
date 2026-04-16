@@ -1,0 +1,38 @@
+{
+  "course_rel": "core/special_relativity/2012_spring_theoretical_minimum",
+  "transcript_rel": "core/special_relativity/2012_spring_theoretical_minimum/140 - Special Relativity \uff5c Lecture 7 [ozhRFi77TP8].md",
+  "video_rel": "core/special_relativity/2012_spring_theoretical_minimum/140 - Special Relativity \uff5c Lecture 7 [ozhRFi77TP8].mkv",
+  "lecture_number": 7,
+  "lecture_slug": "lecture_07",
+  "lecture_title": "Special Relativity : Lecture 7",
+  "assets": [
+    {
+      "name": "lecture_07_figure_02.png",
+      "timestamp_seconds": 1748.87,
+      "timestamp_hhmmss": "00:29:08.870",
+      "source_candidate": "lecture_07_window_02_candidate_04_002908870.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 04 is the best of an almost identical set because it gives the most settled, complete view of the board at this subtitle moment: the Lorentz-force equation is fully legible, the large bracket and cross-product term are clear, and the frame is minimally cluttered. The partial sketch at the left edge is preserved as layout evidence without competing with the main formula.",
+      "subtitle_excerpt": "You can write the equations without the vector potential,",
+      "segment_start_seconds": 1746.67,
+      "segment_start_hhmmss": "00:29:06.670",
+      "segment_end_seconds": 1749.17,
+      "segment_end_hhmmss": "00:29:09.170",
+      "caption_hint": "Lorentz force law on the board"
+    },
+    {
+      "name": "lecture_07_figure_03.png",
+      "timestamp_seconds": 2138.739,
+      "timestamp_hhmmss": "00:35:38.739",
+      "source_candidate": "lecture_07_window_03_candidate_03_003538739.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 03 is the best balance of completeness and legibility. It preserves the board's stepwise structure from the ordinary-time action to the explicit Lagrangian, which is exactly the setup for the Euler-Lagrange equations, while avoiding the heavier hand-and-paper occlusion that appears in candidate 04. Candidates 01 and 02 show less of the derivation ladder and give a less complete mathematical context.",
+      "subtitle_excerpt": "Euler Lagrange equations for a given Lagrangian.",
+      "segment_start_seconds": 2136.49,
+      "segment_start_hhmmss": "00:35:36.490",
+      "segment_end_seconds": 2139.95,
+      "segment_end_hhmmss": "00:35:39.950",
+      "caption_hint": "Action rewritten as the Lagrangian"
+    }
+  ]
+}
