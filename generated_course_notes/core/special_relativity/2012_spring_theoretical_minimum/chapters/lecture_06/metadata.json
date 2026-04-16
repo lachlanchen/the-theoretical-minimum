@@ -1,0 +1,66 @@
+{
+  "course_rel": "core/special_relativity/2012_spring_theoretical_minimum",
+  "transcript_rel": "core/special_relativity/2012_spring_theoretical_minimum/139 - Special Relativity \uff5c Lecture 6 [aA88mND-9v4].md",
+  "video_rel": "core/special_relativity/2012_spring_theoretical_minimum/139 - Special Relativity \uff5c Lecture 6 [aA88mND-9v4].mkv",
+  "lecture_number": 6,
+  "lecture_slug": "lecture_06",
+  "lecture_title": "Special Relativity : Lecture 6",
+  "assets": [
+    {
+      "name": "lecture_06_figure_02.png",
+      "timestamp_seconds": 2075.827,
+      "timestamp_hhmmss": "00:34:35.827",
+      "source_candidate": "lecture_06_window_03_candidate_01_003435827.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 01 is the clearest and least occluded frame. It preserves the full board layout for the tensor-transformation discussion, including the example built from products of vectors and the rank-2 and rank-3 transformation laws. Later candidates increasingly obscure the left-hand notation without adding new mathematical content.",
+      "subtitle_excerpt": "How exactly does multiplying a matrix by a tensor work?",
+      "segment_start_seconds": 2075.222,
+      "segment_start_hhmmss": "00:34:35.222",
+      "segment_end_seconds": 2080.262,
+      "segment_end_hhmmss": "00:34:40.262",
+      "caption_hint": "tensor transformation rules on the board"
+    },
+    {
+      "name": "lecture_06_figure_03.png",
+      "timestamp_seconds": 2744.896,
+      "timestamp_hhmmss": "00:45:44.896",
+      "source_candidate": "lecture_06_window_04_candidate_01_004544896.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 01 gives the clearest usable view of the board at the moment symmetric tensors are introduced. The symmetry statement at the top right is most recoverable here, and the two explicit counterexamples below it are fully legible. Later frames do not add new mathematical content and introduce slightly worse occlusion or motion.",
+      "subtitle_excerpt": "But there is a special case called symmetric tensors.",
+      "segment_start_seconds": 2744.442,
+      "segment_start_hhmmss": "00:45:44.442",
+      "segment_end_seconds": 2748.222,
+      "segment_end_hhmmss": "00:45:48.222",
+      "caption_hint": "symmetric tensor condition on the board"
+    },
+    {
+      "name": "lecture_06_figure_04.png",
+      "timestamp_seconds": 2840.0,
+      "timestamp_hhmmss": "00:47:20.000",
+      "source_candidate": "lecture_06_window_05_candidate_02_004720000.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 02 is the clearest and most complete frame for this moment. It shows both the symmetric and antisymmetric tensor conditions on the board, together with the explicit antisymmetric combination built from two vectors, and the lecturer is almost entirely out of the way. The other candidates either occlude more of the board or crop away one side of the comparison.",
+      "subtitle_excerpt": "So there are symmetric tensors and anti-symmetric tensors.",
+      "segment_start_seconds": 2838.662,
+      "segment_start_hhmmss": "00:47:18.662",
+      "segment_end_seconds": 2842.182,
+      "segment_end_hhmmss": "00:47:22.182",
+      "caption_hint": "symmetric and antisymmetric tensor conditions"
+    },
+    {
+      "name": "lecture_06_figure_05.png",
+      "timestamp_seconds": 5208.464,
+      "timestamp_hhmmss": "01:26:48.464",
+      "source_candidate": "lecture_06_window_06_candidate_04_012648464.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 04 is the most useful frame because it shows the integral form of the particle action on the upper line and the corresponding Lagrangian on the line below. This matches the subtitle most directly. Earlier candidates are transitional frames while the board is being moved and leave the action formula partly hidden or incomplete.",
+      "subtitle_excerpt": "the action is an integral along the trajectory.",
+      "segment_start_seconds": 5205.49,
+      "segment_start_hhmmss": "01:26:45.490",
+      "segment_end_seconds": 5208.87,
+      "segment_end_hhmmss": "01:26:48.870",
+      "caption_hint": "particle action written as a trajectory integral"
+    }
+  ]
+}
