@@ -1,0 +1,52 @@
+{
+  "course_rel": "core/statistical_mechanics/2013_spring_theoretical_minimum",
+  "transcript_rel": "core/statistical_mechanics/2013_spring_theoretical_minimum/176 - Statistical Mechanics Lecture 2 [MCRHXHskWnE].md",
+  "video_rel": "core/statistical_mechanics/2013_spring_theoretical_minimum/176 - Statistical Mechanics Lecture 2 [MCRHXHskWnE].mkv",
+  "lecture_number": 2,
+  "lecture_slug": "lecture_02",
+  "lecture_title": "Statistical Mechanics Lecture 2",
+  "assets": [
+    {
+      "name": "lecture_02_figure_02.png",
+      "timestamp_seconds": 1450.91,
+      "timestamp_hhmmss": "00:24:10.910",
+      "source_candidate": "lecture_02_window_03_candidate_02_002410910.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame is the clearest and most useful of the set. The lecturer has moved far enough to the right that the left-board equations are least occluded, while the key normalization condition and the average-energy formula are still visibly present together. Later candidates lose too much of the writing, and the first candidate is slightly more obstructed by Susskind's position.",
+      "subtitle_excerpt": "and this is the equation for the average energy,",
+      "segment_start_seconds": 1449.8,
+      "segment_start_hhmmss": "00:24:09.800",
+      "segment_end_seconds": 1452.72,
+      "segment_end_hhmmss": "00:24:12.720",
+      "caption_hint": "normalization and average energy"
+    },
+    {
+      "name": "lecture_02_figure_03.png",
+      "timestamp_seconds": 1589.96,
+      "timestamp_hhmmss": "00:26:29.960",
+      "source_candidate": "lecture_02_window_04_candidate_02_002629960.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame is the clearest and most useful overall. It preserves the full board layout at the moment the new plot is being introduced: the earlier normalization and average-energy equations are still readable on the lower left, the new graph axes and label on the right are unobstructed, and the upper-board entropy formula remains visible as context. Later frames are more occluded by Susskind's arm as he begins drawing on the right-hand plot.",
+      "subtitle_excerpt": "or it could plot the energy of the I-th state,",
+      "segment_start_seconds": 1588.98,
+      "segment_start_hhmmss": "00:26:28.980",
+      "segment_end_seconds": 1591.56,
+      "segment_end_hhmmss": "00:26:31.560",
+      "caption_hint": "probability versus state index setup"
+    },
+    {
+      "name": "lecture_02_figure_04.png",
+      "timestamp_seconds": 1720.496,
+      "timestamp_hhmmss": "00:28:40.496",
+      "source_candidate": "lecture_02_window_05_candidate_03_002840496.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame gives the clearest and most complete view of the key board content. The family of probability curves labeled \\(P(i,E)\\) is fully visible and minimally occluded by Susskind, while the nearby expectation-value notation remains readable enough to connect the picture to the statement that the average energy depends on the probability distribution. Earlier frames obstruct more of the graph, and the last frame is slightly less clean.",
+      "subtitle_excerpt": "the average energy depends on the probability distribution,",
+      "segment_start_seconds": 1718.52,
+      "segment_start_hhmmss": "00:28:38.520",
+      "segment_end_seconds": 1721.56,
+      "segment_end_hhmmss": "00:28:41.560",
+      "caption_hint": "different distributions with different average energies"
+    }
+  ]
+}
