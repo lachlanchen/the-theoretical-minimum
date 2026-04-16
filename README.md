@@ -284,6 +284,18 @@ Run the note curator through the parent wrappers, which delegate to the `Video2B
 ./scripts/start_course_notes_monitor_tmux.sh
 ```
 
+### 📘 Export compact pocket-format PDFs
+
+Generate hand-held, 6x9-inch variants from finished generated course LaTeX:
+
+```bash
+./scripts/export_course_pocket_pdfs.sh
+./scripts/export_course_pocket_pdfs.sh --size a5 --suffix a5
+```
+
+Outputs are written to `all_notes/pocket_books/<course>_pocket.pdf` by default (canonical
+filenames, with optional custom suffix via `--suffix`).
+
 ### 📚 Work on imported companion notes
 
 ```bash
