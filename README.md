@@ -23,7 +23,7 @@ It combines lecture transcriptions, subtitle files, generated TeX notes, compile
 
 ## 📚 Published Books
 
-> 📷 Preview covers are now sourced from the most reliable source per title for consistency across the root README and website-facing previews: first-page PDF extracts where available, with generated nanobanana covers where needed.
+> 📷 Preview covers are sourced from each course PDF's first page so root README and website cards always match the actual published text and layout.
 
 <table>
   <tr>
