@@ -1,0 +1,399 @@
+\chapter{From Particles to Classical Fields}
+
+We now turn from particles to fields, and the lecture does so in a very deliberate way. First it fixes the basic ontology: spacetime has one time coordinate and some number of space coordinates, and a field is a measurable quantity that depends on them. Then, instead of charging directly into field theory, it walks back to the familiar least-action problem for a single nonrelativistic coordinate and promotes that machinery into the field-theory setting. We will follow Leonard Susskind closely, using a few preserved board frames from LazyingArt LLC and Video2Book only where they help settle an equation or preserve the blackboard logic.
+
+\section{From Particle Mechanics to Fields}
+
+Last time the dynamical objects were particles. This time they are fields, and Susskind is careful to say what kind of theory is on the table: classical field theory, not quantum field theory. Electromagnetism is the familiar example in the background, but the lecture starts with something simpler than that.
+
+Spacetime has one time coordinate \(t\) and some number of space coordinates \(x^i\). The coordinates \(x^i\) are labels for points of space; they are not themselves the dynamical variables. The degrees of freedom are fields, and the simplest example is a scalar field,
+\begin{equation}
+\phi=\phi(t,x^i).
+\end{equation}
+A scalar field has one component. Temperature is the stock example: one number at each place and time. A vector field has several components. Wind velocity is the ordinary example, and in relativity the natural vector has four components rather than three. For this lecture, however, the main actor will be a single scalar field \(\phi\).
+
+This opening move matters. The lecture is not yet asking what the correct relativistic field theory of nature is. It is first asking how the language of fields ought to be set up at all, and it does so by keeping the mathematics as close as possible to familiar mechanics.
+
+\section{Particle Mechanics Rewritten as a \(0+1\)-Dimensional Field Theory}
+
+At this point Susskind crosses to another board and, ``just in parallel for a minute,'' goes back to nonrelativistic particle mechanics. This is not a digression in the weak sense. It is the formal prototype for everything that follows.
+
+He takes the position of a particle moving on a line and refuses to call it \(x\). He calls it \(\phi\). Then the history of the particle is a function \(\phi(t)\), and by drawing time horizontally he emphasizes that we are looking at a function of time.
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}[scale=1.0]
+\draw[->] (0,0) -- (6.2,0) node[right] {$t$};
+\draw[->] (0,-1.7) -- (0,2.3) node[above] {$\phi$};
+\draw[dashed] (0.9,0) -- (0.9,0.4);
+\draw[dashed] (5.2,0) -- (5.2,0.7);
+\node[below] at (0.9,0) {$a$};
+\node[below] at (5.2,0) {$b$};
+\fill (0.9,0.4) circle (1.3pt);
+\fill (5.2,0.7) circle (1.3pt);
+\draw[thick] plot[smooth] coordinates {(0.9,0.4) (1.6,1.0) (2.4,0.6) (3.1,-0.8) (4.2,-0.1) (5.2,0.7)};
+\end{tikzpicture}
+\caption{A clean schematic of the history \(\phi(t)\) of a particle, with time horizontal as in the lecture.}
+\end{figure}
+
+The curve may go positive or negative; it simply tells us the value of the coordinate at each moment of time. The action is written in the usual way,
+\begin{align}
+A &= \int_a^b dt\,L,\\
+L &= \frac{m}{2}\dot{\phi}^{\,2}-V(\phi).
+\end{align}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=0.72\textwidth]{lecture_04_figure_02.png}
+\caption{Nonrelativistic Lagrangian and the first Euler--Lagrange step}
+\end{figure}
+
+The corresponding Euler--Lagrange equation is
+\begin{equation}
+\frac{d}{dt}\frac{\partial L}{\partial \dot{\phi}}-\frac{\partial L}{\partial \phi}=0.
+\end{equation}
+For this Lagrangian,
+\begin{equation}
+\frac{\partial L}{\partial \dot{\phi}}=m\dot{\phi},
+\qquad
+\frac{\partial L}{\partial \phi}=-\frac{dV}{d\phi},
+\end{equation}
+and therefore
+\begin{equation}
+m\ddot{\phi}=-\frac{dV}{d\phi}.
+\end{equation}
+So the old Newtonian equation is still sitting there, merely rewritten with \(\phi\) in place of \(x\).
+
+The next step is the conceptual bridge. Suppose space had no dimensions at all. Then a field could only depend on time. But that is exactly what \(\phi(t)\) does. So ordinary particle mechanics may be regarded as a field theory in \(0+1\) dimensions: zero space dimensions and one time dimension. The mathematics is unchanged; the interpretation is promoted.
+
+Susskind also reminds us that ``minimum'' here should be understood in the usual variational sense of stationary action. The endpoints are held fixed, and among all curves joining them we vary the interior until the action is stationary.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Does the potential disappear when there are no space dimensions?
+
+\paragraph{Answer.} No. What disappears is spatial variation, not the value of the field itself. Even in \(0+1\) dimensions the energy can depend on \(\phi\), so the term \(V(\phi)\) remains perfectly meaningful. If one keeps the particle picture in the back of one's mind, this is just the statement that moving the curve up and down changes the potential energy.
+
+\section{The Action Principle for Fields in a Spacetime Region}
+
+Having built the bridge, the lecture comes back to the field side and generalizes the variational problem itself. The world is no longer just a line of time. We now have spacetime, and even in the simplest \(1+1\)-dimensional picture one should imagine the field \(\phi(x,t)\) not as a curve but as a surface over the \(x\)-\(t\) plane.
+
+In a \(3+1\)-dimensional world this is no longer drawable in any honest sense, but the geometric idea is still the right one. A field assigns a value to every point of spacetime. The ``history'' of the field is therefore the full configuration \(\phi(x,t)\) throughout a spacetime region.
+
+The action principle generalizes in exactly the same rhythm as before. For the particle we fixed the endpoints and varied the curve in between. For the field we fix the value of the field on the whole boundary of a spacetime region and vary the interior. The region need not literally be a rectangle, but a rectangle in a \(1+1\)-dimensional sketch is enough to capture the idea. What matters is that the entire boundary is held fixed.
+
+Once we know the action of a field configuration, the principle of least action again tells us to wiggle the interior while holding the boundary data fixed. The problem is no longer to fill in a curve between two endpoints; it is to fill in a field in the interior of a spacetime box.
+
+What should the action look like? The lecture keeps the answer as close as possible to the particle case. It is still an integral, but now an integral over spacetime:
+\begin{equation}
+A=\int d^4x\,\mathcal{L}\!\left(\phi,\frac{\partial\phi}{\partial x^\mu}\right),
+\qquad
+d^4x=dt\,dx\,dy\,dz.
+\end{equation}
+Here the lecture uses \(x^\mu\) as a convenient name for the four spacetime coordinates \(t,x,y,z\). The quantity \(\mathcal{L}\) is the analog of the particle Lagrangian and is often called the Lagrangian density.
+
+At this level one need not forbid explicit dependence on spacetime position. Just as a particle Lagrangian may depend explicitly on time, so a field-theory Lagrangian density may depend explicitly on \(x^\mu\). The variational formalism still works. What changes, in a closed-system interpretation, is the associated conservation law.
+
+\section{Euler--Lagrange Equations for Fields}
+
+The lecture now asks how the old Euler--Lagrange equation changes. It does not derive the new formula by formal integration by parts on the board. Instead it gives the practical intuition.
+
+Imagine dividing spacetime into a lattice of tiny cells. Then the action is just a sum over cells. The field derivatives become little differences between neighboring cells. And once that is done, the action is nothing but an ordinary function of many variables: the values of \(\phi\) at the grid points. To minimize it, we differentiate with respect to those values and set the result equal to zero. That is the field-theory version of what we already did for the particle.
+
+So the new Euler--Lagrange equation is not a miracle. It is the recognizable multidimensional analog of the old one.
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=0.78\textwidth]{lecture_04_figure_03.png}
+\caption{From particle mechanics to the field-theory Euler--Lagrange equation}
+\end{figure}
+
+The particle equation
+\begin{equation}
+\frac{d}{dt}\frac{\partial L}{\partial \dot{\phi}}-\frac{\partial L}{\partial \phi}=0
+\end{equation}
+becomes, in the cleaned explicit notation that matches the board and completes its cropped right edge in the standard way,
+\begin{equation}
+\frac{\partial}{\partial x^\mu}
+\left(
+\frac{\partial\mathcal{L}}
+{\partial\left(\frac{\partial\phi}{\partial x^\mu}\right)}
+\right)
+-\frac{\partial\mathcal{L}}{\partial\phi}=0.
+\end{equation}
+If we spell out the four spacetime directions, still in the lecture's slower and more transparent style, this reads
+\begin{align}
+\frac{\partial}{\partial t}\left(\frac{\partial\mathcal{L}}{\partial \phi_t}\right)
++\frac{\partial}{\partial x}\left(\frac{\partial\mathcal{L}}{\partial \phi_x}\right)
++\frac{\partial}{\partial y}\left(\frac{\partial\mathcal{L}}{\partial \phi_y}\right)
++\frac{\partial}{\partial z}\left(\frac{\partial\mathcal{L}}{\partial \phi_z}\right)
+-\frac{\partial\mathcal{L}}{\partial\phi}=0,
+\end{align}
+where
+\begin{equation}
+\phi_t=\frac{\partial\phi}{\partial t},
+\qquad
+\phi_x=\frac{\partial\phi}{\partial x},
+\qquad
+\phi_y=\frac{\partial\phi}{\partial y},
+\qquad
+\phi_z=\frac{\partial\phi}{\partial z}.
+\end{equation}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=0.78\textwidth]{lecture_04_figure_05.png}
+\caption{Field-theory Euler--Lagrange equation written below the particle case}
+\end{figure}
+
+The board snapshots matter here because they preserve the lecture's spatial logic. First the familiar one-dimensional equation is rewritten. Then, directly underneath it, the field-theory generalization is built by replacing the single time-derivative term with one term for each spacetime direction. The term \(-\partial\mathcal{L}/\partial\phi\) survives unchanged.
+
+This is also the point at which the lecture remarks that one may look for static solutions by throwing away time derivatives. If the field is time independent, the same equation reduces to its purely spatial part.
+
+\section{A Simple Scalar-Field Lagrangian and Its Equations of Motion}
+
+Only now does Susskind try a concrete example. He begins by copying the particle pattern as literally as possible. The particle had a term quadratic in a time derivative. So let us guess a field-theory analog. Since the field depends on space as well as time, the first impulse is to write down something like
+\begin{equation}
+\mathcal{L}_{\mathrm{naive}}
+=
+\frac12
+\left[
+\left(\frac{\partial\phi}{\partial t}\right)^2
++
+\left(\frac{\partial\phi}{\partial x}\right)^2
++
+\left(\frac{\partial\phi}{\partial y}\right)^2
++
+\left(\frac{\partial\phi}{\partial z}\right)^2
+\right].
+\end{equation}
+At this stage he has not yet reintroduced the potential term. First he wants to stop over the sign.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why must the spatial-derivative terms enter with the opposite sign?
+
+\paragraph{Answer.} The lecture first answers this in a deliberately primitive way. If all the signs were positive, time and space would enter in exactly the same way. But that does not sound right. The behavior of waves surely distinguishes time evolution from spatial variation. Something is different about time and space, and physics knows it. Only afterward does the deeper explanation appear: the correct combination is the Lorentzian one dictated by the spacetime metric.
+
+Once the sign issue has been faced, we may also add a potential term depending only on \(\phi\). In cleaned notation, restoring the appropriate velocity scale on the time derivative, the example becomes
+\begin{equation}
+\mathcal{L}
+=
+\frac12
+\left[
+\frac{1}{c^2}\left(\frac{\partial\phi}{\partial t}\right)^2
+-
+\left(\frac{\partial\phi}{\partial x}\right)^2
+-
+\left(\frac{\partial\phi}{\partial y}\right)^2
+-
+\left(\frac{\partial\phi}{\partial z}\right)^2
+\right]
+-
+V(\phi).
+\end{equation}
+The lecture explicitly notes that the velocity \(c\) need not be the speed of light if one is describing sound waves or elastic waves. It is the characteristic propagation speed of the system under discussion.
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=0.76\textwidth]{lecture_04_figure_04.png}
+\caption{The Lagrangian as kinetic minus potential}
+\end{figure}
+
+The screenshot above is not the sharpest witness for exact notation, but it preserves a useful lecture beat: the old particle formula is still visible while the spatial-gradient terms are being interpreted as living on the ``potential'' side of the kinetic-minus-potential structure.
+
+Now let us derive the field equation. With the shorthand \(\phi_t,\phi_x,\phi_y,\phi_z\), we compute
+\begin{align}
+\frac{\partial \mathcal{L}}{\partial \phi_t} &= \frac{1}{c^2}\phi_t, &
+\frac{\partial \mathcal{L}}{\partial \phi_x} &= -\phi_x, &
+\frac{\partial \mathcal{L}}{\partial \phi_y} &= -\phi_y, &
+\frac{\partial \mathcal{L}}{\partial \phi_z} &= -\phi_z.
+\end{align}
+The only direct dependence on \(\phi\) is through the term \(-V(\phi)\), so
+\begin{equation}
+\frac{\partial \mathcal{L}}{\partial \phi}=-\frac{dV}{d\phi}.
+\end{equation}
+Substituting into the field Euler--Lagrange equation yields
+\begin{equation}
+\frac{1}{c^2}\phi_{tt}-\phi_{xx}-\phi_{yy}-\phi_{zz}+\frac{dV}{d\phi}=0.
+\end{equation}
+
+The first case to examine is \(V(\phi)=0\). Then the equation becomes
+\begin{equation}
+\frac{1}{c^2}\frac{\partial^2\phi}{\partial t^2}
+-\frac{\partial^2\phi}{\partial x^2}
+-\frac{\partial^2\phi}{\partial y^2}
+-\frac{\partial^2\phi}{\partial z^2}
+=0.
+\end{equation}
+This is the wave equation. The lecture does not stop to solve it. It merely recognizes it and notes that the least-action machinery has produced wave propagation.
+
+Next Susskind restores a particularly simple potential,
+\begin{equation}
+V(\phi)=\frac12\mu^2\phi^2.
+\end{equation}
+Then
+\begin{equation}
+\frac{dV}{d\phi}=\mu^2\phi,
+\end{equation}
+and the field equation becomes
+\begin{equation}
+\frac{1}{c^2}\frac{\partial^2\phi}{\partial t^2}
+-\frac{\partial^2\phi}{\partial x^2}
+-\frac{\partial^2\phi}{\partial y^2}
+-\frac{\partial^2\phi}{\partial z^2}
++\mu^2\phi
+=0.
+\end{equation}
+In compact notation one may write the spatial piece as \(-\nabla^2\phi\), but the lecture prefers to keep the explicit coordinate directions in sight.
+
+This is the higher-dimensional cousin of the harmonic oscillator. If the spatial-derivative terms were absent, it would reduce to ``acceleration plus coefficient times displacement equals zero.'' The spatial derivatives turn the oscillator into a field. The lecture also notes that the equation is linear: the field and its derivatives appear only to the first power in the final equation of motion.
+
+\section{Lorentz Invariance, Scalars, and Four-Vectors}
+
+Only after the example has been built and used does the lecture circle back and explain the deeper relativistic principle. For a particle, the action was made invariant by building it from proper time along the worldline. For a field theory we want the same thing in spirit: the action should have the same form in every inertial frame. Therefore the Lagrangian density itself must be a Lorentz scalar.
+
+The upper blackboard recalls the invariant interval:
+\begin{equation}
+d\tau^2=dt^2-dx^2-dy^2-dz^2.
+\end{equation}
+Equivalently,
+\begin{equation}
+\tau^2=t^2-x^2-y^2-z^2.
+\end{equation}
+The visible board line is slightly cropped, but the completed Lorentzian form is secure.
+
+For a boost along the \(x\)-axis, and writing the formulas in \(c=1\) units as in the lecture, the coordinates transform as
+\begin{equation}
+t'=\frac{t-vx}{\sqrt{1-v^2}},
+\qquad
+x'=\frac{x-vt}{\sqrt{1-v^2}},
+\qquad
+y'=y,
+\qquad
+z'=z.
+\end{equation}
+A scalar field is defined by the statement that at a single spacetime point all observers agree on the value of the field:
+\begin{equation}
+\phi(x)=\phi'(x').
+\end{equation}
+The coordinates \(x\) and \(x'\) are two descriptions of the same event, not two different events.
+
+The next object is a four-vector. The lecture introduces a generic one as
+\begin{equation}
+A^\mu(x,t)=\bigl(A^0,A^x,A^y,A^z\bigr).
+\end{equation}
+Any four-vector gives rise to a scalar through the Lorentzian difference of squares,
+\begin{equation}
+(A^0)^2-(A^x)^2-(A^y)^2-(A^z)^2.
+\end{equation}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=0.78\textwidth]{lecture_04_figure_06.png}
+\caption{Metric interval and the Lorentzian norm of a four-vector}
+\end{figure}
+
+This is enough to identify the basic invariant building block for the scalar-field Lagrangian. If \(\phi\) is a scalar field, then its first derivatives with respect to spacetime coordinates form a four-vector:
+\begin{equation}
+\left(
+\frac{\partial\phi}{\partial t},
+\frac{\partial\phi}{\partial x},
+\frac{\partial\phi}{\partial y},
+\frac{\partial\phi}{\partial z}
+\right).
+\end{equation}
+Therefore
+\begin{equation}
+\left(\frac{\partial\phi}{\partial t}\right)^2
+-
+\left(\frac{\partial\phi}{\partial x}\right)^2
+-
+\left(\frac{\partial\phi}{\partial y}\right)^2
+-
+\left(\frac{\partial\phi}{\partial z}\right)^2
+\end{equation}
+is a scalar. The lecture pauses here to distinguish this from the Laplacian. This is a first-derivative object. The Laplacian is second order and only appears after variation.
+
+Now the sign choice in the example Lagrangian is seen in its proper light. The term with one plus sign and three minus signs was not merely a plausible guess. It was the scalar built from the four-vector of derivatives. That is why it is the right relativistic object.
+
+The lecture also makes a practical point. To ensure full Lorentz invariance, it is enough to check invariance under spatial rotations and under a simple boost along one axis. More general Lorentz transformations are built from those ingredients.
+
+\section{What Can Go Into a Lagrangian, and How Particles Couple to Fields}
+
+Once the rule ``the Lagrangian density must be a scalar'' has been stated, the space of possible theories becomes very large. Any function of \(\phi\) is a scalar. The derivative scalar just constructed may be multiplied by another scalar. One may take higher powers of it. One may combine scalars in many ways.
+
+At the classical level this freedom is immense. The lecture says so very plainly. Most such theories make classical sense. It is only when one tries to pass to quantum mechanics that almost all of them fail, produce infinities, or become inconsistent. That later restriction is important, but it is not today's subject.
+
+There is, however, one restriction the lecture does keep in view already: if we stay within the standard classical framework, the Lagrangian density depends on the fields and their first derivatives. Higher powers of first-derivative scalars are possible, but one does not ordinarily build the theory from higher derivatives of the fields themselves. This is part of what keeps the theory local. A related remark follows immediately: fields should be continuous, for otherwise their derivatives, and with them the action and energy, would blow up.
+
+The final turn of the lecture is from free fields back to particles moving in fields. Not the quantum relation between particles and fields, but the classical one. Suppose the scalar field \(\phi(x,t)\) is already known, as a pre-established background. How does a particle move through it?
+
+For a free relativistic particle, the action is
+\begin{equation}
+A_{\mathrm{free}}=-m\int d\tau.
+\end{equation}
+The simplest Lorentz-invariant way to couple in a scalar field is to add another scalar multiple of \(d\tau\):
+\begin{equation}
+A=\int d\tau\,[-m+\phi(x,t)].
+\end{equation}
+The lecture stresses that this is not unique. One could equally well use \(\phi^2 d\tau\), \(\phi^3 d\tau\), or other functions of \(\phi\). But the simple linear coupling is enough to see the point.
+
+One subtlety is worth preserving because the lecture dwells on it. The field must remain inside the integral. Even if \(\phi\) had no explicit time dependence, it still depends on time along the particle's trajectory through \(x=x(t)\).
+
+Restrict now to one spatial dimension, so that the particle moves only along the \(x\)-axis. With the convention that matches the lecture's later mass-shift interpretation, the corresponding Lagrangian is
+\begin{equation}
+L=-(m-\phi(x,t))\sqrt{1-\dot x^2}.
+\end{equation}
+The first Euler--Lagrange step is straightforward:
+\begin{equation}
+\frac{\partial L}{\partial \dot x}
+=
+(m-\phi)\frac{\dot x}{\sqrt{1-\dot x^2}}.
+\end{equation}
+The derivative with respect to position brings down the spatial derivative of the field and leaves the square-root factor in place:
+\begin{equation}
+\frac{\partial L}{\partial x}
+=
+\frac{\partial\phi}{\partial x}\sqrt{1-\dot x^2}.
+\end{equation}
+Thus, with the same sign convention,
+\begin{equation}
+\frac{d}{dt}
+\left[
+(m-\phi)\frac{\dot x}{\sqrt{1-\dot x^2}}
+\right]
+-
+\frac{\partial\phi}{\partial x}\sqrt{1-\dot x^2}
+=0.
+\end{equation}
+Now comes the part Susskind openly calls ugly. Expanding the time derivative gives
+\begin{equation}
+\frac{d}{dt}
+\left[
+(m-\phi)\frac{\dot x}{\sqrt{1-\dot x^2}}
+\right]
+=
+(m-\phi)\frac{d}{dt}\left(\frac{\dot x}{\sqrt{1-\dot x^2}}\right)
+-
+\dot\phi\,\frac{\dot x}{\sqrt{1-\dot x^2}}.
+\end{equation}
+If we further simplify to the case \(\phi=\phi(x)\), then \(\phi\) still varies in time along the trajectory because \(x=x(t)\), and
+\begin{equation}
+\dot\phi=\frac{\partial\phi}{\partial x}\dot x.
+\end{equation}
+At this point the lecture refuses to beautify the algebra. Quite rightly. The equation becomes a monstrosity, and the real payoff is not a pretty final formula.
+
+The real payoff is interpretation. If the scalar field settles to an approximately constant background value, then the particle behaves as though its mass were shifted:
+\begin{equation}
+m_{\mathrm{eff}}=m-\phi.
+\end{equation}
+This is the lecture's Higgs-like taste. It is not a derivation of the Higgs mechanism, but it does exhibit the central idea: a scalar background can enter the particle equations as if it were part of the mass.
+
+The last thing the lecture does with this ugly equation is to leave an exercise hanging in the air. Put the factors of \(c\) back in, take the slow-velocity limit, and see whether the result looks familiar. That is exactly the right way to end the discussion: not with a falsely elegant formula, but with a recognizable bridge back to ordinary mechanics.
+
+\section{Summary}
+
+The lecture constructs classical field theory by lifting the action principle from particles to fields. A single coordinate \(\phi(t)\) becomes a field in \(0+1\) dimensions. The action over time becomes an action over spacetime. The ordinary Euler--Lagrange equation acquires one term for each spacetime direction. A simple scalar-field Lagrangian then gives the wave equation, and with a quadratic potential it becomes the field-theoretic analog of the harmonic oscillator.
+
+Only after that example has earned its place does relativity return in full force. The Lagrangian density must be a Lorentz scalar. Scalar fields, four-vectors, and the Lorentzian difference of squares give us the tools to build such objects. Finally, the lecture widens the horizon: classical field theory allows many Lorentz-invariant Lagrangians, and a background scalar field can shift a particle's effective mass. The chapter therefore ends exactly where the lecture wants it to end: with the action principle now operating on fields, and with the first serious hint of how particles and fields begin to talk to one another.
