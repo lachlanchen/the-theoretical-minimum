@@ -1,0 +1,38 @@
+{
+  "course_rel": "core/statistical_mechanics/2013_spring_theoretical_minimum",
+  "transcript_rel": "core/statistical_mechanics/2013_spring_theoretical_minimum/180 - Statistical Mechanics Lecture 6 [bW30Rj6w8VI].md",
+  "video_rel": "core/statistical_mechanics/2013_spring_theoretical_minimum/180 - Statistical Mechanics Lecture 6 [bW30Rj6w8VI].mkv",
+  "lecture_number": 6,
+  "lecture_slug": "lecture_06",
+  "lecture_title": "Statistical Mechanics Lecture 6",
+  "assets": [
+    {
+      "name": "lecture_06_figure_04.png",
+      "timestamp_seconds": 2404.609,
+      "timestamp_hhmmss": "00:40:04.609",
+      "source_candidate": "lecture_06_window_05_candidate_01_004004609.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 01 is the clearest and least occluded frame in this window. It shows the blackboard mathematics cleanly: the total energy written as a kinetic term plus a pair-potential term, with the beginning of the partition-function expression below. Candidate 02 is partially blocked by the lecturer's hand and notes, while candidates 03 and 04 include more lecturer intrusion without adding useful mathematical completeness.",
+      "subtitle_excerpt": "And then the other term is the potential energy.",
+      "segment_start_seconds": 2404.302,
+      "segment_start_hhmmss": "00:40:04.302",
+      "segment_end_seconds": 2406.862,
+      "segment_end_hhmmss": "00:40:06.862",
+      "caption_hint": "energy split into kinetic and pair potential terms"
+    },
+    {
+      "name": "lecture_06_figure_05.png",
+      "timestamp_seconds": 2511.488,
+      "timestamp_hhmmss": "00:41:51.488",
+      "source_candidate": "lecture_06_window_06_candidate_03_004151488.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "It was this Gaussian integral for each momentum,",
+      "segment_start_seconds": 2509.642,
+      "segment_start_hhmmss": "00:41:49.642",
+      "segment_end_seconds": 2512.482,
+      "segment_end_hhmmss": "00:41:52.482",
+      "caption_hint": "It was this Gaussian integral for each momentum,"
+    }
+  ]
+}
