@@ -1,0 +1,414 @@
+\chapter{Fields, Particles, and the Klein--Gordon Equation}
+
+This lecture begins with a leftover question and ends with a prototype of relativistic field theory. We first derive the relativistic Doppler shift directly from Lorentz geometry, then turn to the relation between fields and particles: how a scalar field affects a particle, why the particle must act back on the field, how source terms arise in a common action, why relativistic notation is worth the trouble, and how a massive scalar field leads to the Klein--Gordon equation. These notes follow Leonard Susskind's lecture closely, using the transcript as the primary guide and keeping a few board frames preserved from the lecture record by LazyingArt LLC and Video2Book where they genuinely support the mathematics.
+
+\section{Relativistic Doppler Shift from Lorentz Geometry}
+
+The lecture opens, not with the advertised topic, but with a carried-over question about the relativistic Doppler effect. That is already instructive. The point is not to quote the formula from memory. The point is to reconstruct it from spacetime geometry.
+
+We consider two inertial frames. The unprimed frame is at rest, and the primed frame moves to the right with speed \(V\), using units in which \(c=1\). A right-moving light signal follows a lightlike line
+\begin{equation}
+X=T.
+\end{equation}
+If successive crests of a wave are one unit apart in the unprimed frame, then neighboring crest lines may be represented by
+\begin{equation}
+X=T,
+\qquad
+X=T+1.
+\end{equation}
+The wavelength in the unprimed frame is the horizontal separation between these lines at fixed \(T\). The wavelength in the primed frame is the corresponding separation at fixed \(T'\). The whole problem is therefore a problem about simultaneity.
+
+\subsection{Question \& Answer}
+
+How do we find the wavelength seen in the moving frame?
+
+We look along a line of constant primed time. Taking \(T'=0\) for convenience, the Lorentz transformation gives
+\begin{equation}
+T'=\frac{T-VX}{\sqrt{1-V^2}},
+\qquad
+X'=\frac{X-VT}{\sqrt{1-V^2}},
+\end{equation}
+so the slice \(T'=0\) is the line
+\begin{equation}
+T=VX.
+\end{equation}
+Now intersect this line with the neighboring crest \(X=T+1\). Substituting \(T=VX\) into \(X=T+1\), we find
+\begin{align}
+X &= VX+1,\\
+X(1-V) &= 1,\\
+X &= \frac{1}{1-V}.
+\end{align}
+Then the corresponding time coordinate is
+\begin{equation}
+T=VX=\frac{V}{1-V}.
+\end{equation}
+What we really want is the primed spatial coordinate of that event:
+\begin{align}
+X'&=\frac{X-VT}{\sqrt{1-V^2}}\\
+&=\frac{\frac{1}{1-V}-V\frac{V}{1-V}}{\sqrt{1-V^2}}\\
+&=\frac{1-V^2}{(1-V)\sqrt{1-V^2}}\\
+&=\sqrt{\frac{1+V}{1-V}}.
+\end{align}
+Since we normalized the unprimed wavelength to \(1\), this is already the wavelength ratio:
+\begin{equation}
+\frac{\lambda'}{\lambda}=\sqrt{\frac{1+V}{1-V}}.
+\end{equation}
+Restoring units by writing \(V=v/c\), we obtain
+\begin{equation}
+\frac{\lambda'}{\lambda}
+=
+\sqrt{\frac{1+v/c}{1-v/c}}
+=
+\sqrt{\frac{c+v}{c-v}}.
+\end{equation}
+
+If the observer moves in the opposite direction, we simply send \(v\to -v\). The ratio then becomes less than \(1\): motion against the light ray shortens the observed wavelength, while motion with the light ray lengthens it.
+
+This is exactly the pedagogical point Susskind wants to make at the beginning of the lecture: draw the spacetime picture, identify the relevant events, and then convert the picture into a small set of equations.
+
+\section{Fields, Particles, and Action-Reaction}
+
+After a brief scheduling digression, the lecture resets sharply: \emph{fields and particles}. Quantum mechanically they are deeply connected, but classically we treat them as distinct kinds of objects. A field fills spacetime; a particle traces out a worldline through spacetime. The question is then posed in its simplest form: if a field affects a particle, why must the particle affect the field?
+
+\subsection{Question \& Answer}
+
+Why does the implication run both ways?
+
+The answer is not a separate physical principle pasted on from the outside. It is built into the action principle itself. To see this, Susskind first lowers the stakes and uses a toy system with two coordinates \(x(t)\) and \(y(t)\).
+
+Suppose the Lagrangian is just a sum of two disconnected pieces,
+\begin{equation}
+L(x,\dot x,y,\dot y)=L_x(x,\dot x)+L_y(y,\dot y).
+\end{equation}
+Then the Euler--Lagrange equations are
+\begin{equation}
+\frac{d}{dt}\frac{\partial L}{\partial \dot x}=\frac{\partial L}{\partial x},
+\qquad
+\frac{d}{dt}\frac{\partial L}{\partial \dot y}=\frac{\partial L}{\partial y}.
+\end{equation}
+But because \(L\) splits, the \(x\)-equation involves no \(y\), and the \(y\)-equation involves no \(x\). The two coordinates do not influence one another.
+
+To create mutual influence, one must add a term involving both variables together. For example,
+\begin{equation}
+L=\frac{\dot x^2}{2}+\frac{\dot y^2}{2}-V(x)-V'(y)+xy.
+\end{equation}
+Now the equation of motion for \(x\) contains \(y\), and the equation of motion for \(y\) contains \(x\). The coupling is common, and therefore the influence is common. If \(A\) affects \(B\) through a shared term in the Lagrangian, then \(B\) affects \(A\) through that same term.
+
+This is the local model for what the lecture will do next with a particle and a scalar field.
+
+\section{A Particle in a Prescribed Scalar Field}
+
+We now return to a scalar field \(\phi(x,t)\), taken for the moment as a prescribed function. We are not yet asking why it has the value it has. We ask instead: given such a field, how does a particle move in it?
+
+The starting point is the ordinary relativistic particle Lagrangian, the one whose action is \(-m\int d\tau\).
+
+\begin{figure}
+\centering
+\includegraphics[width=0.82\textwidth]{lecture_05_figure_02.png}
+\end{figure}
+
+At this stage of the lecture the board still displays the familiar free-particle expression,
+\begin{equation}
+\mathcal L_{\mathrm{particle}}=-m\sqrt{1-\dot x^{\,2}},
+\end{equation}
+in units where \(c=1\). The label on the board is partly blocked, but the square-root form is clear.
+
+To let the field influence the particle, Susskind proposes the simplest invariant modification of the same structure. The spoken blackboard wording is compressed, but the later nonrelativistic limit fixes the sign we need:
+\begin{equation}
+\mathcal L_{\mathrm{particle}}
+=
+-(m+g\phi(x,t))\sqrt{1-\dot x^{\,2}}
+\end{equation}
+in \(c=1\) units, or with units restored,
+\begin{equation}
+\mathcal L_{\mathrm{particle}}
+=
+-(mc^2+g\phi(x,t))\sqrt{1-\frac{\dot x^{\,2}}{c^2}}.
+\end{equation}
+Here \(g\) is a coupling constant measuring how strongly the field affects the particle.
+
+The lecture then deliberately takes a nonrelativistic limit, not because slow particles are the real target, but because it lets the meaning of the coupling emerge cleanly. Expand the square root for large \(c\):
+\begin{equation}
+\sqrt{1-\frac{\dot x^{\,2}}{c^2}}
+\approx
+1-\frac{\dot x^{\,2}}{2c^2}.
+\end{equation}
+Substituting this into the Lagrangian gives
+\begin{align}
+\mathcal L_{\mathrm{particle}}
+&\approx
+-(mc^2+g\phi)\left(1-\frac{\dot x^{\,2}}{2c^2}\right)\\
+&=
+-mc^2-g\phi+\frac{m\dot x^{\,2}}{2}
++\mathcal O(c^{-2}).
+\end{align}
+The term \(-mc^2\) is just a constant and does not affect the equations of motion. Dropping it, the surviving nonrelativistic Lagrangian is
+\begin{equation}
+L_{\mathrm{NR}}=\frac12 m\dot x^{\,2}-g\phi(x,t).
+\end{equation}
+This is exactly the usual pattern \emph{kinetic energy minus potential energy}. Therefore the field contributes a potential energy
+\begin{equation}
+V_{\mathrm{particle}}(x,t)=g\phi(x,t).
+\end{equation}
+
+So the first half of the story is clear: the field acts on the particle through the same term \(g\phi\) that appears inside the relativistic particle Lagrangian.
+
+\section{The Particle as a Source of the Field}
+
+Now the lecture reverses the viewpoint. If the field affects the particle through a common action, then that same action must tell us how the particle affects the field. The essential sentence here is: there is only one total action.
+
+For the scalar field, we begin with the action written as an integral over spacetime,
+\begin{equation}
+S_f
+=
+\int d^4x\,
+\left[
+\frac12\left(\frac{\partial\phi}{\partial t}\right)^2
+-\frac12\left(\frac{\partial\phi}{\partial x}\right)^2
+-\frac12\left(\frac{\partial\phi}{\partial y}\right)^2
+-\frac12\left(\frac{\partial\phi}{\partial z}\right)^2
+\right].
+\end{equation}
+The lecture first recalls a reduced form and then verbally restores the full spatial dependence; here we write the cleaned \(3+1\)-dimensional version explicitly.
+
+For simplicity, let the particle be at rest at the origin. Then its interaction term is an integral along the worldline:
+\begin{equation}
+S_{\mathrm{int}}=-g\int dt\,\phi(0,t).
+\end{equation}
+This is not yet in field-theory form, because it is only an integral over time. The trick is to rewrite the value of the field at a point as a spatial integral using the Dirac delta function:
+\begin{equation}
+\phi(0,t)=\int d^3x\,\phi(\mathbf x,t)\delta^3(\mathbf x),
+\end{equation}
+with
+\begin{equation}
+\delta^3(\mathbf x)=\delta(x)\delta(y)\delta(z),
+\qquad
+\int dx\,f(x)\delta(x)=f(0).
+\end{equation}
+Therefore
+\begin{equation}
+S_{\mathrm{int}}
+=
+-g\int d^4x\,\delta^3(\mathbf x)\phi(\mathbf x,t).
+\end{equation}
+The total action is now a single spacetime integral,
+\begin{equation}
+S=S_f+S_{\mathrm{int}}.
+\end{equation}
+
+\begin{figure}
+\centering
+\includegraphics[width=0.82\textwidth]{lecture_05_figure_03.png}
+\end{figure}
+
+The visible part of the board at this point cleanly records the differential operator that comes from varying the derivative terms:
+\begin{equation}
+\frac{\partial^2\phi}{\partial t^2}
+-\frac{\partial^2\phi}{\partial x^2}
+-\frac{\partial^2\phi}{\partial y^2}
+-\frac{\partial^2\phi}{\partial z^2}.
+\end{equation}
+The left edge of the board is still in motion, but the completed derivative stack is clear.
+
+Varying the action with respect to \(\phi\), we obtain the sourced field equation
+\begin{equation}
+\frac{\partial^2\phi}{\partial t^2}-\nabla^2\phi
+=
+-g\,\delta^3(\mathbf x).
+\end{equation}
+In the lecture a minus sign is corrected live on the board; with the present convention this is the cleaned form consistent with the later static limit.
+
+Now suppose we look for a time-independent solution, appropriate to a particle standing still. Then \(\partial_t\phi=0\), so the equation becomes
+\begin{equation}
+\nabla^2\phi=g\,\delta^3(\mathbf x).
+\end{equation}
+This is Poisson's equation with a point source. Susskind uses this analogy to electrostatics not to switch subjects, but to show that a source term in a field equation is exactly what the particle contributes back to the field.
+
+The lecture then loosens the assumption that the particle sits at the origin. If it is fixed at \(x=a\), the source becomes
+\begin{equation}
+\delta(x)\longrightarrow \delta(x-a).
+\end{equation}
+If it moves along \(x=a(t)\), then in one spatial dimension the source becomes
+\begin{equation}
+\delta(x)\longrightarrow \delta(x-a(t)).
+\end{equation}
+At that point the source depends explicitly on time, so a time-independent field is no longer possible. One must restore the \(\partial_t^2\phi\) term. A moving, accelerating, or vibrating source forces the field to vary in time, and the field then radiates waves. The lecture does not solve that problem here; it uses it as the bridge to the next topic, namely notation.
+
+\section{Relativistic Notation as a Working Tool}
+
+The lecture now pauses and says, in effect: enough of writing out every time derivative and every spatial derivative by hand. The point of the notation is not decoration. It is compression that keeps Lorentz invariance visible.
+
+We denote the spacetime coordinates by
+\begin{equation}
+X^\mu=(t,x,y,z),
+\end{equation}
+with Greek indices \(\mu,\nu\) running over all four coordinates. The metric is
+\begin{equation}
+\eta_{\mu\nu}=\mathrm{diag}(-1,1,1,1).
+\end{equation}
+Lowering an index means multiplying by the metric:
+\begin{equation}
+A_\mu=\eta_{\mu\nu}A^\nu.
+\end{equation}
+With this convention, the time component changes sign and the spatial components do not.
+
+\begin{figure}
+\centering
+\includegraphics[width=0.82\textwidth]{lecture_05_figure_04.png}
+\end{figure}
+
+The board frame here is especially useful because it puts the two main ideas side by side. On the left is the contraction that makes a scalar, and on the right is the differential of a scalar field paired with \(dx^\mu\). In clean notation the same content is
+\begin{equation}
+A^\mu A_\mu=A^\mu\eta_{\mu\nu}A^\nu.
+\end{equation}
+This is the Minkowski version of a dot product. The repeated upper--lower index is summed automatically; that is the Einstein summation convention.
+
+Now take a scalar field \(\phi(X)\). Its infinitesimal change from one point to a neighboring point is
+\begin{equation}
+d\phi=\frac{\partial\phi(X)}{\partial x^\mu}\,dx^\mu.
+\end{equation}
+Since \(d\phi\) is a scalar and \(dx^\mu\) is a contravariant four-vector, the coefficient must transform as a covariant four-vector. Thus
+\begin{equation}
+\partial_\mu\phi=\frac{\partial\phi}{\partial x^\mu}
+=
+\left(
+\frac{\partial\phi}{\partial t},
+\frac{\partial\phi}{\partial x},
+\frac{\partial\phi}{\partial y},
+\frac{\partial\phi}{\partial z}
+\right),
+\end{equation}
+and after raising the index,
+\begin{equation}
+\partial^\mu\phi
+=
+\left(
+-\frac{\partial\phi}{\partial t},
+\frac{\partial\phi}{\partial x},
+\frac{\partial\phi}{\partial y},
+\frac{\partial\phi}{\partial z}
+\right).
+\end{equation}
+Therefore the contraction
+\begin{equation}
+\partial_\mu\phi\,\partial^\mu\phi
+=
+-\left(\frac{\partial\phi}{\partial t}\right)^2
++\left(\frac{\partial\phi}{\partial x}\right)^2
++\left(\frac{\partial\phi}{\partial y}\right)^2
++\left(\frac{\partial\phi}{\partial z}\right)^2
+\end{equation}
+is a scalar. This is exactly the pattern needed for the scalar-field Lagrangian:
+\begin{equation}
+\mathcal L=-\frac12\,\partial_\mu\phi\,\partial^\mu\phi.
+\end{equation}
+
+\subsection{Question \& Answer}
+
+Why should the Lagrangian be a scalar?
+
+Because the action is obtained by integrating the Lagrangian density over spacetime. If the Lagrangian density is a scalar, then the action has the same value in every inertial frame. And if the same action principle is valid in every frame, then the equations of motion it produces have the same form in every frame. That is the operational meaning of Lorentz invariance in this setting.
+
+The lecture also inserts a brief but useful nonrelativistic aside. If we take the limit \(c\to\infty\) in the Lorentz transformation, we recover
+\begin{equation}
+x'=x-vt,
+\qquad
+t'=t.
+\end{equation}
+That is Galilean invariance. So even Newtonian mechanics has a relativity principle; what special relativity changes is the structure of space and time, and in particular the loss of universal simultaneity.
+
+\section{Massive Scalar Fields and the Klein--Gordon Equation}
+
+With the notation in hand, the lecture returns to dynamics. We begin from the scalar-field Lagrangian already discussed and make the simplest new addition: a term proportional to \(\phi^2\). The lecture writes this in components and compares it to the ordinary harmonic oscillator. I will use \(\mu\) for the field-theory mass parameter; later in the lecture the same role is briefly denoted by \(m\), but the mathematics is the same.
+
+\begin{figure}
+\centering
+\includegraphics[width=0.82\textwidth]{lecture_05_figure_05.png}
+\end{figure}
+
+The board frame preserves both the field-theory expression across the top and the oscillator comparison line below. In cleaned form, the Lagrangian density is
+\begin{equation}
+\mathcal L
+=
+\frac12
+\left[
+\left(\frac{\partial\phi}{\partial t}\right)^2
+-\left(\frac{\partial\phi}{\partial x}\right)^2
+-\left(\frac{\partial\phi}{\partial y}\right)^2
+-\left(\frac{\partial\phi}{\partial z}\right)^2
+-\mu^2\phi^2
+\right].
+\end{equation}
+The lower comparison line is simply the ordinary oscillator Lagrangian,
+\begin{equation}
+L_{\mathrm{osc}}=\frac{\dot\phi^2}{2}-\frac{\mu^2\phi^2}{2}.
+\end{equation}
+The field theory is the harmonic oscillator spread out through space, with spatial-gradient terms added.
+
+Now vary this Lagrangian. The derivative with respect to \(\partial_t\phi\) gives \(\partial_t\phi\), and differentiating once more with respect to time gives \(\partial_t^2\phi\). The same pattern from the spatial derivatives produces minus the spatial Laplacian. Finally,
+\begin{equation}
+\frac{\partial \mathcal L}{\partial \phi}=-\mu^2\phi.
+\end{equation}
+Therefore the Euler--Lagrange equation is
+\begin{equation}
+\partial_t^2\phi-\nabla^2\phi+\mu^2\phi=0.
+\end{equation}
+This is the Klein--Gordon equation.
+
+To solve it, the lecture uses the standard plane-wave ansatz
+\begin{equation}
+\phi(X)=e^{-i\omega t+i(k_xx+k_yy+k_zz)}.
+\end{equation}
+Once the notation section has been established, we may compress this as
+\begin{equation}
+\phi(X)=e^{ik_\mu x^\mu},
+\qquad
+k_\mu=(-\omega,k_x,k_y,k_z).
+\end{equation}
+Differentiate twice:
+\begin{equation}
+\partial_t^2\phi=-\omega^2\phi,
+\qquad
+\partial_x^2\phi=-k_x^2\phi,
+\qquad
+\partial_y^2\phi=-k_y^2\phi,
+\qquad
+\partial_z^2\phi=-k_z^2\phi.
+\end{equation}
+Substituting into the field equation gives
+\begin{equation}
+\left(-\omega^2+k_x^2+k_y^2+k_z^2+\mu^2\right)\phi=0.
+\end{equation}
+For a nonzero solution, the bracket must vanish:
+\begin{equation}
+\omega^2=k_x^2+k_y^2+k_z^2+\mu^2.
+\end{equation}
+This is the dispersion relation. In the later spoken summary the mass term is called \(m^2\); here we keep \(\mu^2\) to match the Lagrangian just written.
+
+There are two branches, \(\omega=\pm\sqrt{\mathbf k^2+\mu^2}\), and every solution is built by superposing such plane waves. This is why the lecture says the equation is linear and easy to solve in principle: one solves it mode by mode.
+
+\subsection{Question \& Answer}
+
+Why are we allowed to use complex exponentials if the field is supposed to be real?
+
+Because the exponential is only a computational device. By Euler's formula,
+\begin{equation}
+e^{i(\omega t-kx)}
+=
+\cos(\omega t-kx)
++
+i\sin(\omega t-kx).
+\end{equation}
+The equation is linear. Therefore if the complex exponential solves it, then its real and imaginary parts solve it separately. The cosine and sine are just two real plane-wave solutions \(90^\circ\) out of phase with one another. The exponential is preferred because differentiating it is effortless.
+
+\section{Summary and Physical Interpretation}
+
+The lecture closes by returning to the particle Lagrangian and extracting a physical interpretation from the same coupling term with which we began. If the scalar field happens to sit at some constant background value, then the particle Lagrangian behaves as though the particle had an effective mass
+\begin{equation}
+m_{\mathrm{eff}}=m+g\phi.
+\end{equation}
+So a constant background scalar field shifts the mass. If the bare mass term were absent, a nonzero background could even create a mass where there was none before. This is the narrow sense in which the lecture invokes the Higgs idea at the end.
+
+The same coupling constant \(g\) controls both directions of the story. It tells us how strongly the field pushes on the particle, and it tells us how strongly the particle sources the field. That reciprocity is not an extra law. It is already present in the existence of a single action for the combined system.
+
+So the lecture has a very clear arc. A spacetime picture produces the Doppler formula. A simple two-coordinate toy model explains action and reaction. A scalar field enters the particle Lagrangian as potential energy in the nonrelativistic limit. The same term reappears as a source for the field equation. Relativistic notation then compresses the whole structure into invariant form, and one more scalar term produces the Klein--Gordon equation and its plane-wave solutions. The mathematics is elementary at each stage, but the organizing principle is already the modern one: write an invariant action, then let the equations follow.
