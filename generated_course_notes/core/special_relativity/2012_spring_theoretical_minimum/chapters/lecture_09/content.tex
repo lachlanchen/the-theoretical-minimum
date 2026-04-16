@@ -1,0 +1,495 @@
+\chapter{Electromagnetic Waves and the Maxwell Lagrangian}
+
+The lecture begins with what Susskind calls a plain electromagnetic wave, meaning a plane wave. That is not yet the action principle, and it is not meant to be. We first write down a wave that moves along an axis and ask what Maxwell's equations force it to look like. Only after that warm-up do we step back and ask the more structural question: which equations are identities, which are equations of motion, and what Lagrangian reproduces the dynamical side of Maxwell theory? These notes follow Lecture 9 of Leonard Susskind's Special Relativity course, with selected board evidence preserved by LazyingArt LLC and Video2Book used only to stabilize equations and board layout where helpful.
+
+\section{Maxwell's Equations as the Starting Point}
+
+The first move in the lecture is to put Maxwell's equations on the board in both three-vector and covariant form and then split them into two families. This split is the structural hinge of the whole chapter. One family follows from the existence of a vector potential and does not need to be derived from an action; the other family contains the genuine equations of motion, the part that would change if we changed the Lagrangian.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.9\textwidth]{lecture_09_figure_02.png}
+\caption{Maxwell equations in three-vector and covariant form.}
+\end{figure}
+
+As written on the board, the three-vector equations are arranged in two blocks,
+\begin{align}
+\nabla\cdot \vec B &= 0,
+&
+\partial_t \vec B &= \nabla\times \vec E,
+\\
+\nabla\cdot \vec E &= \rho,
+&
+\partial_t \vec E + \nabla\times \vec B &= \vec J.
+\end{align}
+The corresponding covariant equations are
+\begin{align}
+\partial_\mu F_{\nu\sigma}
++\partial_\nu F_{\sigma\mu}
++\partial_\sigma F_{\mu\nu}
+&=0,
+\\
+\partial_\mu F^{\mu\nu}
+&=J^\nu.
+\end{align}
+
+The first covariant equation is the Bianchi identity. The lower-left board writing is not perfectly crisp, but the standard cyclic form is clearly what is intended, and it is simply the covariant rewriting of the left-hand three-vector block. The second covariant equation is the dynamical one. This is the equation whose origin we will later seek in the action.
+
+There is an early observation in the lecture that deserves to remain visible because it does real work later: every term in these equations comes differentiated. That fact will explain why the plane-wave ansatz must have matched phase dependence, and later it will also help explain why gauge transformations can be absorbed cleanly into the action.
+
+\begin{remark}
+The live lecture later discovers a sign inconsistency in the three-vector source equation while deriving charge conservation. We therefore keep the board layout as evidence, but we will normalize the sourced equations later in a way that is consistent with the continuity equation.
+\end{remark}
+
+\section{Plane-Wave Ansatz in Empty Space}
+
+Before introducing the Lagrangian, the lecture wants to play with Maxwell's equations a little bit. We choose coordinates so that the wave propagates along the \(z\)-axis. There is no loss of generality in this. If the wave points in some other direction, we simply rotate our axes until it points along \(z\).
+
+The wave number is \(k\), so the wavelength is
+\begin{equation}
+\lambda=\frac{2\pi}{k}.
+\end{equation}
+The frequency is \(\omega\), not yet determined. A generic plane wave moving along the \(z\)-axis is then taken to have the form
+\begin{align}
+E_x(z,t)&=\epsilon_x\sin(kz-\omega t),
+&
+B_x(z,t)&=\beta_x\sin(kz-\omega t),
+\\
+E_y(z,t)&=\epsilon_y\sin(kz-\omega t),
+&
+B_y(z,t)&=\beta_y\sin(kz-\omega t),
+\\
+E_z(z,t)&=\epsilon_z\sin(kz-\omega t),
+&
+B_z(z,t)&=\beta_z\sin(kz-\omega t).
+\end{align}
+Here the \(\epsilon_i\) and \(\beta_i\) are constants. The lecture sometimes calls the \(\epsilon_i\) a polarization vector, but at this stage they are simply the numerical amplitudes of the various components.
+
+Why take the electric and magnetic fields to have the same sinusoidal dependence? The lecture pauses over this and gives the right reason. If both sides of Maxwell's equations involve derivatives, then differentiating a sine gives a cosine on both sides, and the structure closes. If we tried to take \(\vec E\) to be a sine and \(\vec B\) to be a cosine, then one side of the equation would become a cosine while the other became a sine. The equations would not fit together.
+
+There are also conventional choices here that cost nothing. We may shift the wave forward or backward by a constant phase, but that phase can be removed by translating the \(z\)-axis. So the simple form \(\sin(kz-\omega t)\) is not special; it is just the cleaned-up representative of the whole class of translated waves.
+
+At this point the lecture makes an explicit methodological remark: we have not yet used any equations of motion. We have only written a convenient ansatz. Now Maxwell's equations get to decide which of these six amplitudes may survive.
+
+\section{What Maxwell's Equations Force on the Wave}
+
+The first equations to use are the divergence equations. Since the fields depend only on \(z\) and \(t\),
+\begin{equation}
+\nabla\cdot \vec E
+=
+\partial_x E_x+\partial_y E_y+\partial_z E_z
+=
+\partial_z E_z.
+\end{equation}
+In empty space we must have \(\nabla\cdot\vec E=0\), so the only way this can vanish for a genuine sinusoidal wave is to set
+\begin{equation}
+\epsilon_z=0.
+\end{equation}
+Exactly the same argument applied to \(\nabla\cdot\vec B=0\) gives
+\begin{equation}
+\beta_z=0.
+\end{equation}
+Thus a plane electromagnetic wave moving along the \(z\)-axis has neither electric field nor magnetic field along the direction of propagation. Both fields are transverse.
+
+There is still rotational freedom in the \(xy\)-plane. The pair \((\epsilon_x,\epsilon_y)\) is just a two-dimensional vector, so we may rotate the transverse axes until one component vanishes. The lecture chooses
+\begin{equation}
+\epsilon_y=0,
+\qquad
+\epsilon_x\neq 0.
+\end{equation}
+That uses up the available rotational freedom, but it is a legitimate simplification. At this stage we do not yet know what it implies for the magnetic field.
+
+Now we use
+\begin{equation}
+\partial_t\vec E=-\,\nabla\times\vec B.
+\end{equation}
+Take the \(x\)-component. Since \(B_z=0\), the relevant part of the curl simplifies and we obtain
+\begin{equation}
+\partial_t E_x=\partial_z B_y.
+\end{equation}
+Substituting the ansatz gives
+\begin{align}
+\partial_t E_x
+&=
+-\omega\epsilon_x\cos(kz-\omega t),
+\\
+\partial_z B_y
+&=
+k\beta_y\cos(kz-\omega t).
+\end{align}
+The cosine factors cancel, and we learn that
+\begin{equation}
+\beta_y=-\,\epsilon_x\,\frac{\omega}{k}.
+\end{equation}
+So the magnetic field cannot vanish if the electric field does not. More precisely, once \(\vec E\) has been aligned along \(x\), the nonzero part of \(\vec B\) must appear in the \(y\)-direction.
+
+Next take the \(y\)-component of the same equation. Since \(E_y=0\) and \(B_z=0\), the only surviving term involves \(\partial_z B_x\), and the equation can hold only if
+\begin{equation}
+\beta_x=0.
+\end{equation}
+At this point the geometry is fixed. The wave propagates along \(z\), the electric field lies along \(x\), and the magnetic field lies along \(y\). Thus
+\begin{equation}
+\vec E\perp \vec B,
+\qquad
+\vec E\perp \hat z,
+\qquad
+\vec B\perp \hat z.
+\end{equation}
+
+The lecture then uses the companion equation
+\begin{equation}
+\partial_t\vec B=\nabla\times\vec E
+\end{equation}
+to relate the amplitudes the other way around. Its \(y\)-component reads
+\begin{equation}
+\partial_t B_y=\partial_z E_x,
+\end{equation}
+and therefore
+\begin{align}
+-\omega\beta_y\cos(kz-\omega t)
+&=
+k\epsilon_x\cos(kz-\omega t),
+\\
+\epsilon_x
+&=
+-\,\beta_y\,\frac{\omega}{k}.
+\end{align}
+Combining the two amplitude relations gives
+\begin{equation}
+\left(\frac{\omega}{k}\right)^2=1.
+\end{equation}
+In the lecture's chosen orientation and units,
+\begin{equation}
+\frac{\omega}{k}=1,
+\qquad
+\omega=k
+\qquad
+(c=1).
+\end{equation}
+The phase therefore becomes
+\begin{equation}
+kz-\omega t=k(z-t).
+\end{equation}
+If we restore \(c\), the phase becomes \(k(z-ct)\), which is exactly where the speed of light belongs.
+
+So the picture is now complete. The fields are transverse, the electric and magnetic fields are orthogonal to one another, their magnitudes agree in these units, and the whole sinusoidal profile moves rigidly at the speed of light. This is the standard plane electromagnetic wave, but the lecture insists on deriving it quickly from Maxwell's equations rather than merely quoting it.
+
+\subsection{Question \& Answer}
+
+\paragraph{Do \(\vec E\) and \(\vec B\) have to be in phase?}
+For a plane wave, yes. This is not an extra assumption; it is enforced by the differentiated structure of Maxwell's equations. Differentiating \(\vec E\) and setting the result equal to a derivative of \(\vec B\) leaves no room for a quarter-cycle mismatch. A minus sign is harmless, because it can be absorbed into the amplitudes, but a genuine sine-versus-cosine offset is not.
+
+\paragraph{If the field strength at a point oscillates, is energy conserved?}
+Yes. The lecture's answer is simple and physical: the energy is not staying fixed at one point, it is moving with the wave. The energy density at a given location rises and falls as the wave passes, but the energy that was here a moment ago is now over there. There is transport, not loss.
+
+One last point closes the wave discussion. Maxwell's equations are linear. If we choose a larger or smaller amplitude, the equations still work; if we add waves or subtract them, even waves traveling in different directions, the result is again a solution. The lecture mentions this briefly and then pivots: having written down the plane wave, we now turn to the Lagrangian.
+
+\section{Why We Now Need a Lagrangian}
+
+This pivot is one of the most important transitions in the lecture. A set of differential equations by itself is not yet the same thing as a theory with conservation laws. Energy conservation, momentum conservation, and the relation between symmetries and conserved quantities emerge from the action principle. One can write down differential equations that have no such structure at all.
+
+So if we take conservation laws seriously, we should look for a Lagrangian formulation of Maxwell's equations. But once again the split made at the beginning matters. We do not need to derive the Bianchi identities; they are already built into the definition of the field tensor. What we want from the action is the second family, the dynamical equations,
+\begin{equation}
+\partial_\mu F^{\mu\nu}=J^\nu.
+\end{equation}
+The rest of the lecture is an attempt to guess the Lagrangian from symmetry and locality, and then check that it really produces the right equations.
+
+\section{Locality, Lorentz Invariance, and the Scalar-Field Warm-Up}
+
+Before turning back to electromagnetism, the lecture takes a brief but deliberate detour through general field theory. This is not filler. The point is to remind ourselves of the Euler--Lagrange machinery in a setting simple enough that the indices do not yet obscure the idea.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.82\textwidth]{lecture_09_figure_03.png}
+\caption{Locality, Lorentz invariance, and a scalar-field Lagrangian.}
+\end{figure}
+
+The first principle is locality. In field theory that means the action is an integral over spacetime of a Lagrangian density that depends on the fields and their first derivatives at the same spacetime point:
+\begin{equation}
+S=\int d^4x\,\mathcal L(\phi,\phi_{,\mu}),
+\qquad
+\phi_{,\mu}\equiv \partial_\mu\phi.
+\end{equation}
+The lecture adopts the comma notation explicitly, and we will keep it because it is the notation used in the subsequent variation of the vector potential.
+
+The second principle is Lorentz invariance. The Lagrangian density should be a scalar. For a single scalar field a simple example is
+\begin{equation}
+\mathcal L_\phi
+=
+-\frac12\,\partial_\mu\phi\,\partial^\mu\phi
+-
+U(\phi),
+\end{equation}
+where we have standardized the lecture's slightly wavering potential notation to \(U(\phi)\). With the metric convention implied in the lecture,
+\begin{equation}
+\partial_\mu\phi\,\partial^\mu\phi
+=
+-\dot\phi^{\,2}
++
+(\partial_x\phi)^2
++
+(\partial_y\phi)^2
++
+(\partial_z\phi)^2.
+\end{equation}
+Thus the time derivative enters with the opposite sign from the spatial derivatives.
+
+The lecture then says, in effect, let us recall once more how Euler--Lagrange works in field theory.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.82\textwidth]{lecture_09_figure_04.png}
+\caption{Beginning the Euler-Lagrange derivative.}
+\end{figure}
+
+The board only shows the beginning of the derivative fraction, so here we typeset the standard completed formula:
+\begin{equation}
+\partial_\mu\!\left(
+\frac{\partial\mathcal L}{\partial \phi_{,\mu}}
+\right)
+=
+\frac{\partial\mathcal L}{\partial \phi}.
+\end{equation}
+For the scalar-field example,
+\begin{equation}
+\frac{\partial\mathcal L}{\partial \phi_{,\mu}}
+=
+-\partial^\mu\phi,
+\qquad
+\frac{\partial\mathcal L}{\partial \phi}
+=
+-\,U'(\phi),
+\end{equation}
+so the equation of motion becomes
+\begin{equation}
+\partial_\mu\partial^\mu\phi=-\,U'(\phi).
+\end{equation}
+In three-vector language,
+\begin{equation}
+\ddot\phi-\nabla^2\phi=-\,U'(\phi).
+\end{equation}
+In the live lecture Susskind writes the \(x\)-derivative explicitly and leaves the \(y\) and \(z\) terms as dots, but the point is exactly this familiar wave-type equation.
+
+The scalar-field warm-up is now complete. The lecture's message is that the procedure will be the same for electromagnetism, only with more indices and with the vector potential replacing the scalar field.
+
+\section{Gauge Invariance and the Vacuum Maxwell Lagrangian}
+
+At this stage the lecture adds one more principle, the specifically electromagnetic one: gauge invariance. For the moment we set
+\begin{equation}
+J^\mu=0,
+\end{equation}
+so we are dealing with the free electromagnetic field. The action should not change under a gauge transformation, and the simplest way to guarantee that is to build the Lagrangian from quantities that are themselves gauge invariant.
+
+The natural object is the field tensor
+\begin{equation}
+F_{\mu\nu}=A_{\mu,\nu}-A_{\nu,\mu}.
+\end{equation}
+By contrast,
+\begin{equation}
+A_\mu A^\mu
+\end{equation}
+is Lorentz invariant but not gauge invariant, so it cannot appear in the Maxwell Lagrangian. This point is made very explicitly in the lecture: the indices here label components of the field, not derivatives, and if we shift \(A_\mu\) by a gradient the scalar \(A_\mu A^\mu\) changes.
+
+So what gauge-invariant scalar can we make from \(F_{\mu\nu}\)? A linear contraction does not work:
+\begin{equation}
+F^\mu{}_\mu=0.
+\end{equation}
+The diagonal entries of an antisymmetric tensor vanish, so there is no nontrivial scalar linear in \(F\). The first thing that works is quadratic:
+\begin{equation}
+F_{\mu\nu}F^{\mu\nu}.
+\end{equation}
+
+The lecture now unpacks this expression in terms of \(\vec E\) and \(\vec B\). The mixed space-time components of \(F\) are electric; the purely spatial components are magnetic. Counting both off-diagonal orderings, one finds
+\begin{equation}
+F_{\mu\nu}F^{\mu\nu}=2(B^2-E^2).
+\end{equation}
+The lecture briefly wobbles over the sign while fixing conventions, but the final convention is the standard one that makes the electric term appear with a positive sign in the Lagrangian:
+\begin{equation}
+-\,F_{\mu\nu}F^{\mu\nu}=2(E^2-B^2).
+\end{equation}
+Thus the vacuum Maxwell Lagrangian is taken to be
+\begin{equation}
+\mathcal L_{\mathrm{EM}}
+=
+-\frac14\,F_{\mu\nu}F^{\mu\nu},
+\end{equation}
+which in these conventions is
+\begin{equation}
+\mathcal L_{\mathrm{EM}}
+=
+\frac12(E^2-B^2).
+\end{equation}
+The factor of \(\frac14\) is purely conventional. It compensates the double counting from the off-diagonal components and leaves the familiar \(\frac12(E^2-B^2)\).
+
+Now comes the representative variation. The fields are the four components of the vector potential,
+\begin{equation}
+A_0,\quad A_x,\quad A_y,\quad A_z,
+\end{equation}
+or equivalently \(A_0,A_1,A_2,A_3\). They are treated as independent fields in the Euler--Lagrange calculation.
+
+To see the structure, the lecture picks a concrete example: differentiate the Lagrangian with respect to \(A_{x,y}\). The only relevant piece is the term containing \(A_{x,y}-A_{y,x}\), and pulling that term out of the full sum gives
+\begin{equation}
+\mathcal L_{\mathrm{EM}}
+\supset
+-\frac12\left(A_{x,y}-A_{y,x}\right)^2.
+\end{equation}
+Differentiating with respect to \(A_{x,y}\) gives
+\begin{align}
+\frac{\partial\mathcal L_{\mathrm{EM}}}{\partial A_{x,y}}
+&=
+-\frac12\cdot 2\left(A_{x,y}-A_{y,x}\right)
+\\
+&=
+-\left(A_{x,y}-A_{y,x}\right)
+\\
+&=
+-F_{xy}.
+\end{align}
+This is the calculation the lecture wants us to remember. After the long unpacking, the result is remarkably simple. In general,
+\begin{equation}
+\frac{\partial\mathcal L_{\mathrm{EM}}}{\partial A_{\mu,\nu}}
+=
+-\,F^{\mu\nu},
+\end{equation}
+with the understanding that the upstairs-downstairs placement follows the metric convention already fixed.
+
+There is no dependence on undifferentiated \(A_\mu\) in the vacuum Lagrangian, so
+\begin{equation}
+\frac{\partial\mathcal L_{\mathrm{EM}}}{\partial A_\mu}=0.
+\end{equation}
+The Euler--Lagrange equations therefore yield
+\begin{equation}
+\partial_\nu F^{\mu\nu}=0.
+\end{equation}
+This is the dynamical half of the source-free Maxwell equations. The other half,
+\begin{equation}
+\partial_\mu F_{\nu\sigma}
++\partial_\nu F_{\sigma\mu}
++\partial_\sigma F_{\mu\nu}=0,
+\end{equation}
+remains what it was from the beginning: an identity following from the definition of \(F_{\mu\nu}\). The lecture insists on this distinction all the way through.
+
+\section{Sources, Conserved Current, and the Logic of the Theory}
+
+The free-field theory is not yet the whole story, because the right-hand side of Maxwell's equations still has to appear. The lecture now asks the obvious question: what must be added to the Lagrangian to produce the source term?
+
+Before answering, it recalls the four-current and the continuity equation. The current has a time component, the charge density \(\rho\), and spatial components collected into \(\vec J\). The continuity equation expresses local charge conservation:
+\begin{equation}
+\dot\rho+\nabla\cdot\vec J=0,
+\qquad
+\partial_\mu J^\mu=0.
+\end{equation}
+The lecture derives this from a small-box argument: the charge inside an infinitesimal cell changes only because charge crosses the walls of the cell.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.82\textwidth]{lecture_09_figure_05.png}
+\caption{Interaction term for Maxwell theory in Lagrangian form.}
+\end{figure}
+
+With that in hand, the simplest scalar coupling is
+\begin{equation}
+S_{\mathrm{int}}
+=
+-\int d^4x\,J^\mu A_\mu.
+\end{equation}
+The lecture remarks that the minus sign is conventional, and even jokes that at some level it is Benjamin Franklin's fault. The important point is not the joke but the structure: this is the four-vector product of the current and the potential.
+
+At first sight the term does not look gauge invariant. Under
+\begin{equation}
+A_\mu\longrightarrow A_\mu+\partial_\mu S,
+\end{equation}
+its variation is
+\begin{equation}
+\delta S_{\mathrm{int}}
+=
+-\int d^4x\,J^\mu\partial_\mu S.
+\end{equation}
+Now assume, as the lecture does, that the current is localized inside a large laboratory, so that boundary terms vanish far away. Integrating by parts then gives
+\begin{equation}
+\delta S_{\mathrm{int}}
+=
+\int d^4x\,(\partial_\mu J^\mu)\,S.
+\end{equation}
+Therefore
+\begin{equation}
+\partial_\mu J^\mu=0
+\qquad
+\Longrightarrow
+\qquad
+\delta S_{\mathrm{int}}=0.
+\end{equation}
+So the interaction term is gauge invariant if and only if the current is conserved.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.82\textwidth]{lecture_09_figure_06.png}
+\caption{Charge conservation and the continuity equation.}
+\end{figure}
+
+The full Maxwell Lagrangian is therefore
+\begin{equation}
+\mathcal L
+=
+-\frac14\,F_{\mu\nu}F^{\mu\nu}
+-
+J^\mu A_\mu.
+\end{equation}
+The new term contains \(A_\mu\) but no derivatives of \(A_\mu\), so it changes only the right-hand side of the Euler--Lagrange equations. In the live lecture the sign of the spatial current term is tracked somewhat unevenly, but the clean covariant normalization is
+\begin{equation}
+\partial_\mu F^{\mu\nu}=J^\nu.
+\end{equation}
+This is the sourced Maxwell equation in covariant form.
+
+The lecture then does something important and slightly risky: it turns the logic around and derives charge conservation back from Maxwell's equations. Because the sign of the three-vector current term is corrected on the fly, the clean version of the calculation should be written with the corrected source equation,
+\begin{equation}
+\rho=\nabla\cdot\vec E,
+\qquad
+\dot{\vec E}=-\,\nabla\times\vec B-\vec J.
+\end{equation}
+Differentiate the first equation with respect to time:
+\begin{equation}
+\dot\rho=\nabla\cdot\dot{\vec E}.
+\end{equation}
+Then substitute the second:
+\begin{align}
+\dot\rho
+&=
+\nabla\cdot\left(-\,\nabla\times\vec B-\vec J\right)
+\\
+&=
+-\,\nabla\cdot(\nabla\times\vec B)-\nabla\cdot\vec J
+\\
+&=
+-\,\nabla\cdot\vec J,
+\end{align}
+because the divergence of a curl vanishes. Hence
+\begin{equation}
+\dot\rho+\nabla\cdot\vec J=0.
+\end{equation}
+
+\begin{remark}
+This is one place where the live lecture is especially worth preserving. Susskind notices in real time that he has obtained the wrong sign, stops, checks the equations, and then fixes the source term. That stumble is not noise. It shows how tightly Maxwell's equations and charge conservation are connected.
+\end{remark}
+
+\subsection{Question \& Answer}
+
+\paragraph{Is there a circularity in using Maxwell's equations, charge conservation, and gauge invariance to motivate one another?}
+The lecture's answer is no. One may begin with Maxwell's equations and derive the continuity equation. One may begin with the physical statement that charge does not simply disappear and then infer that the \(J\cdot A\) coupling is gauge invariant. Or one may take the more structural route and say that locality, Lorentz invariance, gauge invariance, and the Lagrangian formulation are the minimal logic, from which Maxwell's equations follow. These are different entrances to the same consistent structure. The only bad possibility would be contradiction, and the lecture's point is precisely that there is none.
+
+\paragraph{Can the electric and magnetic sides of Maxwell theory be interchanged?}
+Only in a restricted sense. Formally one can imagine dual descriptions in which the role of equations of motion and Bianchi identities is exchanged. But in ordinary electromagnetism there is an asymmetry tied to the absence of magnetic monopoles. The lecture leaves that as a brief coda, and that is the right proportion here as well.
+
+A final late aside in the lecture concerns the word gauge itself. The mathematical content needed here is simply the transformation \(A_\mu\to A_\mu+\partial_\mu S\). The deeper physical meaning of gauge invariance is postponed.
+
+\section{Summary}
+
+The lecture unfolds in a very definite order. We begin with a plane electromagnetic wave, not because the wave is the final goal, but because it is the quickest clean test case. Maxwell's equations force the wave to be transverse, force \(\vec E\) and \(\vec B\) to be perpendicular, fix their amplitude relation, and finally force the lightlike dispersion relation \(\omega=k\) in units \(c=1\).
+
+Only then do we step back and ask for the action principle. Locality says the Lagrangian should depend on fields and first derivatives. Lorentz invariance says it should be a scalar. Gauge invariance then selects the field tensor \(F_{\mu\nu}\) as the natural building block and leads to the vacuum Lagrangian
+\begin{equation}
+\mathcal L_{\mathrm{EM}}=-\frac14\,F_{\mu\nu}F^{\mu\nu}.
+\end{equation}
+Adding the source coupling \(-J^\mu A_\mu\) gives the full Maxwell theory, and the continuity equation appears as the exact condition that makes the interaction term gauge invariant.
+
+The final impression the lecture leaves is not simply that Maxwell's equations have a Lagrangian form. It is that the whole structure hangs together very tightly. Gauge invariance, conserved current, and Maxwell's equations are not separate ornaments added afterward. They are different faces of one coherent theory, and the only way to digest that coherence is to go home and work through the equations step by step.
