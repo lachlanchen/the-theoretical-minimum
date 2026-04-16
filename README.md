@@ -91,10 +91,15 @@ It combines lecture transcriptions, subtitle files, generated TeX notes, compile
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="4">
+    <td align="center" colspan="2">
       <a href="supplemental_string_theory/string_theory_and_m_theory.pdf"><img src="figs/readme-covers/string_theory_and_m_theory.png" width="170" alt="String Theory and M-Theory cover"></a><br>
       <strong>String Theory and M-Theory</strong><br>
       <sub>Supplementary course book</sub>
+    </td>
+    <td align="center" colspan="2">
+      <a href="core_quantum_mechanics/2012_winter_theoretical_minimum/quantum_mechanics_theoretical_minimum.pdf"><img src="figs/readme-covers/quantum_mechanics_theoretical_minimum.png" width="170" alt="Quantum Mechanics cover"></a><br>
+      <strong>Quantum Mechanics</strong><br>
+      <sub>2012 Winter Theoretical Minimum</sub>
     </td>
   </tr>
 </table>
@@ -205,6 +210,7 @@ Open the PDFs in the relevant course folder, for example:
 - `core_statistical_mechanics/lesson_1.pdf`
 - `core_classical_mechanics/2011_fall_theoretical_minimum/classical_mechanics_theoretical_minimum.pdf`
 - `core_classical_mechanics/2011_fall_modern_physics_stanford_partial/classical_mechanics_stanford_partial.pdf`
+- `core_quantum_mechanics/2012_winter_theoretical_minimum/quantum_mechanics_theoretical_minimum.pdf`
 - `supplemental_advanced_quantum/advanced_quantum_mechanics.pdf`
 - `supplemental_cosmology_and_black_holes/topics_in_string_theory.pdf`
 - `supplemental_higgs_boson/demystifying_the_higgs_boson.pdf`

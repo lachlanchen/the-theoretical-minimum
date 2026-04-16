@@ -1,0 +1,9 @@
+{
+  "model": "nano-banana-2",
+  "prompt": "Design clean, text-free, full-bleed front-cover artwork for a lecture-note book on quantum mechanics from the Theoretical Minimum course.\n\nThis must be flat cover art only, not a photographed or rendered physical book, not a mockup, and not a poster.\n\nVisual direction:\n- Japanese editorial minimalism with scientific elegance\n- one clear quantum motif: wave packet, probability density layers, operator geometry, or coherent phase structure\n- crisp linework with soft gradients, sparse geometry, and restrained structure\n- generous negative space in the upper region for later title and attribution overlays\n- simpler is better than busy, keep it calm and readable\n\nComposition:\n- portrait composition, aspect ratio 2:3, full page\n- balanced center placement with elegant margins\n- no text, no labels, no watermark, no fake equations\n\nColor palette:\n- deep indigo, charcoal, muted cream, and restrained cyan accents\n\nAvoid:\n- noise, clutter, stock-photo cliches, distorted or unreadable symbols, fake textbook figures, and overcrowded plots.",
+  "urls": [],
+  "aspectRatio": "2:3",
+  "imageSize": "2K",
+  "webHook": "-1",
+  "shutProgress": false
+}
