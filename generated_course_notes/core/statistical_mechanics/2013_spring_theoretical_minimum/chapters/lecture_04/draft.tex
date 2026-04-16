@@ -1,0 +1,404 @@
+\chapter{The Boltzmann Distribution and the Ideal Gas}
+
+This chapter follows Leonard Susskind's fourth lecture in Statistical Mechanics in the order in which the lecture itself unfolds. The aim is first to arrive at the Boltzmann distribution from entropy maximization, and only then to turn to the ideal gas as the first real example. We keep the notation consistent by writing \(p_i\) for probabilities and \(z(\beta)\) for the partition function, even though the lecture and the board briefly wander between upper and lower case. The lecture material is due to Leonard Susskind, and the preserved board-documentary workflow is credited in the project to LazyingArt LLC and Video2Book.
+
+\section{Review: Probabilities, Occupation Numbers, and Entropy}
+
+We begin exactly where the lecture begins: with a very quick review of the replicated-systems picture. Imagine a large collection of identical weakly coupled subsystems, which Susskind likes to picture as many copies of the same box. If \(n_i\) of these replicas are in the \(i\)-th state, and if the total number of replicas is \(N_{\mathrm{rep}}\), then the probability for one subsystem to be in the \(i\)-th state is
+\begin{equation}
+p_i=\frac{n_i}{N_{\mathrm{rep}}}.
+\end{equation}
+The probabilities define a distribution over the states of one subsystem, and from that distribution we form the entropy
+\begin{equation}
+S=-\sum_i p_i \log p_i.
+\end{equation}
+
+The important point is that \(S\) is a function of all the probabilities \(p_i\). It is not an abstract thermodynamic symbol floating above the calculation. It is a concrete function of many variables, and the lecture now turns that observation into a variational problem.
+
+There are two constraints. First, probabilities must add to one:
+\begin{equation}
+\sum_i p_i=1.
+\end{equation}
+Second, the average energy per subsystem is fixed:
+\begin{equation}
+\sum_i p_i E_i = E.
+\end{equation}
+Here \(E_i\) denotes the energy of the \(i\)-th level, while \(E\) is the average energy per box. This distinction matters throughout the lecture. The \(E_i\) are the fixed energy levels of the system; the \(E\) on the right is the mean energy determined by the chosen probability distribution.
+
+The lecture reminds us that the most likely macrostate is obtained by maximizing \(S\) subject to these constraints. Susskind then makes a linguistic choice that is worth keeping: instead of maximizing \(S\), he prefers to minimize \(-S\). The mathematics is the same, but it makes the next move read like the standard minimization problem of calculus.
+
+\section{Extremizing the Entropy: From Constraints to the Boltzmann Distribution}
+
+We now set up the Lagrange-multiplier problem. In cleaned notation,
+\begin{equation}
+F'[p]
+=
+\sum_i p_i \log p_i
++
+\alpha\left(\sum_i p_i-1\right)
++
+\beta\left(\sum_i E_i p_i-E\right).
+\end{equation}
+The constants \(\alpha\) and \(\beta\) are the two Lagrange multipliers, one for normalization and one for fixed average energy.
+
+When we differentiate with respect to a particular probability \(p_i\), the constants \(-\alpha\) and \(-\beta E\) play no role. The lecture emphasizes that we are lucky: every term is simple, and each derivative is local in \(p_i\). The partly obscured top line on the blackboard is best written in the cleaned canonical form
+\begin{equation}
+\frac{\partial F'}{\partial p_i}
+=
+\log p_i + 1 + \alpha + \beta E_i
+=
+0.
+\end{equation}
+So we immediately obtain
+\begin{equation}
+\log p_i = -(1+\alpha)-\beta E_i.
+\end{equation}
+Exponentiating gives
+\begin{equation}
+p_i = e^{-(1+\alpha)} e^{-\beta E_i}.
+\end{equation}
+The first factor does not distinguish one state from another; it is only an overall normalization. Following the lecture, we rename it by writing
+\begin{equation}
+e^{-(1+\alpha)}=\frac{1}{z},
+\end{equation}
+and therefore
+\begin{equation}
+p_i=\frac{1}{z}e^{-\beta E_i}.
+\end{equation}
+
+This is the moment the lecture treats as a piece of magic. One begins with a routine derivative of \(p\log p\), and suddenly the relative probabilities of energy levels are exponential in the energy. The Boltzmann distribution has not been assumed. It has appeared.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.78\textwidth]{lecture_04_figure_02.png}
+\caption{Lagrange-multiplier derivation of the Boltzmann distribution}
+\end{figure}
+
+\subsection{Question \& Answer}
+
+Why does \(\beta\) already look important before we know it is temperature?
+
+Because \(\beta\) is the only quantity in the exponential that changes how strongly the probability suppresses large energies. If we think of \(p_i\) as a function of the energy level \(E_i\), then
+\begin{equation}
+p_i \propto e^{-\beta E_i}.
+\end{equation}
+A large \(\beta\) makes the curve fall off rapidly, so high-energy states become strongly disfavored. A small \(\beta\) makes the falloff much slower, so the distribution reaches further into high energies. In other words, \(\beta\) is already the parameter one tunes in order to change the average energy. At this stage it is still only a Lagrange multiplier, but it is plainly not an innocent one.
+
+\section{Normalization and the Partition Function}
+
+We now come back to the first constraint and use it to fix the overall factor. Since \(\sum_i p_i=1\),
+\begin{equation}
+1
+=
+\sum_i p_i
+=
+\frac{1}{z}\sum_i e^{-\beta E_i},
+\end{equation}
+and therefore
+\begin{equation}
+z(\beta)=\sum_i e^{-\beta E_i}.
+\end{equation}
+This is the partition function. In one sense it is just a normalization constant. But the lecture very quickly upgrades it from bookkeeping to physics: almost everything of thermodynamic interest will be buried in \(z(\beta)\).
+
+It is important that the energy levels \(E_i\) are regarded here as known numbers. They come from the underlying laws of the system inside the box. Once those levels are known, the partition function tells us how likely each level is as a function of \(\beta\).
+
+The second constraint, the fixed average energy, now reads
+\begin{equation}
+E=\sum_i p_i E_i=\frac{1}{z}\sum_i E_i e^{-\beta E_i}.
+\end{equation}
+At this point the lecture introduces the famous trick. Differentiate the partition function itself:
+\begin{align}
+\frac{dz}{d\beta}
+&=
+\frac{d}{d\beta}\sum_i e^{-\beta E_i}
+=
+-\sum_i E_i e^{-\beta E_i}.
+\end{align}
+Dividing by \(z\), we find
+\begin{align}
+-\frac{1}{z}\frac{dz}{d\beta}
+&=
+\frac{1}{z}\sum_i E_i e^{-\beta E_i}
+=
+\sum_i p_i E_i
+=
+E.
+\end{align}
+Thus
+\begin{equation}
+E=-\frac{1}{z}\frac{dz}{d\beta}
+=-\frac{d\log z}{d\beta}.
+\end{equation}
+
+This is one of the great compressions of the lecture. The average energy is no longer a separate sum that has to be computed afresh. Once \(z(\beta)\) is known, \(E(\beta)\) comes out by differentiation.
+
+\subsection{Question \& Answer}
+
+Is \(E\) here a constant, an eigenvalue, or a function of \(\beta\)?
+
+The answer is delicate, and the lecture lingers over it for good reason.
+
+The numbers \(E_i\) are fixed energy levels of the system. They are not changing during this part of the argument. The quantity \(E\), by contrast, is the average energy,
+\begin{equation}
+E=\sum_i p_i E_i,
+\end{equation}
+and therefore depends on the distribution \(p_i\). Since the distribution depends on \(\beta\), the average energy should really be read as \(E(\beta)\) whenever we allow the parameter to vary.
+
+This also explains why \(\alpha\) seems to disappear. It has not vanished; it has simply been absorbed into \(z\). Writing \(e^{-(1+\alpha)}=1/z\) is only a redefinition.
+
+Finally, the lecture insists that all control parameters are being held fixed for now: the volume of the box, its shape, any external field, and so on. Those parameters determine the spectrum \(E_i\). If one changes them, then the energy levels change, and with them the partition function changes too. None of that is being varied in the present derivation.
+
+\section{Entropy First, Then Temperature}
+
+The next move is one of the most important structural choices in the lecture. Before proving that \(\beta\) is inverse temperature, Susskind says: one step first. Entropy comes before temperature.
+
+Start from the definition
+\begin{equation}
+S=-\sum_i p_i\log p_i.
+\end{equation}
+Using
+\begin{equation}
+p_i=\frac{1}{z}e^{-\beta E_i},
+\qquad
+\log p_i=-\beta E_i-\log z,
+\end{equation}
+we obtain
+\begin{align}
+S
+&=
+-\sum_i p_i(-\beta E_i-\log z) \\
+&=
+\beta \sum_i p_i E_i + (\log z)\sum_i p_i \\
+&=
+\beta E+\log z.
+\end{align}
+This is the entropy formula the lecture wants us to have in hand before talking about temperature.
+
+Now we recall the thermodynamic definition:
+\begin{equation}
+dE=T\,dS.
+\end{equation}
+Equivalently,
+\begin{equation}
+\frac{dE}{dS}=T,
+\qquad
+\frac{1}{T}=\frac{dS}{dE}.
+\end{equation}
+The lecture briefly starts down a more cumbersome route, then restarts with the much cleaner differential calculation. From
+\begin{equation}
+S=\beta E+\log z
+\end{equation}
+we take a differential:
+\begin{equation}
+dS=\beta\,dE+E\,d\beta+\frac{d\log z}{d\beta}\,d\beta.
+\end{equation}
+But from the earlier identity,
+\begin{equation}
+E=-\frac{d\log z}{d\beta},
+\end{equation}
+so the last two terms cancel:
+\begin{align}
+dS
+&=
+\beta\,dE+E\,d\beta-E\,d\beta \\
+&=
+\beta\,dE.
+\end{align}
+Therefore
+\begin{equation}
+dE=\frac{1}{\beta}\,dS.
+\end{equation}
+Comparing this with \(dE=T\,dS\), we conclude
+\begin{equation}
+T=\frac{1}{\beta},
+\qquad
+\beta=\frac{1}{T}.
+\end{equation}
+In laboratory units one restores Boltzmann's constant:
+\begin{equation}
+\beta=\frac{1}{k_B T}.
+\end{equation}
+The lecture makes a point here that is worth keeping. In theorist's units, temperature has the units of energy. This is not a trick of notation; it is a statement about what temperature physically measures.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.70\textwidth]{lecture_04_figure_03.png}
+\caption{Temperature from the entropy-energy derivative}
+\end{figure}
+
+\subsection{Question \& Answer}
+
+Why is it legitimate to differentiate \(\log z\) with respect to \(\beta\) rather than with respect to \(E\) once we are discussing temperature?
+
+Because in this stage of the calculation there is only one independent variable. We may choose to parametrize the family of equilibrium states by \(E\), or by \(\beta\), but not by both independently. They are related through
+\begin{equation}
+E=E(\beta).
+\end{equation}
+So when we write \(d\log z/d\beta\), we are not ignoring the energy dependence of \(\log z\); we are simply using \(\beta\) as the parameter along the one-parameter family of equilibria. This is exactly the clarification the lecture pauses to make.
+
+\section{Canonical Summary Before the Example}
+
+At this point the lecture collects the essential formulas on the board. It is useful to keep them together in exactly that spirit:
+\begin{align}
+p_i &= \frac{1}{z}e^{-\beta E_i}, &
+z(\beta) &= \sum_i e^{-\beta E_i}, \\
+E(\beta) &= -\frac{d\log z}{d\beta}, &
+S(\beta) &= \beta E+\log z, \\
+\beta &= \frac{1}{T}. &&
+\end{align}
+In laboratory units, the last relation becomes \(\beta=1/(k_B T)\).
+
+This is the canonical ensemble in the form the lecture wants us to remember it: equilibrium probabilities are obtained by maximizing entropy at fixed average energy, and once the partition function is known, the thermodynamics follows from differentiation.
+
+\section{The Ideal Gas as the First Real Example}
+
+Now the mood shifts from abstract formalism to a concrete model. The lecture promised an example from the beginning, and now it arrives: the ideal gas.
+
+Take \(N\) point particles in a box of volume \(V\). The particles are so dilute, or so weakly interacting, that we neglect all interactions. The energy is therefore purely kinetic. At this stage the system is the whole box of gas, not a single molecule, and a state of the system is specified by the positions and momenta of all particles. Equivalently, it is a point in a \(6N\)-dimensional phase space.
+
+Write the \(3N\) position coordinates collectively as \(x_1,\dots,x_{3N}\) and the \(3N\) momentum coordinates as \(p_1,\dots,p_{3N}\). Then the energy of a state is
+\begin{equation}
+E_{\mathrm{state}}=\sum_{a=1}^{3N}\frac{p_a^2}{2m}.
+\end{equation}
+The sum over states is replaced by a phase-space integral, so the partition function becomes
+\begin{equation}
+z
+=
+\int d^{3N}x\,d^{3N}p\;
+\exp\!\left(-\beta \sum_{a=1}^{3N}\frac{p_a^2}{2m}\right).
+\end{equation}
+
+The lecture's main point here is that the expression looks forbidding but factorizes almost embarrassingly well. The integrand does not depend on the coordinates \(x_a\), so the coordinate integrals simply give the volume of the box once for each particle:
+\begin{equation}
+\int d^{3N}x = V^N.
+\end{equation}
+For the momentum part, every one-dimensional integral is the same. If we also include the conventional overcounting factor \(1/N!\), the result is
+\begin{equation}
+z=\frac{V^N}{N!}\left[\int_{-\infty}^{\infty}dp\;e^{-\beta p^2/(2m)}\right]^{3N}.
+\end{equation}
+
+The lecture treats the factor \(1/N!\) cautiously. In classical mechanics it is somewhat contentious and, for the derivative formulas used here, ultimately harmless: it contributes only an additive constant to \(\log z\), and such constants disappear under differentiation. Still, it is customary, and it also makes the density dependence come out neatly.
+
+We now do the Gaussian integral. Set
+\begin{equation}
+q^2=\frac{\beta}{2m}p^2,
+\qquad
+dp=\sqrt{\frac{2m}{\beta}}\,dq.
+\end{equation}
+Then
+\begin{align}
+\int_{-\infty}^{\infty}dp\;e^{-\beta p^2/(2m)}
+&=
+\sqrt{\frac{2m}{\beta}}
+\int_{-\infty}^{\infty}dq\;e^{-q^2} \\
+&=
+\sqrt{\frac{2m}{\beta}}\sqrt{\pi}
+=
+\sqrt{\frac{2\pi m}{\beta}}.
+\end{align}
+So the ideal-gas partition function is
+\begin{equation}
+z=\frac{V^N}{N!}\left(\frac{2\pi m}{\beta}\right)^{3N/2}.
+\end{equation}
+
+If one wants the lecture's secondary rewrite in terms of density,
+\begin{equation}
+\rho=\frac{N}{V},
+\qquad
+\frac{V^N}{N!}\approx \left(\frac{e}{\rho}\right)^N
+\end{equation}
+for large \(N\) using Stirling's approximation. But this is a secondary algebraic convenience, not the main formula.
+
+\section{Energy of the Ideal Gas, Equipartition Flavor, and the Gravity Coda}
+
+Once again the lecture recommends taking the logarithm before differentiating. Products are awkward; sums are easy. From
+\begin{equation}
+z=\frac{V^N}{N!}\left(\frac{2\pi m}{\beta}\right)^{3N/2}
+\end{equation}
+we obtain
+\begin{equation}
+\log z
+=
+-\frac{3N}{2}\log\beta+\mathrm{const},
+\end{equation}
+where the constant collects everything independent of \(\beta\): the volume, the mass, \(\pi\), and the \(N!\) term if it is kept.
+
+Now the energy follows immediately:
+\begin{align}
+E
+&=
+-\frac{d\log z}{d\beta}
+=
+-\frac{d}{d\beta}\left(-\frac{3N}{2}\log\beta+\mathrm{const}\right) \\
+&=
+\frac{3N}{2}\frac{1}{\beta}
+=
+\frac{3N}{2}T.
+\end{align}
+Hence the energy per particle is
+\begin{equation}
+\frac{E}{N}=\frac{3}{2}T.
+\end{equation}
+In laboratory units this becomes
+\begin{equation}
+\frac{E}{N}=\frac{3}{2}k_B T.
+\end{equation}
+
+This is exactly the equipartition flavor the lecture wants to emphasize. There are three momentum directions, and each quadratic momentum term contributes
+\begin{equation}
+\frac{1}{2}T
+\end{equation}
+in theorist's units, or \(\frac{1}{2}k_B T\) in laboratory units. The mass does not appear in the final energy per particle. At fixed temperature, heavy particles move more slowly, but they carry the same average kinetic energy.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.82\textwidth]{lecture_04_figure_04.png}
+\caption{Ideal-gas energy from the \(\beta\)-dependence of \(\log z\)}
+\end{figure}
+
+The lecture then ends with an exploratory extension. Suppose gravity contributes a potential energy \(mgy\). Then the Boltzmann weight acquires an extra factor \(e^{-\beta mgy}\), so the coordinate part no longer collapses simply to \(V^N\). The \(x\) and \(z\) integrations are unchanged, but the vertical integral becomes
+\begin{equation}
+\left[\int_0^{L}dy\;e^{-\beta mgy}\right]^N
+\end{equation}
+for a box of height \(L\). The lecture does not fully polish that finite-height formula, and it is better not to pretend otherwise.
+
+To simplify, Susskind lets the room become infinitely high. Then
+\begin{equation}
+\int_0^\infty dy\;e^{-\beta mgy}=\frac{1}{\beta m g}.
+\end{equation}
+So in that idealized atmosphere problem, the partition function acquires an additional factor proportional to \((\beta m g)^{-N}\). Equivalently, \(\log z\) acquires an extra term
+\begin{equation}
+-N\log\beta + \mathrm{const},
+\end{equation}
+and therefore the energy acquires an extra contribution
+\begin{equation}
+-\frac{d}{d\beta}\left(-N\log\beta\right)=\frac{N}{\beta}=NT.
+\end{equation}
+The lecture reads this, appropriately, as the contribution of the average potential energy per particle in the gravitational field. Here the calculation is meant as a coda and a suggestion for further work, not as a finished centerpiece.
+
+The final preview is also important. Once one knows that
+\begin{equation}
+E=-\frac{d\log z}{d\beta},
+\end{equation}
+it is natural to differentiate once more and study fluctuations. The lecture postpones that calculation to the next meeting, where the width of the energy distribution will be related to the specific heat.
+
+\section{Summary}
+
+The lecture's story is remarkably compact. We begin with occupation numbers and probabilities, maximize entropy subject to normalization and fixed average energy, and find
+\begin{equation}
+p_i=\frac{1}{z}e^{-\beta E_i}.
+\end{equation}
+Normalization defines the partition function, differentiation of \(\log z\) gives the average energy, and rewriting the entropy as
+\begin{equation}
+S=\beta E+\log z
+\end{equation}
+allows us to prove
+\begin{equation}
+\beta=\frac{1}{T}.
+\end{equation}
+
+Only after this canonical structure is in place do we turn to the ideal gas. There the phase-space integrals factorize, the partition function can be computed explicitly, and the result
+\begin{equation}
+\frac{E}{N}=\frac{3}{2}T
+\end{equation}
+makes visible the kinetic meaning of temperature. The lecture closes by showing that once the partition function is under control, one can begin modifying the physics---for example by adding gravity---and the thermodynamics changes in a systematic way. That is exactly the point at which the next lecture on fluctuations is prepared.
