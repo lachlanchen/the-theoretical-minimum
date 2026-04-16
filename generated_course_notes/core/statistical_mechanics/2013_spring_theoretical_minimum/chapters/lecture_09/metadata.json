@@ -1,0 +1,80 @@
+{
+  "course_rel": "core/statistical_mechanics/2013_spring_theoretical_minimum",
+  "transcript_rel": "core/statistical_mechanics/2013_spring_theoretical_minimum/183 - Statistical Mechanics Lecture 9 [AT4_S9vQJgc].md",
+  "video_rel": "core/statistical_mechanics/2013_spring_theoretical_minimum/183 - Statistical Mechanics Lecture 9 [AT4_S9vQJgc].mkv",
+  "lecture_number": 9,
+  "lecture_slug": "lecture_09",
+  "lecture_title": "Statistical Mechanics Lecture 9",
+  "assets": [
+    {
+      "name": "lecture_09_figure_02.png",
+      "timestamp_seconds": 606.02,
+      "timestamp_hhmmss": "00:10:06.020",
+      "source_candidate": "lecture_09_window_02_candidate_02_001006020.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 02 gives the clearest and least occluded view of the board equation at this moment. The lecturer is no longer pointing into the writing, so the derivative expression and the hyperbolic-function simplification are easier to read than in candidates 01 and 03, while candidate 04 is slightly less settled as he moves away. This frame is the most useful one for note writing because it preserves the completed chain of equalities.",
+      "subtitle_excerpt": "Well the energy is minus j times sigma.",
+      "segment_start_seconds": 604.72,
+      "segment_start_hhmmss": "00:10:04.720",
+      "segment_end_seconds": 608.14,
+      "segment_end_hhmmss": "00:10:08.140",
+      "caption_hint": "Average energy in hyperbolic form"
+    },
+    {
+      "name": "lecture_09_figure_03.png",
+      "timestamp_seconds": 3392.621,
+      "timestamp_hhmmss": "00:56:32.621",
+      "source_candidate": "lecture_09_window_03_candidate_04_005632621.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "Candidate 04 captures the most finished board state in this subtitle window. It preserves the left-hand two-dimensional neighbor sketch, the central partial energy expression with the neighbor sum, and the right-hand bracketed average notation that Susskind is introducing. Although his hand is still at the far right, the overall mathematical layout is more complete and more useful for note reconstruction than the earlier candidates.",
+      "subtitle_excerpt": "the spin has an average called sigma.",
+      "segment_start_seconds": 3390.562,
+      "segment_start_hhmmss": "00:56:30.562",
+      "segment_end_seconds": 3392.902,
+      "segment_end_hhmmss": "00:56:32.902",
+      "caption_hint": "2D spin with neighbor average"
+    },
+    {
+      "name": "lecture_09_figure_04.png",
+      "timestamp_seconds": 3611.771,
+      "timestamp_hhmmss": "01:00:11.771",
+      "source_candidate": "lecture_09_window_04_candidate_04_010011771.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "Candidate 04 preserves the most developed board state in this subtitle window. It keeps the 2D neighbor sketch, the mean-field replacement of the neighbor sum by an average spin in the middle of the board, and the bottom hyperbolic-tangent relation at its furthest visible stage. Although Susskind is still writing, this frame captures the fullest mathematical layout of the moment.",
+      "subtitle_excerpt": "this spin is hyperbolic tangent of 2D J sigma bar.",
+      "segment_start_seconds": 3607.582,
+      "segment_start_hhmmss": "01:00:07.582",
+      "segment_end_seconds": 3612.342,
+      "segment_end_hhmmss": "01:00:12.342",
+      "caption_hint": "2D mean-field self-consistency step"
+    },
+    {
+      "name": "lecture_09_figure_05.png",
+      "timestamp_seconds": 3723.636,
+      "timestamp_hhmmss": "01:02:03.636",
+      "source_candidate": "lecture_09_window_05_candidate_03_010203636.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "We now have an equation for what sigma bar is.",
+      "segment_start_seconds": 3721.582,
+      "segment_start_hhmmss": "01:02:01.582",
+      "segment_end_seconds": 3724.742,
+      "segment_end_hhmmss": "01:02:04.742",
+      "caption_hint": "We now have an equation for what sigma bar is."
+    },
+    {
+      "name": "lecture_09_figure_06.png",
+      "timestamp_seconds": 4044.852,
+      "timestamp_hhmmss": "01:07:24.852",
+      "source_candidate": "lecture_09_window_06_candidate_01_010724852.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 01 gives the clearest and widest view of the board at the moment Susskind is about to solve the equation graphically. It preserves the derived relation y/(2 beta d J) = tanh y with the least cropping, while the later candidates shift right and lose more of the left-hand side without adding useful new board content.",
+      "subtitle_excerpt": "The crudest way to solve an equation is to draw",
+      "segment_start_seconds": 4044.402,
+      "segment_start_hhmmss": "01:07:24.402",
+      "segment_end_seconds": 4048.152,
+      "segment_end_hhmmss": "01:07:28.152",
+      "caption_hint": "Transcendental equation before graphing"
+    }
+  ]
+}
