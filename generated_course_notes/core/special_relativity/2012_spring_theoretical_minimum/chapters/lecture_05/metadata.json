@@ -1,0 +1,66 @@
+{
+  "course_rel": "core/special_relativity/2012_spring_theoretical_minimum",
+  "transcript_rel": "core/special_relativity/2012_spring_theoretical_minimum/138 - Special Relativity \uff5c Lecture 5 [_DtwlC5e8J8].md",
+  "video_rel": "core/special_relativity/2012_spring_theoretical_minimum/138 - Special Relativity \uff5c Lecture 5 [_DtwlC5e8J8].mkv",
+  "lecture_number": 5,
+  "lecture_slug": "lecture_05",
+  "lecture_title": "Special Relativity : Lecture 5",
+  "assets": [
+    {
+      "name": "lecture_05_figure_02.png",
+      "timestamp_seconds": 1287.687,
+      "timestamp_hhmmss": "00:21:27.687",
+      "source_candidate": "lecture_05_window_02_candidate_03_002127687.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 03 gives the best balance of legibility and completeness. The central formula is the clearest here, the lecturer blocks less of the left-hand label than in candidates 01 and 02, and his hand does not obscure the square-root term as much as in candidate 04. It also preserves the small right-side sketch that helps document the board layout at this moment.",
+      "subtitle_excerpt": "The integral of this Lagrangian,",
+      "segment_start_seconds": 1286.4,
+      "segment_start_hhmmss": "00:21:26.400",
+      "segment_end_seconds": 1288.38,
+      "segment_end_hhmmss": "00:21:28.380",
+      "caption_hint": "Relativistic particle Lagrangian on the board"
+    },
+    {
+      "name": "lecture_05_figure_03.png",
+      "timestamp_seconds": 2696.145,
+      "timestamp_hhmmss": "00:44:56.145",
+      "source_candidate": "lecture_05_window_04_candidate_04_004456145.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 04 is the best balance of completeness and usefulness. The right-hand side with the full stack of second-derivative terms is still clearly legible, and this frame also captures the start of the new partial-derivative term being written on the left, which better matches the subtitle moment than the earlier, emptier frames.",
+      "subtitle_excerpt": "We're supposed to put the derivative of the Lagrangian.",
+      "segment_start_seconds": 2693.98,
+      "segment_start_hhmmss": "00:44:53.980",
+      "segment_end_seconds": 2696.44,
+      "segment_end_hhmmss": "00:44:56.440",
+      "caption_hint": "Second-derivative terms in the field equation"
+    },
+    {
+      "name": "lecture_05_figure_04.png",
+      "timestamp_seconds": 4833.829000000001,
+      "timestamp_hhmmss": "01:20:33.829",
+      "source_candidate": "lecture_05_window_05_candidate_03_012033829.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "if the derivative corresponds to a contravariant vector.",
+      "segment_start_seconds": 4832.1,
+      "segment_start_hhmmss": "01:20:32.100",
+      "segment_end_seconds": 4834.76,
+      "segment_end_hhmmss": "01:20:34.760",
+      "caption_hint": "if the derivative corresponds to a contravariant vector."
+    },
+    {
+      "name": "lecture_05_figure_05.png",
+      "timestamp_seconds": 5892.979,
+      "timestamp_hhmmss": "01:38:12.979",
+      "source_candidate": "lecture_05_window_06_candidate_02_013812979.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 02 is the clearest and most useful note-writing frame. The main Lagrangian density across the top is fully legible without interference from the lecturer\u2019s pointing hand, and the lower comparison line remains visible as context. Candidate 04 shows slightly more of the far-right bracket, but it loses clarity in the lower line and adds more occlusion from the lecturer\u2019s body.",
+      "subtitle_excerpt": "has some space derivatives in the Lagrangian.",
+      "segment_start_seconds": 5891.74,
+      "segment_start_hhmmss": "01:38:11.740",
+      "segment_end_seconds": 5895.0,
+      "segment_end_hhmmss": "01:38:15.000",
+      "caption_hint": "Field Lagrangian with spatial-gradient terms"
+    }
+  ]
+}
