@@ -1,0 +1,52 @@
+{
+  "course_rel": "core/quantum_mechanics/2012_winter_theoretical_minimum_alt_title",
+  "transcript_rel": "core/quantum_mechanics/2012_winter_theoretical_minimum_alt_title/131 - Lecture 8 \uff5c The Theoretical Minimum [x0m2sQuAr34].md",
+  "video_rel": "core/quantum_mechanics/2012_winter_theoretical_minimum_alt_title/131 - Lecture 8 \uff5c The Theoretical Minimum [x0m2sQuAr34].mp4",
+  "lecture_number": 8,
+  "lecture_slug": "lecture_08",
+  "lecture_title": "Lecture 8 : The Theoretical Minimum",
+  "assets": [
+    {
+      "name": "lecture_08_figure_02.png",
+      "timestamp_seconds": 774.498,
+      "timestamp_hhmmss": "00:12:54.498",
+      "source_candidate": "lecture_08_window_02_candidate_02_001254498.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 02 is the clearest settled frame. It keeps both the upper transformed-wavefunction line and the lower corresponding bra-vector line visible at once, with the summation structure and daggered matrix element more readable than in the other candidates. Candidate 01 and Candidate 03 leave more of the lower expression blocked by Susskind\u2019s body, while Candidate 04 adds fresh occlusion from his arm and marker over the right-hand side.",
+      "subtitle_excerpt": "the corresponding action on bra vectors is given by the,",
+      "segment_start_seconds": 772.72,
+      "segment_start_hhmmss": "00:12:52.720",
+      "segment_end_seconds": 777.4,
+      "segment_end_hhmmss": "00:12:57.400",
+      "caption_hint": "Composite-state action on bra and ket components"
+    },
+    {
+      "name": "lecture_08_figure_03.png",
+      "timestamp_seconds": 1118.476,
+      "timestamp_hhmmss": "00:18:38.476",
+      "source_candidate": "lecture_08_window_03_candidate_04_001838476.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 04 is the best documentary frame in this window. The cup is out of the way, Susskind has settled into a speaking posture, and the same board content remains visible with no new occlusion. Candidate 01 is weakened by the cup covering his face, Candidate 02 is still transitional, and Candidate 03 is similar but slightly less settled. Candidate 04 gives the cleanest usable view of the paired upper and lower evolution formulas.",
+      "subtitle_excerpt": "the evolution matrix is vector?",
+      "segment_start_seconds": 1116.54,
+      "segment_start_hhmmss": "00:18:36.540",
+      "segment_end_seconds": 1118.74,
+      "segment_end_hhmmss": "00:18:38.740",
+      "caption_hint": "Wavefunction evolution on ket and bra components"
+    },
+    {
+      "name": "lecture_08_figure_05.png",
+      "timestamp_seconds": 4267.612,
+      "timestamp_hhmmss": "01:11:07.612",
+      "source_candidate": "lecture_08_window_06_candidate_03_011107612.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 03 is the clearest finished frame. It preserves both the top inner-product notation and the lower basis-expansion line, while Susskind\u2019s hand has dropped enough that the summed indices and the \\u03c8-star coefficient are less obscured than in Candidates 01 and 02. Candidate 04 is also usable, but the raised eraser-hand is more distracting and the lower-left structure is slightly less clean.",
+      "subtitle_excerpt": "psi star being the coefficients of the psi bra vector.",
+      "segment_start_seconds": 4264.7,
+      "segment_start_hhmmss": "01:11:04.700",
+      "segment_end_seconds": 4269.18,
+      "segment_end_hhmmss": "01:11:09.180",
+      "caption_hint": "Bra-vector coefficients in the inner product"
+    }
+  ]
+}
