@@ -1,0 +1,328 @@
+\chapter{Electrodynamics, Tensors, and the Lorentz Force}
+
+This lecture begins by refusing to begin. We are told that the subject is electrodynamics, but before any serious physics can be done the notation has to be nailed down so firmly that Lorentz symmetry becomes almost automatic. Only after that long notational interlude do we introduce the antisymmetric tensor that will combine electric and magnetic fields, write the charged-particle action, derive the Lorentz force law, and finally rewrite it in manifestly invariant form. The lecture closes by stepping back from the algebra and extracting the larger lesson: build the symmetry into the action at the start.
+
+\section{From Scalar Fields to Electrodynamics}
+
+The point of departure is the previous discussion of scalar fields. There we saw a characteristic theme of field theory: the same action that tells the field how to influence the particle also tells the particle how to influence the field. Electrodynamics is to be treated in the same spirit. But before we write down the action for a charged particle, Susskind insists that we re-establish the notational machinery that will make the construction intelligible.
+
+That insistence is not a digression. In this lecture the notation is part of the physics. Upper and lower indices, contractions, and tensor transformation laws are not decorative conventions; they are the compact language that lets the symmetry of the theory remain visible while we calculate.
+
+\section{Four-Vectors, Contractions, and Lorentz Matrices}
+
+We begin again with four-vectors. A contravariant vector has components $A^\mu$, with $\mu=0,1,2,3$. The time component is $A^0$ and the spatial components are $A^m$, with $m=1,2,3$. The covariant version of the same vector is obtained with the Minkowski metric,
+\begin{equation}
+\eta_{\mu\nu}=\mathrm{diag}(-1,1,1,1),
+\qquad
+A_\mu=\eta_{\mu\nu}A^\nu.
+\end{equation}
+In components this says nothing mysterious:
+\begin{equation}
+A_0=-A^0,
+\qquad
+A_m=A^m.
+\end{equation}
+The only sign change comes from the time component.
+
+From here the first basic operation is contraction. If one index is up and the same index is down, Einstein summation tells us to sum over it. Thus
+\begin{equation}
+A_\mu B^\mu
+\end{equation}
+is a Lorentz scalar. The same logic applies to derivatives. The derivative operator
+\begin{equation}
+\partial_\mu \equiv \frac{\partial}{\partial x^\mu}
+\end{equation}
+acts on a scalar field $\phi$ to produce a covariant vector, and the reason can be seen from
+\begin{equation}
+d\phi=\partial_\mu \phi\,dx^\mu.
+\end{equation}
+The right-hand side is the contraction of a covariant object with a contravariant one, so it is a scalar. Likewise, if $B^\mu(x)$ is a four-vector field, then
+\begin{equation}
+\partial_\mu B^\mu
+\end{equation}
+is again a scalar.
+
+The defining property of vectors and scalars is how they transform. Susskind broadens the meaning of Lorentz transformation to include not only boosts but also ordinary spatial rotations and compositions of the two. For a boost along the $x$-axis,
+\begin{align}
+x'^0 &= \gamma\,(x^0-vx^1),\\
+x'^1 &= \gamma\,(x^1-vx^0),\\
+x'^2 &= x^2,\\
+x'^3 &= x^3,
+\end{align}
+where $\gamma=(1-v^2)^{-1/2}$. In matrix notation the transformation law for a contravariant vector is
+\begin{equation}
+A'^\mu=L^\mu{}_\nu A^\nu.
+\end{equation}
+For a covariant vector one may write
+\begin{equation}
+A'_\mu=M_\mu{}^\nu A_\nu,
+\qquad
+M=\eta L\eta.
+\end{equation}
+Because $\eta^{-1}=\eta$, the metric itself is enough to pass between the two versions.
+
+\section{Tensors and Their Transformation Law}
+
+Once the vector notation is in hand, the next move is almost forced. A tensor is simply an object with more indices. A scalar is a tensor of rank $0$, a vector is a tensor of rank $1$, and a rank-$2$ tensor is something with two indices.
+
+The simplest example comes from multiplying vectors:
+\begin{equation}
+T^{\mu\nu}=A^\mu B^\nu.
+\end{equation}
+This has $4\times 4=16$ components. It is important that the lecture does not stop there. Not every tensor is a single product of two vectors. We may also have sums of such objects, for example
+\begin{equation}
+A^\mu B^\nu + C^\mu D^\nu,
+\end{equation}
+and such sums are still tensors because what matters is not what the object is made of, but how it transforms.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.82\textwidth]{lecture_06_figure_02.png}
+\caption{Tensor transformation rules built from products of vectors.}
+\end{figure}
+
+Starting from products of transformed vectors, the board develops a short ladder:
+\begin{align}
+\bigl((A')^\mu(B')^\nu\bigr)
+&=
+L^\mu{}_\sigma L^\nu{}_\tau A^\sigma B^\tau,\\
+\bigl(T^{\mu\nu}\bigr)'
+&=
+L^\mu{}_\sigma L^\nu{}_\tau T^{\sigma\tau},\\
+\bigl(T^{\mu\nu\lambda}\bigr)'
+&=
+L^\mu{}_\sigma L^\nu{}_\tau L^\lambda{}_\kappa T^{\sigma\tau\kappa}.
+\end{align}
+This is the definition of a tensor written operationally: one factor of the Lorentz matrix for each index.
+
+The power of the notation now becomes visible. If two tensors are equal in one frame, they are equal in every frame. In particular, if all components of a tensor vanish in one frame, then the tensor is zero in every frame. That is the point of learning to write equations tensorially.
+
+Indices can be lowered exactly as they were for vectors:
+\begin{equation}
+T^\mu{}_\nu=T^{\mu\sigma}\eta_{\sigma\nu}.
+\end{equation}
+The practical rule is as simple as it was for vectors: every lowered time index contributes a minus sign, while spatial indices do not. Thus
+\begin{equation}
+T_{00}=T^{00},
+\qquad
+T_{01}=-T^{01}.
+\end{equation}
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} How exactly does a matrix multiply a tensor with more than one index?
+
+\paragraph{Answer.} One fixes the output indices and sums over all the internal ones. For example,
+\begin{equation}
+(T')^{31}=L^3{}_\sigma L^1{}_\tau T^{\sigma\tau}.
+\end{equation}
+Here $\sigma$ and $\tau$ each run from $0$ to $3$, so there are $16$ terms in all. That is all matrix multiplication means in this setting: each index of the tensor gets its own Lorentz transformation, and then the repeated indices are summed over.
+
+\section{Symmetric and Antisymmetric Rank-Two Tensors}
+
+At rank two there is an additional issue. In general the order of the indices matters:
+\begin{equation}
+A^\mu B^\nu \neq A^\nu B^\mu,
+\qquad
+A^0B^1\neq A^1B^0.
+\end{equation}
+That is the generic situation.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.82\textwidth]{lecture_06_figure_03.png}
+\caption{Symmetric tensors introduced against generic nonsymmetric products.}
+\end{figure}
+
+Nevertheless there are important special cases. A symmetric tensor satisfies
+\begin{equation}
+T^{\mu\nu}=T^{\nu\mu},
+\end{equation}
+and the simplest symmetric combination built from two vectors is
+\begin{equation}
+A^\mu B^\nu + A^\nu B^\mu.
+\end{equation}
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} What survives when we interchange the indices of a rank-two tensor?
+
+\paragraph{Answer.} In general, nothing survives unchanged. But we may build combinations that are specially adapted to the interchange. The symmetric combination stays the same, while the antisymmetric combination changes sign. This is not taxonomy for its own sake. It is the first indication that the electromagnetic field will belong not to a vector but to a special rank-two tensor.
+
+The second special case is the one that matters most for this lecture. An antisymmetric tensor satisfies
+\begin{equation}
+F^{\mu\nu}=-F^{\nu\mu}.
+\end{equation}
+The basic model is
+\begin{equation}
+A^\mu B^\nu-A^\nu B^\mu.
+\end{equation}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.82\textwidth]{lecture_06_figure_04.png}
+\caption{Symmetric and antisymmetric rank-two tensors on the board.}
+\end{figure}
+
+Antisymmetry immediately kills the diagonal entries. If $\mu=\nu=0$, then
+\begin{equation}
+F^{00}=-F^{00},
+\end{equation}
+and the only solution is
+\begin{equation}
+F^{00}=0.
+\end{equation}
+The same holds for every diagonal component. If we think of a rank-two tensor as a $4\times 4$ array, an antisymmetric one has zeros on the diagonal and opposite signs across the diagonal. That leaves six independent off-diagonal entries, exactly enough to accommodate the three components of the electric field and the three components of the magnetic field.
+
+This is the first real relativistic statement about electromagnetism in the lecture. Electric and magnetic fields are not separate fundamental objects. They are different faces of a single antisymmetric tensor, and Lorentz transformations will mix them just as boosts mix time and space.
+
+\section{Building the Charged-Particle Action}
+
+Only now do we begin the physics proper. The nonrelativistic target is the Lorentz force law,
+\begin{equation}
+m\mathbf a=e\mathbf E+e\,\mathbf v\times\mathbf B.
+\end{equation}
+The ambition is to derive its relativistic form from an action that is manifestly built out of Lorentz scalars.
+
+For the free particle, the action is
+\begin{equation}
+S_{\mathrm{free}}=-m\int d\tau
+=
+\int dt\,\left[-m\sqrt{1-\dot X^2}\right].
+\end{equation}
+Here $\dot X^2$ means the ordinary spatial square,
+\begin{equation}
+\dot X^2=\dot X^1\dot X^1+\dot X^2\dot X^2+\dot X^3\dot X^3.
+\end{equation}
+
+The electromagnetic field enters first not through $\mathbf E$ and $\mathbf B$ but through the four-vector potential $A_\mu(x)$. The question is then sharp: what scalar can we integrate along the worldline to couple the particle to this field?
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why write the interaction term as $-e\int A_\mu\,dx^\mu$?
+
+\paragraph{Answer.} Part of the answer is empirical: nature tells us that this is the right interaction. But the lecture emphasizes a cleaner structural answer. The action is supposed to be built from incremental pieces along the trajectory, and each incremental piece should be a scalar. Given $dx^\mu$, one obvious scalar is $dx^\mu dx_\mu=d\tau^2$, but that is already the free-particle structure and introduces no new field. The simplest new scalar is obtained by contracting $dx^\mu$ with a covariant vector field $A_\mu$. One may imagine writing down more elaborate scalars, but this is the simplest candidate, and the lecture proceeds by exploring what this simplest choice gives.
+
+Thus the interaction term is taken to be
+\begin{equation}
+S_{\mathrm{int}}=-e\int A_\mu\,dx^\mu.
+\end{equation}
+The minus sign is conventional and tied to the historical choice of the sign of electric charge.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.82\textwidth]{lecture_06_figure_05.png}
+\caption{Particle action and worldline Lagrangian in an electromagnetic field.}
+\end{figure}
+
+To rewrite the interaction in ordinary time, we divide and multiply by $dt$. Since $dx^0/dt=1$ and $dx^m/dt=\dot X^m$, the total action becomes
+\begin{equation}
+S
+=
+\int dt\,\left[-m\sqrt{1-\dot X^2}-e\left(A_0+\dot X^m A_m\right)\right].
+\end{equation}
+Accordingly, the Lagrangian is
+\begin{equation}
+L=-m\sqrt{1-\dot X^2}-eA_0(x,t)-e\dot X^mA_m(x,t).
+\end{equation}
+Strictly speaking, the field is evaluated along the particle trajectory, but for the derivation we keep the dependence on $(x,t)$ explicit.
+
+\section{From the Lagrangian to the Lorentz Force Law}
+
+Now comes the grind. The lecture does not hide that it is a grind, but it also does not leave it shapeless. The strategy is to derive the Euler--Lagrange equations and then group the resulting terms by whether they contain a velocity.
+
+For the $m$th spatial coordinate,
+\begin{equation}
+\frac{d}{dt}\frac{\partial L}{\partial \dot X^m}
+=
+\frac{\partial L}{\partial X^m}.
+\end{equation}
+The derivative with respect to velocity is
+\begin{equation}
+\frac{\partial L}{\partial \dot X^m}
+=
+\frac{m\dot X_m}{\sqrt{1-\dot X^2}}-eA_m.
+\end{equation}
+The derivative with respect to position is
+\begin{equation}
+\frac{\partial L}{\partial X^m}
+=
+-e\,\partial_m A_0-e\,\dot X^n\partial_m A_n.
+\end{equation}
+The subtle point is that the term $A_m$ on the left also depends on time through the motion of the particle. Along the trajectory,
+\begin{equation}
+\frac{dA_m}{dt}
+=
+\partial_0A_m+\dot X^n\partial_nA_m.
+\end{equation}
+Substituting this into the Euler--Lagrange equation gives
+\begin{equation}
+\frac{d}{dt}\left(\frac{m\dot X_m}{\sqrt{1-\dot X^2}}-eA_m\right)
+=
+-e\,\partial_mA_0-e\,\dot X^n\partial_mA_n.
+\end{equation}
+After moving the total time derivative of $A_m$ to the right-hand side, the equation becomes
+\begin{equation}
+m\frac{d}{dt}\left(\frac{\dot X_m}{\sqrt{1-\dot X^2}}\right)
+=
+e(\partial_0A_m-\partial_mA_0)
++
+e\dot X^n(\partial_nA_m-\partial_mA_n).
+\end{equation}
+
+Now the structure is visible. The first group contains no velocity; the second group is proportional to velocity. That is exactly what we were hoping for if the right-hand side is to reproduce electric and magnetic forces. The lecture therefore identifies the velocity-independent combination with the electric field, and the velocity-dependent antisymmetrized spatial derivative with the magnetic field. The latter is the spatial curl of the vector potential in disguised notation.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why is the combination $\partial_0A_m-\partial_mA_0$ the electric field?
+
+\paragraph{Answer.} In the lecture the logic is not that we begin with a separate, pre-declared formula for $\mathbf E$ and then verify it. The logic is the other way around. After the action has been chosen and the Euler--Lagrange equation derived, the force term with no velocity dependence is exactly the thing that should be called the electric field. Likewise, the part multiplying the velocity is exactly the thing that should be called the magnetic field. In that sense the derivation does not merely use the fields; it identifies them.
+
+\section{Manifest Lorentz Invariance and the Three Principles}
+
+The spatial equation is correct, but it is not yet written in a manifestly invariant way. The fix is to pass to proper time. Since
+\begin{equation}
+u^\mu=\frac{dx^\mu}{d\tau},
+\end{equation}
+its spatial part is
+\begin{equation}
+u^m=\frac{dx^m}{d\tau}
+=
+\frac{dx^m/dt}{\sqrt{1-\dot X^2}}
+=
+\frac{\dot X^m}{\sqrt{1-\dot X^2}}.
+\end{equation}
+Thus the left-hand side of the equation of motion is really the time derivative of the spatial part of the four-velocity. Multiplying the spatial equation by $dt/d\tau$ converts it into proper-time form.
+
+At that point the antisymmetrized derivatives on the right-hand side strongly suggest the field tensor
+\begin{equation}
+F_{\mu\nu}=\partial_\mu A_\nu-\partial_\nu A_\mu.
+\end{equation}
+The whole equation can then be written in the canonical invariant form
+\begin{equation}
+m\,\frac{d^2x^\mu}{d\tau^2}
+=
+e\,F^\mu{}_\nu\,\frac{dx^\nu}{d\tau}.
+\end{equation}
+This is the relativistic equation of motion for a charged particle. The left-hand side is a four-vector, and the right-hand side is obtained by contracting a rank-two tensor with a four-vector, so it too is a four-vector. The symmetry is no longer hidden.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why is the extra time component legitimate, and what does it mean physically?
+
+\paragraph{Answer.} The lecture answers this in two steps. First, because the action was built as a scalar, the equations of motion are Lorentz invariant. If the first three components of an equation between four-vectors are correct in one frame, then the fourth must come along with them; otherwise the equation would fail to transform properly. Second, the new component is not empty formalism. The spatial components are of the form $dp/dt=\text{force}$, while the time component says how the kinetic energy changes in time. In ordinary language it is the work-energy relation: the field does work on the particle, and the time component records that energy balance.
+
+This is the point at which the lecture widens into method. We should not treat Lorentz invariance as an afterthought to be checked only once the equations are finished. We should build it into the Lagrangian from the beginning.
+
+The last few minutes then distill the lecture into three pervasive principles:
+\begin{itemize}
+\item \textbf{Locality.} The action is built from local contributions. For fields, that means an integral over spacetime of a Lagrangian density depending on fields and their derivatives at a point. For particles, it means an integral along the worldline depending on the particle and the fields in its immediate neighborhood.
+\item \textbf{Lorentz invariance.} The Lagrangian must be constructed from scalars, so that all observers agree on the action.
+\item \textbf{Gauge invariance.} This is announced but postponed. It will become the next layer of structure in the following lecture.
+\end{itemize}
+
+One final point is left hanging in exactly the right way. The particle part of the action has now been understood. The field part, which will give Maxwell's equations, is still to come.
+
+\section{Summary}
+
+The lecture begins with notation and ends with a relativistic equation of motion, but the two halves are not separate. The long review of four-vectors, contractions, and tensor transformation laws is what makes the later construction of electrodynamics look natural rather than miraculous. The antisymmetric tensor prepares the unification of electric and magnetic fields, the worldline coupling $-e\int A_\mu\,dx^\mu$ gives the simplest scalar interaction, the Euler--Lagrange equations recover the Lorentz force law, and the final proper-time rewrite reveals the manifestly invariant tensor form. The enduring lesson is methodological: if we respect the symmetry in the action, the equations of motion will inherit it.
