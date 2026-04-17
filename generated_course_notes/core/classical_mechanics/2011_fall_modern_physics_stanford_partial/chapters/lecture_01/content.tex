@@ -105,7 +105,8 @@ The first generalization is from two states to six. A die has six faces, so we m
 5\mapsto6,\qquad
 6\mapsto1.
 \end{equation}
-Another acceptable law may break the six states into several disconnected cycles, for example
+Another allowed law can split the six states into separate cycles.
+For instance,
 \begin{equation}
 1\mapsto1,\qquad
 2\mapsto3,\qquad
@@ -114,7 +115,8 @@ Another acceptable law may break the six states into several disconnected cycles
 5\mapsto6,\qquad
 6\mapsto5.
 \end{equation}
-In both cases the rule is deterministic into the future. From each state there is exactly one way to go next.
+In both cases the future is deterministic.
+Each state has exactly one next state.
 
 But classical physics, as the lecture insists, is not only deterministic into the future. It is also deterministic into the past. We must be able to reconstruct where the system came from.
 
@@ -126,6 +128,7 @@ Here the future is unique, but the past is not. If we find ourselves at \(2\), w
 
 \begin{figure}[htbp]
 \centering
+\resizebox{\linewidth}{!}{%
 \begin{tikzpicture}[scale=1.0]
 \fill (-5,0) circle (1.2pt);
 \node at (-5,-0.35) {$1$};
@@ -138,7 +141,7 @@ Here the future is unique, but the past is not. If we find ourselves at \(2\), w
 \draw[->] (-3.86,1.04) -- (-3.14,0.16);
 \draw[->] (-3.14,0.28) -- (-3.86,1.08);
 
-\node at (-4,-1.10) {future unique, past ambiguous};
+\node[align=center] at (-4,-1.10) {future unique,\\ past ambiguous};
 
 \fill (2,0) circle (1.2pt);
 \node at (2,-0.35) {$1$};
@@ -151,9 +154,10 @@ Here the future is unique, but the past is not. If we find ourselves at \(2\), w
 \draw[->] (3.14,1.04) -- (3.86,0.16);
 \draw[->] (3.00,1.02) -- (2.15,0.08);
 
-\node at (3,-1.10) {past unique, future ambiguous};
+\node[align=center] at (3,-1.10) {past unique,\\ future ambiguous};
 \end{tikzpicture}
-\caption{Two forbidden three-state laws. In the first the past is not unique; in the second the future is not unique.}
+}%
+\caption{Two forbidden three-state laws: one has a non-unique past, the other a non-unique future.}
 \end{figure}
 
 \begin{proposition}
@@ -194,7 +198,10 @@ The next step is subtler. Phase space may break up into disconnected pieces. One
 
 This is not yet the conservation of energy or momentum in its familiar form. It is a stripped-down model of the idea of conservation. We may assign a label \(C\) to each connected component, for example
 \begin{equation}
-C=+1 \quad \text{on one component},\qquad C=-1 \quad \text{on another},
+\begin{aligned}
+C&=+1 &&\text{on one component},\\
+C&=-1 &&\text{on another},
+\end{aligned}
 \end{equation}
 and then along the motion we have
 \begin{equation}
@@ -321,7 +328,10 @@ A clean way to write such a law is to say that the next symbol is a function of 
 \]
 One reversible completion consistent with the spirit of the classroom discussion is
 \[
-f(H,H)=H,\qquad f(H,T)=T,\qquad f(T,H)=T,\qquad f(T,T)=H,
+\begin{aligned}
+f(H,H)&=H,\qquad f(H,T)=T,\\
+f(T,H)&=T,\qquad f(T,T)=H,
+\end{aligned}
 \]
 which induces the update rule
 \begin{equation}
@@ -330,7 +340,9 @@ HT\mapsto TT,\qquad
 TT\mapsto TH,\qquad
 TH\mapsto HT.
 \end{equation}
-This is now a deterministic reversible law on four states. The difficulty was never that the law itself was impossible. The difficulty was that the original state space \(\{H,T\}\) was too small.
+This gives a reversible deterministic law on four states.
+The issue was not the law itself.
+The state space \(\{H,T\}\) was simply too small.
 
 Once that is clear, the higher-order moral follows immediately. If classical mechanics had required positions, velocities, and accelerations as independent initial data, then the equations of motion would have been third order in time and the phase space would have had to include
 \[
