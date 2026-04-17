@@ -16,7 +16,9 @@ N_\gamma \sim N_p+N_{\bar p}
 \quad
 \text{in the early thermal plasma.}
 \end{equation}
-So the excess of baryons over antibaryons was only about one part in \(10^8\) of the original baryon-antibaryon population. Once the question is expressed that way, it ceases to be a vague cosmological fact and becomes a quantitative puzzle. Susskind emphasizes exactly this point: once there is an oddball number on the board, one wants to know why that number is what it is.
+So the excess of baryons over antibaryons was only about one part in \(10^8\) of the original baryon-antibaryon population.
+Once the question is expressed that way, it stops being a vague cosmological fact and becomes a quantitative puzzle.
+Susskind emphasizes exactly this point: once there is an oddball number on the board, one wants to know why it has that value.
 
 The lecture also gives a short historical remark that matters for tone. Susskind and Savas Dimopoulos independently rediscovered the relevant conditions, but the priority belongs to Sakharov's 1967 paper. So the modern name is the right one: these are the Sakharov conditions. The chapter should preserve that modesty. We are not deriving a finished baryogenesis model. We are isolating the conditions under which any such model could work.
 
@@ -116,9 +118,10 @@ At this point the lecture pivots to the language of discrete symmetries. The ord
 
 The blackboard transition is worth preserving explicitly:
 \begin{equation}
-B=\frac{N_q-N_{\bar q}}{3},
-\qquad
-C=\text{charge conjugation symmetry}.
+\begin{aligned}
+B&=\frac{N_q-N_{\bar q}}{3},\\
+C&=\text{charge conjugation symmetry}.
+\end{aligned}
 \end{equation}
 
 \begin{figure}
@@ -129,11 +132,11 @@ C=\text{charge conjugation symmetry}.
 
 Charge conjugation exchanges particles with antiparticles. Parity is mirror reflection, or left-right interchange. Time reversal, at the most naive level, asks whether a movie of a microscopic process run backward is still a possible microscopic process. In compact notation,
 \begin{equation}
-C:\ \text{particle}\leftrightarrow \text{antiparticle},
-\qquad
-P:\ \text{left}\leftrightarrow \text{right},
-\qquad
-T:\ t\mapsto -t.
+\begin{aligned}
+C&:\ \text{particle}\leftrightarrow \text{antiparticle},\\
+P&:\ \text{left}\leftrightarrow \text{right},\\
+T&:\ t\mapsto -t.
+\end{aligned}
 \end{equation}
 
 The lecture then makes the standard modern point: neither \(C\) nor \(P\) nor \(T\) separately is the deep exact symmetry. The exact theorem of relativistic quantum field theory is \(CPT\).
@@ -232,12 +235,15 @@ At that point the lecture closes the baryogenesis discussion outright. And then 
 
 \section{A Second Quantitative Puzzle: Homogeneity, Ripples, and Hubble Friction}
 
-The next problem is not matter over antimatter but homogeneity. After the cosmic microwave background was measured with high precision, the statement that the universe is nearly isotropic ceased to be an aesthetic slogan and became a quantitative fact. The lecture again begins with a broad question---why is the universe so smooth?---and then tightens it into a numerical one.
+The next problem is not matter over antimatter but homogeneity.
+After the cosmic microwave background was measured with high precision, the statement that the universe is nearly isotropic ceased to be an aesthetic slogan and became a quantitative fact.
+The lecture again begins with a broad question---why is the universe so smooth?---and then tightens it into a numerical one.
 
 The first step is to notice that gravity amplifies lumps rather than erasing them. An overdense region attracts more matter, thereby becoming more overdense still, while its surroundings become more underdense. Gravity does the opposite of diffusion.
 
 \begin{figure}
 \centering
+\resizebox{\linewidth}{!}{%
 \begin{tikzpicture}[x=1cm,y=1cm,>=stealth]
 \draw[thick] (-4,0) ellipse (1.4 and 0.8);
 \draw[thick] (0,0) ellipse (1.9 and 1.1);
@@ -252,6 +258,7 @@ The first step is to notice that gravity amplifies lumps rather than erasing the
 \draw[->,thick] (-2.5,-0.7) -- (-1.2,-0.35);
 \draw[->,thick] (2.5,-0.7) -- (1.2,-0.35);
 \end{tikzpicture}
+}%
 \caption{A schematic version of the lecture's point about gravitational instability: matter is drawn out of underdense regions and into overdense ones, so small inhomogeneities grow rather than diffuse away.}
 \end{figure}
 
