@@ -41,14 +41,6 @@ hardlink_or_copy() {
 
 bash "$repo_root/scripts/publish_generated_course_pdf.sh" --repo-root "$repo_root" --course "$course"
 
-bash "$video2book_root/scripts/export_course_pocket_pdfs.sh" \
-  --host-root "$repo_root" \
-  --course "$course" \
-  --font-mode onepointtwo \
-  --output-dir "$repo_root/all_notes/pocket_books_1_2x" \
-  --suffix pocket_1_2x \
-  --nutstore-dir "$nutstore_root/pocket_books_1_2x"
-
 mapfile -t meta < <(python3 - "$repo_root" "$course" <<'PY'
 from pathlib import Path
 import importlib.util
@@ -69,21 +61,51 @@ PY
 filename="${meta[0]}"
 root_track_dir="${meta[1]}"
 run_name="${meta[2]}"
-pocket_name="${filename%.pdf}_pocket_1_2x.pdf"
-pocket_src="$repo_root/all_notes/pocket_books_1_2x/$pocket_name"
-pocket_dst="$repo_root/$root_track_dir/$run_name/$pocket_name"
 root_pdf="$repo_root/$root_track_dir/$run_name/$filename"
 course_pdf="generated_course_notes/$course/course.pdf"
+pocket_1x_name="${filename%.pdf}_pocket.pdf"
+pocket_1_2x_name="${filename%.pdf}_pocket_1_2x.pdf"
 
-hardlink_or_copy "$pocket_src" "$pocket_dst"
+publish_pocket_variant() {
+  local font_mode="$1"
+  local output_dir="$2"
+  local suffix="$3"
+  local nutstore_dir="$4"
+  local pocket_name="${filename%.pdf}_${suffix}.pdf"
+  local pocket_src="$output_dir/$pocket_name"
+  local pocket_dst="$repo_root/$root_track_dir/$run_name/$pocket_name"
 
-printf 'published onepointtwo pocket -> %s\n' "$pocket_dst"
+  bash "$video2book_root/scripts/export_course_pocket_pdfs.sh" \
+    --host-root "$repo_root" \
+    --course "$course" \
+    --font-mode "$font_mode" \
+    --output-dir "$output_dir" \
+    --suffix "$suffix" \
+    --nutstore-dir "$nutstore_dir"
+
+  hardlink_or_copy "$pocket_src" "$pocket_dst"
+  printf 'published %s pocket -> %s\n' "$suffix" "$pocket_dst"
+}
+
+publish_pocket_variant \
+  normal \
+  "$repo_root/all_notes/pocket_books" \
+  pocket \
+  "$nutstore_root/pocket_books"
+
+publish_pocket_variant \
+  onepointtwo \
+  "$repo_root/all_notes/pocket_books_1_2x" \
+  pocket_1_2x \
+  "$nutstore_root/pocket_books_1_2x"
 
 bash "$video2book_root/scripts/codex_commit_push.sh" \
   "$repo_root" \
   "Publish pocket overflow outputs for $course" \
   "$course_pdf" \
   "${root_track_dir}/${run_name}/${filename}" \
-  "${root_track_dir}/${run_name}/${pocket_name}" \
+  "${root_track_dir}/${run_name}/${pocket_1x_name}" \
+  "${root_track_dir}/${run_name}/${pocket_1_2x_name}" \
   "all_notes/${filename}" \
-  "all_notes/pocket_books_1_2x/${pocket_name}"
+  "all_notes/pocket_books/${pocket_1x_name}" \
+  "all_notes/pocket_books_1_2x/${pocket_1_2x_name}"
