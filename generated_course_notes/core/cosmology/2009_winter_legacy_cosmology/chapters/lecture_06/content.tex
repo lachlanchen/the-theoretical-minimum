@@ -162,6 +162,7 @@ e^-+e^+ \to \gamma+\gamma.
 
 \begin{figure}[ht]
 \centering
+\resizebox{\linewidth}{!}{%
 \begin{tikzpicture}[scale=1.0]
 \node[draw,rectangle] (a1) at (-4,1.6) {$p+\bar p$};
 \node[draw,rectangle] (b1) at (0,1.6) {$2\gamma$};
@@ -181,7 +182,8 @@ e^-+e^+ \to \gamma+\gamma.
 \draw[->] (0.8,1.15) -- (3.2,0.25);
 \draw[->] (0.8,-1.15) -- (3.2,-0.25);
 \end{tikzpicture}
-\caption{The ``one-way street'' of freeze-out. Above threshold the reaction runs in both directions. After expansion lowers photon energies, annihilation still proceeds but inverse production is thermally suppressed.}
+}%
+\caption{The ``one-way street'' of freeze-out. Above threshold the reaction runs both ways. After expansion lowers photon energies, annihilation still proceeds but inverse production is thermally suppressed.}
 \end{figure}
 
 There is a small but very useful piece of arithmetic here. A proton--antiproton annihilation event changes the counts by
