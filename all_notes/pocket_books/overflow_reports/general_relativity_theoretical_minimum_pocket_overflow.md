@@ -1,8 +1,8 @@
 # LaTeX Overflow Report
 
-- Generated: 2026-04-17T17:59:26+08:00
+- Generated: 2026-04-17T22:15:04+08:00
 - Variant: pocket (normal, 6in x 9in, margin 0.55in)
-- Log: `/tmp/tmp.y5w9iE3xbk/build/pdflatex.log`
+- Log: `/tmp/tmp.Awas11kT6f/build/pdflatex.log`
 - Actionable overfull warnings: `4`
 - Page-builder overfull warnings: `0`
 - Underfull paragraph warnings: `3`
@@ -27,7 +27,7 @@
 ```tex
 \cosh^2\omega-\sinh^2\omega=1.
 \end{equation}
-Now define
+Define
 ```
 
 ### `/home/lachlan/ProjectsLFS/leonardsusskind/generated_course_notes/core/general_relativity/2012_fall_theoretical_minimum/chapters/lecture_08/content.tex:306`
