@@ -1,0 +1,52 @@
+{
+  "course_rel": "core/general_relativity/2008_fall_einsteins_general_theory_of_relativity",
+  "transcript_rel": "core/general_relativity/2008_fall_einsteins_general_theory_of_relativity/011 - Einstein's General Theory of Relativity \uff5c Lecture 11 [6vdXlwDRRR8].md",
+  "video_rel": "core/general_relativity/2008_fall_einsteins_general_theory_of_relativity/011 - Einstein's General Theory of Relativity \uff5c Lecture 11 [6vdXlwDRRR8].mkv",
+  "lecture_number": 11,
+  "lecture_slug": "lecture_11",
+  "lecture_title": "Einstein's General Theory of Relativity : Lecture 11",
+  "assets": [
+    {
+      "name": "lecture_11_figure_02.png",
+      "timestamp_seconds": 1021.73,
+      "timestamp_hhmmss": "00:17:01.730",
+      "source_candidate": "lecture_11_window_02_candidate_04_001701730.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This is the best frame because the central eye-shaped local element and the surrounding curved construction are the most complete and least occluded. In the earlier candidates Susskind\u2019s hand is still covering the key central detail, while here the main diagram has settled into a clearer board layout that is more useful for later note reconstruction.",
+      "subtitle_excerpt": "the metric tensor at this point",
+      "segment_start_seconds": 1019.706,
+      "segment_start_hhmmss": "00:16:59.706",
+      "segment_end_seconds": 1022.006,
+      "segment_end_hhmmss": "00:17:02.006",
+      "caption_hint": "metric tensor at a point sketch"
+    },
+    {
+      "name": "lecture_11_figure_03.png",
+      "timestamp_seconds": 1162.1689999999999,
+      "timestamp_hhmmss": "00:19:22.169",
+      "source_candidate": "lecture_11_window_03_candidate_03_001922169.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "But it would involve the second derivatives of the metric.",
+      "segment_start_seconds": 1160.466,
+      "segment_start_hhmmss": "00:19:20.466",
+      "segment_end_seconds": 1163.086,
+      "segment_end_hhmmss": "00:19:23.086",
+      "caption_hint": "But it would involve the second derivatives of the metric."
+    },
+    {
+      "name": "lecture_11_figure_05.png",
+      "timestamp_seconds": 2473.3415,
+      "timestamp_hhmmss": "00:41:13.342",
+      "source_candidate": "lecture_11_window_05_candidate_03_004113342.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "The Lagrangian is related to the energy",
+      "segment_start_seconds": 2471.866,
+      "segment_start_hhmmss": "00:41:11.866",
+      "segment_end_seconds": 2474.136,
+      "segment_end_hhmmss": "00:41:14.136",
+      "caption_hint": "The Lagrangian is related to the energy"
+    }
+  ]
+}
