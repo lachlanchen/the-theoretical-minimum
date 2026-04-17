@@ -46,12 +46,17 @@ It combines lecture transcriptions, subtitle files, generated TeX notes, compile
       <sub>2012 Winter Theoretical Minimum</sub>
     </td>
     <td align="center">
+      <a href="core_quantum_mechanics/2012_winter_modern_physics_stanford/quantum_mechanics_modern_physics_stanford.pdf"><img src="figs/readme-covers/quantum_mechanics_modern_physics_stanford_first_page.png" width="170" alt="Quantum Mechanics Modern Physics Stanford cover"></a><br>
+      <strong>Quantum Mechanics</strong><br>
+      <sub>2012 Winter Modern Physics Stanford</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="core_special_relativity/2012_spring_theoretical_minimum/special_relativity_theoretical_minimum.pdf"><img src="figs/readme-covers/special_relativity_theoretical_minimum.png" width="170" alt="Special Relativity cover"></a><br>
       <strong>Special Relativity</strong><br>
       <sub>2012 Spring Theoretical Minimum</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="core_general_relativity/2012_fall_theoretical_minimum/general_relativity_theoretical_minimum.pdf"><img src="figs/readme-covers/general_relativity_theoretical_minimum.png" width="170" alt="General Relativity cover"></a><br>
       <strong>General Relativity</strong><br>
@@ -67,19 +72,18 @@ It combines lecture transcriptions, subtitle files, generated TeX notes, compile
       <strong>Statistical Mechanics</strong><br>
       <sub>2013 Spring Theoretical Minimum</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="core_cosmology/2013_winter_theoretical_minimum/cosmology_theoretical_minimum.pdf"><img src="figs/readme-covers/cosmology_theoretical_minimum_first_page.png" width="170" alt="Cosmology Theoretical Minimum cover"></a><br>
       <strong>Cosmology</strong><br>
       <sub>2013 Winter Theoretical Minimum</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="core_cosmology/2009_winter_legacy_cosmology/cosmology_legacy.pdf"><img src="figs/readme-covers/cosmology_legacy.png" width="170" alt="Cosmology legacy cover"></a><br>
       <strong>Cosmology</strong><br>
       <sub>2009 Winter legacy run</sub>
     </td>
-    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -241,6 +245,7 @@ Open the PDFs in the relevant course folder, for example:
 - `core_classical_mechanics/2011_fall_theoretical_minimum/classical_mechanics_theoretical_minimum.pdf`
 - `core_classical_mechanics/2011_fall_modern_physics_stanford_partial/classical_mechanics_stanford_partial.pdf`
 - `core_quantum_mechanics/2012_winter_theoretical_minimum/quantum_mechanics_theoretical_minimum.pdf`
+- `core_quantum_mechanics/2012_winter_modern_physics_stanford/quantum_mechanics_modern_physics_stanford.pdf`
 - `core_special_relativity/2012_spring_theoretical_minimum/special_relativity_theoretical_minimum.pdf`
 - `core_general_relativity/2012_fall_theoretical_minimum/general_relativity_theoretical_minimum.pdf`
 - `core_cosmology/2013_winter_theoretical_minimum/cosmology_theoretical_minimum.pdf`
