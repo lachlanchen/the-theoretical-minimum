@@ -42,7 +42,7 @@ So far there is no mystery. The mystery arrives when we remember that the \(\rho
 \sim
 \sum_n \mathcal{A}^{(t)}_{\rho_n}(t).
 \end{equation}
-The point is not that these are exact formulas in the lecture. The point is that when people numerically summed the known resonances in one channel, they seemed to be getting, approximately and already, what the other channel would have contributed.
+The point is not that these are exact formulas in the lecture. The point is that summing the known resonances in one channel seemed already to reproduce, approximately, what the other channel would have contributed.
 
 That is the duality tension. Ordinary quantum field theory says: if this diagram exists and that diagram exists, then we must add them. The hadronic data seemed instead to be saying that the sum over a full tower in one channel was already reproducing the other. Naively adding both looked like overcounting.
 
@@ -50,6 +50,7 @@ The board itself makes this transition visible: the Regge plot and the two chann
 
 \begin{figure}[t]
 \centering
+\resizebox{\linewidth}{!}{%
 \begin{tikzpicture}[scale=0.82]
 \draw[->] (0,0) -- (4.4,0) node[right] {$m^2$};
 \draw[->] (0,0) -- (0,3.7) node[above] {$J$};
@@ -81,6 +82,7 @@ The board itself makes this transition visible: the Regge plot and the two chann
 \node at (16.15,0.65) {$\pi$};
 \node at (13.85,2.20) {$\rho,\rho',\ldots$};
 \end{tikzpicture}
+}%
 \caption{A clean redraw of the board cluster: a Regge plot at left and the two channel pictures at right.}
 \end{figure}
 
