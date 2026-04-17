@@ -1,0 +1,52 @@
+{
+  "course_rel": "core/quantum_mechanics/2012_winter_modern_physics_stanford",
+  "transcript_rel": "core/quantum_mechanics/2012_winter_modern_physics_stanford/031 - Lecture 2 \uff5c Modern Physics\uff1a Quantum Mechanics (Stanford) [KokditqpAJg].md",
+  "video_rel": "core/quantum_mechanics/2012_winter_modern_physics_stanford/031 - Lecture 2 \uff5c Modern Physics\uff1a Quantum Mechanics (Stanford) [KokditqpAJg].mp4",
+  "lecture_number": 2,
+  "lecture_slug": "lecture_02",
+  "lecture_title": "Lecture 2 : Modern Physics\uff1a Quantum Mechanics (Stanford)",
+  "assets": [
+    {
+      "name": "lecture_02_figure_02.png",
+      "timestamp_seconds": 1739.486,
+      "timestamp_hhmmss": "00:28:59.486",
+      "source_candidate": "lecture_02_window_02_candidate_03_002859486.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This is the clearest and least occluded frame. It preserves the full board state at the moment: the linear-combination expression on the left is readable, the two reference vectors from a common origin on the right are intact, and Susskind has moved enough that neither the equation nor the diagram is blocked by the paper or his hand. The later frame is more dynamic but less legible for note writing.",
+      "subtitle_excerpt": "I could draw another vector in here,",
+      "segment_start_seconds": 1737.77,
+      "segment_start_hhmmss": "00:28:57.770",
+      "segment_end_seconds": 1740.41,
+      "segment_end_hhmmss": "00:29:00.410",
+      "caption_hint": "linear combination between two vectors"
+    },
+    {
+      "name": "lecture_02_figure_03.png",
+      "timestamp_seconds": 2090.374,
+      "timestamp_hhmmss": "00:34:50.374",
+      "source_candidate": "lecture_02_window_03_candidate_03_003450374.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame best balances completeness and legibility. The upper relation mapping \\(\\psi(x)\\) to the abstract vector notation is fully visible and readable, while the lower line has advanced enough to show that Susskind is setting up a parallel second example without the board yet being heavily occluded by his body. Earlier frames are less complete, and the later frame is more obstructed.",
+      "subtitle_excerpt": "Psi of x is another vector.",
+      "segment_start_seconds": 2087.15,
+      "segment_start_hhmmss": "00:34:47.150",
+      "segment_end_seconds": 2092.11,
+      "segment_end_hhmmss": "00:34:52.110",
+      "caption_hint": "wavefunction-to-vector mapping"
+    },
+    {
+      "name": "lecture_02_figure_06.png",
+      "timestamp_seconds": 6179.407,
+      "timestamp_hhmmss": "01:42:59.407",
+      "source_candidate": "lecture_02_window_06_candidate_04_014259407.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame gives the clearest view of the diagram with the least occlusion. Susskind's hand has moved away enough that the vertical reference line and the two slanted rightward vectors are all visible, making it the most useful board capture for note writing. Earlier frames block more of the geometry.",
+      "subtitle_excerpt": "the vectors that you draw on the blackboard",
+      "segment_start_seconds": 6178.065,
+      "segment_start_hhmmss": "01:42:58.065",
+      "segment_end_seconds": 6179.59,
+      "segment_end_hhmmss": "01:42:59.590",
+      "caption_hint": "blackboard vectors in ordinary space"
+    }
+  ]
+}
