@@ -1,0 +1,80 @@
+{
+  "course_rel": "core/quantum_mechanics/2012_winter_modern_physics_stanford",
+  "transcript_rel": "core/quantum_mechanics/2012_winter_modern_physics_stanford/033 - Lecture 4 \uff5c Modern Physics\uff1a Quantum Mechanics (Stanford) [oWe9brUwO0Q].md",
+  "video_rel": "core/quantum_mechanics/2012_winter_modern_physics_stanford/033 - Lecture 4 \uff5c Modern Physics\uff1a Quantum Mechanics (Stanford) [oWe9brUwO0Q].mp4",
+  "lecture_number": 4,
+  "lecture_slug": "lecture_04",
+  "lecture_title": "Lecture 4 : Modern Physics\uff1a Quantum Mechanics (Stanford)",
+  "assets": [
+    {
+      "name": "lecture_04_figure_02.png",
+      "timestamp_seconds": 191.586,
+      "timestamp_hhmmss": "00:03:11.586",
+      "source_candidate": "lecture_04_window_02_candidate_02_000311586.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame is the best balance of completeness and clarity. The normalization statement \\(\\sum_n P(n)=1\\) and the orthonormality relation \\(\\langle m|n\\rangle=\\delta_{nm}\\) are both clearly visible, and Susskind has just begun the accompanying plot construction without yet obscuring the equations. Later frames show more of the sketch but become more occluded and crop the mathematical setup more tightly; the first frame is less complete overall.",
+      "subtitle_excerpt": "If we plot the probability as a function of n,",
+      "segment_start_seconds": 189.26,
+      "segment_start_hhmmss": "00:03:09.260",
+      "segment_end_seconds": 195.38,
+      "segment_end_hhmmss": "00:03:15.380",
+      "caption_hint": "normalization and probability sketch setup"
+    },
+    {
+      "name": "lecture_04_figure_03.png",
+      "timestamp_seconds": 359.721,
+      "timestamp_hhmmss": "00:05:59.721",
+      "source_candidate": "lecture_04_window_03_candidate_01_000559721.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This is the clearest and most complete frame for note writing. The probability-density curve is fully visible, the horizontal axis and local interval markers are readable, and Susskind is indicating the narrow region whose probability will be obtained by integration. Later frames begin to add the integral sign, but the diagram becomes more occluded and less complete, so this frame is the best visual witness for the setup.",
+      "subtitle_excerpt": "is given by the integral of the probability density",
+      "segment_start_seconds": 359.26,
+      "segment_start_hhmmss": "00:05:59.260",
+      "segment_end_seconds": 363.1,
+      "segment_end_hhmmss": "00:06:03.100",
+      "caption_hint": "probability density over an interval"
+    },
+    {
+      "name": "lecture_04_figure_04.png",
+      "timestamp_seconds": 2482.59,
+      "timestamp_hhmmss": "00:41:22.590",
+      "source_candidate": "lecture_04_window_04_candidate_01_004122590.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the clearest and most useful frame for note writing. The differential equation is already fully written and unobstructed, and the operator form above it is also largely visible. In the later frames Susskind begins writing the solution on the right, but the new expression is still incomplete while his body obscures more of the already-written equation. For a faithful chapter, this frame provides the strongest mathematical evidence.",
+      "subtitle_excerpt": "solution of this equation is psi of",
+      "segment_start_seconds": 2482.16,
+      "segment_start_hhmmss": "00:41:22.160",
+      "segment_end_seconds": 2485.74,
+      "segment_end_hhmmss": "00:41:25.740",
+      "caption_hint": "momentum eigenvalue equation"
+    },
+    {
+      "name": "lecture_04_figure_05.png",
+      "timestamp_seconds": 2618.66,
+      "timestamp_hhmmss": "00:43:38.660",
+      "source_candidate": "lecture_04_window_05_candidate_04_004338660.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame contains the most complete and usable version of the expression. The integral sign, the product \\u03c8*\\u03c8, and the differential \\(dx\\) are all visible, so it best captures the normalization statement being written. Earlier frames are sharper in places but show a less finished expression.",
+      "subtitle_excerpt": "that the integral of psi star psi d x is",
+      "segment_start_seconds": 2613.65,
+      "segment_start_hhmmss": "00:43:33.650",
+      "segment_end_seconds": 2619.26,
+      "segment_end_hhmmss": "00:43:39.260",
+      "caption_hint": "wavefunction norm integral"
+    },
+    {
+      "name": "lecture_04_figure_06.png",
+      "timestamp_seconds": 3585.865,
+      "timestamp_hhmmss": "00:59:45.865",
+      "source_candidate": "lecture_04_window_06_candidate_02_005945865.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the clearest overall board evidence in the window. It preserves both pieces of the setup at once: the explicit plane-wave expression on the left and the bra-ket form on the right, while Susskind is comparatively still and not heavily blocking either side. The other frames are very similar, but this one is the cleanest balance of sharpness, visibility, and layout.",
+      "subtitle_excerpt": "The eigenvectors of the momentum operator",
+      "segment_start_seconds": 3584.74,
+      "segment_start_hhmmss": "00:59:44.740",
+      "segment_end_seconds": 3587.7,
+      "segment_end_hhmmss": "00:59:47.700",
+      "caption_hint": "momentum eigenvector as plane wave"
+    }
+  ]
+}
