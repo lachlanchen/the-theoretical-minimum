@@ -1,0 +1,38 @@
+{
+  "course_rel": "core/general_relativity/2008_fall_einsteins_general_theory_of_relativity",
+  "transcript_rel": "core/general_relativity/2008_fall_einsteins_general_theory_of_relativity/010 - Einstein's General Theory of Relativity \uff5c Lecture 10 [VCRG1uzc9xg].md",
+  "video_rel": "core/general_relativity/2008_fall_einsteins_general_theory_of_relativity/010 - Einstein's General Theory of Relativity \uff5c Lecture 10 [VCRG1uzc9xg].mkv",
+  "lecture_number": 10,
+  "lecture_slug": "lecture_10",
+  "lecture_title": "Einstein's General Theory of Relativity : Lecture 10",
+  "assets": [
+    {
+      "name": "lecture_10_figure_02.png",
+      "timestamp_seconds": 1032.304,
+      "timestamp_hhmmss": "00:17:12.304",
+      "source_candidate": "lecture_10_window_03_candidate_02_001712304.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the first fully unobstructed frame after Susskind steps out of the way. The two handwritten covariant-derivative equations are complete, centered, and sharper than in the earlier partially occluded frame, while the later frames do not add anything new.",
+      "subtitle_excerpt": "all covariant derivatives of the metric tensor are zero.",
+      "segment_start_seconds": 1031.02,
+      "segment_start_hhmmss": "00:17:11.020",
+      "segment_end_seconds": 1034.4,
+      "segment_end_hhmmss": "00:17:14.400",
+      "caption_hint": "covariant derivatives vanish on the board"
+    },
+    {
+      "name": "lecture_10_figure_03.png",
+      "timestamp_seconds": 4405.478,
+      "timestamp_hhmmss": "01:13:25.478",
+      "source_candidate": "lecture_10_window_05_candidate_01_011325478.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the clearest full-board view of the energy-momentum tensor formula and its component expansion before Susskind's pointing hand moves further across the central terms. The later frames are either more occluded by his hand or, in one case, by a person crossing the foreground.",
+      "subtitle_excerpt": "energy momentum tensor which looked exactly like this.",
+      "segment_start_seconds": 4405.12,
+      "segment_start_hhmmss": "01:13:25.120",
+      "segment_end_seconds": 4408.1,
+      "segment_end_hhmmss": "01:13:28.100",
+      "caption_hint": "scalar-field energy-momentum tensor on the board"
+    }
+  ]
+}
