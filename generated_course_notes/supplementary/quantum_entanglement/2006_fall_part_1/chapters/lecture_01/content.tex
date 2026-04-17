@@ -107,6 +107,7 @@ Now the lecture reaches its conceptual center. Susskind first shows examples of 
 
 \begin{figure}[h]
 \centering
+\resizebox{\linewidth}{!}{%
 \begin{tikzpicture}[scale=1.0]
 \fill (0,1) circle (2pt);
 \fill (1,2) circle (2pt);
@@ -136,6 +137,7 @@ Now the lecture reaches its conceptual center. Susskind first shows examples of 
 \draw[->] (10.2,1.0) -- (11.4,1.0);
 \draw[->] (11.4,1.0) .. controls (11.75,1.45) and (11.75,1.9) .. (11.35,2.25);
 \end{tikzpicture}
+}%
 \caption{A clean schematic reconstruction of the board logic: reversible loops on the left, and a contrasting information-losing update rule on the right. The redraw stays schematic because the board does not securely label the states.}
 \end{figure}
 
@@ -251,7 +253,7 @@ e_4=
 0\\0\\0\\1
 \end{pmatrix}.
 \end{equation}
-A cycle \(1\to2\to3\to4\to1\) may then be represented by the permutation matrix
+The cycle \(1\to2\to3\to4\to1\) is represented by the permutation matrix
 \begin{equation}
 P=
 \begin{pmatrix}
@@ -263,10 +265,10 @@ P=
 \end{equation}
 This is a deliberate clean convention. On the board the direction is corrected live, so the notes should not pretend that the first version written there was final. What is stable is the cyclic structure. With the present convention,
 \begin{equation}
-Pe_1=e_2,\qquad
-Pe_2=e_3,\qquad
-Pe_3=e_4,\qquad
-Pe_4=e_1.
+\begin{aligned}
+Pe_1&=e_2,\qquad Pe_2=e_3,\\
+Pe_3&=e_4,\qquad Pe_4=e_1.
+\end{aligned}
 \end{equation}
 The same matrix acts on a general column by shifting its entries cyclically:
 \begin{equation}
