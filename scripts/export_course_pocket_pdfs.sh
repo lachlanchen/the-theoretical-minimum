@@ -15,7 +15,7 @@ Options:
   --paper-height <size>       Custom height for --size custom, e.g. 9in
   --margin <size>             Custom geometry margin for --size custom, e.g. 0.55in
   --suffix <suffix>           Output filename suffix (default: pocket)
-  --nutstore-dir <dir>        Destination directory for Nutstore sync (default: /home/lachlan/Nutstore Files/Projects/LazyingArtBooks/pocket_books)
+  --nutstore-dir <dir>        Destination directory for Nutstore sync (default: /home/lachlan/Nutstore Files/Projects/LazyingArtBooks/leonardsusskind/pocket_books)
   --no-rsync                  Skip Nutstore sync
   --help                      Show this help text
 USAGE
@@ -24,7 +24,7 @@ USAGE
 repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 source_dir="$repo_root/generated_course_notes"
 output_dir="$repo_root/all_notes/pocket_books"
-nutstore_dir="/home/lachlan/Nutstore Files/Projects/LazyingArtBooks/pocket_books"
+nutstore_dir="/home/lachlan/Nutstore Files/Projects/LazyingArtBooks/leonardsusskind/pocket_books"
 size_preset="penguin"
 paper_width="6in"
 paper_height="9in"

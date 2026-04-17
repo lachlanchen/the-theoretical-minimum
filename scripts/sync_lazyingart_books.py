@@ -12,7 +12,7 @@ VIDEO_EXTS = {".mkv", ".mp4", ".webm"}
 DEFAULT_SOURCE_ROOT = Path(
     "/home/lachlan/ProjectsLFS/YoutubeDownloader/downloads/PLERGeJGfknBTR_nXt5QL88xJF5LhDZBnG"
 )
-DEFAULT_TARGET_ROOT = Path("/home/lachlan/Nutstore Files/Projects/LazyingArtBooks")
+DEFAULT_TARGET_ROOT = Path("/home/lachlan/Nutstore Files/Projects/LazyingArtBooks/leonardsusskind")
 
 CANONICAL_FILENAMES = {
     "core/classical_mechanics/2011_fall_modern_physics_stanford_partial": "classical_mechanics_stanford_partial.pdf",

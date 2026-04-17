@@ -8,7 +8,7 @@ Usage: scripts/export_course_epubs.sh [options]
 Options:
   --source-dir <dir>       Source directory containing full-course PDFs (default: all_notes)
   --epub-dir <dir>         Destination directory for EPUB outputs (default: all_notes/epub)
-  --nutstore-dir <dir>     Destination directory for Nutstore rsync (default: /home/lachlan/Nutstore Files/Projects/LazyingArtBooks/epub)
+  --nutstore-dir <dir>     Destination directory for Nutstore rsync (default: /home/lachlan/Nutstore Files/Projects/LazyingArtBooks/leonardsusskind/epub)
   --no-rsync               Skip Nutstore sync
   --help                   Show this help text
 USAGE
@@ -17,7 +17,7 @@ USAGE
 repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 source_dir="$repo_root/all_notes"
 epub_dir="$source_dir/epub"
-nutstore_dir="/home/lachlan/Nutstore Files/Projects/LazyingArtBooks/epub"
+nutstore_dir="/home/lachlan/Nutstore Files/Projects/LazyingArtBooks/leonardsusskind/epub"
 do_rsync=1
 
 while [[ $# -gt 0 ]]; do

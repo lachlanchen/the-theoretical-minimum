@@ -48,7 +48,7 @@ ROOT_TRACK_DIRS = {
     "supplementary/string_theory": "supplemental_string_theory",
 }
 
-DEFAULT_NUTSTORE_ROOT = Path("/home/lachlan/Nutstore Files/Projects/LazyingArtBooks")
+DEFAULT_NUTSTORE_ROOT = Path("/home/lachlan/Nutstore Files/Projects/LazyingArtBooks/leonardsusskind")
 
 
 def parse_args() -> argparse.Namespace:
