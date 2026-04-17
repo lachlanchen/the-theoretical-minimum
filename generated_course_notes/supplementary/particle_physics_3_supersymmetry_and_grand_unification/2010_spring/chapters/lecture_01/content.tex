@@ -33,7 +33,7 @@ H=
 +\sum_{i<j}\frac{e^2}{r_{ij}}
 -\sum_i\left(\frac{e^2}{R_{1i}}+\frac{e^2}{R_{2i}}\right).
 \end{equation}
-Here \(P_1,P_2\) are the nuclear momenta, \(M\) is the nuclear mass, \(q_i\) are the electron momenta, \(m\) is the electron mass, \(R_{12}\) is the distance between the nuclei, \(r_{ij}\) is the separation of two electrons, and \(R_{1i},R_{2i}\) are the distances from the \(i\)-th electron to the two nuclei.
+Here \(P_1,P_2\) are the nuclear momenta, \(M\) is the nuclear mass, \(q_i\) are the electron momenta, \(m\) is the electron mass, \(R_{12}\) is the distance between the nuclei, and \(r_{ij}\) is the separation of two electrons. The quantities \(R_{1i}\) and \(R_{2i}\) are the distances from the \(i\)-th electron to the two nuclei.
 
 \begin{remark}
 The board image fixes the structure of the Hamiltonian more securely than it fixes every symbol. In particular, the electron momentum notation and the electron-nucleus attraction terms are partly obscured in the frame. The formula above is therefore a cautious transcript-backed reconstruction rather than a literal blackboard transcription.
@@ -218,6 +218,7 @@ The lecture now contrasts three kinds of vertices. Gauge-boson emission preserve
 
 \begin{figure}[htbp]
 \centering
+\resizebox{\linewidth}{!}{%
 \begin{tikzpicture}[scale=1.0]
 \draw[thick] (0,0)--(2,0);
 \draw[thick] (1,0)--(1.6,0.8);
@@ -240,6 +241,7 @@ The lecture now contrasts three kinds of vertices. Gauge-boson emission preserve
 \node at (8.75,0.32) {$R$};
 \node at (8.1,-0.45) {mass insertion};
 \end{tikzpicture}
+}%
 \caption{Schematic chirality mnemonics: gauge emission preserves chirality, while scalar emission and mass insertion flip it.}
 \end{figure}
 
