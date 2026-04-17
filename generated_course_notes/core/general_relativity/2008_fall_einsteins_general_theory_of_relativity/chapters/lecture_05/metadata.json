@@ -1,0 +1,38 @@
+{
+  "course_rel": "core/general_relativity/2008_fall_einsteins_general_theory_of_relativity",
+  "transcript_rel": "core/general_relativity/2008_fall_einsteins_general_theory_of_relativity/005 - Einstein's General Theory of Relativity \uff5c Lecture 5 [WtPtxz3ef8U].md",
+  "video_rel": "core/general_relativity/2008_fall_einsteins_general_theory_of_relativity/005 - Einstein's General Theory of Relativity \uff5c Lecture 5 [WtPtxz3ef8U].mp4",
+  "lecture_number": 5,
+  "lecture_slug": "lecture_05",
+  "lecture_title": "Einstein's General Theory of Relativity : Lecture 5",
+  "assets": [
+    {
+      "name": "lecture_05_figure_02.png",
+      "timestamp_seconds": 2462.115,
+      "timestamp_hhmmss": "00:41:02.115",
+      "source_candidate": "lecture_05_window_02_candidate_04_004102115.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the clearest of the four nearly identical frames. Susskind has moved furthest down and left, so the derivative term on the left, the Christoffel-symbol term in the middle, and the tensor notation on the right are all least occluded and most legible for note writing.",
+      "subtitle_excerpt": "but the derivatives of the metric tensor.",
+      "segment_start_seconds": 2460.32,
+      "segment_start_hhmmss": "00:41:00.320",
+      "segment_end_seconds": 2462.36,
+      "segment_end_hhmmss": "00:41:02.360",
+      "caption_hint": "Derivative plus connection term"
+    },
+    {
+      "name": "lecture_05_figure_03.png",
+      "timestamp_seconds": 3291.824,
+      "timestamp_hhmmss": "00:54:51.824",
+      "source_candidate": "lecture_05_window_03_candidate_04_005451824.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame shows the main board line in its most complete and readable state within the window. The derivative term on the left, the Christoffel-symbol correction in the middle, and the tensor label on the right are all visible at once, while Susskind has shifted far enough right that the equation is less obstructed than in the earlier candidates.",
+      "subtitle_excerpt": "a symmetric tensor of some sort,",
+      "segment_start_seconds": 3290.372,
+      "segment_start_hhmmss": "00:54:50.372",
+      "segment_end_seconds": 3292.022,
+      "segment_end_hhmmss": "00:54:52.022",
+      "caption_hint": "Derivative corrected by connection"
+    }
+  ]
+}
