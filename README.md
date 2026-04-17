@@ -63,7 +63,7 @@ It combines lecture transcriptions, subtitle files, generated TeX notes, compile
       <sub>2013 Spring Theoretical Minimum</sub>
     </td>
     <td align="center">
-      <a href="core_cosmology/2013_winter_theoretical_minimum/cosmology_theoretical_minimum.pdf"><img src="figs/readme-covers/cosmology_theoretical_minimum.png" width="170" alt="Cosmology Theoretical Minimum cover"></a><br>
+      <a href="core_cosmology/2013_winter_theoretical_minimum/cosmology_theoretical_minimum.pdf"><img src="figs/readme-covers/cosmology_theoretical_minimum_first_page.png" width="170" alt="Cosmology Theoretical Minimum cover"></a><br>
       <strong>Cosmology</strong><br>
       <sub>2013 Winter Theoretical Minimum</sub>
     </td>
