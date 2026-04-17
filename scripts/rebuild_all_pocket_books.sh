@@ -2,7 +2,11 @@
 set -euo pipefail
 
 repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+video2book_root="${VIDEO2BOOK_ROOT:-/home/lachlan/ProjectsLFS/Video2Book}"
 start_course=""
+model="${NOTE_MODEL:-gpt-5.4}"
+reasoning="${NOTE_REASONING:-high}"
+max_iterations="${POCKET_FIX_MAX_ITERATIONS:-3}"
 
 while [[ $# -gt 0 ]]; do
   case "$1" in
@@ -12,6 +16,18 @@ while [[ $# -gt 0 ]]; do
       ;;
     --start-course)
       start_course="${2:-}"
+      shift 2
+      ;;
+    --model)
+      model="${2:-}"
+      shift 2
+      ;;
+    --reasoning)
+      reasoning="${2:-}"
+      shift 2
+      ;;
+    --max-iterations)
+      max_iterations="${2:-3}"
       shift 2
       ;;
     *)
@@ -51,6 +67,22 @@ for course in "${courses[@]}"; do
   fi
 
   printf '[pocket-rebuild] %s %s\n' "$(date -Iseconds)" "$course"
+  bash "$video2book_root/scripts/fix_course_pocket_overfulls.sh" \
+    --host-root "$repo_root" \
+    --course "$course" \
+    --font-mode normal \
+    --model "$model" \
+    --reasoning "$reasoning" \
+    --max-iterations "$max_iterations"
+
+  bash "$video2book_root/scripts/fix_course_pocket_overfulls.sh" \
+    --host-root "$repo_root" \
+    --course "$course" \
+    --font-mode onepointtwo \
+    --model "$model" \
+    --reasoning "$reasoning" \
+    --max-iterations "$max_iterations"
+
   bash "$repo_root/scripts/publish_generated_course_outputs.sh" \
     --repo-root "$repo_root" \
     --course "$course"

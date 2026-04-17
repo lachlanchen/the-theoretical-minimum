@@ -9,7 +9,7 @@ log_dir="$repo_root/.lecture-notes-work/logs"
 mkdir -p "$log_dir"
 timestamp="$(date +%Y%m%d_%H%M%S)"
 log_path="$log_dir/${session_name}_${timestamp}.log"
-queue_cmd="cd '$repo_root' && bash scripts/rebuild_all_pocket_books.sh"
+queue_cmd="cd '$repo_root' && export NOTE_MODEL='${NOTE_MODEL:-gpt-5.4}' && export NOTE_REASONING='${NOTE_REASONING:-high}' && bash scripts/rebuild_all_pocket_books.sh"
 
 if [[ "$#" -gt 0 ]]; then
   for arg in "$@"; do
