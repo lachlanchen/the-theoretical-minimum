@@ -1,0 +1,439 @@
+\chapter{Linear Operators, Hermitian Observables, and a Particle on a Line}
+
+We begin where the lecture begins: not with a new subject, but with a review. The mathematics of quantum mechanics is linear algebra, and the first order of business is to keep two ideas distinct. States are vectors. What we measure are not states, but observables, and observables are represented by Hermitian linear operators acting on those vectors. The lecture then unfolds in a precise order: first the language of operators and bases, then the passage to matrices, then Hermitian operators and eigenvectors, then the postulates, and only after that the first truly infinite-dimensional example, a particle moving on a line. A few board frames are preserved here as visual evidence, with credit to Leonard Susskind, LazyingArt LLC, and Video2Book.
+
+\section{Linear Operators, Matrix Elements, and Bases}
+
+The opening insistence is worth preserving: quantum mechanics is linear algebra. We start with a vector space, because states will live in that space, and we introduce linear operators, because measurable quantities will eventually be represented by a special class of them.
+
+A linear operator is denoted by a capital letter with a hat. It acts on a ket and produces another ket:
+\begin{equation}
+\hat K|A\rangle = |C\rangle.
+\end{equation}
+This much is still abstract, but the inner product immediately allows us to turn the action of an operator into an ordinary number. If we let \(\hat K\) act on \(|A\rangle\), and then take the inner product with \(\langle B|\), we obtain the matrix element
+\begin{equation}
+\langle B|\hat K|A\rangle.
+\end{equation}
+The notation is meant to be read in that order: first \(\hat K\) acts on \(|A\rangle\), then we take the inner product with \(\langle B|\).
+
+Now choose an orthonormal basis \(\{|n\rangle\}\). If the vector space has dimension \(D\), then the basis contains \(D\) independent vectors, mutually orthogonal and of unit norm. The lecture pauses here to draw an ordinary three-dimensional picture, not because the quantum vector space is literally \(\mathbb{R}^3\), but because complex vector spaces are hard to draw and one still wants a geometric picture of what a basis is. There can be many different bases, tilted relative to one another, and that visual fact will later become physically important.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.42\textwidth]{lecture_03_figure_02.png}
+\caption{Ordinary three-vector basis sketch on the board.}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\begin{tikzpicture}[scale=1.25]
+\draw[->] (0,0) -- (0,1.45);
+\draw[->] (0,0) -- (1.55,0);
+\draw[->] (0,0) -- (-0.95,-1.0);
+\end{tikzpicture}
+\caption{Transcript-based redraw of the basis sketch. The point is not the literal geometry, but the existence of distinct orthogonal basis directions.}
+\end{figure}
+
+Once a basis has been chosen, we can tabulate the operator by its matrix elements between basis vectors. The board isolates this notation very clearly:
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.42\textwidth]{lecture_03_figure_03.png}
+\caption{Matrix element between basis vectors.}
+\end{figure}
+
+\begin{equation}
+\langle m|\hat K|n\rangle.
+\end{equation}
+If we define
+\begin{equation}
+K_{mn}:=\langle m|\hat K|n\rangle,
+\end{equation}
+then the operator is represented, in that basis, by a square matrix of numbers. The lecture emphasizes the simple counting: if there are \(D\) basis vectors, there are \(D^2\) such matrix elements. Once the basis is fixed, these entries describe the operator completely.
+
+\section{From Abstract Kets to Matrix Multiplication}
+
+The next step is to turn vectors themselves into components. If \(\{|n\rangle\}\) is a basis, any vector \(|A\rangle\) can be expanded as
+\begin{equation}
+|A\rangle=\sum_n A_n |n\rangle,
+\qquad
+A_n=\langle n|A\rangle.
+\end{equation}
+So the coefficients are not mysterious new objects; they are just inner products with basis vectors.
+
+Substituting the second formula into the first gives
+\begin{equation}
+|A\rangle=\sum_n |n\rangle\langle n|A\rangle.
+\end{equation}
+The lecture describes the operator in the middle as something that ``does nothing.'' In compact notation we write
+\begin{equation}
+\sum_n |n\rangle\langle n|=\mathbb I.
+\end{equation}
+This is the completeness relation. The lecture itself does not pause to write \(\mathbb I\), but that is the clean modern way to say what is meant by those basis vectors ``nose to nose'' under a summation sign.
+
+Now we go back to the operator \(\hat K\) acting on an arbitrary vector \(|A\rangle\). The goal is not merely to write \(\hat K|A\rangle\) abstractly, but to compute its components. The \(n\)-th component is
+\begin{equation}
+\langle n|\hat K|A\rangle.
+\end{equation}
+Insert the expansion of \(|A\rangle\):
+\begin{align}
+\langle n|\hat K|A\rangle
+&=
+\left\langle n \left| \hat K \sum_m A_m |m\rangle \right.\right\rangle \\
+&=
+\sum_m \langle n|\hat K|m\rangle A_m \\
+&=
+\sum_m K_{nm}A_m.
+\end{align}
+This is the exact point at which the lecture moves from abstract bra-ket notation to ordinary matrix language.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.72\textwidth]{lecture_03_figure_04.png}
+\caption{Operator action rewritten in components.}
+\end{figure}
+
+The upper line on the board is the bra-ket statement
+\begin{equation}
+\langle n|\hat K|A\rangle
+=
+\sum_m \langle n|\hat K|m\rangle \langle m|A\rangle,
+\end{equation}
+and the lower line compresses the same content into the indexed form
+\begin{equation}
+(\hat K A)_n=\sum_m K_{nm}A_m.
+\end{equation}
+That is just matrix multiplication: the matrix \(K_{nm}\) acts on the column of components \(A_m\).
+
+The lecture then pushes this one step further. If two operators \(\hat K\) and \(\hat L\) are multiplied, their product means that \(\hat L\) acts first and \(\hat K\) acts second. Since operators are not numbers, one must not assume that \(\hat K\hat L=\hat L\hat K\). In general they do not commute. The matrix elements of the product are
+\begin{align}
+(KL)_{nm}
+&=
+\langle n|\hat K\hat L|m\rangle \\
+&=
+\sum_r \langle n|\hat K|r\rangle \langle r|\hat L|m\rangle \\
+&=
+\sum_r K_{nr}L_{rm}.
+\end{align}
+So the abstract rule ``do one thing and then another'' becomes the concrete rule of matrix multiplication. This is the last piece of the linear-algebra toolkit the lecture wants in place before turning to the operators of physical interest.
+
+\section{Hermitian Operators and the Eigenvalue Theorem}
+
+The next idea is the decisive one. Hermitian operators play, in operator theory, the role that real numbers play among ordinary numbers. They are the operators appropriate to measurable quantities, because measurements return real values.
+
+The first chalkboard statement of the Hermitian definition is garbled in the transcript, but the later repetitions make the intended rule clear. We therefore state the standard form.
+
+\begin{definition}
+An operator \(\hat H\) is Hermitian if
+\begin{equation}
+\langle B|\hat H|A\rangle=\langle A|\hat H|B\rangle^*.
+\end{equation}
+Equivalently, for every vector \(|A\rangle\),
+\begin{equation}
+\langle A|\hat H|A\rangle\in\mathbb R.
+\end{equation}
+\end{definition}
+
+This is the precise sense in which Hermitian operators are ``real.'' If we lived in a purely real vector space, the analogue would simply be symmetry: the matrix elements would satisfy \(H_{mn}=H_{nm}\).
+
+To appreciate the significance of Hermitian operators, the lecture turns immediately to eigenvectors and eigenvalues. In general an operator changes the direction of a vector. But there may be special directions that it leaves unchanged. If \(|\lambda\rangle\) is such a vector, then
+\begin{equation}
+\hat H|\lambda\rangle=\lambda|\lambda\rangle.
+\end{equation}
+The vector is an eigenvector; the number \(\lambda\) is the corresponding eigenvalue.
+
+\begin{theorem}[Fundamental facts about Hermitian operators]
+If \(\hat H\) is Hermitian, then:
+\begin{enumerate}
+\item every eigenvalue of \(\hat H\) is real;
+\item eigenvectors corresponding to distinct eigenvalues are orthogonal;
+\item the eigenvectors of \(\hat H\) form a complete orthonormal basis of the vector space. In the degenerate case, one can choose orthogonal eigenvectors within each degenerate eigenspace.
+\end{enumerate}
+\end{theorem}
+
+The lecture does not stop to prove the full theorem, but it does emphasize that the first two facts follow very quickly from the definition. Let us record them.
+
+\begin{proof}
+Suppose
+\begin{equation}
+\hat H|\lambda\rangle=\lambda|\lambda\rangle.
+\end{equation}
+Then
+\begin{equation}
+\langle \lambda|\hat H|\lambda\rangle
+=
+\lambda \langle \lambda|\lambda\rangle.
+\end{equation}
+The left-hand side is real, because \(\hat H\) is Hermitian. The factor \(\langle \lambda|\lambda\rangle\) is positive for a nonzero vector. Hence \(\lambda\) must be real.
+
+Now suppose
+\begin{equation}
+\hat H|\lambda_1\rangle=\lambda_1|\lambda_1\rangle,
+\qquad
+\hat H|\lambda_2\rangle=\lambda_2|\lambda_2\rangle.
+\end{equation}
+Then
+\begin{equation}
+\langle \lambda_1|\hat H|\lambda_2\rangle
+=
+\lambda_2\langle \lambda_1|\lambda_2\rangle.
+\end{equation}
+On the other hand, Hermiticity gives
+\begin{equation}
+\langle \lambda_1|\hat H|\lambda_2\rangle
+=
+\langle \hat H\lambda_1|\lambda_2\rangle
+=
+\lambda_1\langle \lambda_1|\lambda_2\rangle,
+\end{equation}
+where we used the reality of \(\lambda_1\). Therefore
+\begin{equation}
+(\lambda_2-\lambda_1)\langle \lambda_1|\lambda_2\rangle=0.
+\end{equation}
+So if \(\lambda_1\neq \lambda_2\), then \(\langle \lambda_1|\lambda_2\rangle=0\).
+\end{proof}
+
+The third statement is the lecture's real payoff. Hermitian operators do not merely have a few privileged vectors; they have enough of them to form a basis. And because an eigenvector may be multiplied by any nonzero complex number without ceasing to be an eigenvector, we can always rescale it to unit norm. That is how the orthogonal eigenvectors become an orthonormal basis.
+
+The lecture then returns to the concrete matrix picture. The board frame at this point shows the matrix and column-vector layout explicitly, though only the upper-left corner of the matrix is fully legible.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.62\textwidth]{lecture_03_figure_06.png}
+\caption{Concrete matrix-and-column-vector layout in the Hermitian-operator discussion.}
+\end{figure}
+
+\begin{remark}
+The frame shows the matrix entries \(H_{11},H_{12},H_{21},\ldots\) and the first components \(A_1,A_2,\ldots\) of the column vector. The fully typeset array below is a cautious completion of that visible pattern, preserving the lecture's local use of \(H_{ij}\) rather than forcing everything back to \(K_{ij}\).
+\end{remark}
+
+\begin{equation}
+\begin{pmatrix}
+H_{11} & H_{12} & \cdots \\
+H_{21} & H_{22} & \cdots \\
+\vdots & \vdots & \ddots
+\end{pmatrix}
+\begin{pmatrix}
+A_1 \\ A_2 \\ \vdots
+\end{pmatrix}.
+\end{equation}
+If the column happens to be an eigenvector of the matrix, then the result is simply \(\lambda\) times the same column vector. That is the concrete matrix form of the eigenvalue equation.
+
+\subsection{Question \& Answer}
+
+Do all operators have eigenvectors? No. The lecture makes a point of pausing here because this is exactly where one might overgeneralize. A generic linear operator need not have eigenvectors in the useful sense, and it certainly need not have a complete basis of them. Hermitian operators are special. They do.
+
+This is also why the exchange about rotations matters. A rotation is not Hermitian. In a real vector space the corresponding matrices are antisymmetric, and in the complex setting one is led naturally to anti-Hermitian generators. So the theorem is not a fact about arbitrary operators. It is a fact about the Hermitian ones.
+
+\section{The Five Postulates of Quantum Mechanics}
+
+Only now does the lecture say that we are ready for the postulates of quantum mechanics. They are not presented as the smallest logically independent set. They are presented in a slightly expanded form because, pedagogically, it is better to expose the ideas than to be clever.
+
+\begin{enumerate}
+\item \textbf{States are vectors.} Every state of a quantum system is represented by a ket vector in a complex vector space.
+
+\item \textbf{Observables correspond to Hermitian operators.} The things we measure in experiments are represented by Hermitian operators acting on the state space.
+
+\item \textbf{Possible measurement outcomes are eigenvalues.} If an observable corresponds to \(\hat H\), then the only values that can be obtained in measurement are the eigenvalues of \(\hat H\).
+
+\item \textbf{Eigenvectors are states of definite value.} If the system is in an eigenvector \(|\lambda_n\rangle\) of \(\hat H\), then a measurement of the observable yields the value \(\lambda_n\) with certainty.
+
+\item \textbf{Arbitrary states give probabilities.} If the system is in an arbitrary state \(|A\rangle\), then the probability of measuring \(\lambda_n\) is
+\begin{equation}
+P(\lambda_n|A)=|\langle \lambda_n|A\rangle|^2.
+\end{equation}
+\end{enumerate}
+
+The lecture keeps correcting the language here, and those corrections are part of the substance. One does not directly observe the state of a system. One observes observables and records real numbers. The state is what determines the probabilities for those numbers.
+
+\subsection{Question \& Answer}
+
+What does it mean for an observable to be \emph{definite}, and is it right to say that we observe eigenvectors? In the lecture, a quantity is definite when there is no statistical spread in the outcome. If the system has been prepared in an eigenvector of \(\hat H\), then repeated measurements of \(H\) always yield the same eigenvalue. The observable is definite in that state.
+
+But it is still better not to say that we observe eigenvectors. The cleaner statement is that we measure an observable and obtain one of its eigenvalues. From that result we may infer something about the state, but the thing recorded by the measuring apparatus is a number.
+
+The lecture illustrates this with spin. Prepare an electron in a spin eigenstate along one axis and measure spin along that same axis: the result is definite. Measure along a different axis: now the result is only probabilistic. The state has not ceased to exist; rather, it is not an eigenstate of the second observable.
+
+\begin{remark}
+At this stage the lecture has stated the probability rule, but it has not yet given an account of the measurement process itself. The effect of measurement on the state, and the issue of collapse, are explicitly postponed.
+\end{remark}
+
+\section{A Particle on a Line and the Position Basis}
+
+The lecture now makes a deliberate jump. Instead of returning to coins, dice, or other finite-state systems, it goes directly to a particle moving on a line. This is where the state space becomes genuinely infinite-dimensional.
+
+Classically, a particle on a line is described by a coordinate \(x\), perhaps depending on time. Quantum mechanically, the state is described instead by a vector in the space of complex functions of \(x\). We write that vector as \(\psi(x)\). This is not a metaphor. The set of such functions forms a vector space: we can add functions, multiply them by complex numbers, and define an inner product
+\begin{equation}
+\langle \phi|\psi\rangle=\int dx\, \phi^*(x)\psi(x).
+\end{equation}
+The lecture also pauses here to head off a possible confusion. This inner product is not real in general. What is guaranteed real is the inner product of a vector with itself:
+\begin{equation}
+\langle \psi|\psi\rangle=\int dx\, |\psi(x)|^2.
+\end{equation}
+
+Now we introduce the first operator in this function space: the position operator \(\hat x\). Its action is as simple as possible:
+\begin{equation}
+(\hat x\psi)(x)=x\psi(x).
+\end{equation}
+The lecture checks Hermiticity by using the equivalent condition that \(\langle \psi|\hat x|\psi\rangle\) be real for every \(\psi\):
+\begin{equation}
+\langle \psi|\hat x|\psi\rangle
+=
+\int dx\, \psi^*(x)\,x\,\psi(x)
+=
+\int dx\, x\,|\psi(x)|^2.
+\end{equation}
+Because \(x\) and \(dx\) are real, this quantity is real. So \(\hat x\) is Hermitian.
+
+That means it must have eigenvectors. The eigenvalue equation is
+\begin{equation}
+\hat x|\lambda\rangle=\lambda|\lambda\rangle,
+\end{equation}
+which in the function representation becomes
+\begin{equation}
+x\,\psi(x)=\lambda \psi(x),
+\end{equation}
+or
+\begin{equation}
+(x-\lambda)\psi(x)=0.
+\end{equation}
+Taken literally, this looks absurd. For every \(x\neq \lambda\), the factor \(x-\lambda\) is nonzero, so \(\psi(x)\) must vanish. The only place where it can fail to vanish is at one point. As an ordinary square-integrable function, that is impossible.
+
+The lecture does not hide the difficulty. Instead it introduces the Dirac delta function heuristically. One imagines a narrow spike of width \(\epsilon\) centered at \(x=\lambda\), of height \(1/\epsilon\), so that the area under it is one. In standard notation, the cleaned-up form of the lecture's spike picture is
+\begin{equation}
+\langle x|\lambda\rangle=\delta(x-\lambda).
+\end{equation}
+This is not an ordinary normalized wavefunction. It is an idealized generalized eigenfunction.
+
+The lecture also insists on another distinction that is easy to blur: these position eigenfunctions are orthogonal, but not normalized in the usual sense. If \(\lambda\neq \lambda'\), then the corresponding spikes do not overlap, so their inner product vanishes. But the inner product of such a spike with itself is not a nice finite unit norm. In the lecture's language, it is ``ortho, but not normal.''
+
+There is one such eigenfunction for every real value of \(\lambda\). The spectrum of \(\hat x\) is therefore the entire real axis.
+
+The real payoff comes when we ask what the wavefunction \(\psi(x)\) means. Project the state onto the position eigenvector at \(\lambda\):
+\begin{align}
+\langle \lambda|\psi\rangle
+&=
+\int dx\, \delta(x-\lambda)\psi(x).
+\end{align}
+Now use the spike picture. Over the narrow support of the delta function, \(\psi(x)\) varies negligibly, so we may replace it by \(\psi(\lambda)\):
+\begin{align}
+\langle \lambda|\psi\rangle
+&\approx
+\psi(\lambda)\int dx\, \delta(x-\lambda) \\
+&=
+\psi(\lambda).
+\end{align}
+In the standard distributional reading, this is the familiar identity. Relabel the eigenvalue \(\lambda\) by the position variable itself, and we obtain
+\begin{equation}
+\langle x|\psi\rangle=\psi(x).
+\end{equation}
+So the wavefunction is the component of the state vector along the position basis. It is not an extra object attached to the ket. It is the ket, expressed in a particular basis.
+
+Now the fifth postulate becomes concrete. The probability is the square of the projection onto the relevant eigenvector. In the position basis that means
+\begin{equation}
+\rho(x)=|\psi(x)|^2.
+\end{equation}
+The lecture phrases this informally as the probability to detect the particle at position \(x\). Mathematically, for a continuous spectrum, it is better to say that \(|\psi(x)|^2\) is the position probability density.
+
+\subsection{Question \& Answer}
+
+How can position eigenvectors be represented if normalizable wavefunctions must decay at infinity? The lecture raises this difficulty directly and then refuses to overtidy it. Exact position eigenvectors are not ordinary normalizable Hilbert-space vectors. They are idealized objects, represented heuristically by delta spikes.
+
+What one can do physically is approximate them arbitrarily well by sharply localized wave packets. That is enough for the lecture's immediate purpose. The normalization issue is real, but it is not the issue the lecture wants to settle at this moment.
+
+\section{The \(k\)-Operator, Plane Waves, and the Momentum Hint}
+
+At this point the lecture asks a very natural question. If all we care about is the position probability density \(|\psi(x)|^2\), why go through the trouble of introducing a complex wavefunction \(\psi(x)\) at all? Why not simply use a probability density on the line?
+
+The answer is that position is not the only observable. We need a single state vector from which the probabilities for many different observables can be extracted. That is the reason the full wavefunction is needed.
+
+The next operator is differentiation:
+\begin{equation}
+\frac{d}{dx}.
+\end{equation}
+It is linear, but it is not Hermitian. The lecture's first blackboard definition of anti-Hermitian is also garbled, so here again we state the corrected standard form:
+\begin{equation}
+\langle B|\hat A|A\rangle=-\langle A|\hat A|B\rangle^*.
+\end{equation}
+Under this rule, multiplying an anti-Hermitian operator by \(i\) produces a Hermitian one.
+
+For differentiation, the cleaned-up operator statement is
+\begin{equation}
+\left\langle \phi \left| \frac{d}{dx} \right| \psi \right\rangle
+=
+-\left\langle \psi \left| \frac{d}{dx} \right| \phi \right\rangle^*,
+\end{equation}
+provided the boundary terms vanish at infinity. The lecture then settles on the Hermitian combination
+\begin{equation}
+\hat K=-i\,\frac{d}{dx}.
+\end{equation}
+There is a brief sign wobble in the live discussion, but \(-i\,d/dx\) is where the lecture comes to rest, and that is the convention we keep.
+
+The lecture chooses the equivalent Hermiticity check \(\langle \psi|\hat K|\psi\rangle\in\mathbb R\). Let us follow that calculation.
+
+\begin{proof}
+We compute
+\begin{equation}
+\langle \psi|\hat K|\psi\rangle
+=
+\int dx\, \psi^*(x)\left(-i\,\frac{d\psi}{dx}\right).
+\end{equation}
+Integrating by parts and dropping the boundary term---for the moment assuming that \(\psi(x)\to 0\) sufficiently fast at infinity---gives
+\begin{equation}
+\int dx\, \psi^*(x)\left(-i\,\frac{d\psi}{dx}\right)
+=
+i\int dx\, \frac{d\psi^*}{dx}\,\psi(x).
+\end{equation}
+But the right-hand side is the complex conjugate of the left-hand side. Therefore the original expression is equal to its own complex conjugate and is real. Hence \(\hat K\) is Hermitian.
+\end{proof}
+
+The lecture is already aware of the tension. This proof assumes decay at infinity, but the eigenfunctions we are about to write down do not decay. That is not a mistake to be hidden. It is one of the reasons the discussion remains heuristic at this stage.
+
+Now solve the eigenvalue equation
+\begin{equation}
+-i\,\frac{d\psi}{dx}=k\psi.
+\end{equation}
+The solution is
+\begin{equation}
+\psi_k(x)\propto e^{ikx}=\cos(kx)+i\sin(kx).
+\end{equation}
+The lecture does not belabor the solution method; it simply checks it:
+\begin{equation}
+\frac{d}{dx}e^{ikx}=ik\,e^{ikx},
+\end{equation}
+so multiplying by \(-i\) yields \(k\,e^{ikx}\), exactly as required.
+
+These eigenfunctions are radically different from those of position. The position eigenfunctions are sharply peaked. The \(k\)-eigenfunctions are spread across the whole line. Moreover,
+\begin{equation}
+\psi_k^*(x)\psi_k(x)=\text{const.},
+\end{equation}
+so the corresponding position probability density is uniform. There is no information here about where the particle is.
+
+The lecture then lingers on the oscillatory character of \(e^{ikx}\). As \(x\) changes, the complex number \(e^{ikx}\) moves around the unit circle. Small \(k\) means slow winding, hence long wavelength. Large \(k\) means rapid winding, hence short wavelength. One full period occurs when \(kx\) changes by \(2\pi\), so
+\begin{equation}
+kL=2\pi,
+\qquad
+L=\frac{2\pi}{k}.
+\end{equation}
+
+Only after this mathematical work does the lecture attach a physical name. It does so cautiously. Using the pre-quantum intuition of de Broglie and Einstein, one recalls that a wave of wavelength \(L\) is associated with momentum
+\begin{equation}
+p=\frac{h}{L}.
+\end{equation}
+Substituting \(L=2\pi/k\) gives
+\begin{equation}
+p=\frac{h}{L}=\frac{h}{2\pi}k=\hbar k.
+\end{equation}
+So the operator \(\hat K\) is provisionally interpreted as momentum in units of \(\hbar\).
+
+The lecture is explicit about the status of this statement. It is a name, not yet a derivation from first principles. To show that \(\hbar k\) really behaves like classical momentum, one must study time evolution, wave packets, and the classical limit. That is postponed.
+
+Even before that deeper analysis, however, the contrast with position is already stark. The position eigenbasis consists of sharply localized states. The \(k\)-basis consists of delocalized oscillatory states. No position eigenfunction is also a \(k\)-eigenfunction, and no \(k\)-eigenfunction is also a position eigenfunction. The lecture rightly hears, in that clash, the first unmistakable note of the uncertainty principle.
+
+\section{Summary}
+
+The lecture begins by rebuilding the machinery: operators act on kets, matrix elements turn operator action into numbers, and a basis turns vectors into components. That bridge to components is what lets linear operators become matrices and operator products become matrix multiplication.
+
+From there the lecture narrows to the physically significant class of Hermitian operators, introduces eigenvalues and eigenvectors, and states the fundamental theorem that Hermitian operators have complete orthonormal eigenbases. Only then does it state the postulates of quantum mechanics and move to the first serious continuous example, a particle on a line.
+
+In that example we learn two things at once. First, \(\psi(x)\) is the component of the state along the position basis, and \(|\psi(x)|^2\) is the position probability density. Second, there are other observables, represented by different Hermitian operators. The operator \(\hat K=-i\,d/dx\) leads to plane-wave eigenfunctions \(e^{ikx}\), to the wavelength relation \(L=2\pi/k\), and, provisionally, to the momentum identification \(p=\hbar k\). What remains for later is exactly what the lecture says remains for later: the probability distribution for momentum, the role of measurement in changing the state, and the time-dependent route by which these quantum constructions recover the classical notion of momentum.
