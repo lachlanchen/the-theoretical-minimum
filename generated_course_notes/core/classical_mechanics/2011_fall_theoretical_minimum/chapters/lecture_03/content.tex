@@ -267,9 +267,10 @@ L_{\mathrm{inertial}}=\frac{m}{2}\left(\dot x^2+\dot y^2\right).
 \end{equation}
 Now introduce a second coordinate system \((X,Y)\) that rotates uniformly with angular velocity \(\omega\). The coordinate transformation used in the lecture is
 \begin{equation}
-x=X\cos\omega t+Y\sin\omega t,
-\qquad
-y=-X\sin\omega t+Y\cos\omega t.
+\begin{aligned}
+x&=X\cos\omega t+Y\sin\omega t,\\
+y&=-X\sin\omega t+Y\cos\omega t.
+\end{aligned}
 \end{equation}
 
 \begin{figure}[h]
@@ -287,13 +288,15 @@ y=-X\sin\omega t+Y\cos\omega t.
 
 One differentiates these relations, substitutes into \(\dot x^2+\dot y^2\), and simplifies. The lecture does not dwell on the algebra, and the transcript is noisy in the middle of it, so the clean thing to record is the standard reconstructed result:
 \begin{equation}
+\begin{aligned}
 L_{\mathrm{rot}}
-=
+&=
 \frac{m}{2}\left(\dot X^2+\dot Y^2\right)
 +
-\frac{m\omega^2}{2}\left(X^2+Y^2\right)
-+
-m\omega(\dot X\,Y-\dot Y\,X).
+\frac{m\omega^2}{2}\left(X^2+Y^2\right)\\
+&\qquad
++ m\omega(\dot X\,Y-\dot Y\,X).
+\end{aligned}
 \end{equation}
 
 The first term looks ordinary enough. The second has the form of minus a potential energy:
