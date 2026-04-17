@@ -199,9 +199,10 @@ At this point Susskind pauses over notation. The superscript on \(dx^{m}\) label
 
 One can write the sum schematically as \(dx^{m}dx^{m}\), but that violates the upstairs-downstairs contraction pattern introduced earlier. The cure is to insert the Kronecker delta, defined by
 \[
-\delta_{mn}=1 \quad \text{when } m=n,
-\qquad
-\delta_{mn}=0 \quad \text{when } m\neq n.
+\begin{aligned}
+\delta_{mn}&=1 &&\text{when } m=n,\\
+\delta_{mn}&=0 &&\text{when } m\neq n.
+\end{aligned}
 \]
 Then the line element takes the cleaner form
 \begin{equation}
@@ -308,13 +309,12 @@ r^{2}\left(\sin^{2}\theta+\cos^{2}\theta\right)d\theta^{2}
 &=
 dr^{2}+r^{2}d\theta^{2}.
 \end{align}
-So the metric components are
 \begin{equation}
-g_{rr}=1,
-\qquad
-g_{r\theta}=0,
-\qquad
-g_{\theta\theta}=r^{2}.
+\begin{aligned}
+g_{rr}&=1,\\
+g_{r\theta}&=0,\\
+g_{\theta\theta}&=r^{2}.
+\end{aligned}
 \end{equation}
 
 This is exactly the tension Susskind wants us to feel. The metric is not a constant array of zeros and ones. One component depends on position. Nevertheless the space is flat, because we know the coordinate transformation back to Cartesian coordinates. The metric looks complicated, but the complication can be undone.
