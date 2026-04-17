@@ -314,6 +314,7 @@ The lecture visualizes this spacetime by stacking circles along a vertical time 
 
 \begin{figure}
 \centering
+\resizebox{\linewidth}{!}{%
 \begin{tikzpicture}[scale=0.9]
 \draw (-6,0) ellipse (0.8 and 0.22);
 \draw (-6.8,0) -- (-6.8,3.2);
@@ -338,7 +339,8 @@ The lecture visualizes this spacetime by stacking circles along a vertical time 
 \draw[->] (-8.3,0) -- (-8.3,3.5);
 \node[left] at (-8.3,3.5) {$t$};
 \end{tikzpicture}
-\caption{Explanatory redraw of the circle-universe spacetime for three choices of scale factor. These are external visualization aids that follow the lecture's narrative; they do not replace the intrinsic metric description.}
+}%
+\caption{Redraw of the circle-universe spacetime for three choices of scale factor. It follows the lecture's narrative but does not replace the intrinsic metric description.}
 \end{figure}
 
 \subsection{Question \& Answer}
