@@ -1,355 +1,375 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
-
-
-[![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
+[![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://lazying.art)
 
 # مستودع ملاحظات محاضرات Leonard Susskind
 
-![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
-![Content Type](https://img.shields.io/badge/content-Lecture%20Notes%20%26%20LaTeX-informational)
-![Status](https://img.shields.io/badge/status-Active%20Archive-success)
-![LaTeX](https://img.shields.io/badge/tooling-LaTeX-008080)
-![Core Tracks](https://img.shields.io/badge/core_tracks-6-1f6feb)
-![Supplemental Tracks](https://img.shields.io/badge/supplemental_tracks-9-9a6700)
-![i18n](https://img.shields.io/badge/i18n-10%20translations%20%2B%20English-orange)
-![Stars](https://img.shields.io/github/stars/lachlanchen/leonardsusskind?style=flat-square&logo=github&label=stars&color=22c55e)
-![Forks](https://img.shields.io/github/forks/lachlanchen/leonardsusskind?style=flat-square&logo=github&label=forks&color=3b82f6)
-![Last Commit](https://img.shields.io/github/last-commit/lachlanchen/leonardsusskind?style=flat-square&color=8b5cf6)
+> بإشراف [LazyingArt LLC](https://lazying.art). المواقع: [lazying.art](https://lazying.art) و[learn.lazying.art](https://learn.lazying.art).
 
-> 🎓 أرشيف متعدد اللغات لمواد محاضرات ليو نارد سوسكيند، يحتفظ بنسخ PDF النهائية ومصادر LaTeX القابلة للتحرير للدراسة وإعادة الاستخدام والرجوع إليها.
+[![Archive](https://img.shields.io/badge/archive-active-16a34a?style=flat-square)](#)
+[![Subtitles](https://img.shields.io/badge/subtitles-.srt-2563eb?style=flat-square)](#-repo-layout)
+[![Transcripts](https://img.shields.io/badge/transcripts-markdown-0f766e?style=flat-square)](#-repo-layout)
+[![Generated Notes](https://img.shields.io/badge/generated_notes-LaTeX-f97316?style=flat-square)](#-repo-layout)
+[![PDF Outputs](https://img.shields.io/badge/outputs-PDF-a855f7?style=flat-square)](#-repo-layout)
+[![Theoretical Minimum](https://img.shields.io/badge/focus-Theoretical%20Minimum-f59e0b?style=flat-square)](#)
 
----
+هذا المستودع هو أرشيف لدراسة الفيزياء يتمحور حول محاضرات Leonard Susskind، ومنظومة *Theoretical Minimum* الأوسع، وملاحظات مرافقة مشتقة من النصوص المفرغة.
 
-## <a id="overview"></a>نظرة عامة
-هذا المستودع هو أرشيف قائم على المحتوى لمواد ملاحظات المحاضرات من منظومة تعليم الأستاذ Leonard Susskind.
+وهو يجمع تفريغات المحاضرات، وملفات الترجمة، وملاحظات TeX المُولَّدة، وملفات PDF المجمعة، ومجلدات المقررات المُدارة يدويًا ضمن بنية أدلة مستقرة.
 
-> ملاحظات محاضرات الأستاذ Leonard Susskind. إذا كان في هذا انتهاك لحقوق النشر، يرجى التواصل معي لحذف هذا المستودع. لا يتحمل الأستاذ Susskind مسؤولية أي أخطاء أو معلومات مضللة في هذه الملاحظات، وكذلك أنا.
+> 📘 تُحفَظ هنا في أرشيف واحد التفريغات الكاملة للمحاضرات، وملفات الترجمة، وسير العمل الخاص بتوليد ملاحظات TeX، وملفات PDF المنشورة للمقررات.
+>
+> 🛠️ أدوات التنزيل والتفريغ والأتمتة التي تحوّل الترجمات إلى ملاحظات والمستخدمة هنا تُدار في مستودع الأداة المرافق [Video2Book](https://github.com/lachlanchen/Video2Book)، وهو مضمَّن في هذا المستودع كوحدة فرعية `Video2Book/`.
 
-يجمع ثلاث طبقات في مكان واحد:
+## 📚 الكتب المنشورة
 
-- مسارات ملاحظات مصنّفة مع تتبّع التقدم للمقررات.
-- مخرجات منشورة (`.pdf`) للقراءة والمشاركة.
-- ملفات المصدر (`.tex`، `.bib`، القوالب) للمحافظة على الأرشيف أو توسيعه.
+> 📷 تُستمد أغلفة المعاينة من الصفحة الأولى لملف PDF الخاص بكل مقرر حتى يظل README الجذري وبطاقات الموقع مطابقين دائمًا للنص والتخطيط المنشورين فعليًا.
+>
+> 📱 كما تُنشر أيضًا إصدارات بحجم الجيب / إصدارات penguin للكتب المكتملة:
+> [Pocket-size 1.0x](../all_notes/pocket_books/) و[Pocket-size 1.2x](../all_notes/pocket_books_1_2x/).
+> هذه البنى المدمجة مضبوطة لتوفير قراءة مريحة على أجهزة الحبر الإلكتروني ذات 10 بوصات والشاشات من فئة iPad.
 
-### <a id="overview-primary-goals"></a>الأهداف الأساسية
-- توحيد ملاحظات المقررات والتقدم في مكان واحد.
-- حفظ وضوح حالة المسودات في المسارات الأساسية والتكميلية.
-- توفير المواد المصدرية (PDF, TeX, BibTeX, القوالب) للاستمرار في التأليف.
+<table>
+  <tr>
+    <td colspan="4"><strong>أساسي</strong> · كلاسيكي ← كمومي ← خاص ← عام ← إحصائي ← كوسمولوجيا</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="../core_classical_mechanics/2011_fall_theoretical_minimum/classical_mechanics_theoretical_minimum.pdf"><img src="../figs/readme-covers/classical_mechanics_theoretical_minimum.png" width="170" alt="Classical Mechanics Theoretical Minimum cover"></a><br>
+      <strong>الميكانيكا الكلاسيكية</strong><br>
+      <sub>خريف 2011 Theoretical Minimum</sub>
+    </td>
+    <td align="center">
+      <a href="../core_classical_mechanics/2011_fall_modern_physics_stanford_partial/classical_mechanics_stanford_partial.pdf"><img src="../figs/readme-covers/classical_mechanics_stanford_partial.png" width="170" alt="Classical Mechanics Stanford partial cover"></a><br>
+      <strong>الميكانيكا الكلاسيكية</strong><br>
+      <sub>تشغيل Stanford جزئي</sub>
+    </td>
+    <td align="center">
+      <a href="../core_quantum_mechanics/2012_winter_theoretical_minimum/quantum_mechanics_theoretical_minimum.pdf"><img src="../figs/readme-covers/quantum_mechanics_theoretical_minimum.png" width="170" alt="Quantum Mechanics cover"></a><br>
+      <strong>ميكانيكا الكم</strong><br>
+      <sub>شتاء 2012 Theoretical Minimum</sub>
+    </td>
+    <td align="center">
+      <a href="../core_quantum_mechanics/2012_winter_modern_physics_stanford/quantum_mechanics_modern_physics_stanford.pdf"><img src="../figs/readme-covers/quantum_mechanics_modern_physics_stanford_first_page.png" width="170" alt="Quantum Mechanics Modern Physics Stanford cover"></a><br>
+      <strong>ميكانيكا الكم</strong><br>
+      <sub>شتاء 2012 Modern Physics Stanford</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="../core_special_relativity/2012_spring_theoretical_minimum/special_relativity_theoretical_minimum.pdf"><img src="../figs/readme-covers/special_relativity_theoretical_minimum.png" width="170" alt="Special Relativity cover"></a><br>
+      <strong>النسبية الخاصة</strong><br>
+      <sub>ربيع 2012 Theoretical Minimum</sub>
+    </td>
+    <td align="center">
+      <a href="../core_general_relativity/2012_fall_theoretical_minimum/general_relativity_theoretical_minimum.pdf"><img src="../figs/readme-covers/general_relativity_theoretical_minimum.png" width="170" alt="General Relativity cover"></a><br>
+      <strong>النسبية العامة</strong><br>
+      <sub>خريف 2012 Theoretical Minimum</sub>
+    </td>
+    <td align="center">
+      <a href="../core_general_relativity/2008_fall_einsteins_general_theory_of_relativity/general_relativity_2008_fall_einsteins_general_theory_of_relativity.pdf"><img src="../figs/readme-covers/general_relativity_2008_fall_einsteins_general_theory_of_relativity_first_page.png" width="170" alt="General Relativity 2008 cover"></a><br>
+      <strong>النسبية العامة</strong><br>
+      <sub>خريف 2008 نظرية أينشتاين العامة</sub>
+    </td>
+    <td align="center">
+      <a href="../core_statistical_mechanics/2013_spring_theoretical_minimum/statistical_mechanics_theoretical_minimum.pdf"><img src="../figs/readme-covers/statistical_mechanics_theoretical_minimum_first_page.png" width="170" alt="Statistical Mechanics and Thermodynamics cover"></a><br>
+      <strong>الميكانيكا الإحصائية</strong><br>
+      <sub>ربيع 2013 Theoretical Minimum</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="../core_cosmology/2013_winter_theoretical_minimum/cosmology_theoretical_minimum.pdf"><img src="../figs/readme-covers/cosmology_theoretical_minimum_first_page.png" width="170" alt="Cosmology Theoretical Minimum cover"></a><br>
+      <strong>علم الكونيات</strong><br>
+      <sub>شتاء 2013 Theoretical Minimum</sub>
+    </td>
+    <td align="center">
+      <a href="../core_cosmology/2009_winter_legacy_cosmology/cosmology_legacy.pdf"><img src="../figs/readme-covers/cosmology_legacy.png" width="170" alt="Cosmology legacy cover"></a><br>
+      <strong>علم الكونيات</strong><br>
+      <sub>تشغيل تراثي شتاء 2009</sub>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="4"><strong>تكميلي</strong> · كمومي ← خاص ← عام ← إحصائي ← كوسمولوجيا</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="../supplemental_advanced_quantum/advanced_quantum_mechanics.pdf"><img src="../figs/readme-covers/advanced_quantum_mechanics.png" width="170" alt="Advanced Quantum Mechanics cover"></a><br>
+      <strong>ميكانيكا الكم المتقدمة</strong><br>
+      <sub>كتاب مقرر تكميلي</sub>
+    </td>
+    <td align="center">
+      <a href="../supplemental_quantum_entanglement/quantum_entanglement_part_1.pdf"><img src="../figs/readme-covers/quantum_entanglement_part_1.png" width="170" alt="Quantum Entanglement Part 1 cover"></a><br>
+      <strong>التشابك الكمي</strong><br>
+      <sub>الجزء 1</sub>
+    </td>
+    <td align="center">
+      <a href="../supplemental_quantum_entanglement/quantum_entanglement_part_3.pdf"><img src="../figs/readme-covers/quantum_entanglement_part_3.png" width="170" alt="Quantum Entanglement Part 3 cover"></a><br>
+      <strong>التشابك الكمي</strong><br>
+      <sub>الجزء 3</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="../supplemental_particle_physics_1/particle_physics_1_basic_concepts.pdf"><img src="../figs/readme-covers/particle_physics_1_basic_concepts.png" width="170" alt="Particle Physics 1 cover"></a><br>
+      <strong>فيزياء الجسيمات 1</strong><br>
+      <sub>المفاهيم الأساسية</sub>
+    </td>
+    <td align="center">
+      <a href="../supplemental_particle_physics_2/particle_physics_2_standard_model.pdf"><img src="../figs/readme-covers/particle_physics_2_standard_model.png" width="170" alt="Particle Physics 2 cover"></a><br>
+      <strong>فيزياء الجسيمات 2</strong><br>
+      <sub>النموذج المعياري</sub>
+    </td>
+    <td align="center">
+      <a href="../supplemental_particle_physics_3/particle_physics_3_supersymmetry_and_grand_unification.pdf"><img src="../figs/readme-covers/particle_physics_3_supersymmetry_and_grand_unification.png" width="170" alt="Particle Physics 3 cover"></a><br>
+      <strong>فيزياء الجسيمات 3</strong><br>
+      <sub>التناظر الفائق والتوحيد العظيم</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="../supplemental_cosmology_and_black_holes/topics_in_string_theory.pdf"><img src="../figs/readme-covers/topics_in_string_theory_first_page.png" width="170" alt="Topics in String Theory cover"></a><br>
+      <strong>موضوعات في نظرية الأوتار</strong><br>
+      <sub>مجموعة الكوسمولوجيا والثقوب السوداء</sub>
+    </td>
+    <td align="center">
+      <a href="../supplemental_string_theory/string_theory_and_m_theory.pdf"><img src="../figs/readme-covers/string_theory_and_m_theory.png" width="170" alt="String Theory and M-Theory cover"></a><br>
+      <strong>نظرية الأوتار وM-Theory</strong><br>
+      <sub>كتاب مقرر تكميلي</sub>
+    </td>
+    <td align="center">
+      <a href="../supplemental_higgs_boson/demystifying_the_higgs_boson.pdf"><img src="../figs/readme-covers/demystifying_the_higgs_boson.png" width="170" alt="Demystifying the Higgs Boson cover"></a><br>
+      <strong>تبسيط بوزون هيغز</strong><br>
+      <sub>كتاب لمحاضرة واحدة</sub>
+    </td>
+  </tr>
+</table>
 
-## <a id="features"></a>الميزات
-- 📚 تتبّع المقررات الأساسية والمرجعيات.
-- 📌 تتبّع تقدم المقررات التكميلية.
-- 📄 ملفات PDF موجودة للمحاضرات في عدة مسارات أساسية.
-- 🧪 مواد LaTeX المصدرية في مسارات مختارة.
-- 🧷 قوالب LaTeX قابلة لإعادة الاستخدام في `template/tuftle` و `template/kaobook`.
-- 🎨 عناصر بصرية للمستودع في `figs/`.
-- 🌐 مجموعة README متعددة اللغات في `i18n/`.
+## ✨ ما الذي يوفّره هذا المستودع
 
-## <a id="quick-snapshot"></a>لقطة سريعة
-| المجال | المتاح |
+- ملفات PDF الخاصة بالمقررات ومواد LaTeX المُدارة يدويًا الموجودة في مجلدات `core_*` و`supplemental_*`.
+- طبقة تفريغ مزدوجة لأرشيف المحاضرات:
+  - `subtitles/` لملفات `.srt`
+  - `markdown/` للتفريغات النصية بصيغة Markdown والممهورة بالطوابع الزمنية
+- خط أنابيب من النص المفرغ إلى TeX داخل `generated_course_notes/`.
+- الوحدة الفرعية `Video2Book/` لتنزيل القوائم التشغيلية، والتفريغ، وأتمتة تحويل الترجمات إلى ملاحظات.
+- مواد مرافقة مستوردة داخل `theoretical_minimum_companion_notes/`.
+- قوالب LaTeX قابلة لإعادة الاستخدام في `template/kaobook` و`template/tuftle`.
+
+النسخة الإنجليزية هي README المعتمد. وتوجد الترجمات في `i18n/` وقد تتأخر عن الملف الإنجليزي.
+
+## 🎬 قائمة التشغيل المصدرية
+
+الأرشيف الرئيسي للنصوص المفرغة وملفات الترجمة في هذا المستودع مشتق من قائمة تشغيل YouTube التالية:
+
+- <https://www.youtube.com/playlist?list=PLERGeJGfknBTR_nXt5QL88xJF5LhDZBnG>
+
+## 🗂️ تخطيط المستودع
+
+<table>
+  <colgroup>
+    <col style="width: 33%">
+    <col style="width: 33%">
+    <col style="width: 34%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>📚 الطبقة</th>
+      <th>📍 المسار الرئيسي</th>
+      <th>🧾 ما الذي تحتويه</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>مجلدات المقررات المُدارة يدويًا</td>
+      <td><code>core_*</code>, <code>supplemental_*</code></td>
+      <td>مجلدات مقررات موجهة للقارئ، وملفات PDF منشورة، وملفات README، ومصادر LaTeX مختارة.</td>
+    </tr>
+    <tr>
+      <td>الترجمات</td>
+      <td><code>subtitles/</code></td>
+      <td>ملفات ترجمة المحاضرات بصيغة <code>.srt</code>.</td>
+    </tr>
+    <tr>
+      <td>التفريغات النصية بصيغة Markdown</td>
+      <td><code>markdown/</code></td>
+      <td>تفريغات محاضرات ممهورة زمنيًا تُستخدم للقراءة والبحث وتوليد الملاحظات.</td>
+    </tr>
+    <tr>
+      <td>مصادر الملاحظات المُولَّدة</td>
+      <td><code>generated_course_notes/</code></td>
+      <td>فصول TeX مشتقة من التفريغات، وأشكال، وطلبات، ومواد بناء المقررات.</td>
+    </tr>
+    <tr>
+      <td>ملفات PDF المُولَّدة والمنشورة</td>
+      <td><code>supplemental_*/</code></td>
+      <td>المخرجات المنشورة المعتمدة للمقررات المُولَّدة المكتملة، باستخدام اسم ملف PDF مدمج خاص بكل مقرر بالإضافة إلى ملفات <code>lecture_XX.pdf</code>.</td>
+    </tr>
+    <tr>
+      <td>نواتج البناء القديمة</td>
+      <td><code>core_cosmology/cosmology_ch10/artifacts/</code></td>
+      <td>مخرجات بناء محتفظ بها للمشروع الفرعي الأقدم الخاص بالفصل العاشر من الكوسمولوجيا.</td>
+    </tr>
+    <tr>
+      <td>الملاحظات المرافقة</td>
+      <td><code>theoretical_minimum_companion_notes/</code></td>
+      <td>ملاحظات TeX مرافقة مستوردة ومشتقة من مشروع <code>weka511/tm</code>.</td>
+    </tr>
+    <tr>
+      <td>القوالب والمواد المشتركة</td>
+      <td><code>template/</code>, <code>figs/</code>, <code>the_theoretical_minimum/</code>, <code>Video2Book/</code></td>
+      <td>قوالب LaTeX، وهوية/أصول مشتركة، ونسخة الوحدة الفرعية ذات الصلة، ووحدة الأتمتة الخاصة بالتنزيل والتفريغ.</td>
+    </tr>
+  </tbody>
+</table>
+
+داخل `subtitles/` و`markdown/` و`generated_course_notes/`، تُنظَّم المواد بحسب المسار (`core/` أو `supplementary/`)، ثم الموضوع، ثم تشغيل المقرر.
+
+بالنسبة للملاحظات المُولَّدة، يحتوي مجلد كل مقرر عادةً على:
+
+- `chapters/` لملفات TeX الخاصة بكل محاضرة وملفات PDF الخاصة بكل محاضرة
+- `figures/` لإطارات المحاضرات المستخرجة وأصول الأشكال
+- `course.tex` و`course.pdf` لكتاب المقرر الكامل المدمج
+
+## 🧭 مجلدات المقررات الجذرية
+
+| 🏷️ المجموعة | 📂 المجلدات |
 |---|---|
-| 📝 الملاحظات | عدة مجموعات من الملاحظات مع تتبّع تقدم | 
-| 🧾 المصدر | مصادر TeX/BibTeX في مشاريع فرعية مختارة |
-| 🧱 القوالب | `template/tuftle` و`template/kaobook` |
-| 🎨 الهوية | `figs/banner.*`، `figs/logo.*`، `figs/logo-w-text.*` |
-| 🌍 i18n | نسخ `i18n/README.*.md` |
+| أساسي | `core_classical_mechanics`, `core_quantum_mechanics`, `core_special_relativity`, `core_general_relativity`, `core_cosmology`, `core_statistical_mechanics` |
+| تكميلي | `supplemental_advanced_quantum`, `supplemental_cosmology_and_black_holes`, `supplemental_higgs_boson`, `supplemental_particle_physics_1`, `supplemental_particle_physics_2`, `supplemental_particle_physics_3`, `supplemental_quantum_entanglement`, `supplemental_relativity`, `supplemental_string_theory` |
 
-## <a id="table-of-contents"></a>جدول المحتويات
-- [نظرة عامة](#overview)
-- [الميزات](#features)
-- [لقطة سريعة](#quick-snapshot)
-- [هيكل المشروع](#project-structure)
-- [المتطلبات المسبقة](#prerequisites)
-- [التثبيت](#installation)
-- [الاستخدام](#usage)
-- [الإعدادات](#configuration)
-- [أمثلة](#examples)
-- [ملاحظات التطوير](#development-notes)
-- [تقدم المقررات الرسمي (المحفوظ والمعاد تنظيمه)](#canonical-course-progress-preserved-and-reorganized)
-- [استكشاف الأخطاء](#troubleshooting)
-- [خارطة الطريق](#roadmap)
-- [المساهمة](#contribution)
-- [❤️ Support](#-support)
-- [الشكر والتقدير](#acknowledgements)
-- [الترخيص](#license)
+## 🚀 كيفية استخدام المستودع
 
-## <a id="project-structure"></a>هيكل المشروع
-```text
-leonardsusskind/
-├── README.md
-├── LICENSE
-├── tuftle_book_guide.pdf
-├── figs/
-│   ├── banner.(png|svg)
-│   ├── logo.(png|svg)
-│   └── logo-w-text.(png|svg)
-├── i18n/
-│   ├── README.ar.md
-│   ├── README.de.md
-│   ├── README.es.md
-│   ├── README.fr.md
-│   ├── README.ja.md
-│   ├── README.ko.md
-│   ├── README.ru.md
-│   ├── README.vi.md
-│   ├── README.zh-Hans.md
-│   └── README.zh-Hant.md
-├── core_classical_mechanics/
-│   └── README.md
-├── core_quantum_mechanics/
-│   └── README.md
-├── core_special_relativity/
-│   └── README.md
-├── core_general_relativity/
-│   ├── README.md
-│   └── lesson_1.pdf ... lesson_10.pdf
-├── core_cosmology/
-│   ├── README.md
-│   ├── lesson_1.pdf ... lesson_9.pdf
-│   └── cosmology_ch10/
-│       ├── cosmology_ch10.tex
-│       └── ref.bib
-├── core_statistical_mechanics/
-│   ├── README.md
-│   └── lesson_1.pdf ... lesson_11.pdf
-├── supplemental_advanced_quantum/
-│   ├── README.md
-│   └── ch1/
-│       ├── main.tex
-│       ├── book_1_template.tex
-│       └── bibliography.bib
-├── supplemental_cosmology_and_black_holes/
-│   └── README.md
-├── supplemental_higgs_boson/
-│   └── README.md
-├── supplemental_particle_physics_1/
-│   ├── README.md
-│   ├── ch1/
-│   │   ├── main.tex
-│   │   ├── book_1_template.tex
-│   │   └── bibliography.bib
-│   └── lecture transcript .txt files
-├── supplemental_particle_physics_2/
-│   ├── README.md
-│   ├── NumberTheory.pdf
-│   └── lecture transcript .txt files
-├── supplemental_particle_physics_3/
-│   └── README.md
-├── supplemental_quantum_entanglement/
-│   └── README.md
-├── supplemental_relativity/
-│   └── README.md
-├── supplemental_string_theory/
-│   └── README.md
-└── template/
-    ├── kaobook/
-    │   ├── main.tex
-    │   ├── structure.tex
-    │   └── bibliography.bib
-    └── tuftle/
-        ├── main.tex
-        ├── book_1_template.tex
-        └── bibliography.bib
-```
+### 📖 قراءة الملاحظات المنشورة
 
-## <a id="prerequisites"></a>المتطلبات المسبقة
-للقراءة:
-- 📖 قارئ PDF (نظامي أو عبر تطبيق).
+افتح ملفات PDF داخل مجلد المقرر ذي الصلة، على سبيل المثال:
 
-لتحرير/بناء مواد TeX:
-- 📦 توزيعة LaTeX (TeX Live / MiKTeX).
-- ⚙️ `pdflatex`.
-- 🗂️ `bibtex` أو `biber` حسب المشروع الفرعي.
-- 🔎 `makeindex` للمشاريع التي تستخدم الفهارس.
+- `../core_classical_mechanics/2011_fall_theoretical_minimum/classical_mechanics_theoretical_minimum.pdf`
+- `../core_classical_mechanics/2011_fall_modern_physics_stanford_partial/classical_mechanics_stanford_partial.pdf`
+- `../core_quantum_mechanics/2012_winter_theoretical_minimum/quantum_mechanics_theoretical_minimum.pdf`
+- `../core_quantum_mechanics/2012_winter_modern_physics_stanford/quantum_mechanics_modern_physics_stanford.pdf`
+- `../core_special_relativity/2012_spring_theoretical_minimum/special_relativity_theoretical_minimum.pdf`
+- `../core_general_relativity/2012_fall_theoretical_minimum/general_relativity_theoretical_minimum.pdf`
+- `../core_cosmology/2013_winter_theoretical_minimum/cosmology_theoretical_minimum.pdf`
+- `../core_cosmology/2009_winter_legacy_cosmology/cosmology_legacy.pdf`
+- `../core_statistical_mechanics/lesson_1.pdf`
+- `../supplemental_advanced_quantum/advanced_quantum_mechanics.pdf`
+- `../supplemental_cosmology_and_black_holes/topics_in_string_theory.pdf`
+- `../supplemental_higgs_boson/demystifying_the_higgs_boson.pdf`
+- `../supplemental_particle_physics_1/particle_physics_1_basic_concepts.pdf`
+- `../supplemental_particle_physics_2/particle_physics_2_standard_model.pdf`
+- `../supplemental_particle_physics_3/particle_physics_3_supersymmetry_and_grand_unification.pdf`
+- `../supplemental_quantum_entanglement/quantum_entanglement_part_1.pdf`
+- `../supplemental_quantum_entanglement/quantum_entanglement_part_3.pdf`
+- `../supplemental_string_theory/string_theory_and_m_theory.pdf`
 
----
+### 📝 قراءة النصوص المفرغة مباشرة
 
-ملاحظات افتراضية:
-- لا يوجد نظام بناء موحد على مستوى الجذر (`Makefile`، `package.json`، `pyproject.toml`) في هذا المستودع.
-- من المتوقّع تشغيل سير العمل من داخل كل دليل فرعي.
+استخدم:
 
-## <a id="installation"></a>التثبيت
-```bash
-git clone https://github.com/lachlanchen/leonardsusskind.git
-cd leonardsusskind
-```
+- `../subtitles/` للقراءة بأسلوب الترجمة والحفاظ على الدقة الزمنية
+- `../markdown/` لمراجعة النص، والبحث، وتوليد الملاحظات
 
-هذا المستودع قائم على المحتوى. إذا تمّ استنساخه أو عمل fork له، عدّل عنوان الـ remote بما يناسب نسختك.
+### ⬇️ تحديث قائمة التشغيل المصدرية
 
-لا يلزم تثبيت حزم عالمية لقراءة الملاحظات الموجودة.
-
-## <a id="usage"></a>الاستخدام
-### 1) قراءة الملاحظات الموجودة
-افتح ملفات PDF في المجلدات ذات الصلة، مثل:
-- `core_general_relativity/lesson_1.pdf`
-- `core_cosmology/lesson_1.pdf`
-- `core_statistical_mechanics/lesson_1.pdf`
-- `supplemental_particle_physics_2/NumberTheory.pdf`
-
-### 2) تأليف أو توسيع مواد LaTeX
-- عدّل ملفات `.tex` و`.bib` داخل مجلد المقرر/القالب المستهدف.
-- قم بالترجمة باستخدام سير العمل المحدد في ذلك المجلد.
-- ابني الملفات داخل نفس المجلد حتى تُحلّ المسارات النسبية للأصول المحلية بشكل صحيح.
-
-### 3) التصفح حسب نقاط الدخول لكل مسار
-لكل مسار رئيسي ملف `README.md` خاص به يضم ملاحظات المجال، والمرجعيات، والتقدم.
-
-## <a id="configuration"></a>الإعدادات
-لا يوجد ملف إعدادات عام.
-
-الإعدادات محليًا لكل مشروع TeX. العوامل النموذجية تكون مضمّنة في مصادر المستند نفسها، بما في ذلك:
-- إعداد فئة المستند والحزم في `template/kaobook/main.tex`
-- البنية/النمط القابلة لإعادة الاستخدام في `template/kaobook/`
-- خلفية الببليوغرافيا ونمط الاستشهاد في أزواج `main.tex`/`ref.bib` المحلية
-- مسارات إدراج الصور والأصول المخصّصة لكل فصل في كل مشروع
-
-نقاط إعدادات محلية تمثيلية:
-- `template/kaobook/main.tex`
-- `template/tuftle/main.tex`
-- `core_cosmology/cosmology_ch10/cosmology_ch10.tex`
-- `supplemental_particle_physics_1/ch1/main.tex`
-- `supplemental_advanced_quantum/ch1/main.tex`
-
-## <a id="examples"></a>الأمثلة
-### المثال A: بناء `template/kaobook`
-يوثّق ملف `template/kaobook/main.tex` سلسلة التجميع التالية:
+استخدم الغلاف الأب، الذي يفوض التنفيذ إلى الوحدة الفرعية `Video2Book`:
 
 ```bash
-cd template/kaobook
-pdflatex main
-makeindex main.idx -s StyleInd.ist
-biber main
-pdflatex main
-pdflatex main
+./scripts/download_susskind_playlist.sh
 ```
 
-### المثال B: بناء `core_cosmology/cosmology_ch10`
-يعتمد `cosmology_ch10.tex` على سير عمل مشابه لـ BibTeX:
+### 🎙️ تشغيل طابور التفريغ
+
+استخدم الأغلفة الأبوية، التي تفوض التنفيذ إلى الوحدة الفرعية `Video2Book`:
 
 ```bash
-cd core_cosmology/cosmology_ch10
-pdflatex cosmology_ch10.tex
-bibtex cosmology_ch10
-pdflatex cosmology_ch10.tex
-pdflatex cosmology_ch10.tex
+./scripts/start_transcription_tmux.sh
+./scripts/start_transcription_monitor_tmux.sh
 ```
 
-### المثال C: بناء `supplemental_particle_physics_1/ch1`
+### 🧪 العمل على الملاحظات المشتقة من النصوص المفرغة
+
+تقع مساحة عمل الملاحظات المُولَّدة تحت:
+
+- `../generated_course_notes/`
+
+داخل كل تشغيل مقرر:
+
+- يحتوي `chapters/` على مجلد واحد لكل محاضرة
+- يحتوي كل مجلد محاضرة على فصل TeX الخاص بها وملف PDF المجمّع للمحاضرة
+- `course.pdf` هو ملف PDF الكامل المدمج لذلك التشغيل
+
+شغّل منسّق الملاحظات عبر الأغلفة الأبوية، التي تفوض التنفيذ إلى الوحدة الفرعية `Video2Book`:
+
 ```bash
-cd supplemental_particle_physics_1/ch1
-pdflatex main.tex
-bibtex main
-makeindex main.idx
-pdflatex main.tex
-pdflatex main.tex
+./scripts/start_course_notes_tmux.sh
+./scripts/start_course_notes_monitor_tmux.sh
 ```
 
-### المثال D: بناء `supplemental_advanced_quantum/ch1`
+### 📘 تصدير ملفات PDF مدمجة بصيغة الجيب
+
+ولّد نسخًا بحجم يدوي 6x9 بوصات من ملفات LaTeX الخاصة بالمقررات المُولَّدة المكتملة:
+
 ```bash
-cd supplemental_advanced_quantum/ch1
-pdflatex main.tex
-bibtex main
-makeindex main.idx
-pdflatex main.tex
-pdflatex main.tex
+./scripts/export_course_pocket_pdfs.sh
+./scripts/export_course_pocket_pdfs.sh --size a5 --suffix a5
 ```
 
-### المثال E: عرض الناتج محليًا
+تُكتب المخرجات افتراضيًا إلى `../all_notes/pocket_books/<course>_pocket.pdf` (أسماء ملفات
+معتمدة، مع لاحقة مخصصة اختيارية عبر `--suffix`).
+
+### 📚 العمل على الملاحظات المرافقة المستوردة
+
 ```bash
-xdg-open supplemental_particle_physics_1/ch1/main.pdf
+./theoretical_minimum_companion_notes/build_all.sh
 ```
 
-## <a id="development-notes"></a>ملاحظات التطوير
-- هذا المستودع هو في المقام الأول مستودع توثيق/ملاحظات، وليس قاعدة كود تطبيق.
-- بعض المجلدات تشتمل على مخرجات TeX مجمّعة (`.aux`، `.log`، `.toc`، `.bbl`، وغيرها) محفوظة ضمن المستودع.
-- أوامر البناء تختلف حسب كل دليل فرعي؛ اتّبع أعراف `.tex` المحلية.
-- توجد ملفات `README.md` لكل مسار عبر الأدلة الأساسية والتكميلية ويجب إبقاؤها متوافقة مع تصريحات التقدم في README الرئيسي.
-- مجلد `i18n/` موجود ويُستخدم لنسخ README متعددة اللغات.
-- يُعامل README الجذر كمرجعية رسمية؛ ينبغي أن تتبع الملفات المترجمة هذه المرجعية عند التحديثات.
+## 🤝 التعاون
 
-## <a id="canonical-course-progress-preserved-and-reorganized"></a>تقدم المقررات الرسمي (المحفوظ والمعاد تنظيمه)
+نرحب بالمساهمات التي تحسّن الجودة الرياضية والوضوح وحفظ المواد الدراسية المرتبطة بـ Leonard Susskind.
 
-### المساقات الأساسية
+تشمل مجالات الأولوية:
 
-#### الميكانيكا الكلاسيكية
-تم نشر كتاب هذا المقرر [Classical Mechanics](https://www.amazon.com/gp/product/0465075681?ie=UTF8&tag=lachlanchen-20&camp=1789&linkCode=xm2&creativeASIN=0465075681). ويمكن شراؤه من Amazon عبر [Classical Mechanics](https://www.amazon.com/gp/product/0465075681?ie=UTF8&tag=lachlanchen-20&camp=1789&linkCode=xm2&creativeASIN=0465075681).
+- تنظيف النصوص المفرغة
+  - إصلاح إسناد المتحدث
+  - إصلاح الطوابع الزمنية
+  - تصحيح المصطلحات الفيزيائية والأسماء والرموز
+- تحسين TeX
+  - تحويل النصوص المفرغة إلى عرض رياضي أوضح
+  - تحسين البنية والطباعة والإحالات المرجعية المتقاطعة
+  - صقل الفصول المُولَّدة لتصبح ملاحظات مقررات متينة
+- العمل على الأشكال والمعادلات
+  - التحقق من إطارات المحاضرات المستخرجة
+  - إعادة رسم المخططات باستخدام TikZ
+  - تحويل معادلات السبورة إلى LaTeX موثوق
+- أعمال أرشفة فيزيائية أوسع
+  - تحسين المواد المرافقة لـ *Theoretical Minimum*
+  - ربط محاضرات Susskind والكتب ومجموعات الملاحظات ذات الصلة
+  - المساعدة في نشر هذا الجسد من تعليم الفيزياء وحفظه بمسؤولية
 
-#### ميكانيكا الكم
-تم نشر كتاب هذا المقرر [Quantum Mechanics](https://www.amazon.com/gp/product/0465062903?ie=UTF8&tag=lachlanchen-20&camp=1789&linkCode=xm2&creativeASIN=0465062903). ويمكن شراؤه من Amazon عبر [Quantum Mechanics](https://www.amazon.com/gp/product/0465062903?ie=UTF8&tag=lachlanchen-20&camp=1789&linkCode=xm2&creativeASIN=0465062903).
+ينبغي أن تستخدم المساهمات التزامات مركزة وأن تحدد بدقة المجلدات أو النصوص المفرغة أو تشغيلات المقررات التي تغيرت.
 
-#### النسبية الخاصة والكهرومغناطيسية
-تم نشر كتاب هذا المقرر [Special Relativity and Electrodynamics](https://www.amazon.com/gp/product/1541674065?ie=UTF8&tag=lachlanchen-20&camp=1789&linkCode=xm2&creativeASIN=1541674065). ويمكن شراؤه من Amazon عبر [Special Relativity and Electrodynamics](https://www.amazon.com/gp/product/1541674065?ie=UTF8&tag=lachlanchen-20&camp=1789&linkCode=xm2&creativeASIN=1541674065).
+## 🙏 الشكر والتقدير
 
-#### جدول تقدم المساقات الأساسية
-| المساق | تقدم المسودة | تقدم الملاحظات | الملاحظات/المرجع |
-|---|---:|---:|---|
-| General Relativity | 10/10 | 10/10 | كانت ملاحظات المحاضرة متاحة على https://www.lapasserelle.com/general_relativity/ . |
-| Cosmology | 10/10 | 9/10 | كانت ملاحظات المحاضرة من الفصل 1 إلى 9 متاحة على https://www.lapasserelle.com/cosmology/ . الفصل 10 قيد الإنجاز. |
-| Statistical Mechanics | 11/11 | 10/10 | كانت ملاحظات المحاضرة متاحة على https://www.lapasserelle.com/statistical_mechanics/. |
+- Leonard Susskind على المحتوى الأصلي للمحاضرات.
+- تنسيق المستودع وأدوات النشر: [LazyingArt LLC](https://lazying.art)
+- Simon Crase على مستودع الملاحظات المرافقة المستورد إلى `../theoretical_minimum_companion_notes/`.
+- مستودع مصدر الملاحظات المرافقة: <https://github.com/weka511/tm>
+- مصادر الملاحظات المرجعية الموجودة:
+  - <https://www.lapasserelle.com/general_relativity/>
+  - <https://www.lapasserelle.com/cosmology/>
+  - <https://www.lapasserelle.com/statistical_mechanics/>
+- ملاحظة المصدر الخاصة بمجموعات PDF الأقدم المشتقة من La Passerelle:
+  - [`../references/lapasserelle_susskind_pdf_provenance.md`](../references/lapasserelle_susskind_pdf_provenance.md)
 
-### المساقات التكميلية
-| المساق | تقدم المسودة | تقدم الملاحظات |
-|---|---:|---:|
-| Advanced Quantum Mechanics | 0/10 | 0/10 |
-| Higgs Boson | 0/1 | 0/1 |
-| Quantum Entanglement | 0/9 | 0/9 |
-| Relativity | 0/9 | 0/9 |
-| Particle Physics 1: Basic Concepts | 6/10 | 0/10 |
-| Particle Physics 2: Standard Model | 0/10 | 0/10 |
-| Particle Physics 3: Supersymmetry and Grand Unification | 0/10 | 0/10 |
-| String Theory | 0/11 | 10/10 |
-| Cosmology and Black Holes | 0/8 | 0/10 |
-
-### ملاحظة سلامة التقدم
-- الجداول المذكورة أعلاه محمية كما هي في README الرسمي.
-- تتضمن ملفات المستودع مسارات مكتملة ومسارات تجريبية؛ إذا ظهر تعارض بين قيمة الجدول وحالة المجلد، فاعتبر الجدول نية التوثيق المرجعية وقم بتحديث الطرفين معًا في المراجعات المقبلة.
-
-## <a id="troubleshooting"></a>استكشاف الأخطاء
-| المشكلة | الحل |
-|---|---|
-| `pdflatex: command not found` | ثبّت توزيعة LaTeX وتأكد من أن ملفات التنفيذ ضمن `PATH`. |
-| لا تظهر الببليوغرافيا/الفهرس | شغّل المحرك المطلوب (`bibtex` أو `biber`) و`makeindex` إن كان مستخدمًا، ثم أعد تشغيل `pdflatex`. |
-| أخطاء ملفات النمط/الفئة | نفّذ البناء من دليل المشروع المقصود حتى تُحلّ المسارات النسبية للأصول المحلية بشكل صحيح. |
-| اختلاف خرج البناء بين البيئات | يحتوي هذا المستودع موادًا صُنّعت في بيئات متنوعة؛ حاول توحيد إصدارات الحزم متى أمكن. |
-| روابط ترجمة قديمة أو فقدان README لغة | تأكد من مزامنة سطر اختيار اللغة في الأعلى مع الملفات داخل `i18n/`. |
-| عدم تطابق روابط GitHub بعد إعادة تسمية المجلد | راجع مجددًا روابط اللغة الجذرية وجميع مراجع `i18n/README.*.md` في خطوة واحدة. |
-
-## <a id="roadmap"></a>خارطة الطريق
-- متابعة تطوير المسارات التكميلية بمحتوى فصول حقيقي وملفات مصدر.
-- تحسين اتساق ملفات README لكل مقرر.
-- توسيع وصيانة ملفات README متعددة اللغات ضمن `i18n/` والحفاظ على مزامنتها.
-- إضافة قسم إرشادي بنائي على مستوى المستودع لكل مشروع فرعي يضم مصادر TeX.
-- إضافة مقتطفات بناء حسب اختلاف أدوات السلسلة المحلية لكل مسار.
-- إضافة أتمتة خفيفة للتحقق من سلامة روابط README/i18n.
-
-## <a id="contribution"></a>المساهمة
-يمكنك المساهمة في هذا المشروع عن طريق عمل fork ثم إرسال طلب سحب (PR).
-
-نطاق المساهمة المقترح:
-- إضافة أو تحسين ملاحظات الفصول والمرجعيات.
-- تحسين جودة مصادر TeX وإرشادات البناء القابلة لإعادة الإنتاج.
-- الحفاظ على اتساق تصريحات التقدم بين README الجذر وREADME كل مسار.
-- الحفاظ على توازن ملفات README متعددة اللغات ضمن `i18n/`.
-
-أفضل ممارسات طلب السحب:
-- اذكر مجلدات المسارات الدقيقة التي تم تعديلها.
-- أدرج أوامر تجميع TeX المستخدمة (إن تم تعديل ملفات المصدر).
-- حدّث جداول التقدم ذات الصلة عندما تتغيّر حالة الفصول.
-- حدّث ملفات `i18n/` بعد أي تغييرات على README الإنجليزي الأساسي.
-
-## <a id="acknowledgements"></a>الشكر والتقدير
-- الأستاذ Leonard Susskind على المحتوى الأصلي للمحاضرات.
-- مصدر الملاحظات المرجعية: https://www.lapasserelle.com/general_relativity/
-- مصدر الملاحظات المرجعية: https://www.lapasserelle.com/cosmology/
-- مصدر الملاحظات المرجعية: https://www.lapasserelle.com/statistical_mechanics/
-
-## <a id="license"></a>الترخيص
-هذا المستودع مرخّص بموجب رخصة GNU General Public License v3.0. انظر [LICENSE](LICENSE).
-
-
-## ❤️ Support
+## ❤️ الدعم
 
 | Donate | PayPal | Stripe |
 | --- | --- | --- |
 | [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |
+
+## الترخيص
+
+هذا المستودع مرخّص بموجب GNU General Public License v3.0. انظر [LICENSE](../LICENSE).
